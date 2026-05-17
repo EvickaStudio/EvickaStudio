@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27395228787bf6722ba125ba780" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/7so1Xp3wX53POocbKwFHaC">197 - Im Auge des Sturms - Teil 20</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 197/Im Auge des Sturms
+</p>
+
+<p align="center"><code>0:29</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>1:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The Cyclone](https://open.spotify.com/track/3sYt0qsiEr44fy7qoooP01)** by **Sacred holes** *(Genuine Uppers Life)* - `29 min ago`
-- **[Falling](https://open.spotify.com/track/6WkiWn8bf8S29wSk0VwK7h)** by **Frost Children** *(SISTER)* - `31 min ago`
-- **[Don't You Feel](https://open.spotify.com/track/11xvUU40hy2hCVLrNjQFjt)** by **Snow Strippers** *(April Mixtape 3)* - `35 min ago`
-- **[Not ur friend](https://open.spotify.com/track/4sJpBTmkQ48MQeVudtmwuS)** by **The Femcels** *(Not ur friend)* - `37 min ago`
-- **[Cabin](https://open.spotify.com/track/3zIFQsdDFLmm6V7Ifu03Z6)** by **Somewhere Special** *(Cabin)* - `41 min ago`
+- **[197 - Im Auge des Sturms - Teil 19](https://open.spotify.com/track/61eLr4IEKrGIa3mZzQTKLn)** by **Die drei ???** *(197/Im Auge des Sturms)* - `just now`
+- **[197 - Im Auge des Sturms - Teil 18](https://open.spotify.com/track/4qtY5rDYa5l5AVhczQDz2V)** by **Die drei ???** *(197/Im Auge des Sturms)* - `2 min ago`
+- **[197 - Im Auge des Sturms - Teil 17](https://open.spotify.com/track/2q7yP55x0nuks4uH0MtLge)** by **Die drei ???** *(197/Im Auge des Sturms)* - `3 min ago`
+- **[197 - Im Auge des Sturms - Teil 16](https://open.spotify.com/track/367LFtJRRwrFXnyZeBJF3A)** by **Die drei ???** *(197/Im Auge des Sturms)* - `5 min ago`
+- **[197 - Im Auge des Sturms - Teil 15](https://open.spotify.com/track/0cDI34fpSUj3cBNwj2Fjyz)** by **Die drei ???** *(197/Im Auge des Sturms)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 21:36:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-17 22:34:28 UTC*
 <!-- SPOTIFY-END -->
