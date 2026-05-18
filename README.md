@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ee89ccbcf1f022f9ebf6c2c3" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273af87be160fd029a96b6993c7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM">Schießstand</a></strong><br/>
-  <em>by</em> <strong>Yatsu</strong><br/>
-  <em>Album:</em> Schießstand
+  <strong><a href="https://open.spotify.com/track/1iJRSsTH0ZHRihrkZ8Mvkc">C ma shit pt. 2</a></strong><br/>
+  <em>by</em> <strong>Realo, Simala, abel31, Recklessboise</strong><br/>
+  <em>Album:</em> C ma shit pt. 2
 </p>
 
-<p align="center"><code>1:13</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>1:29</code></p>
+<p align="center"><code>0:37</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)* - `1 min ago`
-- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `3 min ago`
-- **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)* - `5 min ago`
-- **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)* - `6 min ago`
-- **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)* - `9 min ago`
+- **[Dieser kleine Junge](https://open.spotify.com/track/2cRdj9vZCVNFFOoX4Wwhpd)** by **Brown-Eyes White Boy** *(Metanarkose)* - `just now`
+- **[Best Friend](https://open.spotify.com/track/5Ll0JNNVo0vuQnUGdRfUst)** by **BEVN** *(Best Friend)* - `2 min ago`
+- **[Wein](https://open.spotify.com/track/2x0KAWjLgt4nmGxaBirZhx)** by **makko** *(Wein)* - `4 min ago`
+- **[New York, Paris and London](https://open.spotify.com/track/2VMZPDAguzZ8mBFMe3iEHJ)** by **HighSchool** *(Forever at Last)* - `6 min ago`
+- **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-18 12:55:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-18 16:18:21 UTC*
 <!-- SPOTIFY-END -->
