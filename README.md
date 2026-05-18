@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[197 - Im Auge des Sturms - Teil 34](https://open.spotify.com/track/6xbqPnkdR7TFBniPY8nwSe)** by **Die drei ???** *(197/Im Auge des Sturms)* - `2 h ago`
-- **[197 - Im Auge des Sturms - Teil 33](https://open.spotify.com/track/2JfsunCvEltQ1Xz2HkRfw2)** by **Die drei ???** *(197/Im Auge des Sturms)* - `2 h ago`
-- **[197 - Im Auge des Sturms - Teil 32](https://open.spotify.com/track/7BcC7idI2dFxgHZib9bvmI)** by **Die drei ???** *(197/Im Auge des Sturms)* - `2 h ago`
-- **[197 - Im Auge des Sturms - Teil 31](https://open.spotify.com/track/5UjKPTqEbA4neRPfE99PTZ)** by **Die drei ???** *(197/Im Auge des Sturms)* - `2 h ago`
-- **[197 - Im Auge des Sturms - Teil 30](https://open.spotify.com/track/0rqI3IxB0jiqC42cvJSs3Y)** by **Die drei ???** *(197/Im Auge des Sturms)* - `2 h ago`
+- **[197 - Im Auge des Sturms - Teil 34](https://open.spotify.com/track/6xbqPnkdR7TFBniPY8nwSe)** by **Die drei ???** *(197/Im Auge des Sturms)* - `6 h ago`
+- **[197 - Im Auge des Sturms - Teil 33](https://open.spotify.com/track/2JfsunCvEltQ1Xz2HkRfw2)** by **Die drei ???** *(197/Im Auge des Sturms)* - `6 h ago`
+- **[197 - Im Auge des Sturms - Teil 32](https://open.spotify.com/track/7BcC7idI2dFxgHZib9bvmI)** by **Die drei ???** *(197/Im Auge des Sturms)* - `6 h ago`
+- **[197 - Im Auge des Sturms - Teil 31](https://open.spotify.com/track/5UjKPTqEbA4neRPfE99PTZ)** by **Die drei ???** *(197/Im Auge des Sturms)* - `7 h ago`
+- **[197 - Im Auge des Sturms - Teil 30](https://open.spotify.com/track/0rqI3IxB0jiqC42cvJSs3Y)** by **Die drei ???** *(197/Im Auge des Sturms)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-18 01:33:44 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-18 05:55:22 UTC*
 <!-- SPOTIFY-END -->
