@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ee89ccbcf1f022f9ebf6c2c3" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM">Schießstand</a></strong><br/>
+  <em>by</em> <strong>Yatsu</strong><br/>
+  <em>Album:</em> Schießstand
+</p>
+
+<p align="center"><code>1:13</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>1:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)* - `29 min ago`
-- **[ich hasse euch alle](https://open.spotify.com/track/2AkYTEPaK6RvLSeAm2aC9w)** by **luu, mehlhaltig** *(deluulu but mehlodic)* - `32 min ago`
-- **[leichter//kälter](https://open.spotify.com/track/05FN4XjxvZLo4qwmQC7yxh)** by **Edwin Rosen** *(leichter//kälter)* - `33 min ago`
-- **[blister](https://open.spotify.com/track/7yL28V2luGKedtIImZTiVQ)** by **luu, Skatey Hellstar** *(blister)* - `36 min ago`
-- **[ichwillchecks pt. 2](https://open.spotify.com/track/4mqGRXiRTl2WF4C1jevwr7)** by **gard, 5v** *(ichwillchecks pt. 2)* - `39 min ago`
+- **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)* - `1 min ago`
+- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `3 min ago`
+- **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)* - `5 min ago`
+- **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)* - `6 min ago`
+- **[i rly hate it here..](https://open.spotify.com/track/3RsRPWuJO5SEIJrrMLR1iX)** by **5v** *(i rly hate it here..)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-18 09:43:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-18 12:55:26 UTC*
 <!-- SPOTIFY-END -->
