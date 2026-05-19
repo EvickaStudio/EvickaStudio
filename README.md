@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732b715e5cf6b242e86db633f1" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a120fdc8cba308894bdd21c7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7">resonance - midwest emo version</a></strong><br/>
-  <em>by</em> <strong>jacal</strong><br/>
-  <em>Album:</em> resonance (midwest emo version)
+  <strong><a href="https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw">Liebe in Stereo</a></strong><br/>
+  <em>by</em> <strong>Baby B3ns, Yung Hurn</strong><br/>
+  <em>Album:</em> Liebe in Stereo
 </p>
 
-<p align="center"><code>0:26</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:39</code></p>
+<p align="center"><code>0:46</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:10</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)** by **Bassvictim** *(Basspunk 2)* - `just now`
-- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `2 min ago`
-- **[My Chalice](https://open.spotify.com/track/5DO18wFTnk0Dzrd6q7FjQK)** by **smokedope2016** *(THE COMEDOWN)* - `5 min ago`
-- **[FULL Hp](https://open.spotify.com/track/1hJ8y4MTGfxuhesKBke1UT)** by **agelast222, gard** *(SOLAR TACTICS)* - `9 min ago`
-- **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)* - `10 min ago`
+- **[Gajówka](https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid)** by **Bassvictim** *(Basspunk 2)* - `just now`
+- **[Since U Been Gone](https://open.spotify.com/track/6JY1IdkZGeIcPegKxjSKeb)** by **Kelly Clarkson** *(Breakaway)* - `3 min ago`
+- **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)* - `6 min ago`
+- **[Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs)** by **The Goo Goo Dolls** *(Dizzy up the Girl)* - `11 min ago`
+- **[Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d)** by **Paramore** *(Paramore)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 19:50:54 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 21:12:04 UTC*
 <!-- SPOTIFY-END -->
