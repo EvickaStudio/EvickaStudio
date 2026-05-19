@@ -91,33 +91,23 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d85d746b8f4fd287d4c3e6e2" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5dyhgcw26r4xTxYmB8rqEl">183 - und der letzte Song - Teil 11</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 183/und der letzte Song
-</p>
-
-<p align="center"><code>0:52</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>1:54</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[183 - und der letzte Song - Teil 10](https://open.spotify.com/track/6CwHUqPcjhjtHGe5W8p570)** by **Die drei ???** *(183/und der letzte Song)* - `just now`
-- **[183 - und der letzte Song - Teil 09](https://open.spotify.com/track/6spEkYodFXkfZpRPBKXUR0)** by **Die drei ???** *(183/und der letzte Song)* - `2 min ago`
-- **[183 - und der letzte Song - Teil 08](https://open.spotify.com/track/0Yamat3uHr5uEK5K9R2heZ)** by **Die drei ???** *(183/und der letzte Song)* - `4 min ago`
-- **[183 - und der letzte Song - Teil 07](https://open.spotify.com/track/4UbP6g2wCG1fI8mUnB2Vnp)** by **Die drei ???** *(183/und der letzte Song)* - `6 min ago`
-- **[183 - und der letzte Song - Teil 06](https://open.spotify.com/track/6YJqABSXKII0inBiX8A3Uh)** by **Die drei ???** *(183/und der letzte Song)* - `8 min ago`
+- **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)* - `22 min ago`
+- **[RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)** by **fliggsy** *(RIDE OR DIE)* - `23 min ago`
+- **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)* - `26 min ago`
+- **[found it (demo)](https://open.spotify.com/track/6Z05nc6InGk7Rz0ni3Vp2i)** by **Estrada** *(found it (demo))* - `28 min ago`
+- **[RE: Life](https://open.spotify.com/track/1fpIrRQcZSRK1bzwLBY5ci)** by **deadboyboo** *(P U N K S T A R)* - `29 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
 
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 12:24:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 15:54:23 UTC*
 <!-- SPOTIFY-END -->
