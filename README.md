@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273992870e16fc3c33671145103" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732b715e5cf6b242e86db633f1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/766tUxeKxb6AKLvsdL3aBN">Ivy</a></strong><br/>
-  <em>by</em> <strong>Bby Eco</strong><br/>
-  <em>Album:</em> Sky (i)
+  <strong><a href="https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7">resonance - midwest emo version</a></strong><br/>
+  <em>by</em> <strong>jacal</strong><br/>
+  <em>Album:</em> resonance (midwest emo version)
 </p>
 
-<p align="center"><code>0:21</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:23</code></p>
+<p align="center"><code>0:26</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:39</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[183 - und der letzte Song - Teil 40](https://open.spotify.com/track/1kaKPDAFZpv2f8YTekoWA9)** by **Die drei ???** *(183/und der letzte Song)* - `just now`
-- **[183 - und der letzte Song - Teil 39](https://open.spotify.com/track/5UrdNRxWKwtFBbYSCSDciU)** by **Die drei ???** *(183/und der letzte Song)* - `2 min ago`
-- **[183 - und der letzte Song - Teil 38](https://open.spotify.com/track/746DwNU3O86SemYCr9ZKMm)** by **Die drei ???** *(183/und der letzte Song)* - `4 min ago`
-- **[183 - und der letzte Song - Teil 37](https://open.spotify.com/track/1JgCLkL3eRYEE1IYZWRKQ8)** by **Die drei ???** *(183/und der letzte Song)* - `6 min ago`
-- **[183 - und der letzte Song - Teil 36](https://open.spotify.com/track/4jQy3Ru4Arx4vpQDKCv7Jy)** by **Die drei ???** *(183/und der letzte Song)* - `7 min ago`
+- **[Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)** by **Bassvictim** *(Basspunk 2)* - `just now`
+- **[Magic Misery](https://open.spotify.com/track/2dsuTZK7rc1giv9Ipsdvoq)** by **Bladee** *(Magic Misery)* - `2 min ago`
+- **[My Chalice](https://open.spotify.com/track/5DO18wFTnk0Dzrd6q7FjQK)** by **smokedope2016** *(THE COMEDOWN)* - `5 min ago`
+- **[FULL Hp](https://open.spotify.com/track/1hJ8y4MTGfxuhesKBke1UT)** by **agelast222, gard** *(SOLAR TACTICS)* - `9 min ago`
+- **[last friday nite](https://open.spotify.com/track/0ns9IlgwNTxa5wN4MifORq)** by **leander, ilyproxy** *(last friday nite)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 17:58:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 19:50:54 UTC*
 <!-- SPOTIFY-END -->
