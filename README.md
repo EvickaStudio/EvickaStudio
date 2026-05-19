@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[181 - Das Kabinett des Zauberers - Teil 32](https://open.spotify.com/track/5YIcaPhXut6CLTEoY0U8b1)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `16 min ago`
-- **[181 - Das Kabinett des Zauberers - Teil 31](https://open.spotify.com/track/4RYoqfSGv9JRO5VLwvtrHQ)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `17 min ago`
-- **[181 - Das Kabinett des Zauberers - Teil 30](https://open.spotify.com/track/3oyoTYEY4aaWdObiO7fU0D)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `20 min ago`
-- **[181 - Das Kabinett des Zauberers - Teil 29](https://open.spotify.com/track/24wvp9THF54gmKoAPTmrS4)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `22 min ago`
-- **[181 - Das Kabinett des Zauberers - Teil 28](https://open.spotify.com/track/7hpD7XRF8Qsk4JvvqpZujq)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `23 min ago`
+- **[181 - Das Kabinett des Zauberers - Teil 32](https://open.spotify.com/track/5YIcaPhXut6CLTEoY0U8b1)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `4 h ago`
+- **[181 - Das Kabinett des Zauberers - Teil 31](https://open.spotify.com/track/4RYoqfSGv9JRO5VLwvtrHQ)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `4 h ago`
+- **[181 - Das Kabinett des Zauberers - Teil 30](https://open.spotify.com/track/3oyoTYEY4aaWdObiO7fU0D)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `4 h ago`
+- **[181 - Das Kabinett des Zauberers - Teil 29](https://open.spotify.com/track/24wvp9THF54gmKoAPTmrS4)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `4 h ago`
+- **[181 - Das Kabinett des Zauberers - Teil 28](https://open.spotify.com/track/7hpD7XRF8Qsk4JvvqpZujq)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 01:34:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 05:49:16 UTC*
 <!-- SPOTIFY-END -->
