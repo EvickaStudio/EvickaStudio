@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273992870e16fc3c33671145103" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/766tUxeKxb6AKLvsdL3aBN">Ivy</a></strong><br/>
+  <em>by</em> <strong>Bby Eco</strong><br/>
+  <em>Album:</em> Sky (i)
+</p>
+
+<p align="center"><code>0:21</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:23</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[3DS](https://open.spotify.com/track/2JmUXKlaqsPRyaHv7fVTcD)** by **stixz, muli** *(toxics1ut)* - `22 min ago`
-- **[RIDE OR DIE](https://open.spotify.com/track/1rXacYqSq8lO8cSV8u3LvU)** by **fliggsy** *(RIDE OR DIE)* - `23 min ago`
-- **[cappy von bazar](https://open.spotify.com/track/3GBGOndeBD6VbqYTd6kipA)** by **puls207, TROPFBUBEN** *(cappy von bazar)* - `26 min ago`
-- **[found it (demo)](https://open.spotify.com/track/6Z05nc6InGk7Rz0ni3Vp2i)** by **Estrada** *(found it (demo))* - `28 min ago`
-- **[RE: Life](https://open.spotify.com/track/1fpIrRQcZSRK1bzwLBY5ci)** by **deadboyboo** *(P U N K S T A R)* - `29 min ago`
+- **[183 - und der letzte Song - Teil 40](https://open.spotify.com/track/1kaKPDAFZpv2f8YTekoWA9)** by **Die drei ???** *(183/und der letzte Song)* - `just now`
+- **[183 - und der letzte Song - Teil 39](https://open.spotify.com/track/5UrdNRxWKwtFBbYSCSDciU)** by **Die drei ???** *(183/und der letzte Song)* - `2 min ago`
+- **[183 - und der letzte Song - Teil 38](https://open.spotify.com/track/746DwNU3O86SemYCr9ZKMm)** by **Die drei ???** *(183/und der letzte Song)* - `4 min ago`
+- **[183 - und der letzte Song - Teil 37](https://open.spotify.com/track/1JgCLkL3eRYEE1IYZWRKQ8)** by **Die drei ???** *(183/und der letzte Song)* - `6 min ago`
+- **[183 - und der letzte Song - Teil 36](https://open.spotify.com/track/4jQy3Ru4Arx4vpQDKCv7Jy)** by **Die drei ???** *(183/und der letzte Song)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 15:54:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 17:58:02 UTC*
 <!-- SPOTIFY-END -->
