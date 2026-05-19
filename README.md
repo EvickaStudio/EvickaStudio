@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730a29856bf1c65d2f1b72990e" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA">Nowhere To Run</a></strong><br/>
+  <em>by</em> <strong>Stegosaurus Rex</strong><br/>
+  <em>Album:</em> The Dino Soars
+</p>
+
+<p align="center"><code>1:42</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>5:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[181 - Das Kabinett des Zauberers - Teil 32](https://open.spotify.com/track/5YIcaPhXut6CLTEoY0U8b1)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `4 h ago`
-- **[181 - Das Kabinett des Zauberers - Teil 31](https://open.spotify.com/track/4RYoqfSGv9JRO5VLwvtrHQ)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `4 h ago`
-- **[181 - Das Kabinett des Zauberers - Teil 30](https://open.spotify.com/track/3oyoTYEY4aaWdObiO7fU0D)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `4 h ago`
-- **[181 - Das Kabinett des Zauberers - Teil 29](https://open.spotify.com/track/24wvp9THF54gmKoAPTmrS4)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `4 h ago`
-- **[181 - Das Kabinett des Zauberers - Teil 28](https://open.spotify.com/track/7hpD7XRF8Qsk4JvvqpZujq)** by **Die drei ???** *(181/Das Kabinett des Zauberers)* - `4 h ago`
+- **[After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v)** by **Mr.Kitty** *(Time)* - `1 min ago`
+- **[Missing Kitty](https://open.spotify.com/track/0DHzLENwvOPlcrEzbVmEdZ)** by **Kreayshawn** *(T.O.B.M)* - `6 min ago`
+- **[Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS)** by **WHOKILLEDXIX** *(19)* - `8 min ago`
+- **[SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX)** by **ElyOtto** *(SugarCrash!)* - `11 min ago`
+- **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 05:49:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 09:28:09 UTC*
 <!-- SPOTIFY-END -->
