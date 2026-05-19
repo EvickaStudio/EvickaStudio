@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730a29856bf1c65d2f1b72990e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d85d746b8f4fd287d4c3e6e2" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2PJhATOD9dWsevezmfjoMA">Nowhere To Run</a></strong><br/>
-  <em>by</em> <strong>Stegosaurus Rex</strong><br/>
-  <em>Album:</em> The Dino Soars
+  <strong><a href="https://open.spotify.com/track/5dyhgcw26r4xTxYmB8rqEl">183 - und der letzte Song - Teil 11</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 183/und der letzte Song
 </p>
 
-<p align="center"><code>1:42</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>5:00</code></p>
+<p align="center"><code>0:52</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>1:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v)** by **Mr.Kitty** *(Time)* - `1 min ago`
-- **[Missing Kitty](https://open.spotify.com/track/0DHzLENwvOPlcrEzbVmEdZ)** by **Kreayshawn** *(T.O.B.M)* - `6 min ago`
-- **[Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS)** by **WHOKILLEDXIX** *(19)* - `8 min ago`
-- **[SugarCrash!](https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX)** by **ElyOtto** *(SugarCrash!)* - `11 min ago`
-- **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)* - `16 min ago`
+- **[183 - und der letzte Song - Teil 10](https://open.spotify.com/track/6CwHUqPcjhjtHGe5W8p570)** by **Die drei ???** *(183/und der letzte Song)* - `just now`
+- **[183 - und der letzte Song - Teil 09](https://open.spotify.com/track/6spEkYodFXkfZpRPBKXUR0)** by **Die drei ???** *(183/und der letzte Song)* - `2 min ago`
+- **[183 - und der letzte Song - Teil 08](https://open.spotify.com/track/0Yamat3uHr5uEK5K9R2heZ)** by **Die drei ???** *(183/und der letzte Song)* - `4 min ago`
+- **[183 - und der letzte Song - Teil 07](https://open.spotify.com/track/4UbP6g2wCG1fI8mUnB2Vnp)** by **Die drei ???** *(183/und der letzte Song)* - `6 min ago`
+- **[183 - und der letzte Song - Teil 06](https://open.spotify.com/track/6YJqABSXKII0inBiX8A3Uh)** by **Die drei ???** *(183/und der letzte Song)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 09:28:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-19 12:24:40 UTC*
 <!-- SPOTIFY-END -->
