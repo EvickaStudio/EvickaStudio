@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b5b273ebd1632a05019cd75c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27390dce028e8607b629320bc05" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN">EVERYTHING I'VE EVER WANTED</a></strong><br/>
-  <em>by</em> <strong>Tiffany Day</strong><br/>
-  <em>Album:</em> HALO
+  <strong><a href="https://open.spotify.com/track/59AAkd9VPmsmctC4DjhhI1">184 - und der Hexengarten - Teil 19</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 184/und der Hexengarten
 </p>
 
-<p align="center"><code>0:05</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:15</code></p>
+<p align="center"><code>1:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>1:41</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Luv drunk](https://open.spotify.com/track/5JgbjuhIQg2oHYO5hxEoY0)** by **iKeda** *(Luv drunk)* - `1 min ago`
-- **[skinny jeans](https://open.spotify.com/track/4YikZrLtY59Q9QCEDOjRfo)** by **NEW YORK** *(No Sleep Til N.Y.)* - `3 min ago`
-- **[无心插柳柳成荫](https://open.spotify.com/track/3JW7oZ8PalfkkxdO2BGsok)** by **jackzebra** *(弓长张)* - `7 min ago`
-- **[x o n u](https://open.spotify.com/track/1qoI584hehkATlVuIMIqNU)** by **flava420, draineddddd** *(x o n u)* - `10 min ago`
-- **[forever + ever](https://open.spotify.com/track/0w2MJjxi7gdWqbC8TGCVQk)** by **Donatachi** *(donatachi.com)* - `12 min ago`
+- **[184 - und der Hexengarten - Teil 18](https://open.spotify.com/track/05XibAFrJ6oyjEGB3AB4VY)** by **Die drei ???** *(184/und der Hexengarten)* - `just now`
+- **[184 - und der Hexengarten - Teil 17](https://open.spotify.com/track/01rclhj5fNdLAZ74vp4h5K)** by **Die drei ???** *(184/und der Hexengarten)* - `2 min ago`
+- **[184 - und der Hexengarten - Teil 16](https://open.spotify.com/track/1Z7EgNgFA8JuyRyBeL1Yi7)** by **Die drei ???** *(184/und der Hexengarten)* - `4 min ago`
+- **[184 - und der Hexengarten - Teil 15](https://open.spotify.com/track/4LuGJ7FOhe9F4PFHL9ytYC)** by **Die drei ???** *(184/und der Hexengarten)* - `6 min ago`
+- **[184 - und der Hexengarten - Teil 14](https://open.spotify.com/track/5QPcBzuIp1LNSj5Ry6OWVl)** by **Die drei ???** *(184/und der Hexengarten)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-20 12:10:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-20 15:54:17 UTC*
 <!-- SPOTIFY-END -->
