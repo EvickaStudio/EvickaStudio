@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b5b273ebd1632a05019cd75c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O">While My Guitar Gently Weeps - Remastered 2009</a></strong><br/>
-  <em>by</em> <strong>The Beatles</strong><br/>
-  <em>Album:</em> The Beatles (Remastered)
+  <strong><a href="https://open.spotify.com/track/40p1AU9WjnKzgUTQu3FBEN">EVERYTHING I'VE EVER WANTED</a></strong><br/>
+  <em>by</em> <strong>Tiffany Day</strong><br/>
+  <em>Album:</em> HALO
 </p>
 
-<p align="center"><code>1:00</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>4:45</code></p>
+<p align="center"><code>0:05</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI)** by **Labi Siffre** *(Crying Laughing Loving Lying (Deluxe Edition))* - `just now`
-- **[Shooting Star](https://open.spotify.com/track/4rgmJdswefN0Mrjhi3pTaB)** by **Danny O'Keefe** *(O'Keefe)* - `3 min ago`
-- **[Heart of Gold](https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `5 min ago`
-- **[I’ll Have to Say I Love You in a Song](https://open.spotify.com/track/7kWPh7dvoyJ0frnnZzxZPj)** by **Jim Croce** *(I Got a Name)* - `8 min ago`
-- **[God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP)** by **The Beach Boys** *(Pet Sounds (Original Mono & Stereo Mix))* - `11 min ago`
+- **[Luv drunk](https://open.spotify.com/track/5JgbjuhIQg2oHYO5hxEoY0)** by **iKeda** *(Luv drunk)* - `1 min ago`
+- **[skinny jeans](https://open.spotify.com/track/4YikZrLtY59Q9QCEDOjRfo)** by **NEW YORK** *(No Sleep Til N.Y.)* - `3 min ago`
+- **[无心插柳柳成荫](https://open.spotify.com/track/3JW7oZ8PalfkkxdO2BGsok)** by **jackzebra** *(弓长张)* - `7 min ago`
+- **[x o n u](https://open.spotify.com/track/1qoI584hehkATlVuIMIqNU)** by **flava420, draineddddd** *(x o n u)* - `10 min ago`
+- **[forever + ever](https://open.spotify.com/track/0w2MJjxi7gdWqbC8TGCVQk)** by **Donatachi** *(donatachi.com)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-20 09:40:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-20 12:10:51 UTC*
 <!-- SPOTIFY-END -->
