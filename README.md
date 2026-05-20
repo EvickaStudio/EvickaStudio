@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27390dce028e8607b629320bc05" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a77506ce6eb7a4c0d0d15ce3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/59AAkd9VPmsmctC4DjhhI1">184 - und der Hexengarten - Teil 19</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 184/und der Hexengarten
+  <strong><a href="https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV">Führerschein</a></strong><br/>
+  <em>by</em> <strong>Dilla</strong><br/>
+  <em>Album:</em> Führerschein
 </p>
 
-<p align="center"><code>1:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>1:41</code></p>
+<p align="center"><code>3:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[184 - und der Hexengarten - Teil 18](https://open.spotify.com/track/05XibAFrJ6oyjEGB3AB4VY)** by **Die drei ???** *(184/und der Hexengarten)* - `just now`
-- **[184 - und der Hexengarten - Teil 17](https://open.spotify.com/track/01rclhj5fNdLAZ74vp4h5K)** by **Die drei ???** *(184/und der Hexengarten)* - `2 min ago`
-- **[184 - und der Hexengarten - Teil 16](https://open.spotify.com/track/1Z7EgNgFA8JuyRyBeL1Yi7)** by **Die drei ???** *(184/und der Hexengarten)* - `4 min ago`
-- **[184 - und der Hexengarten - Teil 15](https://open.spotify.com/track/4LuGJ7FOhe9F4PFHL9ytYC)** by **Die drei ???** *(184/und der Hexengarten)* - `6 min ago`
-- **[184 - und der Hexengarten - Teil 14](https://open.spotify.com/track/5QPcBzuIp1LNSj5Ry6OWVl)** by **Die drei ???** *(184/und der Hexengarten)* - `7 min ago`
+- **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)* - `4 min ago`
+- **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)* - `6 min ago`
+- **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)* - `10 min ago`
+- **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)* - `14 min ago`
+- **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-20 15:54:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-20 18:10:33 UTC*
 <!-- SPOTIFY-END -->
