@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a77506ce6eb7a4c0d0d15ce3" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735804a0178bd2aabfdd77d622" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV">Führerschein</a></strong><br/>
-  <em>by</em> <strong>Dilla</strong><br/>
-  <em>Album:</em> Führerschein
+  <strong><a href="https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j">The Sky Thats Between Us</a></strong><br/>
+  <em>by</em> <strong>Eera</strong><br/>
+  <em>Album:</em> The Sky Thats Between Us
 </p>
 
-<p align="center"><code>3:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:02</code></p>
+<p align="center"><code>2:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)* - `4 min ago`
-- **[Everything I Am](https://open.spotify.com/track/0NrtwAmRAdLxua31SzHvXr)** by **Kanye West, DJ Premier** *(Graduation)* - `6 min ago`
-- **[One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa)** by **MF DOOM** *(MM..FOOD)* - `10 min ago`
-- **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)* - `14 min ago`
-- **[Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n)** by **Laura Les** *(Haunted)* - `17 min ago`
+- **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)* - `2 min ago`
+- **[As Long As](https://open.spotify.com/track/2ZtG5j7RXpCGBJOjXY2V6q)** by **Bassvictim** *(Basspunk)* - `4 min ago`
+- **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)* - `7 min ago`
+- **[Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8)** by **Trxy!** *(Realize)* - `9 min ago`
+- **[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)** by **The Police** *(Reggatta De Blanc (Remastered 2003))* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-20 18:10:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-20 20:29:07 UTC*
 <!-- SPOTIFY-END -->
