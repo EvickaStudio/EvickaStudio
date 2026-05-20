@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735804a0178bd2aabfdd77d622" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6hFv61P9CKmXTwuk70Bx8j">The Sky Thats Between Us</a></strong><br/>
-  <em>by</em> <strong>Eera</strong><br/>
-  <em>Album:</em> The Sky Thats Between Us
-</p>
-
-<p align="center"><code>2:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:44</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Real Life](https://open.spotify.com/track/1Dcfp94Bmjnih9IYD6qV6K)** by **ear** *(The Most Dear and The Future)* - `2 min ago`
-- **[As Long As](https://open.spotify.com/track/2ZtG5j7RXpCGBJOjXY2V6q)** by **Bassvictim** *(Basspunk)* - `4 min ago`
-- **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)* - `7 min ago`
-- **[Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8)** by **Trxy!** *(Realize)* - `9 min ago`
-- **[Message In A Bottle](https://open.spotify.com/track/1oYYd2gnWZYrt89EBXdFiO)** by **The Police** *(Reggatta De Blanc (Remastered 2003))* - `10 min ago`
+- **[loveforthestreets](https://open.spotify.com/track/60lvOtJeJtmBYHM1ehKpL1)** by **Suzy Sheer** *(loveforthestreets)* - `30 min ago`
+- **[I Like It](https://open.spotify.com/track/1rMtIJmr6U3dBbUEXf33qn)** by **Bassvictim** *(Basspunk)* - `33 min ago`
+- **[FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn)** by **Rema** *(FUN)* - `36 min ago`
+- **[PopStar](https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx)** by **Black Sherif** *(PopStar)* - `39 min ago`
+- **[HOW FAR](https://open.spotify.com/track/0LtlZUDZ016cvT9Dp7J21j)** by **NO11, Ayjay bobo, Monochrome** *(HOW FAR / SHIMA II)* - `41 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-20 20:29:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-20 22:10:54 UTC*
 <!-- SPOTIFY-END -->
