@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[192 - im Bann des Drachen - Teil 30](https://open.spotify.com/track/5kAqxp742mGoDV0BxFALyN)** by **Die drei ???** *(192/im Bann des Drachen)* - `24 min ago`
-- **[192 - im Bann des Drachen - Teil 29](https://open.spotify.com/track/08RYWMu0w6P9zm1NxWbd14)** by **Die drei ???** *(192/im Bann des Drachen)* - `26 min ago`
-- **[192 - im Bann des Drachen - Teil 28](https://open.spotify.com/track/3opLg0TqBe7U42fDwF9oLM)** by **Die drei ???** *(192/im Bann des Drachen)* - `28 min ago`
-- **[192 - im Bann des Drachen - Teil 27](https://open.spotify.com/track/5XTvf7U5NADUaYFoUKg53p)** by **Die drei ???** *(192/im Bann des Drachen)* - `30 min ago`
-- **[192 - im Bann des Drachen - Teil 26](https://open.spotify.com/track/7flTWKgpoXzE3x7yq7iDAY)** by **Die drei ???** *(192/im Bann des Drachen)* - `31 min ago`
+- **[192 - im Bann des Drachen - Teil 30](https://open.spotify.com/track/5kAqxp742mGoDV0BxFALyN)** by **Die drei ???** *(192/im Bann des Drachen)* - `2 h ago`
+- **[192 - im Bann des Drachen - Teil 29](https://open.spotify.com/track/08RYWMu0w6P9zm1NxWbd14)** by **Die drei ???** *(192/im Bann des Drachen)* - `2 h ago`
+- **[192 - im Bann des Drachen - Teil 28](https://open.spotify.com/track/3opLg0TqBe7U42fDwF9oLM)** by **Die drei ???** *(192/im Bann des Drachen)* - `2 h ago`
+- **[192 - im Bann des Drachen - Teil 27](https://open.spotify.com/track/5XTvf7U5NADUaYFoUKg53p)** by **Die drei ???** *(192/im Bann des Drachen)* - `2 h ago`
+- **[192 - im Bann des Drachen - Teil 26](https://open.spotify.com/track/7flTWKgpoXzE3x7yq7iDAY)** by **Die drei ???** *(192/im Bann des Drachen)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-20 23:38:13 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-21 01:32:52 UTC*
 <!-- SPOTIFY-END -->
