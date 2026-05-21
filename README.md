@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734e1261d650244d74db8408ce" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b2cfe30c48a290a340352e1c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm">gaukler</a></strong><br/>
-  <em>by</em> <strong>blombi19</strong><br/>
-  <em>Album:</em> gaukler
+  <strong><a href="https://open.spotify.com/track/5zWJgjOltU9B6t1kEvkS3w">show me calcium</a></strong><br/>
+  <em>by</em> <strong>alfie</strong><br/>
+  <em>Album:</em> show me calcium
 </p>
 
-<p align="center"><code>1:01</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:55</code></p>
+<p align="center"><code>2:07</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>5:01</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Komisch & Naiv](https://open.spotify.com/track/1MSu0QVGoc72DhnLkDn5AR)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `1 min ago`
-- **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)* - `3 min ago`
-- **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)* - `6 min ago`
-- **[It Girl](https://open.spotify.com/track/6LnEEYyXOqgJBa2z6k9T8F)** by **Bladee** *(333)* - `8 min ago`
-- **[zu zweit allein](https://open.spotify.com/track/7BvOoJRXf8rMOitGOBaOwQ)** by **5v, Tamino404** *(zu zweit allein)* - `10 min ago`
+- **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)* - `2 min ago`
+- **[World](https://open.spotify.com/track/1qoWwMNgABQHSadmGelDoz)** by **Nosgov** *(World)* - `4 min ago`
+- **[ADAMAS SONG](https://open.spotify.com/track/32KGBd2rzDUTwvNX7MGrG5)** by **agelast222** *(ADAMAS SONG)* - `6 min ago`
+- **[DieWithMe](https://open.spotify.com/track/25pGY4lgnAwPicc2hqwMvN)** by **SALEM** *(Fires In Heaven)* - `8 min ago`
+- **[Intro (stop looking up at the attic)](https://open.spotify.com/track/5bP2EfUh4TMN19CYR2QzfU)** by **sparr00w** *(Save Room Theme)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-21 12:15:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-21 15:53:45 UTC*
 <!-- SPOTIFY-END -->
