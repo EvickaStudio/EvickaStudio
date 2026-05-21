@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734e1261d650244d74db8408ce" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2xQDooBupyTJJlStMSKkLm">gaukler</a></strong><br/>
+  <em>by</em> <strong>blombi19</strong><br/>
+  <em>Album:</em> gaukler
+</p>
+
+<p align="center"><code>1:01</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:55</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[nature's beauty](https://open.spotify.com/track/1NqrkKXVMRu3CuXb08QOMG)** by **68+1** *(nature's beauty)* - `2 h ago`
-- **[Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW)** by **fakemink** *(Night , Blooming Jasmine .)* - `2 h ago`
-- **[Acid at 7/11](https://open.spotify.com/track/2VrFzwtsXtYkVzq9ym6DqH)** by **Yung Lean** *(Starz)* - `2 h ago`
-- **[scherben](https://open.spotify.com/track/6qRTEK3OfPFshI54rGKaJq)** by **5v** *(scherben)* - `3 h ago`
-- **[insect](https://open.spotify.com/track/1DgOkZUK466iJ5BGvQl6qN)** by **osa, vic, ciaffa, dose** *(Drain Gang Archive)* - `3 h ago`
+- **[Komisch & Naiv](https://open.spotify.com/track/1MSu0QVGoc72DhnLkDn5AR)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `1 min ago`
+- **[taxidermie](https://open.spotify.com/track/0Ibd3eaSQM0z0rtBQLat4q)** by **blombi19** *(herzkasper)* - `3 min ago`
+- **[allein - rizzmix](https://open.spotify.com/track/1fr6KQjeaouK62ElK96qNF)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(allein)* - `6 min ago`
+- **[It Girl](https://open.spotify.com/track/6LnEEYyXOqgJBa2z6k9T8F)** by **Bladee** *(333)* - `8 min ago`
+- **[zu zweit allein](https://open.spotify.com/track/7BvOoJRXf8rMOitGOBaOwQ)** by **5v, Tamino404** *(zu zweit allein)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-21 08:58:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-21 12:15:24 UTC*
 <!-- SPOTIFY-END -->
