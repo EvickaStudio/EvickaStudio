@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b90dffd3ef450aeebe73e216" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat">Wolves Howling</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Forever
+  <strong><a href="https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi">KLUg</a></strong><br/>
+  <em>by</em> <strong>agelast222, gard</strong><br/>
+  <em>Album:</em> SOLAR TACTICS
 </p>
 
-<p align="center"><code>2:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:25</code></p>
+<p align="center"><code>0:22</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Rax](https://open.spotify.com/track/5VrnpamQF8oCq3ppmmhypj)** by **CAN MIT ME$$R, Sin Davis** *(Abi Albüm)* - `2 min ago`
-- **[STORM](https://open.spotify.com/track/1nFwSnMSNRrIXmgJZtjpSz)** by **GENER8ION, Yung Lean** *(STORM)* - `5 min ago`
-- **[Fashion Killa](https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0)** by **Ceren** *(Fashion Killa)* - `12 min ago`
-- **[nicht du](https://open.spotify.com/track/1ANpsZ4YWqX6vbP0IL7gph)** by **Joje, sebo** *(nicht du)* - `16 min ago`
-- **[PLANET](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(PLANET)* - `19 min ago`
+- **[wish I didnt kno her ##biblemusic](https://open.spotify.com/track/5jiVFNtBrIb3dn7XAqn6o9)** by **KidSnorlax, d3r** *(wish I didnt kno her ##biblemusic)* - `just now`
+- **[Kein Stop](https://open.spotify.com/track/2ijIN7HYOompr4vq9dwzmU)** by **sparr00w, bleac** *(00)* - `2 min ago`
+- **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)* - `5 min ago`
+- **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)* - `7 min ago`
+- **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-21 21:17:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-21 22:46:43 UTC*
 <!-- SPOTIFY-END -->
