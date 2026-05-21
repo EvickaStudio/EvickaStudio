@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1EjKkQUJf9tDKKufrJwiat">Wolves Howling</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Forever
+</p>
+
+<p align="center"><code>2:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[magic](https://open.spotify.com/track/5QDgRZwAwMc3qxTxwDyNrk)** by **xo** *(magic)* - `2 min ago`
-- **[left to right](https://open.spotify.com/track/7jUrWOaYctEk6p2eYNRjb0)** by **rommulas, 2hollis** *(left to right)* - `4 min ago`
-- **[Cascading Emotions](https://open.spotify.com/track/1bY9irHouNHlJlmrCgBnDC)** by **Joshka** *(TANO*C EXTRA)* - `7 min ago`
-- **[Only Seeing God When I Come](https://open.spotify.com/track/6AerqwCmIFR3qqiskGzsYA)** by **Sega Bodega** *(Romeo)* - `9 min ago`
-- **[无心插柳柳成荫](https://open.spotify.com/track/3JW7oZ8PalfkkxdO2BGsok)** by **jackzebra** *(弓长张)* - `12 min ago`
+- **[Rax](https://open.spotify.com/track/5VrnpamQF8oCq3ppmmhypj)** by **CAN MIT ME$$R, Sin Davis** *(Abi Albüm)* - `2 min ago`
+- **[STORM](https://open.spotify.com/track/1nFwSnMSNRrIXmgJZtjpSz)** by **GENER8ION, Yung Lean** *(STORM)* - `5 min ago`
+- **[Fashion Killa](https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0)** by **Ceren** *(Fashion Killa)* - `12 min ago`
+- **[nicht du](https://open.spotify.com/track/1ANpsZ4YWqX6vbP0IL7gph)** by **Joje, sebo** *(nicht du)* - `16 min ago`
+- **[PLANET](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(PLANET)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-21 19:44:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-21 21:17:19 UTC*
 <!-- SPOTIFY-END -->
