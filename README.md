@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e46cbcca7e7b2728c0b05460" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2lzpiYbzB63e6wdChWTSsf">Perfect Violation</a></strong><br/>
+  <em>by</em> <strong>Varg²™, Bladee</strong><br/>
+  <em>Album:</em> Evanescence (a Love Letter)
+</p>
+
+<p align="center"><code>1:42</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[192 - im Bann des Drachen - Teil 30](https://open.spotify.com/track/5kAqxp742mGoDV0BxFALyN)** by **Die drei ???** *(192/im Bann des Drachen)* - `2 h ago`
-- **[192 - im Bann des Drachen - Teil 29](https://open.spotify.com/track/08RYWMu0w6P9zm1NxWbd14)** by **Die drei ???** *(192/im Bann des Drachen)* - `2 h ago`
-- **[192 - im Bann des Drachen - Teil 28](https://open.spotify.com/track/3opLg0TqBe7U42fDwF9oLM)** by **Die drei ???** *(192/im Bann des Drachen)* - `2 h ago`
-- **[192 - im Bann des Drachen - Teil 27](https://open.spotify.com/track/5XTvf7U5NADUaYFoUKg53p)** by **Die drei ???** *(192/im Bann des Drachen)* - `2 h ago`
-- **[192 - im Bann des Drachen - Teil 26](https://open.spotify.com/track/7flTWKgpoXzE3x7yq7iDAY)** by **Die drei ???** *(192/im Bann des Drachen)* - `2 h ago`
+- **[Obedient](https://open.spotify.com/track/5adW1n6jrFcc4sRAtFeQVX)** by **Bladee, Ecco2k** *(Red Light)* - `1 min ago`
+- **[dghp](https://open.spotify.com/track/6uPe1lVdoJ3iAQDy4fog74)** by **blombi19** *(drainer girls hören pashanim)* - `4 min ago`
+- **[184 - und der Hexengarten - Teil 39](https://open.spotify.com/track/30RJyu16Y9OIvWHSPMER7f)** by **Die drei ???** *(184/und der Hexengarten)* - `8 min ago`
+- **[192 - im Bann des Drachen - Teil 30](https://open.spotify.com/track/5kAqxp742mGoDV0BxFALyN)** by **Die drei ???** *(192/im Bann des Drachen)* - `6 h ago`
+- **[192 - im Bann des Drachen - Teil 29](https://open.spotify.com/track/08RYWMu0w6P9zm1NxWbd14)** by **Die drei ???** *(192/im Bann des Drachen)* - `6 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-21 01:32:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-21 05:52:06 UTC*
 <!-- SPOTIFY-END -->
