@@ -96,21 +96,21 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5">Home!!! (wake up)</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU">Dirge</a></strong><br/>
   <em>by</em> <strong>Bassvictim</strong><br/>
   <em>Album:</em> ?
 </p>
 
-<p align="center"><code>0:43</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:44</code></p>
+<p align="center"><code>2:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>2:26</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `just now`
-- **[Ivy](https://open.spotify.com/track/766tUxeKxb6AKLvsdL3aBN)** by **Bby Eco** *(Sky (i))* - `3 min ago`
-- **[nachtaktiv](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)** by **Tamino404** *(nachtaktiv)* - `6 min ago`
-- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `8 min ago`
-- **[Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW)** by **fakemink** *(Night , Blooming Jasmine .)* - `11 min ago`
+- **[Ivy](https://open.spotify.com/track/766tUxeKxb6AKLvsdL3aBN)** by **Bby Eco** *(Sky (i))* - `2 min ago`
+- **[nachtaktiv](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)** by **Tamino404** *(nachtaktiv)* - `5 min ago`
+- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `7 min ago`
+- **[Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW)** by **fakemink** *(Night , Blooming Jasmine .)* - `10 min ago`
+- **[wings](https://open.spotify.com/track/2xe9l5ss3V4EJykDIPopiq)** by **xo** *(whitenoise: expansion)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-22 19:09:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-22 20:46:11 UTC*
 <!-- SPOTIFY-END -->
