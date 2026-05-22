@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e7cb1429534f0d21133b714" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6I3LXAGlKejmgxXloLPiGK">A Mi Manera (Comme D'Habitude)</a></strong><br/>
-  <em>by</em> <strong>Gipsy Kings</strong><br/>
-  <em>Album:</em> Gipsy Kings
+  <strong><a href="https://open.spotify.com/track/5AabqkMATMr8zsfPS5yJnr">Bells Ring</a></strong><br/>
+  <em>by</em> <strong>Mazzy Star</strong><br/>
+  <em>Album:</em> So Tonight That I Might See
 </p>
 
-<p align="center"><code>1:39</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>3:51</code></p>
+<p align="center"><code>4:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:32</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Seagirl](https://open.spotify.com/track/7ssj7z5AP6V5O6Ooyeni60)** by **King Krule, Raveena** *(Space Heavy)* - `1 min ago`
-- **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))* - `4 min ago`
-- **[Baby I'm-a Want You](https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7)** by **Bread** *(Baby I'm-a Want You)* - `9 min ago`
-- **[Sea, Swallow Me - 2024 Remaster](https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB)** by **Cocteau Twins, Harold Budd** *(The Moon and the Melodies (2024 Remaster))* - `11 min ago`
-- **[Cannock Chase](https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY)** by **Labi Siffre** *(Crying Laughing Loving Lying)* - `14 min ago`
+- **[London Life](https://open.spotify.com/track/1y2j3dRNspS2AHReeKSGGV)** by **fakemink** *(London's Saviour)* - `4 min ago`
+- **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)* - `7 min ago`
+- **[Vancouver](https://open.spotify.com/track/1IQsKvsZ0uEjAw3CmeAlYm)** by **leverfall** *(Melodramatic)* - `12 min ago`
+- **[5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp)** by **Dean Blunt, Elias Rønnenfelt** *(lucre)* - `14 min ago`
+- **[Futura Free](https://open.spotify.com/track/5k8LB57xOq8UUNVaKWSqrf)** by **Frank Ocean** *(Blonde)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-22 09:59:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-22 12:23:46 UTC*
 <!-- SPOTIFY-END -->
