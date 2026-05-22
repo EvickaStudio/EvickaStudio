@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273bcc11a888c9d7853e06dc61c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5AabqkMATMr8zsfPS5yJnr">Bells Ring</a></strong><br/>
-  <em>by</em> <strong>Mazzy Star</strong><br/>
-  <em>Album:</em> So Tonight That I Might See
+  <strong><a href="https://open.spotify.com/track/5rH0Zf3h0NQfFq09cMDGjA">Kein Held</a></strong><br/>
+  <em>by</em> <strong>toobrokeforfiji</strong><br/>
+  <em>Album:</em> Was is mit UNS los?
 </p>
 
-<p align="center"><code>4:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>4:32</code></p>
+<p align="center"><code>2:00</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[London Life](https://open.spotify.com/track/1y2j3dRNspS2AHReeKSGGV)** by **fakemink** *(London's Saviour)* - `4 min ago`
-- **[Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp)** by **LSD and the Search for God** *(LSD and the Search for God)* - `7 min ago`
-- **[Vancouver](https://open.spotify.com/track/1IQsKvsZ0uEjAw3CmeAlYm)** by **leverfall** *(Melodramatic)* - `12 min ago`
-- **[5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp)** by **Dean Blunt, Elias Rønnenfelt** *(lucre)* - `14 min ago`
-- **[Futura Free](https://open.spotify.com/track/5k8LB57xOq8UUNVaKWSqrf)** by **Frank Ocean** *(Blonde)* - `16 min ago`
+- **[OHR TUT WEH](https://open.spotify.com/track/2HKlXXKmyIzShRcFyRcrIQ)** by **mikeycyrus, ketacat, Clarry Berry** *(OHR TUT WEH)* - `1 min ago`
+- **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)* - `3 min ago`
+- **[maybach tears](https://open.spotify.com/track/1ebNEKo7OcXsvoJm5l2EP9)** by **Tamino404, DANZINGER 99** *(maybach tears)* - `5 min ago`
+- **[XTC](https://open.spotify.com/track/3LQ8X70pVusy4YPUsW8yHT)** by **mickyi, S1RENA** *(XTC)* - `7 min ago`
+- **[All White Fit](https://open.spotify.com/track/2UU2JifCQj4ICsU11wFu8L)** by **c4rl** *(okay.)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-22 12:23:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-22 15:28:10 UTC*
 <!-- SPOTIFY-END -->
