@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c522598be267fccffdb52f11" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4DuXu3sxjcX1ZV6djcmFsh">Weit Weg</a></strong><br/>
-  <em>by</em> <strong>Tamino404, Shinju, sparr00w</strong><br/>
-  <em>Album:</em> sternstaub
+  <strong><a href="https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5">Home!!! (wake up)</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> ?
 </p>
 
-<p align="center"><code>0:58</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:28</code></p>
+<p align="center"><code>0:43</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[CHANEL SHIRT](https://open.spotify.com/track/2kWTnJ8bTzpFJN6UyqWKTe)** by **mikeycyrus** *(WORST BOYFRIEND EVER)* - `just now`
-- **[Geist](https://open.spotify.com/track/2PnT9RhAwLDToQNUEk98jS)** by **Blender** *(Geist)* - `2 min ago`
-- **[Yeah](https://open.spotify.com/track/187i7Afz7xXPO8tKbylQMR)** by **hqwilli, SlushhKitten** *(Yeah)* - `4 min ago`
-- **[Samurai](https://open.spotify.com/track/46H4Zrj1HEiNwmLbMBQg13)** by **Psyke, humanangst** *(HumanPsyke202)* - `7 min ago`
-- **[stoppschild](https://open.spotify.com/track/5yK0m78soD6rkZske0oOIN)** by **Tamino404** *(stoppschild)* - `10 min ago`
+- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `just now`
+- **[Ivy](https://open.spotify.com/track/766tUxeKxb6AKLvsdL3aBN)** by **Bby Eco** *(Sky (i))* - `3 min ago`
+- **[nachtaktiv](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)** by **Tamino404** *(nachtaktiv)* - `6 min ago`
+- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `8 min ago`
+- **[Night , Blooming Jasmine .](https://open.spotify.com/track/4WKUmjoUeYkzyoEvTbiVdW)** by **fakemink** *(Night , Blooming Jasmine .)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,7 +118,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Snow Strippers**](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
 
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-22 17:22:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-22 19:09:51 UTC*
 <!-- SPOTIFY-END -->
