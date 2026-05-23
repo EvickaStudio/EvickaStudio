@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ea203ff75d9502746c7b0019" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27394a88ff27c87eca641f10725" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx">frei</a></strong><br/>
-  <em>by</em> <strong>5v, mint</strong><br/>
-  <em>Album:</em> frei
+  <strong><a href="https://open.spotify.com/track/0vB7F5mzhxwnvpTS9qJcYZ">Kapitel 23: Das Geheimnis der sieben Palmen - Folge 239</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> Folge 239: Das Geheimnis der sieben Palmen
 </p>
 
-<p align="center"><code>1:32</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:12</code></p>
+<p align="center"><code>2:41</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[lonely nights](https://open.spotify.com/track/47GhpQmuoXtejsosAM2Jgu)** by **stixz** *(lonely nights)* - `1 min ago`
-- **[dancing music 2](https://open.spotify.com/track/2NJ5t5QNXGuSn7LNWkKFSJ)** by **ilyproxy, leander, Hadesthegrim** *(dancing music 2)* - `3 min ago`
-- **[Lost my vision](https://open.spotify.com/track/3MpDYURd0aJm2fkg1VsOen)** by **Love Pact** *(Lost my vision)* - `6 min ago`
-- **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu** *(ich bring mich um)* - `8 min ago`
-- **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)* - `9 min ago`
+- **[Kapitel 22: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/1730Zfh9HMkYVR2VNCj0wT)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `2 min ago`
+- **[Kapitel 21: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/0mIGvhECY8uOn3MZEtO3Gf)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `5 min ago`
+- **[Kapitel 20: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/4vNdMQsX4mufd7ZJ4gI0yg)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `8 min ago`
+- **[Kapitel 19: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/1sycBkjh8nOO8kXJJqCeaU)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `12 min ago`
+- **[Kapitel 18: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/79Q77adczXBsFs0TELwfeL)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 13:05:43 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 14:42:28 UTC*
 <!-- SPOTIFY-END -->
