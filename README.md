@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732f4a2f352434b46dfb392bb6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273851bc090c443c25b17ec0c7a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/33FpI5pgclw8lutZem3WRy">blush [2019]</a></strong><br/>
-  <em>by</em> <strong>damon r.</strong><br/>
-  <em>Album:</em> re
+  <strong><a href="https://open.spotify.com/track/0uRpnrO1BUKllEqrkzQawL">Die Tagesreise</a></strong><br/>
+  <em>by</em> <strong>Horst Krüger-Band</strong><br/>
+  <em>Album:</em> Die Tagesreise
 </p>
 
-<p align="center"><code>0:03</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:38</code></p>
+<p align="center"><code>2:20</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>7:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `just now`
-- **[Dark Side of the Moon](https://open.spotify.com/track/4oWZBcaBfx5wVZokxljMvU)** by **suisside** *(Dark Side of the Moon)* - `2 min ago`
-- **[Play Em Like Atari](https://open.spotify.com/track/5lmyw5wJwJCjikOh1rCW4o)** by **osa, vic, ciaffa** *(aloegarten)* - `5 min ago`
-- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `8 min ago`
-- **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)* - `11 min ago`
+- **[Memory Reboot](https://open.spotify.com/track/1A7qPfbcyRVEdcZiwTFhZI)** by **VØJ, Narvent** *(Memory Reboot)* - `2 min ago`
+- **[STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq)** by **GENER8ION, Yung Lean** *(STORM)* - `5 min ago`
+- **[Ecifircas](https://open.spotify.com/track/0ROexSyivb8X5LLLzsTFuB)** by **Sewerslvt** *(Draining Love Story)* - `8 min ago`
+- **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)* - `14 min ago`
+- **[Here I Am](https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN)** by **The Hellp** *(Here I Am)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 15:46:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 16:51:50 UTC*
 <!-- SPOTIFY-END -->
