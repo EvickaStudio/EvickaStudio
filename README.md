@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27394a88ff27c87eca641f10725" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732f4a2f352434b46dfb392bb6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0vB7F5mzhxwnvpTS9qJcYZ">Kapitel 23: Das Geheimnis der sieben Palmen - Folge 239</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> Folge 239: Das Geheimnis der sieben Palmen
+  <strong><a href="https://open.spotify.com/track/33FpI5pgclw8lutZem3WRy">blush [2019]</a></strong><br/>
+  <em>by</em> <strong>damon r.</strong><br/>
+  <em>Album:</em> re
 </p>
 
-<p align="center"><code>2:41</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:08</code></p>
+<p align="center"><code>0:03</code> ░░░░░░░░░░░░░░░░░░░░ <code>2:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 22: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/1730Zfh9HMkYVR2VNCj0wT)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `2 min ago`
-- **[Kapitel 21: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/0mIGvhECY8uOn3MZEtO3Gf)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `5 min ago`
-- **[Kapitel 20: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/4vNdMQsX4mufd7ZJ4gI0yg)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `8 min ago`
-- **[Kapitel 19: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/1sycBkjh8nOO8kXJJqCeaU)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `12 min ago`
-- **[Kapitel 18: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/79Q77adczXBsFs0TELwfeL)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `15 min ago`
+- **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `just now`
+- **[Dark Side of the Moon](https://open.spotify.com/track/4oWZBcaBfx5wVZokxljMvU)** by **suisside** *(Dark Side of the Moon)* - `2 min ago`
+- **[Play Em Like Atari](https://open.spotify.com/track/5lmyw5wJwJCjikOh1rCW4o)** by **osa, vic, ciaffa** *(aloegarten)* - `5 min ago`
+- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `8 min ago`
+- **[When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44)** by **Slowdive** *(Souvlaki)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 14:42:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 15:46:23 UTC*
 <!-- SPOTIFY-END -->
