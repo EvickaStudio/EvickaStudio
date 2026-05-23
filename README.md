@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b4a878f008a0eda552446701" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732325418d07051b281cfb4206" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2u2udGmop1z67EPpr91km7">Man in the Mirror</a></strong><br/>
-  <em>by</em> <strong>Michael Jackson</strong><br/>
-  <em>Album:</em> HIStory - PAST, PRESENT AND FUTURE - BOOK I
+  <strong><a href="https://open.spotify.com/track/6pM9HULclGGrh9xPhU2TWV">Haunted</a></strong><br/>
+  <em>by</em> <strong>Computer Kill</strong><br/>
+  <em>Album:</em> Haunted
 </p>
 
-<p align="center"><code>4:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>5:18</code></p>
+<p align="center"><code>4:33</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>4:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I DONT WANNA GO](https://open.spotify.com/track/58dZmEgUxVNY4FKC9rA67X)** by **Braindaamage** *(I DONT WANNA GO)* - `4 min ago`
-- **[Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN)** by **Moe Shop, TORIENA** *(Moe Moe)* - `7 min ago`
-- **[Rhythmus meines Lebens](https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM)** by **Kool Savas** *(Die John Bello Story, Vol. 3)* - `10 min ago`
-- **[dghp](https://open.spotify.com/track/6uPe1lVdoJ3iAQDy4fog74)** by **blombi19** *(drainer girls hören pashanim)* - `13 min ago`
-- **[let me bleed](https://open.spotify.com/track/74nCM3fhMDl2NF8xaHR774)** by **Lil Peep, Nedarb** *(CALIFORNIA GIRLS)* - `16 min ago`
+- **[helios](https://open.spotify.com/track/0LeOi3Srv7nGi94FyV2ByD)** by **EASY EASY, Leocardo DiNaprio** *(helios)* - `4 min ago`
+- **[Materialism as a Means to an End](https://open.spotify.com/track/4t2dQ3OQaAJQn52BNszPnY)** by **$uicideboy$** *(Materialism as a Means to an End)* - `8 min ago`
+- **[Ekliges Spiel](https://open.spotify.com/track/1CbAoGB2AnA8UzlR8kXSWd)** by **Skepsiz, rapha** *(DiY!)* - `11 min ago`
+- **[Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7)** by **Aphex Twin** *(Come To Daddy)* - `22 min ago`
+- **[Left](https://open.spotify.com/track/5orN4HYGUJS3AqewwwFixi)** by **sign crushes motorist** *(i'll be okay)* - `25 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 09:19:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 10:48:49 UTC*
 <!-- SPOTIFY-END -->
