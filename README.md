@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)* - `4 h ago`
-- **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by **fliggsy** *(Project Life)* - `4 h ago`
-- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `4 h ago`
-- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `4 h ago`
-- **[Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0)** by **Duster** *(Capsule Losing Contact)* - `4 h ago`
+- **[Huit octobre 1971](https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao)** by **Cortex** *(Troupeau bleu)* - `7 h ago`
+- **[Perspektivlose Kids](https://open.spotify.com/track/30OahNq6zjGQWoxXT1VwxS)** by **fliggsy** *(Project Life)* - `7 h ago`
+- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `7 h ago`
+- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `7 h ago`
+- **[Stars Will Fall](https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0)** by **Duster** *(Capsule Losing Contact)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 01:21:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 04:56:17 UTC*
 <!-- SPOTIFY-END -->
