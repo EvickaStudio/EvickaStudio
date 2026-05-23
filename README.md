@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c8329930b500b5603a4482a2" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp">Last Surprise</a></strong><br/>
-  <em>by</em> <strong>Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC</strong><br/>
-  <em>Album:</em> PERSONA5 ORIGINAL SOUNDTRACK
-</p>
-
-<p align="center"><code>3:24</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:55</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)** by **lustr** *(tell me)* - `3 min ago`
-- **[shadow](https://open.spotify.com/track/4aeX5Sm8nPy3xEFNJXb77e)** by **Lvl99magic** *(T̨͈͗̌ͥḣ̖̻͛̓ỉ͔͖̜͌s̠҉͍͊ͅ M͉̅ͮ͒ͤỉ͔͖̜͌r̴̨̦͕̝r̴̨̦͕̝o̯̱̊͊͢r̴̨̦͕̝ & V̘̪͆̂̅o̯̱̊͊͢ỉ͔͖̜͌ḑ̴̞͛̒ B̩͎͍̾ͅẹ̿͋̒̕t̲̂̓ͩ̑w̦̺̐̐͟ẹ̿͋̒̕ẹ̿͋̒̕ṇ̤͛̒̍ ư̡͕̭̇s̠҉͍͊ͅ ỉ͔͖̜͌s̠҉͍͊ͅ S̵̙͕̀̃ḣ̖̻͛̓r̴̨̦͕̝o̯̱̊͊͢ư̡͕̭̇ḑ̴̞͛̒ỉ͔͖̜͌ṇ̤͛̒̍ĝ̽̓̀͑ C̵͉͋̔͞l̙͖̑̾ͣā̤̓̍͘r̴̨̦͕̝ỉ͔͖̜͌t̲̂̓ͩ̑y҉̃̀̋̑)* - `5 min ago`
-- **[Just Your Doll](https://open.spotify.com/track/0pho5YNk249gxn36GX0Ggk)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `7 min ago`
-- **[Always Gon Lose](https://open.spotify.com/track/2Nw9v1Exvw16ksIrkRxe4G)** by **Juniper Fields, User2222** *(Always Gon Lose)* - `10 min ago`
-- **[Live too fast](https://open.spotify.com/track/55DGkrX7BNzauuHbh17DCp)** by **Bassvictim** *(Basspunk 2)* - `12 min ago`
+- **[top of the world](https://open.spotify.com/track/1xPPig5WAm2WkiJoCELVsY)** by **twentythree** *(top of the world)* - `49 min ago`
+- **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)* - `51 min ago`
+- **[Entombed](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5)** by **Deftones** *(Koi No Yokan)* - `54 min ago`
+- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC** *(PERSONA5 ORIGINAL SOUNDTRACK)* - `59 min ago`
+- **[tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)** by **lustr** *(tell me)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**back to friends**](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 21:07:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 22:06:37 UTC*
 <!-- SPOTIFY-END -->
