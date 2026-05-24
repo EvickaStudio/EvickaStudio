@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Be My Dog](https://open.spotify.com/track/4L520nHOaYeELBpX7qgYHt)** by **IceLipzz, Gabber Industries Berlin** *(Be My Dog)* - `1 min ago`
-- **[eXistenZ](https://open.spotify.com/track/4U4sWrDhC181CBLk09kkb8)** by **IceLipzz, SlushhKitten, LØUS, Gabber Industries Berlin** *(eXistenZ)* - `3 min ago`
-- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `6 min ago`
-- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `13 min ago`
-- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `15 min ago`
+- **[Be My Dog](https://open.spotify.com/track/4L520nHOaYeELBpX7qgYHt)** by **IceLipzz, Gabber Industries Berlin** *(Be My Dog)* - `1 h ago`
+- **[eXistenZ](https://open.spotify.com/track/4U4sWrDhC181CBLk09kkb8)** by **IceLipzz, SlushhKitten, LØUS, Gabber Industries Berlin** *(eXistenZ)* - `1 h ago`
+- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `1 h ago`
+- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `2 h ago`
+- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**back to friends**](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 12:09:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 13:56:45 UTC*
 <!-- SPOTIFY-END -->
