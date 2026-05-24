@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[top of the world](https://open.spotify.com/track/1xPPig5WAm2WkiJoCELVsY)** by **twentythree** *(top of the world)* - `1 h ago`
-- **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)* - `1 h ago`
-- **[Entombed](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5)** by **Deftones** *(Koi No Yokan)* - `1 h ago`
-- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC** *(PERSONA5 ORIGINAL SOUNDTRACK)* - `2 h ago`
-- **[tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)** by **lustr** *(tell me)* - `2 h ago`
+- **[top of the world](https://open.spotify.com/track/1xPPig5WAm2WkiJoCELVsY)** by **twentythree** *(top of the world)* - `2 h ago`
+- **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)* - `2 h ago`
+- **[Entombed](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5)** by **Deftones** *(Koi No Yokan)* - `2 h ago`
+- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC** *(PERSONA5 ORIGINAL SOUNDTRACK)* - `3 h ago`
+- **[tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)** by **lustr** *(tell me)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**back to friends**](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-23 23:09:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 00:09:48 UTC*
 <!-- SPOTIFY-END -->
