@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27373452962d2b74866fcfd2f74" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f6e933967960fe054d2a6848" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk">Zwei Bier (La La La)</a></strong><br/>
-  <em>by</em> <strong>Leftovers</strong><br/>
-  <em>Album:</em> ES KANN SEIN DASS ALLES ENDET
+  <strong><a href="https://open.spotify.com/track/7AtSagWRu7fYtWyxtPxLFL">Sonzai Complex</a></strong><br/>
+  <em>by</em> <strong>idreamu</strong><br/>
+  <em>Album:</em> Sonzai Complex
 </p>
 
-<p align="center"><code>2:39</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:29</code></p>
+<p align="center"><code>0:28</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:46</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Be My Dog](https://open.spotify.com/track/4L520nHOaYeELBpX7qgYHt)** by **IceLipzz, Gabber Industries Berlin** *(Be My Dog)* - `2 h ago`
-- **[eXistenZ](https://open.spotify.com/track/4U4sWrDhC181CBLk09kkb8)** by **IceLipzz, SlushhKitten, LØUS, Gabber Industries Berlin** *(eXistenZ)* - `2 h ago`
-- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `2 h ago`
-- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `3 h ago`
-- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `3 h ago`
+- **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)* - `just now`
+- **[Mensch am Mond](https://open.spotify.com/track/4VyZE8o6zBc5LYLRVBgFRl)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `5 min ago`
+- **[Verliebt](https://open.spotify.com/track/7qpBtf5AejkNzhpsuiz3Py)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `8 min ago`
+- **[Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `11 min ago`
+- **[Can't Get Back](https://open.spotify.com/track/7iDYVmxiXcNNr9a7Ity48f)** by **DJmegan23, Take Van** *(Can't Get Back)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**back to friends**](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 14:59:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 16:03:35 UTC*
 <!-- SPOTIFY-END -->
