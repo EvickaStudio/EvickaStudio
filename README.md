@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d5b24e609626e20cc88232ea" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273423ed6dcc25a665806ded0c0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/46f2ZF4Hd4atVYiih0Iuak">Ghetto Techno - Swimmingpool</a></strong><br/>
-  <em>by</em> <strong>Die Atzen</strong><br/>
-  <em>Album:</em> Atzen Musik Vol.1, 2 & 3
+  <strong><a href="https://open.spotify.com/track/09VF6TEVHTIJmH6S3JWwik">Milk & Honey .</a></strong><br/>
+  <em>by</em> <strong>fakemink</strong><br/>
+  <em>Album:</em> The Boy who cried Terrified .
 </p>
 
-<p align="center"><code>0:02</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:33</code></p>
+<p align="center"><code>0:28</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:04</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)* - `just now`
-- **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)* - `1 min ago`
-- **[Danny Phantom](https://open.spotify.com/track/64brWbRMRFMbiqDcgpEh9e)** by **Tamino404** *(schlechte luft)* - `4 min ago`
-- **[Ekliges Spiel](https://open.spotify.com/track/1CbAoGB2AnA8UzlR8kXSWd)** by **Skepsiz, rapha** *(DiY!)* - `8 min ago`
-- **[WOLKE](https://open.spotify.com/track/6QBE1EuFibok8xSexAXvko)** by **Leftovers** *(HEY)* - `11 min ago`
+- **[Like What?](https://open.spotify.com/track/5w6oQssTqyFrskUk3NO6e7)** by **Lil Shine** *(Get Rich Or Die Sippin')* - `just now`
+- **[d(-_-)b dreaming of your latte art d(-_-)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3)** by **Mietze Conte, 1tbsp** *(d(-_-)b dreaming of your latte art d(-_-)b)* - `2 min ago`
+- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `4 min ago`
+- **[if u dare 2](https://open.spotify.com/track/5MtxzH89fP6Fe1Wqm3EKW9)** by **MGNA Crrrta** *(Beautiful Disaster)* - `7 min ago`
+- **[rotten - DJmegan23 Remix](https://open.spotify.com/track/1ZSpxoeuaZdAljvVFY3aHq)** by **DJmegan23, anna luna** *(rotten (DJmegan23 Remix))* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**back to friends**](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 19:39:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 20:34:11 UTC*
 <!-- SPOTIFY-END -->
