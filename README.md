@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273423ed6dcc25a665806ded0c0" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/09VF6TEVHTIJmH6S3JWwik">Milk & Honey .</a></strong><br/>
-  <em>by</em> <strong>fakemink</strong><br/>
-  <em>Album:</em> The Boy who cried Terrified .
-</p>
-
-<p align="center"><code>0:28</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:04</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Like What?](https://open.spotify.com/track/5w6oQssTqyFrskUk3NO6e7)** by **Lil Shine** *(Get Rich Or Die Sippin')* - `just now`
-- **[d(-_-)b dreaming of your latte art d(-_-)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3)** by **Mietze Conte, 1tbsp** *(d(-_-)b dreaming of your latte art d(-_-)b)* - `2 min ago`
-- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `4 min ago`
-- **[if u dare 2](https://open.spotify.com/track/5MtxzH89fP6Fe1Wqm3EKW9)** by **MGNA Crrrta** *(Beautiful Disaster)* - `7 min ago`
-- **[rotten - DJmegan23 Remix](https://open.spotify.com/track/1ZSpxoeuaZdAljvVFY3aHq)** by **DJmegan23, anna luna** *(rotten (DJmegan23 Remix))* - `11 min ago`
+- **[192 - im Bann des Drachen - Teil 31](https://open.spotify.com/track/4aQ9JoMYXYjOQ6kRkwbOBg)** by **Die drei ???** *(192/im Bann des Drachen)* - `46 min ago`
+- **[Like What?](https://open.spotify.com/track/5w6oQssTqyFrskUk3NO6e7)** by **Lil Shine** *(Get Rich Or Die Sippin')* - `1 h ago`
+- **[d(-_-)b dreaming of your latte art d(-_-)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3)** by **Mietze Conte, 1tbsp** *(d(-_-)b dreaming of your latte art d(-_-)b)* - `1 h ago`
+- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `1 h ago`
+- **[if u dare 2](https://open.spotify.com/track/5MtxzH89fP6Fe1Wqm3EKW9)** by **MGNA Crrrta** *(Beautiful Disaster)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +118,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**back to friends**](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 20:34:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 21:37:14 UTC*
 <!-- SPOTIFY-END -->
