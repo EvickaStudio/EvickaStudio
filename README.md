@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[192 - im Bann des Drachen - Teil 31](https://open.spotify.com/track/4aQ9JoMYXYjOQ6kRkwbOBg)** by **Die drei ???** *(192/im Bann des Drachen)* - `46 min ago`
-- **[Like What?](https://open.spotify.com/track/5w6oQssTqyFrskUk3NO6e7)** by **Lil Shine** *(Get Rich Or Die Sippin')* - `1 h ago`
-- **[d(-_-)b dreaming of your latte art d(-_-)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3)** by **Mietze Conte, 1tbsp** *(d(-_-)b dreaming of your latte art d(-_-)b)* - `1 h ago`
-- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `1 h ago`
-- **[if u dare 2](https://open.spotify.com/track/5MtxzH89fP6Fe1Wqm3EKW9)** by **MGNA Crrrta** *(Beautiful Disaster)* - `1 h ago`
+- **[192 - im Bann des Drachen - Teil 31](https://open.spotify.com/track/4aQ9JoMYXYjOQ6kRkwbOBg)** by **Die drei ???** *(192/im Bann des Drachen)* - `1 h ago`
+- **[Like What?](https://open.spotify.com/track/5w6oQssTqyFrskUk3NO6e7)** by **Lil Shine** *(Get Rich Or Die Sippin')* - `2 h ago`
+- **[d(-_-)b dreaming of your latte art d(-_-)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3)** by **Mietze Conte, 1tbsp** *(d(-_-)b dreaming of your latte art d(-_-)b)* - `2 h ago`
+- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `2 h ago`
+- **[if u dare 2](https://open.spotify.com/track/5MtxzH89fP6Fe1Wqm3EKW9)** by **MGNA Crrrta** *(Beautiful Disaster)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 21:37:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 22:39:16 UTC*
 <!-- SPOTIFY-END -->
