@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27373452962d2b74866fcfd2f74" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk">Zwei Bier (La La La)</a></strong><br/>
+  <em>by</em> <strong>Leftovers</strong><br/>
+  <em>Album:</em> ES KANN SEIN DASS ALLES ENDET
+</p>
+
+<p align="center"><code>2:39</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Be My Dog](https://open.spotify.com/track/4L520nHOaYeELBpX7qgYHt)** by **IceLipzz, Gabber Industries Berlin** *(Be My Dog)* - `1 h ago`
-- **[eXistenZ](https://open.spotify.com/track/4U4sWrDhC181CBLk09kkb8)** by **IceLipzz, SlushhKitten, LØUS, Gabber Industries Berlin** *(eXistenZ)* - `1 h ago`
-- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `1 h ago`
-- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `2 h ago`
-- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `2 h ago`
+- **[Be My Dog](https://open.spotify.com/track/4L520nHOaYeELBpX7qgYHt)** by **IceLipzz, Gabber Industries Berlin** *(Be My Dog)* - `2 h ago`
+- **[eXistenZ](https://open.spotify.com/track/4U4sWrDhC181CBLk09kkb8)** by **IceLipzz, SlushhKitten, LØUS, Gabber Industries Berlin** *(eXistenZ)* - `2 h ago`
+- **[Berlin Hardcore](https://open.spotify.com/track/1QY9wkFRZD5hKtaivuJaag)** by **IceLipzz, SlushhKitten, LØUS** *(Berlin Hardcore)* - `2 h ago`
+- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `3 h ago`
+- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**back to friends**](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 13:56:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 14:59:50 UTC*
 <!-- SPOTIFY-END -->
