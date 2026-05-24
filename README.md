@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27328bf2f4027c23d7ea1b47ac6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d5b24e609626e20cc88232ea" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1hKHHruGkjaRgEI8j0Nao0">Sometimes</a></strong><br/>
-  <em>by</em> <strong>Sacred holes</strong><br/>
-  <em>Album:</em> Wirehair
+  <strong><a href="https://open.spotify.com/track/46f2ZF4Hd4atVYiih0Iuak">Ghetto Techno - Swimmingpool</a></strong><br/>
+  <em>by</em> <strong>Die Atzen</strong><br/>
+  <em>Album:</em> Atzen Musik Vol.1, 2 & 3
 </p>
 
-<p align="center"><code>2:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:21</code></p>
+<p align="center"><code>0:02</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:33</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)* - `2 min ago`
-- **[The One](https://open.spotify.com/track/7E8DQwDit6atutXWO9ALzN)** by **Suzy Sheer, DJH, Chandler Moss** *(Pure Pulse, Slow Decay, Soft Release)* - `4 min ago`
-- **[The Most Dear and The Future](https://open.spotify.com/track/2LLLBCUedFQyAuYVpAIrIU)** by **ear** *(The Most Dear and The Future)* - `6 min ago`
-- **[Cortt](https://open.spotify.com/track/74Rcdai3OPZa7vBRbhKOtJ)** by **The Hellp** *(Riviera)* - `8 min ago`
-- **[CALM DES FCKDOWN](https://open.spotify.com/track/1xKd1mnYuHPRJXpUseKUMJ)** by **Buckshot** *(CALM DES FCKDOWN)* - `12 min ago`
+- **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)* - `just now`
+- **[cnt live without u :c </3](https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8)** by **KidSnorlax, cholorofilm, Mezha** *(cnt live without u :c </3)* - `1 min ago`
+- **[Danny Phantom](https://open.spotify.com/track/64brWbRMRFMbiqDcgpEh9e)** by **Tamino404** *(schlechte luft)* - `4 min ago`
+- **[Ekliges Spiel](https://open.spotify.com/track/1CbAoGB2AnA8UzlR8kXSWd)** by **Skepsiz, rapha** *(DiY!)* - `8 min ago`
+- **[WOLKE](https://open.spotify.com/track/6QBE1EuFibok8xSexAXvko)** by **Leftovers** *(HEY)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**back to friends**](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 18:11:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 19:39:03 UTC*
 <!-- SPOTIFY-END -->
