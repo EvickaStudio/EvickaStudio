@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f6e933967960fe054d2a6848" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7AtSagWRu7fYtWyxtPxLFL">Sonzai Complex</a></strong><br/>
-  <em>by</em> <strong>idreamu</strong><br/>
-  <em>Album:</em> Sonzai Complex
+  <strong><a href="https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid">Gajówka</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Basspunk 2
 </p>
 
-<p align="center"><code>0:28</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:46</code></p>
+<p align="center"><code>0:27</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[promise](https://open.spotify.com/track/494n8IevftsY1ymyx7DmGH)** by **angelicxmei, utumiyqcom** *(promise)* - `just now`
-- **[Mensch am Mond](https://open.spotify.com/track/4VyZE8o6zBc5LYLRVBgFRl)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `5 min ago`
-- **[Verliebt](https://open.spotify.com/track/7qpBtf5AejkNzhpsuiz3Py)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `8 min ago`
-- **[Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `11 min ago`
-- **[Can't Get Back](https://open.spotify.com/track/7iDYVmxiXcNNr9a7Ity48f)** by **DJmegan23, Take Van** *(Can't Get Back)* - `16 min ago`
+- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `just now`
+- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `2 min ago`
+- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `5 min ago`
+- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `7 min ago`
+- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**back to friends**](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 16:03:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 17:14:39 UTC*
 <!-- SPOTIFY-END -->
