@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27328bf2f4027c23d7ea1b47ac6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4lnfccyNdaPq9GetWGzfid">Gajówka</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Basspunk 2
+  <strong><a href="https://open.spotify.com/track/1hKHHruGkjaRgEI8j0Nao0">Sometimes</a></strong><br/>
+  <em>by</em> <strong>Sacred holes</strong><br/>
+  <em>Album:</em> Wirehair
 </p>
 
-<p align="center"><code>0:27</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:37</code></p>
+<p align="center"><code>2:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `just now`
-- **[Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG)** by **Bassvictim** *(Basspunk 2)* - `2 min ago`
-- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `5 min ago`
-- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `7 min ago`
-- **[Going Home](https://open.spotify.com/track/1f7OtjDeUR2ka71peCzuy7)** by **Bassvictim** *(?)* - `10 min ago`
+- **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)* - `2 min ago`
+- **[The One](https://open.spotify.com/track/7E8DQwDit6atutXWO9ALzN)** by **Suzy Sheer, DJH, Chandler Moss** *(Pure Pulse, Slow Decay, Soft Release)* - `4 min ago`
+- **[The Most Dear and The Future](https://open.spotify.com/track/2LLLBCUedFQyAuYVpAIrIU)** by **ear** *(The Most Dear and The Future)* - `6 min ago`
+- **[Cortt](https://open.spotify.com/track/74Rcdai3OPZa7vBRbhKOtJ)** by **The Hellp** *(Riviera)* - `8 min ago`
+- **[CALM DES FCKDOWN](https://open.spotify.com/track/1xKd1mnYuHPRJXpUseKUMJ)** by **Buckshot** *(CALM DES FCKDOWN)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**back to friends**](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 17:14:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 18:11:34 UTC*
 <!-- SPOTIFY-END -->
