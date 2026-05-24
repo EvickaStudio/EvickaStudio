@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734350116b1085b346f79fc24a" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3h0Xw1OuXBNdCAVKD8WqNP">Leuchtreklame</a></strong><br/>
+  <em>by</em> <strong>Haftbefehl, Schmyt, Bausa, Bazzazian</strong><br/>
+  <em>Album:</em> Das schwarze Album
+</p>
+
+<p align="center"><code>0:04</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[top of the world](https://open.spotify.com/track/1xPPig5WAm2WkiJoCELVsY)** by **twentythree** *(top of the world)* - `10 h ago`
-- **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)* - `10 h ago`
-- **[Entombed](https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5)** by **Deftones** *(Koi No Yokan)* - `10 h ago`
-- **[Last Surprise](https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp)** by **Lyn, アトラスサウンドチーム, ATLUS GAME MUSIC** *(PERSONA5 ORIGINAL SOUNDTRACK)* - `10 h ago`
-- **[tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)** by **lustr** *(tell me)* - `10 h ago`
+- **[Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `2 min ago`
+- **[Outro](https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV)** by **M83** *(Hurry up, We're Dreaming)* - `9 min ago`
+- **[She's A Director](https://open.spotify.com/track/7Diut2Mes2RiRoQqcEUYd3)** by **Mechatok, Isabella Lovestory** *(Wide Awake)* - `13 min ago`
+- **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)* - `16 min ago`
+- **[Crazy](https://open.spotify.com/track/4pQYph2zYy154uMiIfclws)** by **alleycat, dxsh** *(Crazy)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**back to friends**](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 07:39:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-24 09:30:32 UTC*
 <!-- SPOTIFY-END -->
