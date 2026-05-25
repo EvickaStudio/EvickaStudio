@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f757f15c0f5a52a60563fa65" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27371541da100c4f746499441bd" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p">Blizzard Warning</a></strong><br/>
-  <em>by</em> <strong>Somewhere Special</strong><br/>
-  <em>Album:</em> Blizzard Warning
+  <strong><a href="https://open.spotify.com/track/5KcvpWr1dqJoyN3MYlwIJh">Mindestens zu zweit</a></strong><br/>
+  <em>by</em> <strong>102 Boyz, Stacks102, Skoob102, Chapo102</strong><br/>
+  <em>Album:</em> Asozial Allstars 2
 </p>
 
-<p align="center"><code>2:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:58</code></p>
+<p align="center"><code>2:43</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:13</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Intergallactic](https://open.spotify.com/track/1Ad4Uns8u9aytqNdPueSsP)** by **TYM** *(Sandstorm exuleD)* - `2 min ago`
-- **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)* - `3 min ago`
-- **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `5 min ago`
-- **[s0mm3rmytd1r](https://open.spotify.com/track/3JkJGRUVgF0FZeGtRbYJce)** by **TYM** *(s0mm3rmytd1r)* - `8 min ago`
-- **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)* - `11 min ago`
+- **[Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)** by **Zorrovian** *(Lost and Found)* - `2 min ago`
+- **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)* - `6 min ago`
+- **[WHATCHA SAY SPED UP](https://open.spotify.com/track/7dIbRn8JelxgMjzTpG9vGO)** by **HYPERTECHNO** *(WHATCHA SAY SPED UP)* - `8 min ago`
+- **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)* - `10 min ago`
+- **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-25 10:53:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-25 13:55:18 UTC*
 <!-- SPOTIFY-END -->
