@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f757f15c0f5a52a60563fa65" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p">Blizzard Warning</a></strong><br/>
+  <em>by</em> <strong>Somewhere Special</strong><br/>
+  <em>Album:</em> Blizzard Warning
+</p>
+
+<p align="center"><code>2:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[192 - im Bann des Drachen - Teil 31](https://open.spotify.com/track/4aQ9JoMYXYjOQ6kRkwbOBg)** by **Die drei ???** *(192/im Bann des Drachen)* - `9 h ago`
-- **[Like What?](https://open.spotify.com/track/5w6oQssTqyFrskUk3NO6e7)** by **Lil Shine** *(Get Rich Or Die Sippin')* - `9 h ago`
-- **[d(-_-)b dreaming of your latte art d(-_-)b](https://open.spotify.com/track/4rPBYZsRRv5s40nqrrffj3)** by **Mietze Conte, 1tbsp** *(d(-_-)b dreaming of your latte art d(-_-)b)* - `9 h ago`
-- **[out of place](https://open.spotify.com/track/0i4eHIYINVvcBlQBdfEu5g)** by **xnti, Rebzyyx** *(out of place)* - `9 h ago`
-- **[if u dare 2](https://open.spotify.com/track/5MtxzH89fP6Fe1Wqm3EKW9)** by **MGNA Crrrta** *(Beautiful Disaster)* - `9 h ago`
+- **[Intergallactic](https://open.spotify.com/track/1Ad4Uns8u9aytqNdPueSsP)** by **TYM** *(Sandstorm exuleD)* - `2 min ago`
+- **[you'll come back](https://open.spotify.com/track/5o2tqRIy3mcH2hJftqvkkJ)** by **jigitz** *(don't come back)* - `3 min ago`
+- **[Outro](https://open.spotify.com/track/1g09bmDs8k9hiV2mGNlIMj)** by **Whitearmor** *(In the Abyss: Music for Weddings)* - `5 min ago`
+- **[s0mm3rmytd1r](https://open.spotify.com/track/3JkJGRUVgF0FZeGtRbYJce)** by **TYM** *(s0mm3rmytd1r)* - `8 min ago`
+- **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -117,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sometimes I believe in God (Sometimes I believe in Me)**](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-25 06:19:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-25 10:53:32 UTC*
 <!-- SPOTIFY-END -->
