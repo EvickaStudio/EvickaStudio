@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732ab04561f6dd10d93057bdff" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731f37220b9178062dd3322e7d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/12UjLTkkjFCSTwSYnn5BfD">185 - und der Mann ohne Augen - Teil 34</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 185/und der Mann ohne Augen
+  <strong><a href="https://open.spotify.com/track/4p0VZhNS6FgP9q7mGsXZXL">K</a></strong><br/>
+  <em>by</em> <strong>Psyke</strong><br/>
+  <em>Album:</em> Tape 2 / Magie
 </p>
 
-<p align="center"><code>1:09</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>1:38</code></p>
+<p align="center"><code>1:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>1:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[185 - und der Mann ohne Augen - Teil 33](https://open.spotify.com/track/4dV4UlumINQ1HMenQA4WKn)** by **Die drei ???** *(185/und der Mann ohne Augen)* - `1 min ago`
-- **[185 - und der Mann ohne Augen - Teil 32](https://open.spotify.com/track/65tFFzhSa3z9GWinYwDw0n)** by **Die drei ???** *(185/und der Mann ohne Augen)* - `2 min ago`
-- **[185 - und der Mann ohne Augen - Teil 31](https://open.spotify.com/track/7oEdrqmx4tFBXWtLeSa4Y5)** by **Die drei ???** *(185/und der Mann ohne Augen)* - `4 min ago`
-- **[185 - und der Mann ohne Augen - Teil 30](https://open.spotify.com/track/7MdK8WtBfjAvdGm55dni6U)** by **Die drei ???** *(185/und der Mann ohne Augen)* - `5 min ago`
-- **[185 - und der Mann ohne Augen - Teil 29](https://open.spotify.com/track/2wwZQFZ2lsOOFj5C6Qm2G0)** by **Die drei ???** *(185/und der Mann ohne Augen)* - `7 min ago`
+- **[Summer Of Love](https://open.spotify.com/track/77lZj9qB0LL64wX8KfeDU6)** by **Torus, Malibu** *(Summer of Love)* - `1 min ago`
+- **[reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `5 min ago`
+- **[Don't Go](https://open.spotify.com/track/767RhfV1ZiI8OfGT318MxU)** by **Yung Lean** *(Unknown Memory)* - `6 min ago`
+- **[halo_v2](https://open.spotify.com/track/5m9Evu44eFqjt5Edfy7nPI)** by **Baileyrp** *(halo_v2)* - `9 min ago`
+- **[Daikirai](https://open.spotify.com/track/5ekgmxmiF1KePga0RVjyYK)** by **Marjorie -W.C. Sinclair** *(22nd Chances)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-25 16:15:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-25 18:05:54 UTC*
 <!-- SPOTIFY-END -->
