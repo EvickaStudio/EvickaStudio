@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731f37220b9178062dd3322e7d" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4p0VZhNS6FgP9q7mGsXZXL">K</a></strong><br/>
-  <em>by</em> <strong>Psyke</strong><br/>
-  <em>Album:</em> Tape 2 / Magie
-</p>
-
-<p align="center"><code>1:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>1:58</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Summer Of Love](https://open.spotify.com/track/77lZj9qB0LL64wX8KfeDU6)** by **Torus, Malibu** *(Summer of Love)* - `1 min ago`
-- **[reset_hallo](https://open.spotify.com/track/0IL0VQe0n0Jeh7kx4nKhhx)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `5 min ago`
-- **[Don't Go](https://open.spotify.com/track/767RhfV1ZiI8OfGT318MxU)** by **Yung Lean** *(Unknown Memory)* - `6 min ago`
-- **[halo_v2](https://open.spotify.com/track/5m9Evu44eFqjt5Edfy7nPI)** by **Baileyrp** *(halo_v2)* - `9 min ago`
-- **[Daikirai](https://open.spotify.com/track/5ekgmxmiF1KePga0RVjyYK)** by **Marjorie -W.C. Sinclair** *(22nd Chances)* - `13 min ago`
+- **[Liebe in Stereo](https://open.spotify.com/track/6S95L5dj73a4q79KFRDcAw)** by **Baby B3ns, Yung Hurn** *(Liebe in Stereo)* - `1 h ago`
+- **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)* - `1 h ago`
+- **[taschen schwer](https://open.spotify.com/track/4JF53Qqms3V05GbNR5kWB0)** by **5v, James Jetski** *(taschen schwer)* - `1 h ago`
+- **[think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo)** by **oaf1, Caspr** *(think abt it)* - `1 h ago`
+- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-25 18:05:54 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-25 19:56:38 UTC*
 <!-- SPOTIFY-END -->
