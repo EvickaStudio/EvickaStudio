@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27371541da100c4f746499441bd" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2732ab04561f6dd10d93057bdff" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5KcvpWr1dqJoyN3MYlwIJh">Mindestens zu zweit</a></strong><br/>
-  <em>by</em> <strong>102 Boyz, Stacks102, Skoob102, Chapo102</strong><br/>
-  <em>Album:</em> Asozial Allstars 2
+  <strong><a href="https://open.spotify.com/track/12UjLTkkjFCSTwSYnn5BfD">185 - und der Mann ohne Augen - Teil 34</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 185/und der Mann ohne Augen
 </p>
 
-<p align="center"><code>2:43</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:13</code></p>
+<p align="center"><code>1:09</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>1:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Spiral of Thought](https://open.spotify.com/track/2JpXF8IHfz4YmXIuSa4rM4)** by **Zorrovian** *(Lost and Found)* - `2 min ago`
-- **[im addicted](https://open.spotify.com/track/1zDOqZnma5OgU42ABvu3CZ)** by **Gutzxx, misalive** *(im addicted)* - `6 min ago`
-- **[WHATCHA SAY SPED UP](https://open.spotify.com/track/7dIbRn8JelxgMjzTpG9vGO)** by **HYPERTECHNO** *(WHATCHA SAY SPED UP)* - `8 min ago`
-- **[Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih)** by **Kanye West, Lupe Fiasco** *(Late Registration)* - `10 min ago`
-- **[tell me where we are](https://open.spotify.com/track/3UENPHJvEpEsxJOwj6YgDa)** by **5v, Crescent** *(tell me where we are)* - `14 min ago`
+- **[185 - und der Mann ohne Augen - Teil 33](https://open.spotify.com/track/4dV4UlumINQ1HMenQA4WKn)** by **Die drei ???** *(185/und der Mann ohne Augen)* - `1 min ago`
+- **[185 - und der Mann ohne Augen - Teil 32](https://open.spotify.com/track/65tFFzhSa3z9GWinYwDw0n)** by **Die drei ???** *(185/und der Mann ohne Augen)* - `2 min ago`
+- **[185 - und der Mann ohne Augen - Teil 31](https://open.spotify.com/track/7oEdrqmx4tFBXWtLeSa4Y5)** by **Die drei ???** *(185/und der Mann ohne Augen)* - `4 min ago`
+- **[185 - und der Mann ohne Augen - Teil 30](https://open.spotify.com/track/7MdK8WtBfjAvdGm55dni6U)** by **Die drei ???** *(185/und der Mann ohne Augen)* - `5 min ago`
+- **[185 - und der Mann ohne Augen - Teil 29](https://open.spotify.com/track/2wwZQFZ2lsOOFj5C6Qm2G0)** by **Die drei ???** *(185/und der Mann ohne Augen)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-25 13:55:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-25 16:15:19 UTC*
 <!-- SPOTIFY-END -->
