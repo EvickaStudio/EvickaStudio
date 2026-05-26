@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116">Family Business</a></strong><br/>
-  <em>by</em> <strong>Kanye West</strong><br/>
-  <em>Album:</em> The College Dropout
-</p>
-
-<p align="center"><code>4:31</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:38</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Hero (Wind Beneath My Wings)](https://open.spotify.com/track/0WninN31mi3UPt9p67uCG0)** by **Gladys Knight & The Pips** *(Visions (Expanded Edition))* - `4 min ago`
-- **[WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk)** by **Valexus, Culcha Candela** *(WILDES DING)* - `8 min ago`
-- **[In My Mind](https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X)** by **DJ Worm, Eurohead, SPÖKE** *(In My Heart / In My Mind)* - `10 min ago`
-- **[Pollen](https://open.spotify.com/track/3Xh9p0irRLUX83LSt22x4g)** by **Ecco2k** *(Pollen)* - `14 min ago`
-- **[Swan Lake (Suite), Op. 20a, TH.219: I. Scene - Swan Theme](https://open.spotify.com/track/6JyihARD2zGUa4uB4NfQiv)** by **Pyotr Ilyich Tchaikovsky, Czech Symphony Orchestra, Michaela Rózsa Růžičková** *(Tchaikovsky: Swan Lake Suites)* - `17 min ago`
+- **[HEY!](https://open.spotify.com/track/7G3KRgDd8ZvQ3hctPB0B4r)** by **Pink Katana** *(HEY!)* - `1 h ago`
+- **[Forever](https://open.spotify.com/track/0JuxBkSLot8GtQ1lC2QDGS)** by **Alex G** *(Trick)* - `1 h ago`
+- **[Zucker für mich](https://open.spotify.com/track/5Xo3U5b9Kj2PKHWZHAk14c)** by **diggidaniel** *(Zucker für mich)* - `1 h ago`
+- **[Let Me Down!](https://open.spotify.com/track/697IKoErv9oo0BWNTyP3SW)** by **Clover!** *(Let Me Down!)* - `1 h ago`
+- **[Family Business](https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116)** by **Kanye West** *(The College Dropout)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-26 21:44:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-26 22:56:01 UTC*
 <!-- SPOTIFY-END -->
