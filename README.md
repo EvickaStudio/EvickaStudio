@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol)** by **03 Greedo** *(The Wolf of Grape Street)* - `2 h ago`
-- **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)* - `2 h ago`
-- **[Megablast](https://open.spotify.com/track/4kSF9vv3i4IrMVew2uwMCs)** by **Downhill2k01** *(Butterfly Tetrad)* - `2 h ago`
-- **[Swan Lake (Suite), Op. 20a, TH.219: I. Scene - Swan Theme](https://open.spotify.com/track/6JyihARD2zGUa4uB4NfQiv)** by **Pyotr Ilyich Tchaikovsky, Czech Symphony Orchestra, Michaela Rózsa Růžičková** *(Tchaikovsky: Swan Lake Suites)* - `2 h ago`
-- **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)* - `2 h ago`
+- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 20](https://open.spotify.com/track/0vI3n5UKCf4lpzuDwNhxHs)** by **Die drei ???** *(Und der dreiTag)* - `20 min ago`
+- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 19](https://open.spotify.com/track/0R7tktPQSQIGMvhWRAOHwy)** by **Die drei ???** *(Und der dreiTag)* - `22 min ago`
+- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 18](https://open.spotify.com/track/7bPl0OsFyjThoBJvAZmsJW)** by **Die drei ???** *(Und der dreiTag)* - `24 min ago`
+- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 17](https://open.spotify.com/track/00YPlWpULa2bHXMqR2UzfJ)** by **Die drei ???** *(Und der dreiTag)* - `26 min ago`
+- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 16](https://open.spotify.com/track/55hOKn3JX1JcFu3natnLL7)** by **Die drei ???** *(Und der dreiTag)* - `28 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-27 22:06:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-27 23:36:54 UTC*
 <!-- SPOTIFY-END -->
