@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273684fee42ea6f072d5e0f1454" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/57NzKdTrwwBNTgXSvaRqha">Keine Lovesongs</a></strong><br/>
-  <em>by</em> <strong>grim noir</strong><br/>
-  <em>Album:</em> Keine Lovesongs
-</p>
-
-<p align="center"><code>1:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>1:48</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[deine eltern hatten recht](https://open.spotify.com/track/3g6liNoVBDIKXncTP40U9p)** by **RYLO** *(deine eltern hatten recht)* - `1 min ago`
-- **[Crystal Clear](https://open.spotify.com/track/23dcikZrfmVrFewZrThkLo)** by **Crystal Statues, Crescent, STM, resiiii** *(Crystal Clear)* - `3 min ago`
-- **[I'm So Happy](https://open.spotify.com/track/27lrWvyRfRh7Q53jzDkEVl)** by **Elliott Fullam** *(What's Wrong)* - `7 min ago`
-- **[Arterien](https://open.spotify.com/track/1FhifNle479MRbI55mDr5T)** by **TEMMIS** *(Arterien)* - `11 min ago`
-- **[Gespenst](https://open.spotify.com/track/47AX5Y7JfdnHCNcRNThzPT)** by **sparr00w** *(Nadja)* - `13 min ago`
+- **[Substance](https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol)** by **03 Greedo** *(The Wolf of Grape Street)* - `38 min ago`
+- **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)* - `42 min ago`
+- **[Megablast](https://open.spotify.com/track/4kSF9vv3i4IrMVew2uwMCs)** by **Downhill2k01** *(Butterfly Tetrad)* - `45 min ago`
+- **[Swan Lake (Suite), Op. 20a, TH.219: I. Scene - Swan Theme](https://open.spotify.com/track/6JyihARD2zGUa4uB4NfQiv)** by **Pyotr Ilyich Tchaikovsky, Czech Symphony Orchestra, Michaela Rózsa Růžičková** *(Tchaikovsky: Swan Lake Suites)* - `46 min ago`
+- **[morgengrau](https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy)** by **benzii** *(morgengrau)* - `51 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-27 17:56:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-27 20:06:20 UTC*
 <!-- SPOTIFY-END -->
