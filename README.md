@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)* - `4 min ago`
-- **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))* - `6 min ago`
-- **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by **RYLO, veil** *(tränen statt wut)* - `11 min ago`
-- **[obsessixn](https://open.spotify.com/track/4OCJP4LxX8bzJftHAmXCAi)** by **whatsaheart** *(obsessixn)* - `13 min ago`
-- **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)* - `15 min ago`
+- **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)* - `2 h ago`
+- **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))* - `2 h ago`
+- **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by **RYLO, veil** *(tränen statt wut)* - `2 h ago`
+- **[obsessixn](https://open.spotify.com/track/4OCJP4LxX8bzJftHAmXCAi)** by **whatsaheart** *(obsessixn)* - `2 h ago`
+- **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-28 19:20:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-28 21:28:29 UTC*
 <!-- SPOTIFY-END -->
