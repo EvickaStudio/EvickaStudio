@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27326b7ae0b099c6a24717666ca" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4MteyCKclgLvgk57eClYsa">086 - Nacht in Angst - Teil 28</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 086/Nacht in Angst
+</p>
+
+<p align="center"><code>0:04</code> ▓░░░░░░░░░░░░░░░░░░░ <code>1:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[DIAMONDZR4EVER](https://open.spotify.com/track/764fsUhWV77dnFkMP2k0Mx)** by **Rooster** *(Rooster Debut)* - `2 h ago`
-- **[Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY)** by **Gladys Knight & The Pips** *(Imagination (Expanded Edition))* - `2 h ago`
-- **[tränen statt wut](https://open.spotify.com/track/0UvlgbB2Lx4ffFuy0fvc7q)** by **RYLO, veil** *(tränen statt wut)* - `2 h ago`
-- **[obsessixn](https://open.spotify.com/track/4OCJP4LxX8bzJftHAmXCAi)** by **whatsaheart** *(obsessixn)* - `2 h ago`
-- **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)* - `2 h ago`
+- **[086 - Nacht in Angst - Teil 26](https://open.spotify.com/track/0NZIQr9YGLF1WVdznWZEgb)** by **Die drei ???** *(086/Nacht in Angst)* - `1 min ago`
+- **[086 - Nacht in Angst - Teil 25](https://open.spotify.com/track/4PFtGB09COUnauyrdzRBJs)** by **Die drei ???** *(086/Nacht in Angst)* - `2 min ago`
+- **[086 - Nacht in Angst - Teil 24](https://open.spotify.com/track/27kDs1z2YsPvni91Sdzxb3)** by **Die drei ???** *(086/Nacht in Angst)* - `4 min ago`
+- **[086 - Nacht in Angst - Teil 23](https://open.spotify.com/track/1ofG5WLWNcuh45mryQwET9)** by **Die drei ???** *(086/Nacht in Angst)* - `5 min ago`
+- **[086 - Nacht in Angst - Teil 22](https://open.spotify.com/track/4Btqkxqths9lQXo8kegI2N)** by **Die drei ???** *(086/Nacht in Angst)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-28 21:28:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-28 22:52:19 UTC*
 <!-- SPOTIFY-END -->
