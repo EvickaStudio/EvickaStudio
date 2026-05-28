@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 20](https://open.spotify.com/track/0vI3n5UKCf4lpzuDwNhxHs)** by **Die drei ???** *(Und der dreiTag)* - `6 h ago`
-- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 19](https://open.spotify.com/track/0R7tktPQSQIGMvhWRAOHwy)** by **Die drei ???** *(Und der dreiTag)* - `6 h ago`
-- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 18](https://open.spotify.com/track/7bPl0OsFyjThoBJvAZmsJW)** by **Die drei ???** *(Und der dreiTag)* - `6 h ago`
-- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 17](https://open.spotify.com/track/00YPlWpULa2bHXMqR2UzfJ)** by **Die drei ???** *(Und der dreiTag)* - `6 h ago`
-- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 16](https://open.spotify.com/track/55hOKn3JX1JcFu3natnLL7)** by **Die drei ???** *(Und der dreiTag)* - `6 h ago`
+- **[maul lofi ~ star wars](https://open.spotify.com/track/34sn9Ssy6r3H33WA33RSn4)** by **Closed on Sunday** *(maul lofi ~ star wars)* - `1 h ago`
+- **[girl i never met](https://open.spotify.com/track/5UEUBQbJYh08b8N9HTWIIr)** by **syris** *(girl i never met)* - `1 h ago`
+- **[Be Like You](https://open.spotify.com/track/3gczPiwwcGryB8zuYKYm1m)** by **Thrilliam Angels, Helen Sun, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `1 h ago`
+- **[Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7)** by **Tom Petty** *(Full Moon Fever)* - `1 h ago`
+- **[Swan Lake (Suite), Op. 20a, TH.219: I. Scene - Swan Theme](https://open.spotify.com/track/6JyihARD2zGUa4uB4NfQiv)** by **Pyotr Ilyich Tchaikovsky, Czech Symphony Orchestra, Michaela Rózsa Růžičková** *(Tchaikovsky: Swan Lake Suites)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-28 05:42:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-28 09:03:38 UTC*
 <!-- SPOTIFY-END -->
