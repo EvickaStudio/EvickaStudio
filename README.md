@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 20](https://open.spotify.com/track/0vI3n5UKCf4lpzuDwNhxHs)** by **Die drei ???** *(Und der dreiTag)* - `2 h ago`
-- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 19](https://open.spotify.com/track/0R7tktPQSQIGMvhWRAOHwy)** by **Die drei ???** *(Und der dreiTag)* - `2 h ago`
-- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 18](https://open.spotify.com/track/7bPl0OsFyjThoBJvAZmsJW)** by **Die drei ???** *(Und der dreiTag)* - `2 h ago`
-- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 17](https://open.spotify.com/track/00YPlWpULa2bHXMqR2UzfJ)** by **Die drei ???** *(Und der dreiTag)* - `2 h ago`
-- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 16](https://open.spotify.com/track/55hOKn3JX1JcFu3natnLL7)** by **Die drei ???** *(Und der dreiTag)* - `2 h ago`
+- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 20](https://open.spotify.com/track/0vI3n5UKCf4lpzuDwNhxHs)** by **Die drei ???** *(Und der dreiTag)* - `6 h ago`
+- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 19](https://open.spotify.com/track/0R7tktPQSQIGMvhWRAOHwy)** by **Die drei ???** *(Und der dreiTag)* - `6 h ago`
+- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 18](https://open.spotify.com/track/7bPl0OsFyjThoBJvAZmsJW)** by **Die drei ???** *(Und der dreiTag)* - `6 h ago`
+- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 17](https://open.spotify.com/track/00YPlWpULa2bHXMqR2UzfJ)** by **Die drei ???** *(Und der dreiTag)* - `6 h ago`
+- **[Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 16](https://open.spotify.com/track/55hOKn3JX1JcFu3natnLL7)** by **Die drei ???** *(Und der dreiTag)* - `6 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-28 01:23:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-28 05:42:07 UTC*
 <!-- SPOTIFY-END -->
