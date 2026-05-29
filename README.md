@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27326b7ae0b099c6a24717666ca" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4MteyCKclgLvgk57eClYsa">086 - Nacht in Angst - Teil 28</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 086/Nacht in Angst
-</p>
-
-<p align="center"><code>0:04</code> ▓░░░░░░░░░░░░░░░░░░░ <code>1:30</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[086 - Nacht in Angst - Teil 26](https://open.spotify.com/track/0NZIQr9YGLF1WVdznWZEgb)** by **Die drei ???** *(086/Nacht in Angst)* - `1 min ago`
-- **[086 - Nacht in Angst - Teil 25](https://open.spotify.com/track/4PFtGB09COUnauyrdzRBJs)** by **Die drei ???** *(086/Nacht in Angst)* - `2 min ago`
-- **[086 - Nacht in Angst - Teil 24](https://open.spotify.com/track/27kDs1z2YsPvni91Sdzxb3)** by **Die drei ???** *(086/Nacht in Angst)* - `4 min ago`
-- **[086 - Nacht in Angst - Teil 23](https://open.spotify.com/track/1ofG5WLWNcuh45mryQwET9)** by **Die drei ???** *(086/Nacht in Angst)* - `5 min ago`
-- **[086 - Nacht in Angst - Teil 22](https://open.spotify.com/track/4Btqkxqths9lQXo8kegI2N)** by **Die drei ???** *(086/Nacht in Angst)* - `7 min ago`
+- **[144 - Zwillinge der Finsternis - Teil 29](https://open.spotify.com/track/5jVdlhlctBKyOZizfIH9pG)** by **Die drei ???** *(144/Zwillinge der Finsternis)* - `51 min ago`
+- **[086 - Nacht in Angst - Teil 40](https://open.spotify.com/track/4N4814UZyTGqEQHhqaWAyg)** by **Die drei ???** *(086/Nacht in Angst)* - `53 min ago`
+- **[086 - Nacht in Angst - Teil 39](https://open.spotify.com/track/5ZXUyuN9BqRW9MSQaCZiq8)** by **Die drei ???** *(086/Nacht in Angst)* - `54 min ago`
+- **[086 - Nacht in Angst - Teil 38](https://open.spotify.com/track/5yXuUYsbVtoomszh3bWNVr)** by **Die drei ???** *(086/Nacht in Angst)* - `55 min ago`
+- **[086 - Nacht in Angst - Teil 37](https://open.spotify.com/track/7wTtaNCS9oeQBkt7RbTvlS)** by **Die drei ???** *(086/Nacht in Angst)* - `57 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-28 22:52:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-29 00:04:08 UTC*
 <!-- SPOTIFY-END -->
