@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[144 - Zwillinge der Finsternis - Teil 29](https://open.spotify.com/track/5jVdlhlctBKyOZizfIH9pG)** by **Die drei ???** *(144/Zwillinge der Finsternis)* - `9 h ago`
-- **[086 - Nacht in Angst - Teil 40](https://open.spotify.com/track/4N4814UZyTGqEQHhqaWAyg)** by **Die drei ???** *(086/Nacht in Angst)* - `9 h ago`
-- **[086 - Nacht in Angst - Teil 39](https://open.spotify.com/track/5ZXUyuN9BqRW9MSQaCZiq8)** by **Die drei ???** *(086/Nacht in Angst)* - `9 h ago`
-- **[086 - Nacht in Angst - Teil 38](https://open.spotify.com/track/5yXuUYsbVtoomszh3bWNVr)** by **Die drei ???** *(086/Nacht in Angst)* - `9 h ago`
-- **[086 - Nacht in Angst - Teil 37](https://open.spotify.com/track/7wTtaNCS9oeQBkt7RbTvlS)** by **Die drei ???** *(086/Nacht in Angst)* - `9 h ago`
+- **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)* - `35 min ago`
+- **[always pick u - sped up](https://open.spotify.com/track/7ijaMeAC3WtrDfPvuzBS65)** by **snor, Myojin** *(always pick u #avemaria </33 :c)* - `38 min ago`
+- **[kidssss](https://open.spotify.com/track/4xS2rJqytGyLfyYtAifEqZ)** by **Tommy Drama, Lvl99magic** *(kidssss)* - `41 min ago`
+- **[fresh air x](https://open.spotify.com/track/1mMfRPvboh5RHbkaW3uF1y)** by **mint** *(fresh air x)* - `43 min ago`
+- **[Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF)** by **Cults** *(Offering)* - `45 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-29 08:27:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-29 11:44:55 UTC*
 <!-- SPOTIFY-END -->
