@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ">Suffocation</a></strong><br/>
+  <em>by</em> <strong>Crystal Castles</strong><br/>
+  <em>Album:</em> Crystal Castles (II)
+</p>
+
+<p align="center"><code>2:24</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>4:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[du bist mir egal](https://open.spotify.com/track/2H2Y5YSMxH1QFoERMG3QeD)** by **Pink Katana** *(du bist mir egal)* - `5 min ago`
-- **[king of the darkness](https://open.spotify.com/track/5Om2he2ktyNaofIjKjdRKf)** by **2hollis** *(White Tiger)* - `8 min ago`
-- **[avatar](https://open.spotify.com/track/2WzJU6E3ES4rUx5Sk3DTkH)** by **xo** *(avatar / anima)* - `11 min ago`
-- **[This One Is for You (RIP Dad)](https://open.spotify.com/track/0Fi62HR4UwkdFlvoVAUP1z)** by **Yung City** *(This One Is for You (RIP Dad))* - `13 min ago`
-- **[DING DONG (feat. Mietze Conte)](https://open.spotify.com/track/3O79HkGiN07QB7kJ3gdCgi)** by **Yung Hurn, Mietze Conte** *(CRAZY HORSE CLUB MIXTAPE, VOL. 1)* - `16 min ago`
+- **[Victim](https://open.spotify.com/track/7EDtVvIGu5GOad04oh3UYx)** by **Bladee, Thaiboy Digital, Ecco2k** *(Trash Island)* - `2 min ago`
+- **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)* - `4 min ago`
+- **[jeans unten](https://open.spotify.com/track/5EszJ6Av72Chv7s6kJj41e)** by **kevin** *(jeans unten)* - `6 min ago`
+- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `9 min ago`
+- **[hello kitty murder case](https://open.spotify.com/track/526R7ixvIbOQpugv6PfwDo)** by **luu, mehlhaltig** *(immenser pflegefall)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 16:43:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 17:45:53 UTC*
 <!-- SPOTIFY-END -->
