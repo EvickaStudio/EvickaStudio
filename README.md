@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273834d351c8c2749512e80d248" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27370e35bb4d082b678a8069384" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3Zj1nSbpkD7FvoEUikE4jW">100 TAUSEND (Demo)</a></strong><br/>
-  <em>by</em> <strong>Yung Hurn</strong><br/>
-  <em>Album:</em> 100 TAUSEND (Demo)
+  <strong><a href="https://open.spotify.com/track/6ba5jsjL6Ed8FZICtXEB3f">Doktorspiele</a></strong><br/>
+  <em>by</em> <strong>Alex C., Yass</strong><br/>
+  <em>Album:</em> Euphorie
 </p>
 
-<p align="center"><code>0:30</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:03</code></p>
+<p align="center"><code>0:53</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:46</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)* - `just now`
-- **[ID63](https://open.spotify.com/track/5t1qEtsp5JgNHiqjYweBjF)** by **yaego, jsn** *(ID63)* - `3 min ago`
-- **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)* - `7 min ago`
-- **[Battlefield Freestyle](https://open.spotify.com/track/3Rm5Z1KgyzZnBGsiUU6tV4)** by **Symba** *(Battlefield Freestyle)* - `11 min ago`
-- **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)* - `13 min ago`
+- **[nuts](https://open.spotify.com/track/4k3xDpAdBuM17mNNHhOZkK)** by **Lil Peep, rainy bear** *(LIVE FOREVER)* - `just now`
+- **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)* - `2 min ago`
+- **[Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7)** by **Tom Petty** *(Full Moon Fever)* - `4 min ago`
+- **[SPIT IN MY FACE!](https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5)** by **ThxSoMch** *(SPIT IN MY FACE!)* - `8 min ago`
+- **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 12:49:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 14:24:13 UTC*
 <!-- SPOTIFY-END -->
