@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Love](https://open.spotify.com/track/1LMsIEtPVyTTt4NvjckrqL)** by **the sound chalk makes** *(Re:)* - `1 h ago`
-- **[stomping](https://open.spotify.com/track/3lIQHM52geT7GdFzXYv2S1)** by **Swords2, smokedope2016** *(The Long Sleep)* - `1 h ago`
-- **[Reno Moon](https://open.spotify.com/track/3CTRBUEUGmJnsmDu5W4iSb)** by **Blaketheman1000, Nikki Nair** *(City of Careless Angels)* - `1 h ago`
-- **[YSL](https://open.spotify.com/track/5MuxHXUzhyetk9UaAvWtSJ)** by **A Good Year, Horse Vision** *(Play)* - `1 h ago`
-- **[Under my Umbrella](https://open.spotify.com/track/6tFpIyb06mcdkAZhasVkNA)** by **Bladee** *(Sulfur Surfer)* - `1 h ago`
+- **[Love](https://open.spotify.com/track/1LMsIEtPVyTTt4NvjckrqL)** by **the sound chalk makes** *(Re:)* - `2 h ago`
+- **[stomping](https://open.spotify.com/track/3lIQHM52geT7GdFzXYv2S1)** by **Swords2, smokedope2016** *(The Long Sleep)* - `2 h ago`
+- **[Reno Moon](https://open.spotify.com/track/3CTRBUEUGmJnsmDu5W4iSb)** by **Blaketheman1000, Nikki Nair** *(City of Careless Angels)* - `2 h ago`
+- **[YSL](https://open.spotify.com/track/5MuxHXUzhyetk9UaAvWtSJ)** by **A Good Year, Horse Vision** *(Play)* - `2 h ago`
+- **[Under my Umbrella](https://open.spotify.com/track/6tFpIyb06mcdkAZhasVkNA)** by **Bladee** *(Sulfur Surfer)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 22:36:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 23:40:15 UTC*
 <!-- SPOTIFY-END -->
