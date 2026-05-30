@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a39e67ff3da51f3263bfff6e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273cafba2edd21f698aae6d7047" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7yoXY59Fon8io1k2lir2z3">Dog Tag freestyle</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Forever
+  <strong><a href="https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c">Valley Serpent</a></strong><br/>
+  <em>by</em> <strong>ear</strong><br/>
+  <em>Album:</em> Fetish / Valley Serpent
 </p>
 
-<p align="center"><code>1:21</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:24</code></p>
+<p align="center"><code>2:00</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:27</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[L-ON-D-ON](https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp)** by **Bassvictim** *(Basspunk)* - `1 min ago`
-- **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)* - `9 min ago`
-- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `11 min ago`
-- **[4AM](https://open.spotify.com/track/5DdjDXsxHINUCxHbE30PW5)** by **acyfm, vic** *(Garden)* - `17 min ago`
-- **[Subaru](https://open.spotify.com/track/5ZgByn6HLdOu6oY0MXMPSJ)** by **dose** *(Subaru)* - `19 min ago`
+- **[Euro Dollar Yen](https://open.spotify.com/track/5HSogMltSqpISsFZWfvNwU)** by **Thaiboy Digital, swedm®** *(Paradise)* - `2 min ago`
+- **[Rétard Angel .](https://open.spotify.com/track/5yEW4cx3x9sgfs3j5kI2qZ)** by **fakemink** *(Terrified .)* - `4 min ago`
+- **[Electronic Eyes](https://open.spotify.com/track/5toBKJkz6YzVN25mXyEOSG)** by **the sound chalk makes** *(Re:)* - `7 min ago`
+- **[Fox & Birch (feat. Current 93)](https://open.spotify.com/track/6y02bJfLiP8Ow6xi5kEvuT)** by **Bladee, Current 93** *(Sulfur Surfer)* - `10 min ago`
+- **[Grow Up!!!](https://open.spotify.com/track/6jDpIANbnTlhBL6NWfwxAV)** by **Bassvictim** *(Forever)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 19:00:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 20:15:58 UTC*
 <!-- SPOTIFY-END -->
