@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2735ef315d54fd701725176292e" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM">Rather Be (feat. Jess Glynne)</a></strong><br/>
+  <em>by</em> <strong>Clean Bandit, Jess Glynne</strong><br/>
+  <em>Album:</em> New Eyes
+</p>
+
+<p align="center"><code>1:20</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:47</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[upset](https://open.spotify.com/track/08frdJtry3XpjcZ0JhcEtp)** by **5v** *(upset)* - `15 h ago`
-- **[Borderline](https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc)** by **Ely Oaks, LAVINIA** *(Borderline)* - `15 h ago`
-- **[Broken Wings (I Don't Feel A Thing)](https://open.spotify.com/track/0FsMbOPLgOsPGFV0n2PfwM)** by **Walter Frosch** *(Broken Wings (I Don't Feel A Thing))* - `15 h ago`
-- **[SAUDi](https://open.spotify.com/track/2q16HuFmZAPRMSeEnqzWJE)** by **agelast222, gard** *(SOLAR TACTICS)* - `15 h ago`
-- **[Kisses](https://open.spotify.com/track/1YCQLUpd4HAvpITVDglW1F)** by **Lil Alice** *(Sighs)* - `15 h ago`
+- **[Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03)** by **southstar** *(Miss You)* - `1 min ago`
+- **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)* - `4 min ago`
+- **[Father Stretch My Hands Pt. 1](https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8)** by **Kanye West** *(The Life Of Pablo)* - `7 min ago`
+- **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)* - `9 min ago`
+- **[Just The Way You Are](https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj)** by **Milky** *(Just The Way You Are)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 05:27:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 08:01:43 UTC*
 <!-- SPOTIFY-END -->
