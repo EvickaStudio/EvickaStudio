@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273834d351c8c2749512e80d248" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3Zj1nSbpkD7FvoEUikE4jW">100 TAUSEND (Demo)</a></strong><br/>
+  <em>by</em> <strong>Yung Hurn</strong><br/>
+  <em>Album:</em> 100 TAUSEND (Demo)
+</p>
+
+<p align="center"><code>0:30</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03)** by **southstar** *(Miss You)* - `3 h ago`
-- **[Subwoofer](https://open.spotify.com/track/6zvjJxwWTuDnwbTmRziJI7)** by **SHINSKY x DIMA** *(Subwoofer)* - `3 h ago`
-- **[Father Stretch My Hands Pt. 1](https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8)** by **Kanye West** *(The Life Of Pablo)* - `3 h ago`
-- **[Heart Racer](https://open.spotify.com/track/3kWKvAIY6UthLDPChoe07G)** by **RudeClub** *(Heart Racer)* - `3 h ago`
-- **[Just The Way You Are](https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj)** by **Milky** *(Just The Way You Are)* - `3 h ago`
+- **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)* - `just now`
+- **[ID63](https://open.spotify.com/track/5t1qEtsp5JgNHiqjYweBjF)** by **yaego, jsn** *(ID63)* - `3 min ago`
+- **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)* - `7 min ago`
+- **[Battlefield Freestyle](https://open.spotify.com/track/3Rm5Z1KgyzZnBGsiUU6tV4)** by **Symba** *(Battlefield Freestyle)* - `11 min ago`
+- **[Sob Story 2.0](https://open.spotify.com/track/3Mb8ByE1ONNyADkbYD33NE)** by **Rooster** *(Rooster Debut)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 11:44:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-30 12:49:04 UTC*
 <!-- SPOTIFY-END -->
