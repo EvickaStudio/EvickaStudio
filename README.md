@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273034852ce4fdb3e4ec290736f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d6f08fbe7333bfa058103006" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/26liZt31PK0EQe80jtvnyr">horny club</a></strong><br/>
-  <em>by</em> <strong>kysmelo, heav3nlink</strong><br/>
-  <em>Album:</em> horny club
+  <strong><a href="https://open.spotify.com/track/3x3YNvS1YK94GmKAZLyTIT">way2slow!</a></strong><br/>
+  <em>by</em> <strong>elctrnc/sed:/, hateoryx, loony</strong><br/>
+  <em>Album:</em> way2slow!
 </p>
 
-<p align="center"><code>2:04</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:17</code></p>
+<p align="center"><code>0:58</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[don't fall asleep](https://open.spotify.com/track/4J87yQByw5bvsR2uy6mlTk)** by **ama???!!!!, cholorofilm** *(don't fall asleep)* - `2 min ago`
-- **[AM I ENOUGH](https://open.spotify.com/track/2RUH0TywRHpgc1yI3WJfXa)** by **lavendr, cy4ne** *(AM I ENOUGH)* - `4 min ago`
-- **[iPod](https://open.spotify.com/track/0rnT0NJhBDET7nQtVKvNFh)** by **hateoryx, KidSnorlax** *(iPod)* - `6 min ago`
-- **[i dont know](https://open.spotify.com/track/4zXzLHcB7g2kr2wdai9twi)** by **cy4ne** *(i dont know)* - `8 min ago`
-- **[Scars](https://open.spotify.com/track/1RT6dBCo8hlfBUQaTYYkQN)** by **CHOPA** *(Scars)* - `13 min ago`
+- **[scenegirl !](https://open.spotify.com/track/0v5u9m5be8yWolFjYa5PmB)** by **ama???!!!!** *(scenegirl !)* - `just now`
+- **[what u want](https://open.spotify.com/track/6lgoMQpz5SXyckWX6KdgRa)** by **skypebf, FabFantasy, 2040x2040** *(what u want)* - `2 min ago`
+- **[hypoderme](https://open.spotify.com/track/1AtSNa5Tm6yqQIOAMAAKK4)** by **yungmii** *(hypoderme)* - `4 min ago`
+- **[effy](https://open.spotify.com/track/7Mi195iVKqG3t4hSNTppKW)** by **ama???!!!!** *(© 2007)* - `7 min ago`
+- **[always pick u #avemaria </33 :c](https://open.spotify.com/track/685BOlLQqqLeHeEdfMbl6m)** by **KidSnorlax, Myojin, cholorofilm** *(always pick u #avemaria </33 :c)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 15:45:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 16:58:18 UTC*
 <!-- SPOTIFY-END -->
