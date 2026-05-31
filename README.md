@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27394df81c8f98d0bcd305908bb" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273034852ce4fdb3e4ec290736f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO">sur la piste</a></strong><br/>
-  <em>by</em> <strong>ama???!!!!, kemoxoo</strong><br/>
-  <em>Album:</em> © 2007
+  <strong><a href="https://open.spotify.com/track/26liZt31PK0EQe80jtvnyr">horny club</a></strong><br/>
+  <em>by</em> <strong>kysmelo, heav3nlink</strong><br/>
+  <em>Album:</em> horny club
 </p>
 
-<p align="center"><code>0:53</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:35</code></p>
+<p align="center"><code>2:04</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>2:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Downer](https://open.spotify.com/track/04Ixo22901T3hkpxGHs75x)** by **uusymon, SGUCCY** *(Stardust)* - `2 min ago`
-- **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)* - `4 min ago`
-- **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)* - `6 min ago`
-- **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by **RudeClub, oaf1** *(Crash)* - `8 min ago`
-- **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)* - `10 min ago`
+- **[don't fall asleep](https://open.spotify.com/track/4J87yQByw5bvsR2uy6mlTk)** by **ama???!!!!, cholorofilm** *(don't fall asleep)* - `2 min ago`
+- **[AM I ENOUGH](https://open.spotify.com/track/2RUH0TywRHpgc1yI3WJfXa)** by **lavendr, cy4ne** *(AM I ENOUGH)* - `4 min ago`
+- **[iPod](https://open.spotify.com/track/0rnT0NJhBDET7nQtVKvNFh)** by **hateoryx, KidSnorlax** *(iPod)* - `6 min ago`
+- **[i dont know](https://open.spotify.com/track/4zXzLHcB7g2kr2wdai9twi)** by **cy4ne** *(i dont know)* - `8 min ago`
+- **[Scars](https://open.spotify.com/track/1RT6dBCo8hlfBUQaTYYkQN)** by **CHOPA** *(Scars)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 14:15:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 15:45:18 UTC*
 <!-- SPOTIFY-END -->
