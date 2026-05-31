@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Love](https://open.spotify.com/track/1LMsIEtPVyTTt4NvjckrqL)** by **the sound chalk makes** *(Re:)* - `8 h ago`
-- **[stomping](https://open.spotify.com/track/3lIQHM52geT7GdFzXYv2S1)** by **Swords2, smokedope2016** *(The Long Sleep)* - `8 h ago`
-- **[Reno Moon](https://open.spotify.com/track/3CTRBUEUGmJnsmDu5W4iSb)** by **Blaketheman1000, Nikki Nair** *(City of Careless Angels)* - `8 h ago`
-- **[YSL](https://open.spotify.com/track/5MuxHXUzhyetk9UaAvWtSJ)** by **A Good Year, Horse Vision** *(Play)* - `8 h ago`
-- **[Under my Umbrella](https://open.spotify.com/track/6tFpIyb06mcdkAZhasVkNA)** by **Bladee** *(Sulfur Surfer)* - `8 h ago`
+- **[Legends](https://open.spotify.com/track/1Knctxx9vGZxpZfF66BIEa)** by **Juice WRLD** *(Legends)* - `56 min ago`
+- **[Postkarten](https://open.spotify.com/track/3xUeSFXdg2RpmRTjIaVXc6)** by **Steintor Herrenchor** *(Postkarten)* - `59 min ago`
+- **[Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR)** by **sign crushes motorist** *(i'll be okay)* - `1 h ago`
+- **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)* - `1 h ago`
+- **[Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1)** by **Lil Peep** *(Star Shopping)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -115,10 +115,10 @@
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 06:09:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 09:22:14 UTC*
 <!-- SPOTIFY-END -->
