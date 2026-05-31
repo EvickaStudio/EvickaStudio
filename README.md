@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d6f08fbe7333bfa058103006" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3x3YNvS1YK94GmKAZLyTIT">way2slow!</a></strong><br/>
-  <em>by</em> <strong>elctrnc/sed:/, hateoryx, loony</strong><br/>
-  <em>Album:</em> way2slow!
-</p>
-
-<p align="center"><code>0:58</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:54</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[scenegirl !](https://open.spotify.com/track/0v5u9m5be8yWolFjYa5PmB)** by **ama???!!!!** *(scenegirl !)* - `just now`
-- **[what u want](https://open.spotify.com/track/6lgoMQpz5SXyckWX6KdgRa)** by **skypebf, FabFantasy, 2040x2040** *(what u want)* - `2 min ago`
-- **[hypoderme](https://open.spotify.com/track/1AtSNa5Tm6yqQIOAMAAKK4)** by **yungmii** *(hypoderme)* - `4 min ago`
-- **[effy](https://open.spotify.com/track/7Mi195iVKqG3t4hSNTppKW)** by **ama???!!!!** *(© 2007)* - `7 min ago`
-- **[always pick u #avemaria </33 :c](https://open.spotify.com/track/685BOlLQqqLeHeEdfMbl6m)** by **KidSnorlax, Myojin, cholorofilm** *(always pick u #avemaria </33 :c)* - `9 min ago`
+- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `31 min ago`
+- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `34 min ago`
+- **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)* - `37 min ago`
+- **[charlottes web](https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee)** by **5v** *(charlottes web)* - `40 min ago`
+- **[Miss u (again)](https://open.spotify.com/track/7aNsPIJwqoLdDRGVk4mwS7)** by **Zuka, Simcourbe** *(Miss u (again))* - `43 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 16:58:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 18:01:56 UTC*
 <!-- SPOTIFY-END -->
