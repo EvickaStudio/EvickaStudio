@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730e14a62375f1cac7db495e63" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27394df81c8f98d0bcd305908bb" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4hvQHgYKNbz0eU47ZoIyMF">Back to Summer</a></strong><br/>
-  <em>by</em> <strong>Nightcore</strong><br/>
-  <em>Album:</em> Back to Summer
+  <strong><a href="https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO">sur la piste</a></strong><br/>
+  <em>by</em> <strong>ama???!!!!, kemoxoo</strong><br/>
+  <em>Album:</em> © 2007
 </p>
 
-<p align="center"><code>1:24</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>3:13</code></p>
+<p align="center"><code>0:53</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[was wär wenn wir nicht wärn](https://open.spotify.com/track/54frhwDCtdeFZPkfCDv4qd)** by **Pink Katana** *(was wär wenn wir nicht wärn)* - `1 min ago`
-- **[Hitty](https://open.spotify.com/track/71skTfXHOs78AJZQWLb9D1)** by **Varg²™, Thaiboy Digital** *(Hitty)* - `3 min ago`
-- **[Helium](https://open.spotify.com/track/4Os5yLFtTCv9CYc7xPtcpH)** by **Traumatin, Ronnie Rapid** *(Helium)* - `6 min ago`
-- **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)* - `10 min ago`
-- **[mein <3 ist dein hotel](https://open.spotify.com/track/1fzzVqp3u0jU0luTbcJbjp)** by **5star** *(mein <3 ist dein hotel)* - `13 min ago`
+- **[Downer](https://open.spotify.com/track/04Ixo22901T3hkpxGHs75x)** by **uusymon, SGUCCY** *(Stardust)* - `2 min ago`
+- **[did i tell u that i miss u](https://open.spotify.com/track/06iuzVAiyOTXKJDZiVuPW4)** by **adore** *(did i tell u that i miss u)* - `4 min ago`
+- **[God Of London](https://open.spotify.com/track/55vlgQmvy0EOoIs27X8JXT)** by **Thrilliam Angels, 500, Attaura** *(This Sunrise Is Brutal)* - `6 min ago`
+- **[Crash](https://open.spotify.com/track/1PgI4fv5EmmlLmEozC7jC0)** by **RudeClub, oaf1** *(Crash)* - `8 min ago`
+- **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 12:20:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 14:15:47 UTC*
 <!-- SPOTIFY-END -->
