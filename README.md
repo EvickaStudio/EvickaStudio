@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[wither](https://open.spotify.com/track/5EFiIXieSyrrZHux3cmNZU)** by **5v** *(wither)* - `3 min ago`
-- **[eVa](https://open.spotify.com/track/1CouS89awba0pNHMcrPRBH)** by **Yatsu** *(YenesaY)* - `13 min ago`
-- **[sommeil](https://open.spotify.com/track/0UKII5KawMv9vpU1iVysrG)** by **kemoxoo, yungmii** *(sommeil)* - `57 min ago`
-- **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)* - `1 h ago`
-- **[Wer ist die Schönste?](https://open.spotify.com/track/0JUF4qJrAXN8y7tfJIPSH3)** by **LEANDER** *(Wer ist die Schönste?)* - `1 h ago`
+- **[wither](https://open.spotify.com/track/5EFiIXieSyrrZHux3cmNZU)** by **5v** *(wither)* - `1 h ago`
+- **[eVa](https://open.spotify.com/track/1CouS89awba0pNHMcrPRBH)** by **Yatsu** *(YenesaY)* - `1 h ago`
+- **[sommeil](https://open.spotify.com/track/0UKII5KawMv9vpU1iVysrG)** by **kemoxoo, yungmii** *(sommeil)* - `2 h ago`
+- **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)* - `2 h ago`
+- **[Wer ist die Schönste?](https://open.spotify.com/track/0JUF4qJrAXN8y7tfJIPSH3)** by **LEANDER** *(Wer ist die Schönste?)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 22:38:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-05-31 23:42:49 UTC*
 <!-- SPOTIFY-END -->
