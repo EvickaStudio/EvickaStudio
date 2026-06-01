@@ -96,19 +96,19 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)* - `6 h ago`
-- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `6 h ago`
-- **[WORLD AWAY](https://open.spotify.com/track/3VNSwtCqv4XHDE0fX8s0Cx)** by **RomancePlanet, Euphorizer** *(WORLD AWAY)* - `6 h ago`
-- **[Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw)** by **Peter Schilling** *(Major Tom)* - `6 h ago`
-- **[traurig･:__✧｡+++](https://open.spotify.com/track/2m5GgX8Bom56piVdmp1dAI)** by **DANZINGER 99, AMANDUS 99** *(traurig･:__✧｡+++)* - `6 h ago`
+- **[Weltuntergang, Pt. 2](https://open.spotify.com/track/56o00QepSnvDjSh3Qjc3Bp)** by **grim noir** *(The Goodbye Tour)* - `11 min ago`
+- **[Alive](https://open.spotify.com/track/2O9O26335YYVckmRgPKY3s)** by **Empire Of The Sun** *(Ice On The Dune)* - `9 h ago`
+- **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)* - `9 h ago`
+- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `9 h ago`
+- **[WORLD AWAY](https://open.spotify.com/track/3VNSwtCqv4XHDE0fX8s0Cx)** by **RomancePlanet, Euphorizer** *(WORLD AWAY)* - `9 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-01 18:33:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-01 21:52:30 UTC*
 <!-- SPOTIFY-END -->
