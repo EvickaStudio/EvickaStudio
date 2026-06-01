@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)* - `23 min ago`
-- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `27 min ago`
-- **[WORLD AWAY](https://open.spotify.com/track/3VNSwtCqv4XHDE0fX8s0Cx)** by **RomancePlanet, Euphorizer** *(WORLD AWAY)* - `30 min ago`
-- **[Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw)** by **Peter Schilling** *(Major Tom)* - `32 min ago`
-- **[traurig･:__✧｡+++](https://open.spotify.com/track/2m5GgX8Bom56piVdmp1dAI)** by **DANZINGER 99, AMANDUS 99** *(traurig･:__✧｡+++)* - `37 min ago`
+- **[Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM)** by **bôa** *(Twilight)* - `6 h ago`
+- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `6 h ago`
+- **[WORLD AWAY](https://open.spotify.com/track/3VNSwtCqv4XHDE0fX8s0Cx)** by **RomancePlanet, Euphorizer** *(WORLD AWAY)* - `6 h ago`
+- **[Major Tom](https://open.spotify.com/track/1UeOvApd7gNKKtI1cAqYPw)** by **Peter Schilling** *(Major Tom)* - `6 h ago`
+- **[traurig･:__✧｡+++](https://open.spotify.com/track/2m5GgX8Bom56piVdmp1dAI)** by **DANZINGER 99, AMANDUS 99** *(traurig･:__✧｡+++)* - `6 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -117,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Curse is Lifted - Club rmx**](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-01 12:48:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-01 18:33:07 UTC*
 <!-- SPOTIFY-END -->
