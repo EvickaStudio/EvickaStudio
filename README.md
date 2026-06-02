@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ABOLISHMENT](https://open.spotify.com/track/4cpEN6dyZmrFDeRe32io65)** by **wyrdo** *(ABOLISHMENT)* - `10 h ago`
-- **[Life is worth it](https://open.spotify.com/track/5U7P0LXTrbfHC3YIo74zO1)** by **wyrdo** *(Life is worth it)* - `10 h ago`
-- **[Im not schizo](https://open.spotify.com/track/6MSn7OfNg5mPGFagQTxuue)** by **wyrdo** *(Im not schizo)* - `10 h ago`
-- **[messages](https://open.spotify.com/track/4hwWyZxZQvuwQIdbl3omV1)** by **wyrdo** *(messages)* - `10 h ago`
-- **[hereditary](https://open.spotify.com/track/6A7fpfXU1Aj4fyNvDxyFen)** by **wyrdo** *(hereditary)* - `10 h ago`
+- **[ABOLISHMENT](https://open.spotify.com/track/4cpEN6dyZmrFDeRe32io65)** by **wyrdo** *(ABOLISHMENT)* - `11 h ago`
+- **[Life is worth it](https://open.spotify.com/track/5U7P0LXTrbfHC3YIo74zO1)** by **wyrdo** *(Life is worth it)* - `11 h ago`
+- **[Im not schizo](https://open.spotify.com/track/6MSn7OfNg5mPGFagQTxuue)** by **wyrdo** *(Im not schizo)* - `11 h ago`
+- **[messages](https://open.spotify.com/track/4hwWyZxZQvuwQIdbl3omV1)** by **wyrdo** *(messages)* - `11 h ago`
+- **[hereditary](https://open.spotify.com/track/6A7fpfXU1Aj4fyNvDxyFen)** by **wyrdo** *(hereditary)* - `12 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-02 21:42:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-02 23:20:31 UTC*
 <!-- SPOTIFY-END -->
