@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27315f3099c066ac4ff26dbdcbb" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G">afraid (feat. nate sib)</a></strong><br/>
+  <em>by</em> <strong>2hollis, nate sib</strong><br/>
+  <em>Album:</em> afraid (feat. nate sib)
+</p>
+
+<p align="center"><code>1:31</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:58</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ABOLISHMENT](https://open.spotify.com/track/4cpEN6dyZmrFDeRe32io65)** by **wyrdo** *(ABOLISHMENT)* - `19 h ago`
-- **[Life is worth it](https://open.spotify.com/track/5U7P0LXTrbfHC3YIo74zO1)** by **wyrdo** *(Life is worth it)* - `19 h ago`
-- **[Im not schizo](https://open.spotify.com/track/6MSn7OfNg5mPGFagQTxuue)** by **wyrdo** *(Im not schizo)* - `19 h ago`
-- **[messages](https://open.spotify.com/track/4hwWyZxZQvuwQIdbl3omV1)** by **wyrdo** *(messages)* - `19 h ago`
-- **[hereditary](https://open.spotify.com/track/6A7fpfXU1Aj4fyNvDxyFen)** by **wyrdo** *(hereditary)* - `19 h ago`
+- **[ich bin OFFSET](https://open.spotify.com/track/1ZmxzejFrG3cue5IVeOLe3)** by **agelast222, Kalila Oumbri** *(solar connection)* - `1 min ago`
+- **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)* - `2 min ago`
+- **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)* - `4 min ago`
+- **[miuccia melody](https://open.spotify.com/track/3QnaAcPzYMcXJijDGRmp39)** by **lil london** *(miuccia melody)* - `7 min ago`
+- **[Chainsaw Man](https://open.spotify.com/track/2SSeRzDco4E0AxAWZBaXHt)** by **Yatsu** *(Chainsaw Man)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-03 07:05:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-03 12:06:33 UTC*
 <!-- SPOTIFY-END -->
