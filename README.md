@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27315f3099c066ac4ff26dbdcbb" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G">afraid (feat. nate sib)</a></strong><br/>
-  <em>by</em> <strong>2hollis, nate sib</strong><br/>
-  <em>Album:</em> afraid (feat. nate sib)
-</p>
-
-<p align="center"><code>1:31</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:58</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ich bin OFFSET](https://open.spotify.com/track/1ZmxzejFrG3cue5IVeOLe3)** by **agelast222, Kalila Oumbri** *(solar connection)* - `1 min ago`
-- **[Ambfunk no. 4](https://open.spotify.com/track/4A1e62LABYz2chBhWOYhBk)** by **JB 50** *(Ambfunk no. 4)* - `2 min ago`
-- **[SUW](https://open.spotify.com/track/2px8p9D5Ffdz6Om1TtagvS)** by **Pink Katana, sparr00w** *(SUW)* - `4 min ago`
-- **[miuccia melody](https://open.spotify.com/track/3QnaAcPzYMcXJijDGRmp39)** by **lil london** *(miuccia melody)* - `7 min ago`
-- **[Chainsaw Man](https://open.spotify.com/track/2SSeRzDco4E0AxAWZBaXHt)** by **Yatsu** *(Chainsaw Man)* - `9 min ago`
+- **[NO REPLY](https://open.spotify.com/track/42LVPOontV4oKeKmcX6Ht6)** by **NTPV, Sei Lean, GodDamn, Phonk King** *(NO REPLY)* - `1 h ago`
+- **[AKAI - Slowed](https://open.spotify.com/track/4Td5Zqi4XzkMdesiBJRZTh)** by **UdieNnx, HXVSAGE, Mc Luizinho** *(UDIXSTATE)* - `1 h ago`
+- **[MATADORA](https://open.spotify.com/track/7jqxHXlu3Ya7WF7lD7tIXj)** by **DJ Asul** *(MATADORA)* - `1 h ago`
+- **[LUZ ROJA - Slowed](https://open.spotify.com/track/4NH7KpFmBfE5yskuVRDqce)** by **bxkq** *(LUZ ROJA)* - `1 h ago`
+- **[He Keeps Me Alive - Skatebård Remix](https://open.spotify.com/track/30NztEY8Qby07cH4dgTg1c)** by **Sally Shapiro, Skatebård** *(He Keeps Me Alive)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-03 12:06:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-03 17:14:12 UTC*
 <!-- SPOTIFY-END -->
