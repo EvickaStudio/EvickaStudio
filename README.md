@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f0617116dcc0f5551dc0036f" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2KrSlsqSALarAfum9fGsh4">do you ?</a></strong><br/>
-  <em>by</em> <strong>meat computer</strong><br/>
-  <em>Album:</em> do you ?
-</p>
-
-<p align="center"><code>0:23</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>1:18</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT)** by **Pearly Drops, Namasenda, DJ_Dave** *(Falling Out of Grace)* - `just now`
-- **[unreal (II)](https://open.spotify.com/track/3Va6Pps37mr4HKGgHeHpSJ)** by **luu** *(unreal (II))* - `3 min ago`
-- **[codename x](https://open.spotify.com/track/566bhVqzswsbEzBV56YmTp)** by **blombi19** *(codename x)* - `5 min ago`
-- **[Coil](https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55)** by **ear** *(Rumspringa)* - `9 min ago`
-- **[Vancouver](https://open.spotify.com/track/1IQsKvsZ0uEjAw3CmeAlYm)** by **leverfall** *(Melodramatic)* - `16 min ago`
+- **[Sauf Sport Balance](https://open.spotify.com/track/0JVMSe6gN7vPonLoNEUzVC)** by **viko63, TimmyT, penglord** *(Sauf Sport Balance)* - `53 min ago`
+- **[Wendy](https://open.spotify.com/track/3a8MdG36ZWOfqwWZBmN2Nx)** by **viko63** *(Wendy)* - `56 min ago`
+- **[Varicose](https://open.spotify.com/track/3GwR07xlwh6pWI5jQmsSCa)** by **heffy** *(Varicose)* - `59 min ago`
+- **[wither](https://open.spotify.com/track/5EFiIXieSyrrZHux3cmNZU)** by **5v** *(wither)* - `1 h ago`
+- **[ww3](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)** by **grim noir** *(WW3 RADIO)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-03 20:27:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-03 22:35:54 UTC*
 <!-- SPOTIFY-END -->
