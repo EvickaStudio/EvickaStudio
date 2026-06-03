@@ -91,22 +91,32 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f0617116dcc0f5551dc0036f" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2KrSlsqSALarAfum9fGsh4">do you ?</a></strong><br/>
+  <em>by</em> <strong>meat computer</strong><br/>
+  <em>Album:</em> do you ?
+</p>
+
+<p align="center"><code>0:23</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>1:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[NO REPLY](https://open.spotify.com/track/42LVPOontV4oKeKmcX6Ht6)** by **NTPV, Sei Lean, GodDamn, Phonk King** *(NO REPLY)* - `1 h ago`
-- **[AKAI - Slowed](https://open.spotify.com/track/4Td5Zqi4XzkMdesiBJRZTh)** by **UdieNnx, HXVSAGE, Mc Luizinho** *(UDIXSTATE)* - `1 h ago`
-- **[MATADORA](https://open.spotify.com/track/7jqxHXlu3Ya7WF7lD7tIXj)** by **DJ Asul** *(MATADORA)* - `1 h ago`
-- **[LUZ ROJA - Slowed](https://open.spotify.com/track/4NH7KpFmBfE5yskuVRDqce)** by **bxkq** *(LUZ ROJA)* - `1 h ago`
-- **[He Keeps Me Alive - Skatebård Remix](https://open.spotify.com/track/30NztEY8Qby07cH4dgTg1c)** by **Sally Shapiro, Skatebård** *(He Keeps Me Alive)* - `1 h ago`
+- **[Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT)** by **Pearly Drops, Namasenda, DJ_Dave** *(Falling Out of Grace)* - `just now`
+- **[unreal (II)](https://open.spotify.com/track/3Va6Pps37mr4HKGgHeHpSJ)** by **luu** *(unreal (II))* - `3 min ago`
+- **[codename x](https://open.spotify.com/track/566bhVqzswsbEzBV56YmTp)** by **blombi19** *(codename x)* - `5 min ago`
+- **[Coil](https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55)** by **ear** *(Rumspringa)* - `9 min ago`
+- **[Vancouver](https://open.spotify.com/track/1IQsKvsZ0uEjAw3CmeAlYm)** by **leverfall** *(Melodramatic)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-03 17:14:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-03 20:27:01 UTC*
 <!-- SPOTIFY-END -->
