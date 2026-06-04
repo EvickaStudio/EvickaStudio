@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sauf Sport Balance](https://open.spotify.com/track/0JVMSe6gN7vPonLoNEUzVC)** by **viko63, TimmyT, penglord** *(Sauf Sport Balance)* - `2 h ago`
-- **[Wendy](https://open.spotify.com/track/3a8MdG36ZWOfqwWZBmN2Nx)** by **viko63** *(Wendy)* - `2 h ago`
-- **[Varicose](https://open.spotify.com/track/3GwR07xlwh6pWI5jQmsSCa)** by **heffy** *(Varicose)* - `2 h ago`
-- **[wither](https://open.spotify.com/track/5EFiIXieSyrrZHux3cmNZU)** by **5v** *(wither)* - `2 h ago`
-- **[ww3](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)** by **grim noir** *(WW3 RADIO)* - `2 h ago`
+- **[Sauf Sport Balance](https://open.spotify.com/track/0JVMSe6gN7vPonLoNEUzVC)** by **viko63, TimmyT, penglord** *(Sauf Sport Balance)* - `7 h ago`
+- **[Wendy](https://open.spotify.com/track/3a8MdG36ZWOfqwWZBmN2Nx)** by **viko63** *(Wendy)* - `7 h ago`
+- **[Varicose](https://open.spotify.com/track/3GwR07xlwh6pWI5jQmsSCa)** by **heffy** *(Varicose)* - `7 h ago`
+- **[wither](https://open.spotify.com/track/5EFiIXieSyrrZHux3cmNZU)** by **5v** *(wither)* - `7 h ago`
+- **[ww3](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)** by **grim noir** *(WW3 RADIO)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-04 00:18:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-04 05:18:15 UTC*
 <!-- SPOTIFY-END -->
