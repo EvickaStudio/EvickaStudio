@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27346ee395d079d72f171bef653" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273865319e1ef1e19ab4af9e6ea" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0nnbnK9XFkvf7s61oBRw5N">096 - ...und der rote Rächer - Teil 24</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 096/und der rote Rächer
+  <strong><a href="https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h">dumb</a></strong><br/>
+  <em>by</em> <strong>m1nutes</strong><br/>
+  <em>Album:</em> dumb
 </p>
 
-<p align="center"><code>1:04</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>1:24</code></p>
+<p align="center"><code>0:52</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:07</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[096 - ...und der rote Rächer - Teil 23](https://open.spotify.com/track/1jOtOtJf0V8sfxr94VOVEh)** by **Die drei ???** *(096/und der rote Rächer)* - `1 min ago`
-- **[096 - ...und der rote Rächer - Teil 22](https://open.spotify.com/track/2U0Ndyj21AypSOugAUG0b5)** by **Die drei ???** *(096/und der rote Rächer)* - `2 min ago`
-- **[096 - ...und der rote Rächer - Teil 21](https://open.spotify.com/track/6PRXz6XsPkFU1F1E0xj0od)** by **Die drei ???** *(096/und der rote Rächer)* - `3 min ago`
-- **[096 - ...und der rote Rächer - Teil 20](https://open.spotify.com/track/4jHePrbt0NBVHqLoF8orto)** by **Die drei ???** *(096/und der rote Rächer)* - `5 min ago`
-- **[096 - ...und der rote Rächer - Teil 19](https://open.spotify.com/track/1RQnusKeTJ4McbMdRf0eh4)** by **Die drei ???** *(096/und der rote Rächer)* - `6 min ago`
+- **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)* - `just now`
+- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `3 min ago`
+- **[MINESTYLE](https://open.spotify.com/track/6zIC6PARJ4iSdFyRlW6ZX5)** by **Vyzer, Lytra, wasty** *(MINESTYLE)* - `7 min ago`
+- **[rave](https://open.spotify.com/track/1qaV9vVsI3ROcBc7chACqd)** by **Saiya Tiaw** *(tränen von dir)* - `10 min ago`
+- **[Nadja #](https://open.spotify.com/track/4hmM1hOUlnbvuFEMIKKZvQ)** by **sparr00w** *(Nadja)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-04 18:00:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-04 20:21:57 UTC*
 <!-- SPOTIFY-END -->
