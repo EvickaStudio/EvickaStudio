@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj">Young Folks</a></strong><br/>
+  <em>by</em> <strong>Peter Bjorn and John</strong><br/>
+  <em>Album:</em> Writer's Block
+</p>
+
+<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:36</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sauf Sport Balance](https://open.spotify.com/track/0JVMSe6gN7vPonLoNEUzVC)** by **viko63, TimmyT, penglord** *(Sauf Sport Balance)* - `14 h ago`
-- **[Wendy](https://open.spotify.com/track/3a8MdG36ZWOfqwWZBmN2Nx)** by **viko63** *(Wendy)* - `14 h ago`
-- **[Varicose](https://open.spotify.com/track/3GwR07xlwh6pWI5jQmsSCa)** by **heffy** *(Varicose)* - `14 h ago`
-- **[wither](https://open.spotify.com/track/5EFiIXieSyrrZHux3cmNZU)** by **5v** *(wither)* - `14 h ago`
-- **[ww3](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)** by **grim noir** *(WW3 RADIO)* - `14 h ago`
+- **[pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)** by **uziellsiilver, agelast222** *(pixel_blackberry (777) *ether*)* - `1 min ago`
+- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))* - `4 min ago`
+- **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)* - `6 min ago`
+- **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)* - `9 min ago`
+- **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-04 12:15:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-04 15:45:00 UTC*
 <!-- SPOTIFY-END -->
