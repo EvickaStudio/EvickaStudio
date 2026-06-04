@@ -92,34 +92,34 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739cf4ac84b224a02f34d2e4f6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27346ee395d079d72f171bef653" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj">Young Folks</a></strong><br/>
-  <em>by</em> <strong>Peter Bjorn and John</strong><br/>
-  <em>Album:</em> Writer's Block
+  <strong><a href="https://open.spotify.com/track/0nnbnK9XFkvf7s61oBRw5N">096 - ...und der rote Rächer - Teil 24</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 096/und der rote Rächer
 </p>
 
-<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:36</code></p>
+<p align="center"><code>1:04</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>1:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[pixel_blackberry (777) *ether*](https://open.spotify.com/track/1s15a9sfol2Zples0FsZNE)** by **uziellsiilver, agelast222** *(pixel_blackberry (777) *ether*)* - `1 min ago`
-- **[Es wird bald vorbei sein (Allein sein)](https://open.spotify.com/track/4iKkhJx9BkFQEsn2YZGaJz)** by **Kilian Knight** *(Es wird bald vorbei sein (Allein sein))* - `4 min ago`
-- **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)* - `6 min ago`
-- **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)* - `9 min ago`
-- **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)* - `11 min ago`
+- **[096 - ...und der rote Rächer - Teil 23](https://open.spotify.com/track/1jOtOtJf0V8sfxr94VOVEh)** by **Die drei ???** *(096/und der rote Rächer)* - `1 min ago`
+- **[096 - ...und der rote Rächer - Teil 22](https://open.spotify.com/track/2U0Ndyj21AypSOugAUG0b5)** by **Die drei ???** *(096/und der rote Rächer)* - `2 min ago`
+- **[096 - ...und der rote Rächer - Teil 21](https://open.spotify.com/track/6PRXz6XsPkFU1F1E0xj0od)** by **Die drei ???** *(096/und der rote Rächer)* - `3 min ago`
+- **[096 - ...und der rote Rächer - Teil 20](https://open.spotify.com/track/4jHePrbt0NBVHqLoF8orto)** by **Die drei ???** *(096/und der rote Rächer)* - `5 min ago`
+- **[096 - ...und der rote Rächer - Teil 19](https://open.spotify.com/track/1RQnusKeTJ4McbMdRf0eh4)** by **Die drei ???** *(096/und der rote Rächer)* - `6 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-04 15:45:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-04 18:00:29 UTC*
 <!-- SPOTIFY-END -->
