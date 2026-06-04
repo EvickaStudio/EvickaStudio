@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273865319e1ef1e19ab4af9e6ea" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/21gyYTVwuXZerV8Rrf6b6h">dumb</a></strong><br/>
-  <em>by</em> <strong>m1nutes</strong><br/>
-  <em>Album:</em> dumb
-</p>
-
-<p align="center"><code>0:52</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:07</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[take a look](https://open.spotify.com/track/0zCzbJR62K9Pi0xRyBZIWo)** by **Lvl99magic, dxsh** *(take a look)* - `just now`
-- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `3 min ago`
-- **[MINESTYLE](https://open.spotify.com/track/6zIC6PARJ4iSdFyRlW6ZX5)** by **Vyzer, Lytra, wasty** *(MINESTYLE)* - `7 min ago`
-- **[rave](https://open.spotify.com/track/1qaV9vVsI3ROcBc7chACqd)** by **Saiya Tiaw** *(tränen von dir)* - `10 min ago`
-- **[Nadja #](https://open.spotify.com/track/4hmM1hOUlnbvuFEMIKKZvQ)** by **sparr00w** *(Nadja)* - `12 min ago`
+- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `1 h ago`
+- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `1 h ago`
+- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `1 h ago`
+- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `1 h ago`
+- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-04 20:21:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-04 21:57:58 UTC*
 <!-- SPOTIFY-END -->
