@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734bcafd8a1e80b1f02f8ed4ab" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27338991b19472359d2ca4498dd" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4Gsby0fPaii7jKGafVm9YC">morbid ##2006</a></strong><br/>
-  <em>by</em> <strong>roshyw</strong><br/>
-  <em>Album:</em> scenecore veteran! RAWR XD
+  <strong><a href="https://open.spotify.com/track/3ijZo41TVJJaPvwlHLZ38i">190 - und die Kammer der Rätsel - Teil 17</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 190/und die Kammer der Rätsel
 </p>
 
-<p align="center"><code>1:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:12</code></p>
+<p align="center"><code>1:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>1:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[j'voulais pas te décevoir](https://open.spotify.com/track/57HbgqDcKUKapjE5ztHbcj)** by **Dbx** *(j'voulais pas te décevoir)* - `3 min ago`
-- **[rEst3 a d3ux xP](https://open.spotify.com/track/1ZCJQbMN6XQgac1gSzkhvC)** by **yungmii, 404martinks** *(scene.clubbingXDD)* - `4 min ago`
-- **[misérable](https://open.spotify.com/track/12KmiI6cF1SAlK8wPPwq9d)** by **ama???!!!!** *(© 2007)* - `7 min ago`
-- **[another call:3](https://open.spotify.com/track/04QnPOMeJlv9FROhGLkKYT)** by **ilymeow, safewarm** *(another call:3)* - `8 min ago`
-- **[1001nights](https://open.spotify.com/track/4s87YOWxvf25wS5ChvPZne)** by **hydrakuma13, ihylunar, wasty, elctrnc/sed:/** *(1001nights)* - `10 min ago`
+- **[190 - und die Kammer der Rätsel - Teil 16](https://open.spotify.com/track/3yXu4hbmDFxYNoTCoFCy2T)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `1 min ago`
+- **[190 - und die Kammer der Rätsel - Teil 15](https://open.spotify.com/track/7KrgLSJUuu2FQzPNtClRx0)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `2 min ago`
+- **[190 - und die Kammer der Rätsel - Teil 14](https://open.spotify.com/track/53rvPTnSOiq65ACPrI8Gan)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `4 min ago`
+- **[190 - und die Kammer der Rätsel - Teil 13](https://open.spotify.com/track/6eRUum9VufrHmUgwlF9DNG)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `15 min ago`
+- **[190 - und die Kammer der Rätsel - Teil 12](https://open.spotify.com/track/0Xfeo4UuiLWYdJ8Jr1ldUJ)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-05 11:46:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-05 14:28:37 UTC*
 <!-- SPOTIFY-END -->
