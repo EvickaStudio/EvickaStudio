@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[190 - und die Kammer der Rätsel - Teil 39](https://open.spotify.com/track/251paFdKqSlnxyoRTa4JYn)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `1 h ago`
-- **[190 - und die Kammer der Rätsel - Teil 38](https://open.spotify.com/track/1fM7OBT7LTafJaZbJ8xTyx)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `1 h ago`
-- **[190 - und die Kammer der Rätsel - Teil 37](https://open.spotify.com/track/2Y0RkE7byQs0KRXvDh4nRt)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `1 h ago`
-- **[190 - und die Kammer der Rätsel - Teil 36](https://open.spotify.com/track/5TEOKU1OGvRi2mVQm9xZ13)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `1 h ago`
-- **[190 - und die Kammer der Rätsel - Teil 35](https://open.spotify.com/track/3M5J8nESoZQyQW8ovxKZXQ)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `2 h ago`
+- **[Midnight on the Bay - 2016 Remaster](https://open.spotify.com/track/5pTfwxnRNxDjt2HyMXUF3H)** by **The Stills-Young Band** *(Long May You Run)* - `35 min ago`
+- **[Going to California - Remaster](https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By)** by **Led Zeppelin** *(Led Zeppelin IV (Deluxe Edition))* - `37 min ago`
+- **[The Man in Me](https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87)** by **Bob Dylan** *(New Morning)* - `40 min ago`
+- **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `44 min ago`
+- **[Halah](https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ)** by **Mazzy Star** *(She Hangs Brightly)* - `47 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -117,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**With you**](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-05 16:58:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-05 18:57:27 UTC*
 <!-- SPOTIFY-END -->
