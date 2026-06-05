@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27394df81c8f98d0bcd305908bb" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO">sur la piste</a></strong><br/>
+  <em>by</em> <strong>ama???!!!!, kemoxoo</strong><br/>
+  <em>Album:</em> © 2007
+</p>
+
+<p align="center"><code>1:23</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `7 h ago`
-- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `7 h ago`
-- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `8 h ago`
-- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `8 h ago`
-- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `8 h ago`
+- **[wither](https://open.spotify.com/track/5EFiIXieSyrrZHux3cmNZU)** by **5v** *(wither)* - `2 min ago`
+- **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)* - `4 min ago`
+- **[tu m'écœures](https://open.spotify.com/track/5ZWJP97sdmBE8yqUEENLrQ)** by **ama???!!!!, kysmelo** *(tu m'écœures)* - `9 min ago`
+- **[Tac Tac](https://open.spotify.com/track/6e7ecRvmP3fQVvij6d4qYj)** by **Daniela Lalita, Mietze Conte** *(Tac Tac)* - `13 min ago`
+- **[Bluffin' (with The Kid LAROI)](https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf)** by **Joji, The Kid LAROI** *(Piss In The Wind (Deluxe))* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-05 04:53:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-05 08:38:31 UTC*
 <!-- SPOTIFY-END -->
