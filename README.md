@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27394df81c8f98d0bcd305908bb" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734bcafd8a1e80b1f02f8ed4ab" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO">sur la piste</a></strong><br/>
-  <em>by</em> <strong>ama???!!!!, kemoxoo</strong><br/>
-  <em>Album:</em> © 2007
+  <strong><a href="https://open.spotify.com/track/4Gsby0fPaii7jKGafVm9YC">morbid ##2006</a></strong><br/>
+  <em>by</em> <strong>roshyw</strong><br/>
+  <em>Album:</em> scenecore veteran! RAWR XD
 </p>
 
-<p align="center"><code>1:23</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:35</code></p>
+<p align="center"><code>1:32</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:12</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[wither](https://open.spotify.com/track/5EFiIXieSyrrZHux3cmNZU)** by **5v** *(wither)* - `2 min ago`
-- **[sur la piste](https://open.spotify.com/track/3aOZh3uCF7ZCW4HvAAR7OO)** by **ama???!!!!, kemoxoo** *(© 2007)* - `4 min ago`
-- **[tu m'écœures](https://open.spotify.com/track/5ZWJP97sdmBE8yqUEENLrQ)** by **ama???!!!!, kysmelo** *(tu m'écœures)* - `9 min ago`
-- **[Tac Tac](https://open.spotify.com/track/6e7ecRvmP3fQVvij6d4qYj)** by **Daniela Lalita, Mietze Conte** *(Tac Tac)* - `13 min ago`
-- **[Bluffin' (with The Kid LAROI)](https://open.spotify.com/track/0eh0TQK1S209s9kovG0EWf)** by **Joji, The Kid LAROI** *(Piss In The Wind (Deluxe))* - `14 min ago`
+- **[j'voulais pas te décevoir](https://open.spotify.com/track/57HbgqDcKUKapjE5ztHbcj)** by **Dbx** *(j'voulais pas te décevoir)* - `3 min ago`
+- **[rEst3 a d3ux xP](https://open.spotify.com/track/1ZCJQbMN6XQgac1gSzkhvC)** by **yungmii, 404martinks** *(scene.clubbingXDD)* - `4 min ago`
+- **[misérable](https://open.spotify.com/track/12KmiI6cF1SAlK8wPPwq9d)** by **ama???!!!!** *(© 2007)* - `7 min ago`
+- **[another call:3](https://open.spotify.com/track/04QnPOMeJlv9FROhGLkKYT)** by **ilymeow, safewarm** *(another call:3)* - `8 min ago`
+- **[1001nights](https://open.spotify.com/track/4s87YOWxvf25wS5ChvPZne)** by **hydrakuma13, ihylunar, wasty, elctrnc/sed:/** *(1001nights)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-05 08:38:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-05 11:46:56 UTC*
 <!-- SPOTIFY-END -->
