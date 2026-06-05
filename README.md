@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27338991b19472359d2ca4498dd" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3ijZo41TVJJaPvwlHLZ38i">190 - und die Kammer der Rätsel - Teil 17</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 190/und die Kammer der Rätsel
-</p>
-
-<p align="center"><code>1:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>1:38</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[190 - und die Kammer der Rätsel - Teil 16](https://open.spotify.com/track/3yXu4hbmDFxYNoTCoFCy2T)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `1 min ago`
-- **[190 - und die Kammer der Rätsel - Teil 15](https://open.spotify.com/track/7KrgLSJUuu2FQzPNtClRx0)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `2 min ago`
-- **[190 - und die Kammer der Rätsel - Teil 14](https://open.spotify.com/track/53rvPTnSOiq65ACPrI8Gan)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `4 min ago`
-- **[190 - und die Kammer der Rätsel - Teil 13](https://open.spotify.com/track/6eRUum9VufrHmUgwlF9DNG)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `15 min ago`
-- **[190 - und die Kammer der Rätsel - Teil 12](https://open.spotify.com/track/0Xfeo4UuiLWYdJ8Jr1ldUJ)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `16 min ago`
+- **[190 - und die Kammer der Rätsel - Teil 39](https://open.spotify.com/track/251paFdKqSlnxyoRTa4JYn)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `1 h ago`
+- **[190 - und die Kammer der Rätsel - Teil 38](https://open.spotify.com/track/1fM7OBT7LTafJaZbJ8xTyx)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `1 h ago`
+- **[190 - und die Kammer der Rätsel - Teil 37](https://open.spotify.com/track/2Y0RkE7byQs0KRXvDh4nRt)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `1 h ago`
+- **[190 - und die Kammer der Rätsel - Teil 36](https://open.spotify.com/track/5TEOKU1OGvRi2mVQm9xZ13)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `1 h ago`
+- **[190 - und die Kammer der Rätsel - Teil 35](https://open.spotify.com/track/3M5J8nESoZQyQW8ovxKZXQ)** by **Die drei ???** *(190/und die Kammer der Rätsel)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**nachtaktiv**](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-05 14:28:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-05 16:58:42 UTC*
 <!-- SPOTIFY-END -->
