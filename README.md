@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27391ac4e7fcefb79f31bdff6ba" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6QBE1EuFibok8xSexAXvko">WOLKE</a></strong><br/>
+  <em>by</em> <strong>Leftovers</strong><br/>
+  <em>Album:</em> HEY
+</p>
+
+<p align="center"><code>1:37</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Verliebt](https://open.spotify.com/track/7qpBtf5AejkNzhpsuiz3Py)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `4 min ago`
-- **[Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `7 min ago`
-- **[Endeavor](https://open.spotify.com/track/6mBUYjzlI3uPiRaxtCeqIH)** by **wyrdo** *(Endeavor)* - `39 min ago`
-- **[ww3](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)** by **grim noir** *(WW3 RADIO)* - `56 min ago`
-- **[New York's Not My Home](https://open.spotify.com/track/5vFmEDQivD8FNOOushB70i)** by **Jim Croce** *(You Don't Mess Around With Jim)* - `2 h ago`
+- **[Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH)** by **Leftovers** *(Marmelade Und Himbeereis)* - `1 min ago`
+- **[Mensch am Mond](https://open.spotify.com/track/4VyZE8o6zBc5LYLRVBgFRl)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `5 min ago`
+- **[Verliebt](https://open.spotify.com/track/7qpBtf5AejkNzhpsuiz3Py)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `8 min ago`
+- **[Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `11 min ago`
+- **[Swan Lake (Suite), Op. 20a, TH.219: I. Scene - Swan Theme](https://open.spotify.com/track/6JyihARD2zGUa4uB4NfQiv)** by **Pyotr Ilyich Tchaikovsky, Czech Symphony Orchestra, Michaela Rózsa Růžičková** *(Tchaikovsky: Swan Lake Suites)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -117,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**With you**](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-06 10:19:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-06 11:50:09 UTC*
 <!-- SPOTIFY-END -->
