@@ -91,34 +91,24 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27391ac4e7fcefb79f31bdff6ba" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6QBE1EuFibok8xSexAXvko">WOLKE</a></strong><br/>
-  <em>by</em> <strong>Leftovers</strong><br/>
-  <em>Album:</em> HEY
-</p>
-
-<p align="center"><code>1:37</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:03</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH)** by **Leftovers** *(Marmelade Und Himbeereis)* - `1 min ago`
-- **[Mensch am Mond](https://open.spotify.com/track/4VyZE8o6zBc5LYLRVBgFRl)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `5 min ago`
-- **[Verliebt](https://open.spotify.com/track/7qpBtf5AejkNzhpsuiz3Py)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `8 min ago`
-- **[Zwei Bier (La La La)](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `11 min ago`
-- **[Swan Lake (Suite), Op. 20a, TH.219: I. Scene - Swan Theme](https://open.spotify.com/track/6JyihARD2zGUa4uB4NfQiv)** by **Pyotr Ilyich Tchaikovsky, Czech Symphony Orchestra, Michaela Rózsa Růžičková** *(Tchaikovsky: Swan Lake Suites)* - `14 min ago`
+- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `2 min ago`
+- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `6 min ago`
+- **[Queen of my Castle](https://open.spotify.com/track/4BdzQUjH1KA5fw9n33OPgW)** by **IceLipzz** *(Queen of my Castle)* - `10 min ago`
+- **[Hollywood Smile](https://open.spotify.com/track/3ue4LW3lTWI0iLGbQkWTD0)** by **Cousines like Shit, Farce** *(Hollywood Smile)* - `13 min ago`
+- **[After Class](https://open.spotify.com/track/5qiSplEqWKtqQ0MdBz2IS3)** by **Sacred holes** *(Genuine Uppers Life)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
@@ -127,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-06 11:50:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-06 13:12:33 UTC*
 <!-- SPOTIFY-END -->
