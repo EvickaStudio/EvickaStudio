@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Midnight on the Bay - 2016 Remaster](https://open.spotify.com/track/5pTfwxnRNxDjt2HyMXUF3H)** by **The Stills-Young Band** *(Long May You Run)* - `11 h ago`
-- **[Going to California - Remaster](https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By)** by **Led Zeppelin** *(Led Zeppelin IV (Deluxe Edition))* - `11 h ago`
-- **[The Man in Me](https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87)** by **Bob Dylan** *(New Morning)* - `11 h ago`
-- **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `11 h ago`
-- **[Halah](https://open.spotify.com/track/6JuEshIRliNXRU1LXctRjZ)** by **Mazzy Star** *(She Hangs Brightly)* - `11 h ago`
+- **[jvoulais die dans tes bras](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)** by **sens<3, ama???!!!!** *(jvoulais die dans tes bras)* - `54 min ago`
+- **[Midnight on the Bay - 2016 Remaster](https://open.spotify.com/track/5pTfwxnRNxDjt2HyMXUF3H)** by **The Stills-Young Band** *(Long May You Run)* - `13 h ago`
+- **[Going to California - Remaster](https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By)** by **Led Zeppelin** *(Led Zeppelin IV (Deluxe Edition))* - `13 h ago`
+- **[The Man in Me](https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87)** by **Bob Dylan** *(New Morning)* - `13 h ago`
+- **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `13 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**With you**](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-06 05:38:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-06 08:10:00 UTC*
 <!-- SPOTIFY-END -->
