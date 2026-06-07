@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d23523197ffd23d8c8cd9d40" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3eEreRLnbPAXpeEu5EF1UB">180 - und die flüsternden Puppen - Teil 17</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 180/und die flüsternden Puppen
-</p>
-
-<p align="center"><code>0:14</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>1:54</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[180 - und die flüsternden Puppen - Teil 15](https://open.spotify.com/track/6A6kvka7jM0D8RYzceaSys)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `2 min ago`
-- **[180 - und die flüsternden Puppen - Teil 14](https://open.spotify.com/track/6eFZ2g7RjAllkhqvDbbEW7)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `4 min ago`
-- **[180 - und die flüsternden Puppen - Teil 13](https://open.spotify.com/track/5jUnsLSLQrLT2vyhut2dOc)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `6 min ago`
-- **[180 - und die flüsternden Puppen - Teil 12](https://open.spotify.com/track/4N6iqxomCIwGDZKEIZ8hbB)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `8 min ago`
-- **[180 - und die flüsternden Puppen - Teil 11](https://open.spotify.com/track/7ot63j2WxM39sTDlMpiuxx)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `9 min ago`
+- **[180 - und die flüsternden Puppen - Teil 30](https://open.spotify.com/track/5BGc6Jrn7KVfVK39gI5K1r)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `34 min ago`
+- **[180 - und die flüsternden Puppen - Teil 29](https://open.spotify.com/track/4ZdDOR5zGW5Unksb2BKQg0)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `36 min ago`
+- **[180 - und die flüsternden Puppen - Teil 28](https://open.spotify.com/track/7yrirx51PUI9XxOyVL51cj)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `38 min ago`
+- **[180 - und die flüsternden Puppen - Teil 27](https://open.spotify.com/track/0ETbcEm9KWqWU5YdB6sHI0)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `40 min ago`
+- **[180 - und die flüsternden Puppen - Teil 26](https://open.spotify.com/track/6giz8Lk7OxGcLP8eAROOPH)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `42 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-07 22:43:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-07 23:45:17 UTC*
 <!-- SPOTIFY-END -->
