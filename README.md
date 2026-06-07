@@ -96,19 +96,19 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[jvoulais die dans tes bras](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)** by **sens<3, ama???!!!!** *(jvoulais die dans tes bras)* - `1 h ago`
-- **[Headlock](https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou)** by **Imogen Heap** *(Speak for Yourself (Deluxe Version))* - `3 h ago`
-- **[tu m'écœures](https://open.spotify.com/track/5ZWJP97sdmBE8yqUEENLrQ)** by **ama???!!!!, kysmelo** *(tu m'écœures)* - `3 h ago`
-- **[i just want ur love](https://open.spotify.com/track/0bILYFSd73DQ3Ya5pev74J)** by **iamsodead, LooveX, dollreal, dethkitty, pavlos** *(i just want ur love)* - `3 h ago`
-- **[sommeil](https://open.spotify.com/track/0UKII5KawMv9vpU1iVysrG)** by **kemoxoo, yungmii** *(sommeil)* - `3 h ago`
+- **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)* - `8 min ago`
+- **[Die Sterne](https://open.spotify.com/track/6baLPwIPJ26kB37mp5bHad)** by **Edwin Rosen** *(Die Sterne)* - `10 min ago`
+- **[Dieser kleine Junge](https://open.spotify.com/track/7l8Zm1r5XSM7rSGuzZIQSk)** by **Brown-Eyes White Boy** *(Dieser kleine Junge)* - `12 min ago`
+- **[Level 99](https://open.spotify.com/track/2wba5ZaOa0mRpsNYh5d916)** by **DJmegan23, cranes, mental** *(Mirage)* - `14 min ago`
+- **[Taking Drugs? - Original Mix](https://open.spotify.com/track/4bOCKm3HLWVV1y09RIXzAu)** by **Scott Brown** *(Evolution Plus Classics (Mixed by Scott Brown))* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-07 12:57:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-07 14:50:34 UTC*
 <!-- SPOTIFY-END -->
