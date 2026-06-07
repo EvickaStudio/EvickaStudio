@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b9a9f9f03b8437c3d8e83521" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731001a1f44f250dc9b676e4ed" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i">TL;DR</a></strong><br/>
-  <em>by</em> <strong>Bladee, Ecco2k, Thaiboy Digital</strong><br/>
-  <em>Album:</em> TL;DR
+  <strong><a href="https://open.spotify.com/track/2agzcUzs7rOCdXDjrNojSJ">Sick World</a></strong><br/>
+  <em>by</em> <strong>Cult Shφtta</strong><br/>
+  <em>Album:</em> Sick World
 </p>
 
-<p align="center"><code>0:45</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:04</code></p>
+<p align="center"><code>0:41</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>1:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)* - `just now`
-- **[codename x](https://open.spotify.com/track/566bhVqzswsbEzBV56YmTp)** by **blombi19** *(codename x)* - `3 min ago`
-- **[Tragic Surprise](https://open.spotify.com/track/6l29X3RtcndQexIlsHOvuI)** by **Snow Strippers** *(The Snow Strippers)* - `6 min ago`
-- **[Ssx](https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi)** by **The Hellp** *(Vol. 1)* - `10 min ago`
-- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `14 min ago`
+- **[The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh)** by **Mareux** *(The Perfect Girl)* - `2 min ago`
+- **[Hai Bby](https://open.spotify.com/track/6aMFxo5WTedwbV2GMqHjnI)** by **The Bilinda Butchers** *(Goodbyes)* - `5 min ago`
+- **[She's Gone](https://open.spotify.com/track/6198kiW39aaYvDtPqdiEfi)** by **Mirror Kisses, George Clanton** *(Bad Dreams (Remastered))* - `8 min ago`
+- **[Blinded](https://open.spotify.com/track/1I3RPlk7xfczUl2Tb1Maas)** by **Yung Lean** *(Unknown Memory)* - `12 min ago`
+- **[Beautiful Nightmare](https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp)** by **Lil Tracy** *(Anarchy)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Dirge**](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-07 17:39:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-07 18:54:49 UTC*
 <!-- SPOTIFY-END -->
