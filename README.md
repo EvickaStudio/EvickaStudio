@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d23523197ffd23d8c8cd9d40" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3eEreRLnbPAXpeEu5EF1UB">180 - und die flüsternden Puppen - Teil 17</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 180/und die flüsternden Puppen
+</p>
+
+<p align="center"><code>0:14</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>1:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Scheide](https://open.spotify.com/track/0Z82HdVKmYnciExopqvCh1)** by **Soap Boyz** *(Scheide)* - `14 min ago`
-- **[bender++girlfriend](https://open.spotify.com/track/4UJLnstiHWgS4d2Vh2hq0g)** by **Yung Lean** *(Poison Ivy)* - `17 min ago`
-- **[Want To Love - Just Raw](https://open.spotify.com/track/4BL8uC2TSOebfjg8cWUyeO)** by **Aloboi** *(Raw Tracks and Reworks)* - `22 min ago`
-- **[Coming-of-age Story](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)** by **Brandy Senki** *(BRANDY SENKI)* - `23 min ago`
-- **[engel>_<](https://open.spotify.com/track/19wamZiyXqASm4Q1zrseEc)** by **mehlhaltig, luu** *(engel>_<)* - `1 h ago`
+- **[180 - und die flüsternden Puppen - Teil 15](https://open.spotify.com/track/6A6kvka7jM0D8RYzceaSys)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `2 min ago`
+- **[180 - und die flüsternden Puppen - Teil 14](https://open.spotify.com/track/6eFZ2g7RjAllkhqvDbbEW7)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `4 min ago`
+- **[180 - und die flüsternden Puppen - Teil 13](https://open.spotify.com/track/5jUnsLSLQrLT2vyhut2dOc)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `6 min ago`
+- **[180 - und die flüsternden Puppen - Teil 12](https://open.spotify.com/track/4N6iqxomCIwGDZKEIZ8hbB)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `8 min ago`
+- **[180 - und die flüsternden Puppen - Teil 11](https://open.spotify.com/track/7ot63j2WxM39sTDlMpiuxx)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-07 21:34:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-07 22:43:48 UTC*
 <!-- SPOTIFY-END -->
