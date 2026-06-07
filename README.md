@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731001a1f44f250dc9b676e4ed" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2agzcUzs7rOCdXDjrNojSJ">Sick World</a></strong><br/>
-  <em>by</em> <strong>Cult Shφtta</strong><br/>
-  <em>Album:</em> Sick World
+  <strong><a href="https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU">Dirge</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> ?
 </p>
 
-<p align="center"><code>0:41</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>1:30</code></p>
+<p align="center"><code>0:26</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:26</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh)** by **Mareux** *(The Perfect Girl)* - `2 min ago`
-- **[Hai Bby](https://open.spotify.com/track/6aMFxo5WTedwbV2GMqHjnI)** by **The Bilinda Butchers** *(Goodbyes)* - `5 min ago`
-- **[She's Gone](https://open.spotify.com/track/6198kiW39aaYvDtPqdiEfi)** by **Mirror Kisses, George Clanton** *(Bad Dreams (Remastered))* - `8 min ago`
-- **[Blinded](https://open.spotify.com/track/1I3RPlk7xfczUl2Tb1Maas)** by **Yung Lean** *(Unknown Memory)* - `12 min ago`
-- **[Beautiful Nightmare](https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp)** by **Lil Tracy** *(Anarchy)* - `16 min ago`
+- **[Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk)** by **Foo Fighters** *(The Colour And The Shape)* - `3 min ago`
+- **[Bianco](https://open.spotify.com/track/4m98OcCL585kG0tE4mbKxj)** by **Yung Hurn, RIN** *(Bianco)* - `7 min ago`
+- **[Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03)** by **southstar** *(Miss You)* - `11 min ago`
+- **[WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk)** by **Valexus, Culcha Candela** *(WILDES DING)* - `14 min ago`
+- **[if only you knew](https://open.spotify.com/track/2d3Aes4XVEwVggbhvKqau0)** by **Oxhy, Ecco2k** *(giving in)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-07 18:54:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-07 20:06:25 UTC*
 <!-- SPOTIFY-END -->
