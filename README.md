@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27390cfdbdde89b9c6fc04abf33" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW">Bildschirm</a></strong><br/>
-  <em>by</em> <strong>S1RENA</strong><br/>
-  <em>Album:</em> Bildschirm
-</p>
-
-<p align="center"><code>0:13</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:01</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Balancieren](https://open.spotify.com/track/2awuTIPUCMhTEkfIh5XiS8)** by **Edwin Rosen** *(Balancieren)* - `just now`
-- **[nodding off](https://open.spotify.com/track/2SO4GqwjEhtknk9zQ8tDQY)** by **5v** *(nodding off)* - `3 min ago`
-- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `5 min ago`
-- **[crushing ice](https://open.spotify.com/track/4RMtkpXTeXjShjRfYwPZB3)** by **Iuvumi** *(crushing ice)* - `6 min ago`
-- **[Blink 182](https://open.spotify.com/track/3QEewDey7tkhrBvQSg8qDc)** by **Larsmai, UhNiclas** *(Got2Be)* - `29 min ago`
+- **[Mich selbst](https://open.spotify.com/track/3zgJSDzUoGjVuuMRrtU1fx)** by **kevin** *(7)* - `1 h ago`
+- **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)* - `1 h ago`
+- **[Interlude](https://open.spotify.com/track/1pJxpntksHH5xznAImDeO7)** by **kevin** *(Endstation)* - `1 h ago`
+- **[Eins Zwei](https://open.spotify.com/track/7bXF3hl3Re9tZvFw9fU0s8)** by **kevin** *(Eins Zwei)* - `1 h ago`
+- **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +118,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-08 16:17:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-08 18:40:48 UTC*
 <!-- SPOTIFY-END -->
