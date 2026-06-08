@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b82de6ec6ffcc925334c0b33" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/60qK7FiujHk7SNGjsa25MH">Schau dass du nicht fällst</a></strong><br/>
+  <em>by</em> <strong>kevin</strong><br/>
+  <em>Album:</em> 7
+</p>
+
+<p align="center"><code>1:07</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Mich selbst](https://open.spotify.com/track/3zgJSDzUoGjVuuMRrtU1fx)** by **kevin** *(7)* - `1 h ago`
-- **[Es ist peinlich](https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD)** by **kevin** *(Es ist peinlich)* - `1 h ago`
-- **[Interlude](https://open.spotify.com/track/1pJxpntksHH5xznAImDeO7)** by **kevin** *(Endstation)* - `1 h ago`
-- **[Eins Zwei](https://open.spotify.com/track/7bXF3hl3Re9tZvFw9fU0s8)** by **kevin** *(Eins Zwei)* - `1 h ago`
-- **[raupenimmersatt](https://open.spotify.com/track/1XpBBylGvUNg1vMtT8ubXo)** by **kevin** *(raupenimmersatt)* - `1 h ago`
+- **[Eins Zwei](https://open.spotify.com/track/7bXF3hl3Re9tZvFw9fU0s8)** by **kevin** *(Eins Zwei)* - `1 min ago`
+- **[Fick die Nachbarn](https://open.spotify.com/track/7dYQIdIOQ5kSo7joymNgZq)** by **kevin** *(Endstation)* - `3 min ago`
+- **[hollywood](https://open.spotify.com/track/2xd9MZYJZ1RVqAN8weTPLI)** by **kevin** *(hollywood)* - `6 min ago`
+- **[Erbgut](https://open.spotify.com/track/6JTELdzw2s8NCBGazc7Npr)** by **kevin** *(Endstation)* - `9 min ago`
+- **[Entzug](https://open.spotify.com/track/7eicUdBEb7ut56W51dhXZI)** by **kevin** *(Endstation)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-08 18:40:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-08 21:05:16 UTC*
 <!-- SPOTIFY-END -->
