@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[beckenrand](https://open.spotify.com/track/3K3S6dIwvqq1mzQFzWEDW0)** by **SCHRAMM** *(beckenrand)* - `1 h ago`
-- **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)* - `1 h ago`
-- **[all i know](https://open.spotify.com/track/4dxm7Im31ShoINjWq7tFwK)** by **Lixight** *(all i know)* - `1 h ago`
-- **[Träumen](https://open.spotify.com/track/1UBrsUyU8fzVA3n6Y7nH5F)** by **Tino** *(Träumen)* - `1 h ago`
-- **[Gesichter](https://open.spotify.com/track/1fy1TbpC7GMEOPx7K19rVp)** by **Leftovers** *(Krach)* - `1 h ago`
+- **[beckenrand](https://open.spotify.com/track/3K3S6dIwvqq1mzQFzWEDW0)** by **SCHRAMM** *(beckenrand)* - `2 h ago`
+- **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)* - `2 h ago`
+- **[all i know](https://open.spotify.com/track/4dxm7Im31ShoINjWq7tFwK)** by **Lixight** *(all i know)* - `2 h ago`
+- **[Träumen](https://open.spotify.com/track/1UBrsUyU8fzVA3n6Y7nH5F)** by **Tino** *(Träumen)* - `2 h ago`
+- **[Gesichter](https://open.spotify.com/track/1fy1TbpC7GMEOPx7K19rVp)** by **Leftovers** *(Krach)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-08 22:47:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-08 23:58:13 UTC*
 <!-- SPOTIFY-END -->
