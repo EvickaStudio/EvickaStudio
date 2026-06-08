@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[180 - und die flüsternden Puppen - Teil 30](https://open.spotify.com/track/5BGc6Jrn7KVfVK39gI5K1r)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `34 min ago`
-- **[180 - und die flüsternden Puppen - Teil 29](https://open.spotify.com/track/4ZdDOR5zGW5Unksb2BKQg0)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `36 min ago`
-- **[180 - und die flüsternden Puppen - Teil 28](https://open.spotify.com/track/7yrirx51PUI9XxOyVL51cj)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `38 min ago`
-- **[180 - und die flüsternden Puppen - Teil 27](https://open.spotify.com/track/0ETbcEm9KWqWU5YdB6sHI0)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `40 min ago`
-- **[180 - und die flüsternden Puppen - Teil 26](https://open.spotify.com/track/6giz8Lk7OxGcLP8eAROOPH)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `42 min ago`
+- **[180 - und die flüsternden Puppen - Teil 30](https://open.spotify.com/track/5BGc6Jrn7KVfVK39gI5K1r)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `3 h ago`
+- **[180 - und die flüsternden Puppen - Teil 29](https://open.spotify.com/track/4ZdDOR5zGW5Unksb2BKQg0)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `3 h ago`
+- **[180 - und die flüsternden Puppen - Teil 28](https://open.spotify.com/track/7yrirx51PUI9XxOyVL51cj)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `3 h ago`
+- **[180 - und die flüsternden Puppen - Teil 27](https://open.spotify.com/track/0ETbcEm9KWqWU5YdB6sHI0)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `3 h ago`
+- **[180 - und die flüsternden Puppen - Teil 26](https://open.spotify.com/track/6giz8Lk7OxGcLP8eAROOPH)** by **Die drei ???** *(180/und die flüsternden Puppen)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Home!!! (wake up)**](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-07 23:45:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-08 02:48:51 UTC*
 <!-- SPOTIFY-END -->
