@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ff70e306fc821eefc96552c1" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/02XgFTDwmTQRyQjSI1Yc2E">Good Day Will Arrive</a></strong><br/>
-  <em>by</em> <strong>ear</strong><br/>
-  <em>Album:</em> Rumspringa
-</p>
-
-<p align="center"><code>2:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:15</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[everything you do](https://open.spotify.com/track/6yiLYWIEH307n7QHLBmuaA)** by **campthehills** *(everything you do)* - `2 min ago`
-- **[Indian Burn](https://open.spotify.com/track/6ZUcrvREvTPDGUMr52hAK4)** by **The Truth** *(U.S.T)* - `4 min ago`
-- **[what do you want me to do?](https://open.spotify.com/track/0rfA0I4IhArbfqa8wXZP3m)** by **Joey Cash** *(what do you want me to do?)* - `7 min ago`
-- **[Country Road](https://open.spotify.com/track/66ebkOa8Yfca90XPfCIQkS)** by **The Hellp** *(Riviera)* - `10 min ago`
-- **[Wrestle it out](https://open.spotify.com/track/1iKMqFucFA588GOP6EHjun)** by **Tommy Fleece** *(audio stars 2)* - `13 min ago`
+- **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)* - `1 h ago`
+- **[no airbags we die like real men](https://open.spotify.com/track/6Y23jgYKorYRIToLsyuob3)** by **Tommy Fleece** *(audio stars)* - `1 h ago`
+- **[An nichts denken](https://open.spotify.com/track/0DFccHLde09realK7yAtZd)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `1 h ago`
+- **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)* - `1 h ago`
+- **[F](https://open.spotify.com/track/2GxUe0Kr2PpLVDip4CIAka)** by **ear** *(Rumspringa)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-09 13:31:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-09 16:19:48 UTC*
 <!-- SPOTIFY-END -->
