@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273968a7c4556d2545f4fd8da78" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2sacoYfUDhpZrwRWv4ydKl">Break This The Breaking Point 2</a></strong><br/>
+  <em>by</em> <strong>Vertigoaway, Schizoscriptures</strong><br/>
+  <em>Album:</em> Break This The Breaking Point 2
+</p>
+
+<p align="center"><code>3:21</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>7:27</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)* - `3 h ago`
-- **[no airbags we die like real men](https://open.spotify.com/track/6Y23jgYKorYRIToLsyuob3)** by **Tommy Fleece** *(audio stars)* - `3 h ago`
-- **[An nichts denken](https://open.spotify.com/track/0DFccHLde09realK7yAtZd)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `3 h ago`
-- **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)* - `3 h ago`
-- **[F](https://open.spotify.com/track/2GxUe0Kr2PpLVDip4CIAka)** by **ear** *(Rumspringa)* - `3 h ago`
+- **[ist all das das was noch bleibt von dir und mir](https://open.spotify.com/track/4UPk9Na3rb4a2HSgGD93Qz)** by **DANZINGER 99, Blanche Biau** *(aber immer noch besser als in dieser welt in der ich wach bin)* - `3 min ago`
+- **[Großstadtdschungel](https://open.spotify.com/track/7j4VL9pDz4i3lNxZYGRZYa)** by **viko63, penglord** *(Großstadtdschungel)* - `4 min ago`
+- **[i know that you're wrong](https://open.spotify.com/track/6NWqwkjiCQqMxO2MTUlIMq)** by **uxbie** *(i know that you're wrong)* - `7 min ago`
+- **[SUPER EMULATOR (feat. HiTNEX-X)](https://open.spotify.com/track/0676rJmcEyK3LyvOj8tGGS)** by **Kobaryo, HiTNEX-X** *(SUPER REVOLUTION)* - `14 min ago`
+- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-09 18:27:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-09 20:26:05 UTC*
 <!-- SPOTIFY-END -->
