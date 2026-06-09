@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)* - `1 h ago`
-- **[no airbags we die like real men](https://open.spotify.com/track/6Y23jgYKorYRIToLsyuob3)** by **Tommy Fleece** *(audio stars)* - `1 h ago`
-- **[An nichts denken](https://open.spotify.com/track/0DFccHLde09realK7yAtZd)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `1 h ago`
-- **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)* - `1 h ago`
-- **[F](https://open.spotify.com/track/2GxUe0Kr2PpLVDip4CIAka)** by **ear** *(Rumspringa)* - `1 h ago`
+- **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)* - `3 h ago`
+- **[no airbags we die like real men](https://open.spotify.com/track/6Y23jgYKorYRIToLsyuob3)** by **Tommy Fleece** *(audio stars)* - `3 h ago`
+- **[An nichts denken](https://open.spotify.com/track/0DFccHLde09realK7yAtZd)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `3 h ago`
+- **[ashes2ashes](https://open.spotify.com/track/054Sf49wsadfNev4u8gQ8X)** by **5v** *(ashes2ashes)* - `3 h ago`
+- **[F](https://open.spotify.com/track/2GxUe0Kr2PpLVDip4CIAka)** by **ear** *(Rumspringa)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-09 16:19:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-09 18:27:42 UTC*
 <!-- SPOTIFY-END -->
