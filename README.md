@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ed795ac97622382819765a7d" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9">Hate.</a></strong><br/>
+  <em>by</em> <strong>ThxSoMch</strong><br/>
+  <em>Album:</em> Hate.
+</p>
+
+<p align="center"><code>0:07</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:14</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[beckenrand](https://open.spotify.com/track/3K3S6dIwvqq1mzQFzWEDW0)** by **SCHRAMM** *(beckenrand)* - `5 h ago`
-- **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)* - `5 h ago`
-- **[all i know](https://open.spotify.com/track/4dxm7Im31ShoINjWq7tFwK)** by **Lixight** *(all i know)* - `5 h ago`
-- **[Träumen](https://open.spotify.com/track/1UBrsUyU8fzVA3n6Y7nH5F)** by **Tino** *(Träumen)* - `6 h ago`
-- **[Gesichter](https://open.spotify.com/track/1fy1TbpC7GMEOPx7K19rVp)** by **Leftovers** *(Krach)* - `6 h ago`
+- **[Just The Way You Are](https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj)** by **Milky** *(Just The Way You Are)* - `3 min ago`
+- **[kopflos durch die nacht](https://open.spotify.com/track/0ufVR3XKgG4dUXxQ25t5HW)** by **herz.** *(kopflos durch die nacht)* - `6 min ago`
+- **[Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH)** by **Fitz and The Tantrums** *(More Than Just a Dream (Deluxe Edition))* - `9 min ago`
+- **[Coming-of-age Story](https://open.spotify.com/track/2CjBRDNQ3v8UxQ2VrWfUxx)** by **Brandy Senki** *(Coming-of-age Story)* - `12 min ago`
+- **[Coming-of-age Story](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)** by **Brandy Senki** *(BRANDY SENKI)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-09 03:32:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-09 07:03:39 UTC*
 <!-- SPOTIFY-END -->
