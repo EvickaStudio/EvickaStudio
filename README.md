@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273968a7c4556d2545f4fd8da78" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2sacoYfUDhpZrwRWv4ydKl">Break This The Breaking Point 2</a></strong><br/>
-  <em>by</em> <strong>Vertigoaway, Schizoscriptures</strong><br/>
-  <em>Album:</em> Break This The Breaking Point 2
-</p>
-
-<p align="center"><code>3:21</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>7:27</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ist all das das was noch bleibt von dir und mir](https://open.spotify.com/track/4UPk9Na3rb4a2HSgGD93Qz)** by **DANZINGER 99, Blanche Biau** *(aber immer noch besser als in dieser welt in der ich wach bin)* - `3 min ago`
-- **[Großstadtdschungel](https://open.spotify.com/track/7j4VL9pDz4i3lNxZYGRZYa)** by **viko63, penglord** *(Großstadtdschungel)* - `4 min ago`
-- **[i know that you're wrong](https://open.spotify.com/track/6NWqwkjiCQqMxO2MTUlIMq)** by **uxbie** *(i know that you're wrong)* - `7 min ago`
-- **[SUPER EMULATOR (feat. HiTNEX-X)](https://open.spotify.com/track/0676rJmcEyK3LyvOj8tGGS)** by **Kobaryo, HiTNEX-X** *(SUPER REVOLUTION)* - `14 min ago`
-- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `17 min ago`
+- **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)* - `29 min ago`
+- **[Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ)** by **Declan McKenna** *(What Do You Think About the Car?)* - `34 min ago`
+- **[Teilen](https://open.spotify.com/track/2FGnwpyU3Y0FSTMRxPSIqk)** by **hqwilli, SlushhKitten** *(Teilen)* - `38 min ago`
+- **[Nanou2](https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl)** by **Aphex Twin** *(Drukqs)* - `40 min ago`
+- **[warm//kalt](https://open.spotify.com/track/7kIeHIVS6LTaDqLSc7Qn34)** by **GALAX** *(pass auf dich auf)* - `43 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-09 20:26:05 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-09 22:02:38 UTC*
 <!-- SPOTIFY-END -->
