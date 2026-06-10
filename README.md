@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736c6610322fc60bfb41481273" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6tV34f3JK3le2YIQMo9ECt">Ballad of Sir Frankie Crisp (Let It Roll) - 2014 Remaster</a></strong><br/>
+  <em>by</em> <strong>George Harrison</strong><br/>
+  <em>Album:</em> All Things Must Pass (2014 Remaster)
+</p>
+
+<p align="center"><code>2:34</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:48</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[H<3RZSHIRT - sped up](https://open.spotify.com/track/6kWOU0RdssynWZAVaLvQFT)** by **NYAR, ystn** *(H<3RZSHIRT)* - `4 h ago`
-- **[brand new](https://open.spotify.com/track/34lCjkdCOA0AO3WcRWsOLl)** by **RudeClub** *(brand new)* - `4 h ago`
-- **[____](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(____)* - `4 h ago`
-- **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)* - `4 h ago`
-- **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)* - `4 h ago`
+- **[Swingin Party - 2008 Remaster](https://open.spotify.com/track/14g6foD6sxO1qgkDKuPgWv)** by **The Replacements** *(Tim (Expanded))* - `2 min ago`
+- **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `6 min ago`
+- **[Suedehead - 2011 Remaster](https://open.spotify.com/track/0kA5scXMiaO5Ms2GQ4pRWa)** by **Morrissey** *(Viva Hate (2011 Remaster))* - `9 min ago`
+- **[Back to the Old House - John Peel Session 14/09/83](https://open.spotify.com/track/62v1MU1PFXL6AUTyST8PJU)** by **The Smiths** *(Hatful of Hollow)* - `12 min ago`
+- **[These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs)** by **Nico** *(Chelsea Girl)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-10 17:21:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-10 19:50:50 UTC*
 <!-- SPOTIFY-END -->
