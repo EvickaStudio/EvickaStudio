@@ -96,17 +96,20 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Waterloo Sunset](https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo)** by **The Kinks** *(Something Else (Deluxe))* - `1 h ago`
-- **[Talkin to the Trees](https://open.spotify.com/track/0QwtD0hRz2bO8tJDRv3yAD)** by **Neil Young, neil young and the chrome hearts** *(Talkin to the Trees)* - `1 h ago`
-- **[Reflecting Everything](https://open.spotify.com/track/09ntEoqIKc08ESm1E4EAFT)** by **Mapache** *(Swinging Stars)* - `1 h ago`
-- **[Walkin’ Back to Georgia](https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e)** by **Jim Croce** *(You Don't Mess Around With Jim)* - `1 h ago`
-- **[This Must Be the Place (Naive Melody) - 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or)** by **Talking Heads** *(Speaking in Tongues (Deluxe Version))* - `1 h ago`
+- **[Waterloo Sunset](https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo)** by **The Kinks** *(Something Else (Deluxe))* - `3 h ago`
+- **[Talkin to the Trees](https://open.spotify.com/track/0QwtD0hRz2bO8tJDRv3yAD)** by **Neil Young, neil young and the chrome hearts** *(Talkin to the Trees)* - `3 h ago`
+- **[Reflecting Everything](https://open.spotify.com/track/09ntEoqIKc08ESm1E4EAFT)** by **Mapache** *(Swinging Stars)* - `3 h ago`
+- **[Walkin’ Back to Georgia](https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e)** by **Jim Croce** *(You Don't Mess Around With Jim)* - `3 h ago`
+- **[This Must Be the Place (Naive Melody) - 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or)** by **Talking Heads** *(Speaking in Tongues (Deluxe Version))* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
-> ⚠️ Could not fetch top artists: `http status: 429, code: -1 - /v1/me/top/artists?time_range=short_term&limit=5&offset=0:
- Max Retries, reason: too many 503 error responses`
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -117,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-10 21:51:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-10 23:18:59 UTC*
 <!-- SPOTIFY-END -->
