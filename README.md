@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Mindestens zu zweit](https://open.spotify.com/track/484cf5TxcXkA4vfUmXrlxk)** by **102 Boyz, Stacks102, Skoob102, Chapo102** *(Asozial Allstars 2)* - `40 min ago`
-- **[Back To You](https://open.spotify.com/track/77eiPtr5OCFnb5CGvGwfsT)** by **S3RL, Walras, REGINA** *(Back To You)* - `43 min ago`
-- **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by **sparr00w** *(Soundcloud Archive)* - `46 min ago`
-- **[Auf den Dächern der Stadt](https://open.spotify.com/track/4QgWqv5PfoHFUv7f6wKagp)** by **Lugatti & 9ine** *(MKS 3.0)* - `48 min ago`
-- **[bleibt für ewich](https://open.spotify.com/track/0OdRpeXmnLtNHcoAxHGJUK)** by **b3nn3t** *(bleibt für ewich)* - `50 min ago`
+- **[H<3RZSHIRT - sped up](https://open.spotify.com/track/6kWOU0RdssynWZAVaLvQFT)** by **NYAR, ystn** *(H<3RZSHIRT)* - `1 h ago`
+- **[brand new](https://open.spotify.com/track/34lCjkdCOA0AO3WcRWsOLl)** by **RudeClub** *(brand new)* - `1 h ago`
+- **[____](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(____)* - `1 h ago`
+- **[Special](https://open.spotify.com/track/3sWEkCmVcPmtYk01uXTKjx)** by **Plymhides** *(Special)* - `1 h ago`
+- **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-10 10:38:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-10 13:59:05 UTC*
 <!-- SPOTIFY-END -->
