@@ -91,35 +91,22 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736c6610322fc60bfb41481273" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6tV34f3JK3le2YIQMo9ECt">Ballad of Sir Frankie Crisp (Let It Roll) - 2014 Remaster</a></strong><br/>
-  <em>by</em> <strong>George Harrison</strong><br/>
-  <em>Album:</em> All Things Must Pass (2014 Remaster)
-</p>
-
-<p align="center"><code>2:34</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:48</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Swingin Party - 2008 Remaster](https://open.spotify.com/track/14g6foD6sxO1qgkDKuPgWv)** by **The Replacements** *(Tim (Expanded))* - `2 min ago`
-- **[Old Man](https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8)** by **Neil Young** *(Harvest (50th Anniversary Edition))* - `6 min ago`
-- **[Suedehead - 2011 Remaster](https://open.spotify.com/track/0kA5scXMiaO5Ms2GQ4pRWa)** by **Morrissey** *(Viva Hate (2011 Remaster))* - `9 min ago`
-- **[Back to the Old House - John Peel Session 14/09/83](https://open.spotify.com/track/62v1MU1PFXL6AUTyST8PJU)** by **The Smiths** *(Hatful of Hollow)* - `12 min ago`
-- **[These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs)** by **Nico** *(Chelsea Girl)* - `15 min ago`
+- **[Waterloo Sunset](https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo)** by **The Kinks** *(Something Else (Deluxe))* - `1 h ago`
+- **[Talkin to the Trees](https://open.spotify.com/track/0QwtD0hRz2bO8tJDRv3yAD)** by **Neil Young, neil young and the chrome hearts** *(Talkin to the Trees)* - `1 h ago`
+- **[Reflecting Everything](https://open.spotify.com/track/09ntEoqIKc08ESm1E4EAFT)** by **Mapache** *(Swinging Stars)* - `1 h ago`
+- **[Walkin’ Back to Georgia](https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e)** by **Jim Croce** *(You Don't Mess Around With Jim)* - `1 h ago`
+- **[This Must Be the Place (Naive Melody) - 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or)** by **Talking Heads** *(Speaking in Tongues (Deluxe Version))* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+> ⚠️ Could not fetch top artists: `http status: 429, code: -1 - /v1/me/top/artists?time_range=short_term&limit=5&offset=0:
+ Max Retries, reason: too many 503 error responses`
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +117,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-10 19:50:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-10 21:51:08 UTC*
 <!-- SPOTIFY-END -->
