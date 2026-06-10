@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)* - `8 h ago`
-- **[Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ)** by **Declan McKenna** *(What Do You Think About the Car?)* - `8 h ago`
-- **[Teilen](https://open.spotify.com/track/2FGnwpyU3Y0FSTMRxPSIqk)** by **hqwilli, SlushhKitten** *(Teilen)* - `8 h ago`
-- **[Nanou2](https://open.spotify.com/track/6pHuMjk9O1G3XTTqbnpkTl)** by **Aphex Twin** *(Drukqs)* - `8 h ago`
-- **[warm//kalt](https://open.spotify.com/track/7kIeHIVS6LTaDqLSc7Qn34)** by **GALAX** *(pass auf dich auf)* - `8 h ago`
+- **[Mindestens zu zweit](https://open.spotify.com/track/484cf5TxcXkA4vfUmXrlxk)** by **102 Boyz, Stacks102, Skoob102, Chapo102** *(Asozial Allstars 2)* - `40 min ago`
+- **[Back To You](https://open.spotify.com/track/77eiPtr5OCFnb5CGvGwfsT)** by **S3RL, Walras, REGINA** *(Back To You)* - `43 min ago`
+- **[Verpasst](https://open.spotify.com/track/69CHC6DPZxSW1CytkPRJey)** by **sparr00w** *(Soundcloud Archive)* - `46 min ago`
+- **[Auf den Dächern der Stadt](https://open.spotify.com/track/4QgWqv5PfoHFUv7f6wKagp)** by **Lugatti & 9ine** *(MKS 3.0)* - `48 min ago`
+- **[bleibt für ewich](https://open.spotify.com/track/0OdRpeXmnLtNHcoAxHGJUK)** by **b3nn3t** *(bleibt für ewich)* - `50 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -117,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-10 06:15:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-10 10:38:07 UTC*
 <!-- SPOTIFY-END -->
