@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f396ea414b735ef23e2ed1a9" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76">Bring It on Home - Remaster</a></strong><br/>
-  <em>by</em> <strong>Led Zeppelin</strong><br/>
-  <em>Album:</em> Led Zeppelin II (Remaster)
-</p>
-
-<p align="center"><code>1:40</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:19</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ten Years Gone - Remaster](https://open.spotify.com/track/6M5m8gfTj3rhYEPDzLmdL4)** by **Led Zeppelin** *(Physical Graffiti (Deluxe Edition))* - `1 min ago`
-- **[Whole Lotta Love - 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8)** by **Led Zeppelin** *(Led Zeppelin II (1994 Remaster))* - `8 min ago`
-- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `17 min ago`
-- **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)* - `19 min ago`
-- **[Hate The Other Side (with Marshmello & The Kid Laroi)](https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49)** by **Juice WRLD, Marshmello, The Kid LAROI, Polo G** *(Legends Never Die)* - `21 min ago`
+- **[beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K)** by **Lil Peep, Nedarb** *(beamer boy)* - `39 min ago`
+- **[Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)** by **jonatan leandoer96** *(Psychopath Ballads)* - `42 min ago`
+- **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)* - `45 min ago`
+- **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)* - `50 min ago`
+- **[Beautiful Nightmare](https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp)** by **Lil Tracy** *(Anarchy)* - `51 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-11 18:26:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-11 20:41:24 UTC*
 <!-- SPOTIFY-END -->
