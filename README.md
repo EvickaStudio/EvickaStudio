@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b44de5b9f5eba409dfa753e6" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2zVJlAEB0ublkqJMIn43AE">Symbolism</a></strong><br/>
+  <em>by</em> <strong>Electro-Light</strong><br/>
+  <em>Album:</em> Symbolism
+</p>
+
+<p align="center"><code>1:37</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>4:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Waterloo Sunset](https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo)** by **The Kinks** *(Something Else (Deluxe))* - `15 h ago`
-- **[Talkin to the Trees](https://open.spotify.com/track/0QwtD0hRz2bO8tJDRv3yAD)** by **Neil Young, neil young and the chrome hearts** *(Talkin to the Trees)* - `15 h ago`
-- **[Reflecting Everything](https://open.spotify.com/track/09ntEoqIKc08ESm1E4EAFT)** by **Mapache** *(Swinging Stars)* - `15 h ago`
-- **[Walkin’ Back to Georgia](https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e)** by **Jim Croce** *(You Don't Mess Around With Jim)* - `15 h ago`
-- **[This Must Be the Place (Naive Melody) - 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or)** by **Talking Heads** *(Speaking in Tongues (Deluxe Version))* - `15 h ago`
+- **[Voices for Sadness Theme](https://open.spotify.com/track/2Zr4pmt5wrf8eR92TZP1Te)** by **Franco Micalizzi** *(Stridulum - The Visitor (Original Motion Picture Soundtrack))* - `1 min ago`
+- **[unreal (II)](https://open.spotify.com/track/3Va6Pps37mr4HKGgHeHpSJ)** by **luu** *(unreal (II))* - `3 min ago`
+- **[BVB](https://open.spotify.com/track/1CiMDNaikwhNSua0Y9T0ox)** by **diDante, cdgplug** *(Hefeteig)* - `6 min ago`
+- **[gone](https://open.spotify.com/track/6EcIOlX669iY3X6KfbWNzT)** by **cdgplug** *(gone)* - `8 min ago`
+- **[CALVIN KLEIN](https://open.spotify.com/track/2BA9M0UJtJpV3AMWzVG3Eu)** by **cdgplug** *(HEAVY MENTAL)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -116,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-11 11:17:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-11 15:00:48 UTC*
 <!-- SPOTIFY-END -->
