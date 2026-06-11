@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Waterloo Sunset](https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo)** by **The Kinks** *(Something Else (Deluxe))* - `3 h ago`
-- **[Talkin to the Trees](https://open.spotify.com/track/0QwtD0hRz2bO8tJDRv3yAD)** by **Neil Young, neil young and the chrome hearts** *(Talkin to the Trees)* - `3 h ago`
-- **[Reflecting Everything](https://open.spotify.com/track/09ntEoqIKc08ESm1E4EAFT)** by **Mapache** *(Swinging Stars)* - `3 h ago`
-- **[Walkin’ Back to Georgia](https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e)** by **Jim Croce** *(You Don't Mess Around With Jim)* - `3 h ago`
-- **[This Must Be the Place (Naive Melody) - 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or)** by **Talking Heads** *(Speaking in Tongues (Deluxe Version))* - `3 h ago`
+- **[Waterloo Sunset](https://open.spotify.com/track/3G0EALIIp5DAeIERxXBHmo)** by **The Kinks** *(Something Else (Deluxe))* - `5 h ago`
+- **[Talkin to the Trees](https://open.spotify.com/track/0QwtD0hRz2bO8tJDRv3yAD)** by **Neil Young, neil young and the chrome hearts** *(Talkin to the Trees)* - `5 h ago`
+- **[Reflecting Everything](https://open.spotify.com/track/09ntEoqIKc08ESm1E4EAFT)** by **Mapache** *(Swinging Stars)* - `5 h ago`
+- **[Walkin’ Back to Georgia](https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e)** by **Jim Croce** *(You Don't Mess Around With Jim)* - `5 h ago`
+- **[This Must Be the Place (Naive Melody) - 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or)** by **Talking Heads** *(Speaking in Tongues (Deluxe Version))* - `6 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-10 23:18:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-11 01:57:42 UTC*
 <!-- SPOTIFY-END -->
