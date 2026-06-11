@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b44de5b9f5eba409dfa753e6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273f396ea414b735ef23e2ed1a9" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2zVJlAEB0ublkqJMIn43AE">Symbolism</a></strong><br/>
-  <em>by</em> <strong>Electro-Light</strong><br/>
-  <em>Album:</em> Symbolism
+  <strong><a href="https://open.spotify.com/track/1rxD34LAtkafrMUHqHIV76">Bring It on Home - Remaster</a></strong><br/>
+  <em>by</em> <strong>Led Zeppelin</strong><br/>
+  <em>Album:</em> Led Zeppelin II (Remaster)
 </p>
 
-<p align="center"><code>1:37</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>4:53</code></p>
+<p align="center"><code>1:40</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:19</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Voices for Sadness Theme](https://open.spotify.com/track/2Zr4pmt5wrf8eR92TZP1Te)** by **Franco Micalizzi** *(Stridulum - The Visitor (Original Motion Picture Soundtrack))* - `1 min ago`
-- **[unreal (II)](https://open.spotify.com/track/3Va6Pps37mr4HKGgHeHpSJ)** by **luu** *(unreal (II))* - `3 min ago`
-- **[BVB](https://open.spotify.com/track/1CiMDNaikwhNSua0Y9T0ox)** by **diDante, cdgplug** *(Hefeteig)* - `6 min ago`
-- **[gone](https://open.spotify.com/track/6EcIOlX669iY3X6KfbWNzT)** by **cdgplug** *(gone)* - `8 min ago`
-- **[CALVIN KLEIN](https://open.spotify.com/track/2BA9M0UJtJpV3AMWzVG3Eu)** by **cdgplug** *(HEAVY MENTAL)* - `9 min ago`
+- **[Ten Years Gone - Remaster](https://open.spotify.com/track/6M5m8gfTj3rhYEPDzLmdL4)** by **Led Zeppelin** *(Physical Graffiti (Deluxe Edition))* - `1 min ago`
+- **[Whole Lotta Love - 1990 Remaster](https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8)** by **Led Zeppelin** *(Led Zeppelin II (1994 Remaster))* - `8 min ago`
+- **[pets](https://open.spotify.com/track/4sbKhEuib5xaSrSGbAluJe)** by **archive computer** *(pets)* - `17 min ago`
+- **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)* - `19 min ago`
+- **[Hate The Other Side (with Marshmello & The Kid Laroi)](https://open.spotify.com/track/0ada5XsQGLPUVbmTCkAP49)** by **Juice WRLD, Marshmello, The Kid LAROI, Polo G** *(Legends Never Die)* - `21 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-11 15:00:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-11 18:26:40 UTC*
 <!-- SPOTIFY-END -->
