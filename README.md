@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2738553c83f03932f210bc0dc5c" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1ZAJWEG5hcYdH5FG8suNCS">forever</a></strong><br/>
+  <em>by</em> <strong>bliiiss</strong><br/>
+  <em>Album:</em> forever
+</p>
+
+<p align="center"><code>2:04</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G)** by **wifiskeleton, i wanna be a jack-o-lantern** *(suburban daredevil)* - `7 h ago`
-- **[beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K)** by **Lil Peep, Nedarb** *(beamer boy)* - `8 h ago`
-- **[Never Again](https://open.spotify.com/track/0BtR9vUPQRShrm3TBd8G17)** by **jonatan leandoer96** *(Psychopath Ballads)* - `8 h ago`
-- **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)* - `8 h ago`
-- **[Dream lantern](https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF)** by **RADWIMPS** *(Your Name.)* - `8 h ago`
+- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `2 min ago`
+- **[Rumspringa](https://open.spotify.com/track/3JerY3GjBoNp5y1GGjbPFE)** by **ear** *(Rumspringa)* - `8 min ago`
+- **[Blink 182](https://open.spotify.com/track/3QEewDey7tkhrBvQSg8qDc)** by **Larsmai, UhNiclas** *(Got2Be)* - `13 min ago`
+- **[Best Friendz](https://open.spotify.com/track/5MknaplbHI4EeEKXmWgqwW)** by **g0r3c0r3** *(We <3 g0r3)* - `16 min ago`
+- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Here I Am**](https://open.spotify.com/track/5BOc5jsPrA7qvjjSTSJ74f)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-12 04:38:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-12 08:47:34 UTC*
 <!-- SPOTIFY-END -->
