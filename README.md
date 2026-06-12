@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27392297f0f64dcf1a54b12f9b2" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/49iZj8797mUKZFZeiPLqmh">YUNG SHERMAN (feat. Yung Sherman)</a></strong><br/>
-  <em>by</em> <strong>Bladee, Yung Sherman</strong><br/>
-  <em>Album:</em> Cold Visions
-</p>
-
-<p align="center"><code>0:27</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:12</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)* - `just now`
-- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `2 min ago`
-- **[Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX)** by **Take Care** *(Agony)* - `8 min ago`
-- **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)* - `10 min ago`
-- **[ritter](https://open.spotify.com/track/1rL054yCqL5KtpXOJZINNn)** by **blombi19** *(amalgamarchiv)* - `12 min ago`
+- **[halt mich fest](https://open.spotify.com/track/3K1SRFtbc1JMkvc9bVQvln)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `1 h ago`
+- **[Rumspringa](https://open.spotify.com/track/3JerY3GjBoNp5y1GGjbPFE)** by **ear** *(Rumspringa)* - `1 h ago`
+- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `1 h ago`
+- **[Träumen](https://open.spotify.com/track/1CqBpLMzzGj5fS4uT0mtnb)** by **CKK, toobrokeforfiji** *(Träumen)* - `1 h ago`
+- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,16 +109,16 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**kevin**](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**NO RISK NO FUN**](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**NO RISK NO FUN**](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-12 17:51:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-12 19:56:26 UTC*
 <!-- SPOTIFY-END -->
