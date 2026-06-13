@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2731d65abdc352449d3a0e9cb51" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3AwinPm5iZo80yC9geeLPc">Mini-Fall/Alarm, die Ritter kommen! - Teil 10</a></strong><br/>
+  <em>by</em> <strong>Die drei ??? Kids</strong><br/>
+  <em>Album:</em> Mini-Fall/Alarm, die Ritter kommen! (Mini-Fall 05)
+</p>
+
+<p align="center"><code>2:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:10</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Возвращайся](https://open.spotify.com/track/5mOeOAd13S4IBMVaMPNM6L)** by **angel vox** *(Возвращайся)* - `53 min ago`
-- **[Happy Ending](https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7)** by **Kev Koko, Nina Roy** *(Happy Ending)* - `56 min ago`
-- **[life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7)** by **quannnic** *(kenopsia)* - `1 h ago`
-- **[lean 2 euro](https://open.spotify.com/track/0p1PuUEqgxadb0TlEBoLFo)** by **mikeycyrus** *(lean 2 euro)* - `1 h ago`
-- **[Life so far](https://open.spotify.com/track/3QnO1MhRUpn7jQ5zAlUsxF)** by **Bassvictim** *(Basspunk 2)* - `1 h ago`
+- **[Kapitel 12: Das Rätsel der Gruselvilla - Folge 241](https://open.spotify.com/track/0HBOM4SRoZVA04RjrlxiLC)** by **TKKG** *(Folge 241: Das Rätsel der Gruselvilla)* - `2 min ago`
+- **[Kapitel 13: Geistermusik - Folge 101](https://open.spotify.com/track/5FSAq2vMXlzK5Vc8J4jjyb)** by **Die drei ??? Kids** *(Folge 101: Geistermusik)* - `5 min ago`
+- **[Bombenstimmung Kapitel 18](https://open.spotify.com/track/6zn84w2FfswEZEQfnHZTgz)** by **Mord ist ihr Leben** *(Folge 7: Bombenstimmung)* - `8 min ago`
+- **[230 - Der Tag der Toten - Teil 19](https://open.spotify.com/track/0yD2JQpKrlNqJiiz2lmkNb)** by **Die drei ???** *(Folge 230: Der Tag der Toten)* - `11 min ago`
+- **[Kapitel 9 - Teil 19: Ferien im Palast](https://open.spotify.com/track/0Ac0MlBVIF0ernePvoU6hO)** by **Sternenfohlen, Linda Chapmann, Johannes Steck, Sabine Menne, Manuel Scheuernstuhl, Leslie-Vannessa Lill** *(Teil 19: Ferien im Palast)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 00:14:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 04:52:14 UTC*
 <!-- SPOTIFY-END -->
