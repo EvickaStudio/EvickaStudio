@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731d65abdc352449d3a0e9cb51" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3AwinPm5iZo80yC9geeLPc">Mini-Fall/Alarm, die Ritter kommen! - Teil 10</a></strong><br/>
-  <em>by</em> <strong>Die drei ??? Kids</strong><br/>
-  <em>Album:</em> Mini-Fall/Alarm, die Ritter kommen! (Mini-Fall 05)
-</p>
-
-<p align="center"><code>2:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:10</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 12: Das Rätsel der Gruselvilla - Folge 241](https://open.spotify.com/track/0HBOM4SRoZVA04RjrlxiLC)** by **TKKG** *(Folge 241: Das Rätsel der Gruselvilla)* - `2 min ago`
-- **[Kapitel 13: Geistermusik - Folge 101](https://open.spotify.com/track/5FSAq2vMXlzK5Vc8J4jjyb)** by **Die drei ??? Kids** *(Folge 101: Geistermusik)* - `5 min ago`
-- **[Bombenstimmung Kapitel 18](https://open.spotify.com/track/6zn84w2FfswEZEQfnHZTgz)** by **Mord ist ihr Leben** *(Folge 7: Bombenstimmung)* - `8 min ago`
-- **[230 - Der Tag der Toten - Teil 19](https://open.spotify.com/track/0yD2JQpKrlNqJiiz2lmkNb)** by **Die drei ???** *(Folge 230: Der Tag der Toten)* - `11 min ago`
-- **[Kapitel 9 - Teil 19: Ferien im Palast](https://open.spotify.com/track/0Ac0MlBVIF0ernePvoU6hO)** by **Sternenfohlen, Linda Chapmann, Johannes Steck, Sabine Menne, Manuel Scheuernstuhl, Leslie-Vannessa Lill** *(Teil 19: Ferien im Palast)* - `14 min ago`
+- **[Tennis Court](https://open.spotify.com/track/0CZQdtHog1qGXMkEcrve41)** by **Flawless Issues** *(Modern Past)* - `4 min ago`
+- **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))* - `6 min ago`
+- **[Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU)** by **Krewella** *(Get Wet)* - `11 min ago`
+- **[Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP)** by **M83** *(Hurry up, We're Dreaming)* - `14 min ago`
+- **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)* - `20 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +109,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**agelast222**](https://open.spotify.com/artist/05jZ0T8kKQUA7Cd58RLiL0)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 04:52:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 08:16:41 UTC*
 <!-- SPOTIFY-END -->
