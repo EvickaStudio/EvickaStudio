@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO">All Of The Lights</a></strong><br/>
-  <em>by</em> <strong>Kanye West</strong><br/>
-  <em>Album:</em> My Beautiful Dark Twisted Fantasy
-</p>
-
-<p align="center"><code>3:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:59</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)* - `3 min ago`
-- **[trance like non ordinary state](https://open.spotify.com/track/6xzpQoRkFt3D3sbPJ4eUfe)** by **meat computer** *(trance like non ordinary state)* - `4 min ago`
-- **[mutig schwach](https://open.spotify.com/track/5DEZXDJpQw3aLRq14kwPwW)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `6 min ago`
-- **[WOLKE](https://open.spotify.com/track/6QBE1EuFibok8xSexAXvko)** by **Leftovers** *(HEY)* - `9 min ago`
-- **[Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E)** by **Weezer** *(Weezer)* - `12 min ago`
+- **[RAUS](https://open.spotify.com/track/0LwqO52Dy99EAP9fvPqw1s)** by **zwanzignullvier** *(RAUS)* - `17 min ago`
+- **[Doktorspiele](https://open.spotify.com/track/6ba5jsjL6Ed8FZICtXEB3f)** by **Alex C., Yass** *(Euphorie)* - `20 min ago`
+- **[i just want ur love](https://open.spotify.com/track/0bILYFSd73DQ3Ya5pev74J)** by **iamsodead, LooveX, dollreal, dethkitty, pavlos** *(i just want ur love)* - `24 min ago`
+- **[PLANET](https://open.spotify.com/track/2qZWQ6anaDhcgOXiqzMD67)** by **S1RENA** *(PLANET)* - `27 min ago`
+- **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)* - `29 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 12:14:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 14:27:19 UTC*
 <!-- SPOTIFY-END -->
