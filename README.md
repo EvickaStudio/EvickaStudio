@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737b22026ee8da9c5a077113a2" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M">If I Give You My Heart, Can I Trust You With It?</a></strong><br/>
+  <em>by</em> <strong>Blythe Star</strong><br/>
+  <em>Album:</em> If I Give You My Heart, Can I Trust You With It?
+</p>
+
+<p align="center"><code>3:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>5:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Tennis Court](https://open.spotify.com/track/0CZQdtHog1qGXMkEcrve41)** by **Flawless Issues** *(Modern Past)* - `4 min ago`
-- **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))* - `6 min ago`
-- **[Enjoy the Ride](https://open.spotify.com/track/6UEJtAnGHnK5tVhoPHD6tU)** by **Krewella** *(Get Wet)* - `11 min ago`
-- **[Wait](https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP)** by **M83** *(Hurry up, We're Dreaming)* - `14 min ago`
-- **[Hurt](https://open.spotify.com/track/2X6QpWspkbTYPq9HM5VD5w)** by **Yung Lean** *(Unknown Death 2002)* - `20 min ago`
+- **[Myself](https://open.spotify.com/track/6jNnGpfgq4Bab4wSfl3K7c)** by **tim, TYM** *(Myself)* - `3 min ago`
+- **[Blink 182](https://open.spotify.com/track/3QEewDey7tkhrBvQSg8qDc)** by **Larsmai, UhNiclas** *(Got2Be)* - `7 min ago`
+- **[Friday Nite](https://open.spotify.com/track/7vjCeLTX5movVPYx22ceCe)** by **elricfd** *(Friday Nite)* - `10 min ago`
+- **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)* - `14 min ago`
+- **[Best Friend](https://open.spotify.com/track/5Ll0JNNVo0vuQnUGdRfUst)** by **BEVN** *(Best Friend)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 08:16:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 10:42:51 UTC*
 <!-- SPOTIFY-END -->
