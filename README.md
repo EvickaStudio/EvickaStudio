@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738c6b04b7d47799439c07ec5c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273fc3f8866faf5d09164a0e555" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0sACOMcyDjLAO7Pe4NR2l3">mitleerenhänden</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx">Verschwende deine Zeit</a></strong><br/>
   <em>by</em> <strong>Edwin Rosen</strong><br/>
-  <em>Album:</em> mitleerenhänden
+  <em>Album:</em> Verschwende deine Zeit
 </p>
 
-<p align="center"><code>0:24</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:29</code></p>
+<p align="center"><code>2:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ICE 579](https://open.spotify.com/track/63YUpNwroDTBbgwNgOcUYd)** by **TEMMIS** *(Klinge)* - `just now`
-- **[beckenrand](https://open.spotify.com/track/3K3S6dIwvqq1mzQFzWEDW0)** by **SCHRAMM** *(beckenrand)* - `3 min ago`
-- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `6 min ago`
-- **[Nur geträumt](https://open.spotify.com/track/0ukySDr4uEzZE36s7t7X8E)** by **Nena** *(Nena)* - `9 min ago`
-- **[Wendy](https://open.spotify.com/track/3a8MdG36ZWOfqwWZBmN2Nx)** by **viko63** *(Wendy)* - `13 min ago`
+- **[Nimm mir die Angst](https://open.spotify.com/track/3qbqkQGpwUUEBdqcJERdCC)** by **Kilian Knight** *(Nimm mir die Angst)* - `2 min ago`
+- **[wollte nie](https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C)** by **Steintor Herrenchor, diggidaniel** *(wollte nie)* - `4 min ago`
+- **[Slide](https://open.spotify.com/track/3Kn1YwVoLw8D4s1cozvonK)** by **wurms, MDW** *(Slide)* - `8 min ago`
+- **[Sterne oder Häuser](https://open.spotify.com/track/3bjznIW6xFUv4W9nPSuuT3)** by **Kicker Dibs** *(Sterne oder Häuser (Für Jameelah))* - `10 min ago`
+- **[Von hier an blind](https://open.spotify.com/track/6XYydpbZMrgQbZdv5J31oU)** by **Wir sind Helden** *(Von hier an blind)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 17:17:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 18:50:21 UTC*
 <!-- SPOTIFY-END -->
