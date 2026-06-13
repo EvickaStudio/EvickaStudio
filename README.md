@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27382b38a7379a18b0050dfdf73" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/333OCze4gwJecgoUVtkiSp">1000 Wünsche</a></strong><br/>
-  <em>by</em> <strong>yara</strong><br/>
-  <em>Album:</em> 1000 Wünsche
-</p>
-
-<p align="center"><code>1:31</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:41</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Wenn du da bist](https://open.spotify.com/track/4hcI4evjHphRuoZeyawSdF)** by **TEMMIS** *(Wenn du da bist)* - `1 min ago`
-- **[Klassenclown](https://open.spotify.com/track/7Fat8n13etCQ0Otdtuukiq)** by **MC WINDHUND** *(Klassenclown)* - `5 min ago`
-- **[Wellblech](https://open.spotify.com/track/1Z6JcXlTUaPSmiVkN2530P)** by **NILS KEPPEL** *(Wellblech)* - `7 min ago`
-- **[Ständer](https://open.spotify.com/track/3KGG2P5vn1Lg6tS3z6W6e8)** by **SXTN** *(Leben am Limit)* - `10 min ago`
-- **[Liebe du Arsch](https://open.spotify.com/track/79EIaHRW4gt8y55JTiJk5T)** by **das blühende leben** *(Liebe du Arsch)* - `14 min ago`
+- **[erdnussallergie](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)** by **lovehead** *(erdnussallergie)* - `47 min ago`
+- **[sex am see](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)** by **lovehead** *(sex am see)* - `49 min ago`
+- **[sex am see](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)** by **lovehead** *(sex am see)* - `52 min ago`
+- **[New York, Rio, Rosenheim](https://open.spotify.com/track/18zBDi8chSKx2bTeMmVwHb)** by **Sportfreunde Stiller** *(New York, Rio, Rosenheim (Germering de luxe))* - `54 min ago`
+- **[Pazifik](https://open.spotify.com/track/14F1zH9ZynOh2SuHCOskCO)** by **Provinz** *(Pazifik)* - `57 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 21:36:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-13 22:44:37 UTC*
 <!-- SPOTIFY-END -->
