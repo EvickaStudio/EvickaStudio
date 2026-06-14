@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737c8ca044c71fda2957065c06" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273d8d603ee4e09746f2586d3e4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak">Gut Genug (mit Blumengarten & Shirin David)</a></strong><br/>
-  <em>by</em> <strong>KITSCHKRIEG, Blumengarten, Shirin David</strong><br/>
-  <em>Album:</em> KITSCHKRIEG ZWEI
+  <strong><a href="https://open.spotify.com/track/214Mx6MSJhtaO1uPtZGqLH">Copacabana</a></strong><br/>
+  <em>by</em> <strong>Leon Machère, Stard Ova, KALUMA</strong><br/>
+  <em>Album:</em> Copacabana
 </p>
 
-<p align="center"><code>3:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:08</code></p>
+<p align="center"><code>3:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[erdnussallergie](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)** by **lovehead** *(erdnussallergie)* - `3 min ago`
-- **[cool kids](https://open.spotify.com/track/4AyZOjmZDUpe5g7tUNXDeC)** by **CHRIS YONGE** *(cool kids)* - `8 min ago`
-- **[Flowers](https://open.spotify.com/track/7Abdi621pkzX6WSXgGH4pR)** by **aye6** *(Flowers)* - `13 min ago`
-- **[Lets Go](https://open.spotify.com/track/3sjnaovOu1IyuHC50JIlSK)** by **uusymon, Slatty** *(Arcadia)* - `16 min ago`
-- **[Junge](https://open.spotify.com/track/10waMsh44ojvTwXAIy213n)** by **Die Ärzte** *(Jazz ist anders)* - `18 min ago`
+- **[Maxi King](https://open.spotify.com/track/4L2pOra0PxKrWhrSHlvgEP)** by **Symba** *(Maxi King)* - `1 min ago`
+- **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)* - `3 min ago`
+- **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)* - `5 min ago`
+- **[Theme from Psych](https://open.spotify.com/track/4xvCq9lfW7V18EnrJWi4Ru)** by **TV Theme Song Library** *(TV Theme Library - Hit TV Show Themes)* - `8 min ago`
+- **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 12:27:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 14:39:30 UTC*
 <!-- SPOTIFY-END -->
