@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)** by **3LNA** *(HERZ BRICHT)* - `13 min ago`
-- **[<3 aus <3](https://open.spotify.com/track/62ybWDDW2MOTcmxiicC5km)** by **Yung Hurn** *(<3 aus <3)* - `16 min ago`
-- **[Der Drache wirft sein Auge auf die Stadt](https://open.spotify.com/track/2v3T8FsegbJ431WnALAIg0)** by **Pink Katana** *(Der Drache wirft sein Auge auf die Stadt)* - `17 min ago`
-- **[Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF)** by **Cults** *(Offering)* - `20 min ago`
-- **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)* - `23 min ago`
+- **[du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)** by **3LNA** *(HERZ BRICHT)* - `1 h ago`
+- **[<3 aus <3](https://open.spotify.com/track/62ybWDDW2MOTcmxiicC5km)** by **Yung Hurn** *(<3 aus <3)* - `1 h ago`
+- **[Der Drache wirft sein Auge auf die Stadt](https://open.spotify.com/track/2v3T8FsegbJ431WnALAIg0)** by **Pink Katana** *(Der Drache wirft sein Auge auf die Stadt)* - `1 h ago`
+- **[Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF)** by **Cults** *(Offering)* - `1 h ago`
+- **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 18:58:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 20:18:59 UTC*
 <!-- SPOTIFY-END -->
