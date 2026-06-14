@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[du denkst an mich](https://open.spotify.com/track/2QO2MKTzDhoatw6xGlX9x2)** by **3LNA** *(HERZ BRICHT)* - `1 h ago`
-- **[<3 aus <3](https://open.spotify.com/track/62ybWDDW2MOTcmxiicC5km)** by **Yung Hurn** *(<3 aus <3)* - `1 h ago`
-- **[Der Drache wirft sein Auge auf die Stadt](https://open.spotify.com/track/2v3T8FsegbJ431WnALAIg0)** by **Pink Katana** *(Der Drache wirft sein Auge auf die Stadt)* - `1 h ago`
-- **[Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF)** by **Cults** *(Offering)* - `1 h ago`
-- **[no insight](https://open.spotify.com/track/0Gyyfcff9kzzBx5gffqT0A)** by **Senses, Nightclub20xx, ROAR** *(no insight)* - `1 h ago`
+- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `1 min ago`
+- **[i just want ur love](https://open.spotify.com/track/0bILYFSd73DQ3Ya5pev74J)** by **iamsodead, LooveX, dollreal, dethkitty, pavlos** *(i just want ur love)* - `6 min ago`
+- **[ex-freundin (cut version)](https://open.spotify.com/track/0YY73yHDtyWsrXIr8yntoc)** by **luu** *(ex-freundin (cut version))* - `8 min ago`
+- **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))* - `9 min ago`
+- **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 20:18:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 21:49:26 UTC*
 <!-- SPOTIFY-END -->
