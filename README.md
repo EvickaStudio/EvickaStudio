@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `1 min ago`
-- **[i just want ur love](https://open.spotify.com/track/0bILYFSd73DQ3Ya5pev74J)** by **iamsodead, LooveX, dollreal, dethkitty, pavlos** *(i just want ur love)* - `6 min ago`
-- **[ex-freundin (cut version)](https://open.spotify.com/track/0YY73yHDtyWsrXIr8yntoc)** by **luu** *(ex-freundin (cut version))* - `8 min ago`
-- **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))* - `9 min ago`
-- **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)* - `13 min ago`
+- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `1 h ago`
+- **[i just want ur love](https://open.spotify.com/track/0bILYFSd73DQ3Ya5pev74J)** by **iamsodead, LooveX, dollreal, dethkitty, pavlos** *(i just want ur love)* - `1 h ago`
+- **[ex-freundin (cut version)](https://open.spotify.com/track/0YY73yHDtyWsrXIr8yntoc)** by **luu** *(ex-freundin (cut version))* - `1 h ago`
+- **[stinkbug (Over and Over)](https://open.spotify.com/track/6u9mlBqRWYrNsbTmDZ1FAH)** by **Jack Pfeffer, Mother Soki** *(stinkbug (Over and Over))* - `1 h ago`
+- **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**U.S.T**](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 21:49:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 23:00:01 UTC*
 <!-- SPOTIFY-END -->
