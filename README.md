@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[erdnussallergie](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)** by **lovehead** *(erdnussallergie)* - `4 h ago`
-- **[sex am see](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)** by **lovehead** *(sex am see)* - `4 h ago`
-- **[sex am see](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)** by **lovehead** *(sex am see)* - `4 h ago`
-- **[New York, Rio, Rosenheim](https://open.spotify.com/track/18zBDi8chSKx2bTeMmVwHb)** by **Sportfreunde Stiller** *(New York, Rio, Rosenheim (Germering de luxe))* - `5 h ago`
-- **[Pazifik](https://open.spotify.com/track/14F1zH9ZynOh2SuHCOskCO)** by **Provinz** *(Pazifik)* - `5 h ago`
+- **[erdnussallergie](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)** by **lovehead** *(erdnussallergie)* - `9 h ago`
+- **[sex am see](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)** by **lovehead** *(sex am see)* - `9 h ago`
+- **[sex am see](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)** by **lovehead** *(sex am see)* - `9 h ago`
+- **[New York, Rio, Rosenheim](https://open.spotify.com/track/18zBDi8chSKx2bTeMmVwHb)** by **Sportfreunde Stiller** *(New York, Rio, Rosenheim (Germering de luxe))* - `9 h ago`
+- **[Pazifik](https://open.spotify.com/track/14F1zH9ZynOh2SuHCOskCO)** by **Provinz** *(Pazifik)* - `9 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 02:50:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 07:17:12 UTC*
 <!-- SPOTIFY-END -->
