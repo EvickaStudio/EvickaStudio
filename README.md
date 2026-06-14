@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d8d603ee4e09746f2586d3e4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a7c63885acd504ae20d6e6b7" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/214Mx6MSJhtaO1uPtZGqLH">Copacabana</a></strong><br/>
-  <em>by</em> <strong>Leon Machère, Stard Ova, KALUMA</strong><br/>
-  <em>Album:</em> Copacabana
+  <strong><a href="https://open.spotify.com/track/64funnaavfaF1Da4HoxZZj">Verliererstraße</a></strong><br/>
+  <em>by</em> <strong>EFEU</strong><br/>
+  <em>Album:</em> Verliererstraße
 </p>
 
-<p align="center"><code>3:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:29</code></p>
+<p align="center"><code>2:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:32</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Maxi King](https://open.spotify.com/track/4L2pOra0PxKrWhrSHlvgEP)** by **Symba** *(Maxi King)* - `1 min ago`
-- **[comeback d9 prime era](https://open.spotify.com/track/5duwgbDJtY88MEAfXE0cd9)** by **DANZINGER 99, NEUNUNDNEUNZIG** *(comeback d9 prime era)* - `3 min ago`
-- **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)* - `5 min ago`
-- **[Theme from Psych](https://open.spotify.com/track/4xvCq9lfW7V18EnrJWi4Ru)** by **TV Theme Song Library** *(TV Theme Library - Hit TV Show Themes)* - `8 min ago`
-- **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)* - `10 min ago`
+- **[Legohaus](https://open.spotify.com/track/2oMSQCO1xRtxXDMkG70C5C)** by **yara** *(Legohaus)* - `2 min ago`
+- **[Sie](https://open.spotify.com/track/6TiKQvuHCSfkpQwc3AKtGX)** by **Anda Morts** *(ANS)* - `5 min ago`
+- **[veränder mich](https://open.spotify.com/track/2KzWyxIZwABMu8GpOcphmy)** by **lovehead** *(fanta lustig ep)* - `8 min ago`
+- **[veränder mich](https://open.spotify.com/track/2KzWyxIZwABMu8GpOcphmy)** by **lovehead** *(fanta lustig ep)* - `11 min ago`
+- **[anthony](https://open.spotify.com/track/14bw7SdjSGy4F4KbSKqrkB)** by **lovehead** *(anthony)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 14:39:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 16:10:22 UTC*
 <!-- SPOTIFY-END -->
