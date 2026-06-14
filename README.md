@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a7c63885acd504ae20d6e6b7" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273bc3f2817c8ae462c79fa924c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/64funnaavfaF1Da4HoxZZj">Verliererstraße</a></strong><br/>
-  <em>by</em> <strong>EFEU</strong><br/>
-  <em>Album:</em> Verliererstraße
+  <strong><a href="https://open.spotify.com/track/5adW1n6jrFcc4sRAtFeQVX">Obedient</a></strong><br/>
+  <em>by</em> <strong>Bladee, Ecco2k</strong><br/>
+  <em>Album:</em> Red Light
 </p>
 
-<p align="center"><code>2:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:32</code></p>
+<p align="center"><code>1:05</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Legohaus](https://open.spotify.com/track/2oMSQCO1xRtxXDMkG70C5C)** by **yara** *(Legohaus)* - `2 min ago`
-- **[Sie](https://open.spotify.com/track/6TiKQvuHCSfkpQwc3AKtGX)** by **Anda Morts** *(ANS)* - `5 min ago`
-- **[veränder mich](https://open.spotify.com/track/2KzWyxIZwABMu8GpOcphmy)** by **lovehead** *(fanta lustig ep)* - `8 min ago`
-- **[veränder mich](https://open.spotify.com/track/2KzWyxIZwABMu8GpOcphmy)** by **lovehead** *(fanta lustig ep)* - `11 min ago`
-- **[anthony](https://open.spotify.com/track/14bw7SdjSGy4F4KbSKqrkB)** by **lovehead** *(anthony)* - `14 min ago`
+- **[Young Folks](https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj)** by **Peter Bjorn and John** *(Writer's Block)* - `1 min ago`
+- **[Time in the Afternoon](https://open.spotify.com/track/0fw46rvzAX06J2y4gAY5Jq)** by **orbit** *(Time in the Afternooon)* - `5 min ago`
+- **[Schatten](https://open.spotify.com/track/4vbAmdRWxHC9gCE2d7aoxD)** by **sparr00w** *(Soundcloud Archive)* - `9 min ago`
+- **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))* - `12 min ago`
+- **[unreal (II)](https://open.spotify.com/track/3Va6Pps37mr4HKGgHeHpSJ)** by **luu** *(unreal (II))* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 16:10:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 17:45:10 UTC*
 <!-- SPOTIFY-END -->
