@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737c8ca044c71fda2957065c06" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak">Gut Genug (mit Blumengarten & Shirin David)</a></strong><br/>
+  <em>by</em> <strong>KITSCHKRIEG, Blumengarten, Shirin David</strong><br/>
+  <em>Album:</em> KITSCHKRIEG ZWEI
+</p>
+
+<p align="center"><code>3:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Katze](https://open.spotify.com/track/680InG65QhXWCnQ0YqjSwa)** by **cinnemane** *(Mood Swings)* - `41 min ago`
-- **[Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6)** by **Manu Chao** *(Próxima Estación: Esperanza)* - `43 min ago`
-- **[sex am see](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)** by **lovehead** *(sex am see)* - `47 min ago`
-- **[Fick dich](https://open.spotify.com/track/1ozHZHmInV05GotN8dxhpP)** by **Swiss & Die Andern** *(Grosse Freiheit (Premium Edition))* - `12 h ago`
-- **[erdnussallergie](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)** by **lovehead** *(erdnussallergie)* - `12 h ago`
+- **[erdnussallergie](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)** by **lovehead** *(erdnussallergie)* - `3 min ago`
+- **[cool kids](https://open.spotify.com/track/4AyZOjmZDUpe5g7tUNXDeC)** by **CHRIS YONGE** *(cool kids)* - `8 min ago`
+- **[Flowers](https://open.spotify.com/track/7Abdi621pkzX6WSXgGH4pR)** by **aye6** *(Flowers)* - `13 min ago`
+- **[Lets Go](https://open.spotify.com/track/3sjnaovOu1IyuHC50JIlSK)** by **uusymon, Slatty** *(Arcadia)* - `16 min ago`
+- **[Junge](https://open.spotify.com/track/10waMsh44ojvTwXAIy213n)** by **Die Ärzte** *(Jazz ist anders)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 10:36:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-14 12:27:46 UTC*
 <!-- SPOTIFY-END -->
