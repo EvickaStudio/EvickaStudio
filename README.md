@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `43 min ago`
-- **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)* - `45 min ago`
-- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `48 min ago`
-- **[Eternal](https://open.spotify.com/track/1NeNc7uDdCZWWYKoHMyu9A)** by **Sidewalks and Skeletons** *(White Light)* - `49 min ago`
-- **[I'll See You Again (feat. Chi Chi)](https://open.spotify.com/track/1dg7CYPHrqB6BE0vNk4uMM)** by **S3RL, Chichi** *(I'll See You Again (feat. Chi Chi))* - `53 min ago`
+- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `2 h ago`
+- **[Blizzard Warning](https://open.spotify.com/track/42tNFsYumlBEyXwtHqWp2p)** by **Somewhere Special** *(Blizzard Warning)* - `2 h ago`
+- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `2 h ago`
+- **[Eternal](https://open.spotify.com/track/1NeNc7uDdCZWWYKoHMyu9A)** by **Sidewalks and Skeletons** *(White Light)* - `2 h ago`
+- **[I'll See You Again (feat. Chi Chi)](https://open.spotify.com/track/1dg7CYPHrqB6BE0vNk4uMM)** by **S3RL, Chichi** *(I'll See You Again (feat. Chi Chi))* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-15 22:27:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-16 00:09:50 UTC*
 <!-- SPOTIFY-END -->
