@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a3d564dedd3150506a4f966a" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4DtBrcUyO8R1AtFyBZrqee">charlottes web</a></strong><br/>
-  <em>by</em> <strong>5v</strong><br/>
-  <em>Album:</em> charlottes web
-</p>
-
-<p align="center"><code>0:36</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:08</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Schießstand](https://open.spotify.com/track/3ha9IqOxQDEvyA32xjR3PM)** by **Yatsu** *(Schießstand)* - `just now`
-- **[großstadt lifestyle](https://open.spotify.com/track/0P5lMGKREI3FvdlZeuSfJV)** by **ilyproxy, Aachen Demon** *(großstadt lifestyle)* - `1 min ago`
-- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `4 min ago`
-- **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)* - `6 min ago`
-- **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)* - `7 min ago`
+- **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)* - `1 h ago`
+- **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)* - `1 h ago`
+- **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint** *(remedy)* - `1 h ago`
+- **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)* - `1 h ago`
+- **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-17 19:48:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-17 21:53:21 UTC*
 <!-- SPOTIFY-END -->
