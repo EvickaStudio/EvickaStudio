@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[arschloch](https://open.spotify.com/track/4FTKJaHeUozNKglIuGsiKY)** by **luu, cy4ne** *(arschloch)* - `1 h ago`
-- **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)* - `1 h ago`
-- **[remedy](https://open.spotify.com/track/68r7R5DaJ1FFZSCBDMbNx2)** by **Senses, mint** *(remedy)* - `1 h ago`
-- **[Super-Loud](https://open.spotify.com/track/1ux9dq0Cn5MhvTygTYvxDU)** by **flywoah** *(Super-Loud)* - `1 h ago`
-- **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)* - `1 h ago`
+- **[Die Bestie von Wangerooge Kapitel 16](https://open.spotify.com/track/7AhStairoJfcq8dFBqBx8R)** by **Insel-Krimi** *(Folge 6: Die Bestie von Wangerooge)* - `18 min ago`
+- **[Küstenmorde Folge 02 - Tod per Knopfdruck - Teil 17](https://open.spotify.com/track/7DMV4gz1heJDcczOIFsRgO)** by **Küstenmorde** *(Küstenmorde Folge 02 - Tod per Knopfdruck)* - `21 min ago`
+- **[Kapitel 07: Das Rätsel der Gruselvilla - Folge 241](https://open.spotify.com/track/4QW29fg8GbRi8yweKSMWth)** by **TKKG** *(Folge 241: Das Rätsel der Gruselvilla)* - `24 min ago`
+- **[148 - und die feurige Flut - Teil 08](https://open.spotify.com/track/4HKSZv9Llxay1zni4T8FFs)** by **Die drei ???** *(148/und die feurige Flut)* - `27 min ago`
+- **[0031 - und das Narbengesicht - Teil 40](https://open.spotify.com/track/5ix165aHrwnv98uID6J0sn)** by **Die drei ???** *(031/und das Narbengesicht)* - `29 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-17 21:53:21 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-17 23:17:03 UTC*
 <!-- SPOTIFY-END -->
