@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273b0dbe5cdee230af2f14fa97b" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X">In My Mind</a></strong><br/>
+  <em>by</em> <strong>DJ Worm, Eurohead, SPÖKE</strong><br/>
+  <em>Album:</em> In My Heart / In My Mind
+</p>
+
+<p align="center"><code>2:42</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:04</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Die Bestie von Wangerooge Kapitel 16](https://open.spotify.com/track/7AhStairoJfcq8dFBqBx8R)** by **Insel-Krimi** *(Folge 6: Die Bestie von Wangerooge)* - `3 h ago`
-- **[Küstenmorde Folge 02 - Tod per Knopfdruck - Teil 17](https://open.spotify.com/track/7DMV4gz1heJDcczOIFsRgO)** by **Küstenmorde** *(Küstenmorde Folge 02 - Tod per Knopfdruck)* - `3 h ago`
-- **[Kapitel 07: Das Rätsel der Gruselvilla - Folge 241](https://open.spotify.com/track/4QW29fg8GbRi8yweKSMWth)** by **TKKG** *(Folge 241: Das Rätsel der Gruselvilla)* - `3 h ago`
-- **[148 - und die feurige Flut - Teil 08](https://open.spotify.com/track/4HKSZv9Llxay1zni4T8FFs)** by **Die drei ???** *(148/und die feurige Flut)* - `3 h ago`
-- **[0031 - und das Narbengesicht - Teil 40](https://open.spotify.com/track/5ix165aHrwnv98uID6J0sn)** by **Die drei ???** *(031/und das Narbengesicht)* - `3 h ago`
+- **[Falling](https://open.spotify.com/track/6WkiWn8bf8S29wSk0VwK7h)** by **Frost Children** *(SISTER)* - `2 min ago`
+- **[changes](https://open.spotify.com/track/780m9E2Kw6EY204EveWIk3)** by **Love Pact** *(changes)* - `5 min ago`
+- **[amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)** by **Lilac** *(amiss (+ winter))* - `7 min ago`
+- **[taschen schwer](https://open.spotify.com/track/4JF53Qqms3V05GbNR5kWB0)** by **5v, James Jetski** *(taschen schwer)* - `10 min ago`
+- **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-18 01:59:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-18 06:55:31 UTC*
 <!-- SPOTIFY-END -->
