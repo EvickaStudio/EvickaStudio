@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730d0395ea346930597d3ce41f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27373452962d2b74866fcfd2f74" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3nb71UNgKzzat9ZMBg9iU8">cnt live without u :c </3</a></strong><br/>
-  <em>by</em> <strong>KidSnorlax, cholorofilm, Mezha</strong><br/>
-  <em>Album:</em> cnt live without u :c </3
+  <strong><a href="https://open.spotify.com/track/4VyZE8o6zBc5LYLRVBgFRl">Mensch am Mond</a></strong><br/>
+  <em>by</em> <strong>Leftovers</strong><br/>
+  <em>Album:</em> ES KANN SEIN DASS ALLES ENDET
 </p>
 
-<p align="center"><code>2:14</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:20</code></p>
+<p align="center"><code>0:52</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:05</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `2 min ago`
-- **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu** *(ich bring mich um)* - `5 min ago`
-- **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)* - `7 min ago`
-- **[gold](https://open.spotify.com/track/5lx4BO9XSSUolrXiPuZXAY)** by **mint** *(gold)* - `9 min ago`
-- **[Expression On Your Face](https://open.spotify.com/track/0w7D97OKS6CN9KZyKqoFUn)** by **Mechatok, Ecco2k, Bladee** *(Expression On Your Face)* - `12 min ago`
+- **[Blow The Speaker .](https://open.spotify.com/track/27P75rHB4CvezhpyTJvn18)** by **fakemink** *(The Boy who cried Terrified .)* - `just now`
+- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `2 min ago`
+- **[believe](https://open.spotify.com/track/16PwmzGyptkqEUlseB7IXa)** by **Lilac, mental, blxty, blackwinterwells** *(believe)* - `4 min ago`
+- **[PARTY W U](https://open.spotify.com/track/1Odrgod9D4oVyzYuAvbFW2)** by **TYM** *(PARTY W U)* - `7 min ago`
+- **[forever](https://open.spotify.com/track/1ZAJWEG5hcYdH5FG8suNCS)** by **bliiiss** *(forever)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-18 14:20:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-18 17:39:18 UTC*
 <!-- SPOTIFY-END -->
