@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27373452962d2b74866fcfd2f74" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27341f03177fb23a23e0d499f32" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4VyZE8o6zBc5LYLRVBgFRl">Mensch am Mond</a></strong><br/>
-  <em>by</em> <strong>Leftovers</strong><br/>
-  <em>Album:</em> ES KANN SEIN DASS ALLES ENDET
+  <strong><a href="https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir">jvoulais die dans tes bras</a></strong><br/>
+  <em>by</em> <strong>sens<3, ama???!!!!</strong><br/>
+  <em>Album:</em> jvoulais die dans tes bras
 </p>
 
-<p align="center"><code>0:52</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:05</code></p>
+<p align="center"><code>1:13</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>1:26</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Blow The Speaker .](https://open.spotify.com/track/27P75rHB4CvezhpyTJvn18)** by **fakemink** *(The Boy who cried Terrified .)* - `just now`
-- **[FUNCTION (NOSTALGIC)](https://open.spotify.com/track/4ASLoiBrvGAhLI5kKfjx3f)** by **RomancePlanet** *(FUNCTION)* - `2 min ago`
-- **[believe](https://open.spotify.com/track/16PwmzGyptkqEUlseB7IXa)** by **Lilac, mental, blxty, blackwinterwells** *(believe)* - `4 min ago`
-- **[PARTY W U](https://open.spotify.com/track/1Odrgod9D4oVyzYuAvbFW2)** by **TYM** *(PARTY W U)* - `7 min ago`
-- **[forever](https://open.spotify.com/track/1ZAJWEG5hcYdH5FG8suNCS)** by **bliiiss** *(forever)* - `11 min ago`
+- **[Rumspringa](https://open.spotify.com/track/3JerY3GjBoNp5y1GGjbPFE)** by **ear** *(Rumspringa)* - `1 min ago`
+- **[Coming-of-age Story](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)** by **Brandy Senki** *(BRANDY SENKI)* - `4 min ago`
+- **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)* - `8 min ago`
+- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `11 min ago`
+- **[sex am see](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)** by **lovehead** *(sex am see)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-18 17:39:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-18 19:54:40 UTC*
 <!-- SPOTIFY-END -->
