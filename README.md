@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b0dbe5cdee230af2f14fa97b" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/53wY5VO3X3nNfLnc7rBD2X">In My Mind</a></strong><br/>
-  <em>by</em> <strong>DJ Worm, Eurohead, SPÖKE</strong><br/>
-  <em>Album:</em> In My Heart / In My Mind
-</p>
-
-<p align="center"><code>2:42</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>4:04</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Falling](https://open.spotify.com/track/6WkiWn8bf8S29wSk0VwK7h)** by **Frost Children** *(SISTER)* - `2 min ago`
-- **[changes](https://open.spotify.com/track/780m9E2Kw6EY204EveWIk3)** by **Love Pact** *(changes)* - `5 min ago`
-- **[amiss (+ winter)](https://open.spotify.com/track/5M6VcIp9MLwv580C0u6G7a)** by **Lilac** *(amiss (+ winter))* - `7 min ago`
-- **[taschen schwer](https://open.spotify.com/track/4JF53Qqms3V05GbNR5kWB0)** by **5v, James Jetski** *(taschen schwer)* - `10 min ago`
-- **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)* - `12 min ago`
+- **[Candlelights](https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e)** by **makko** *(Lieb mich oder lass es, Pt.1+2)* - `3 h ago`
+- **[change4u.](https://open.spotify.com/track/33dRvg88CxID1L3tbjduOw)** by **re6ce** *(change4u.)* - `3 h ago`
+- **[zahlen](https://open.spotify.com/track/6VyS55BxBS9Ly4SjNkBd0E)** by **absent** *(MISERY)* - `3 h ago`
+- **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)* - `3 h ago`
+- **[schlaf bb](https://open.spotify.com/track/1OZ19Va5K1JGwBYXVwcXc6)** by **ilyproxy, gard** *(lifestyleschmerzen)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-18 06:55:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-18 11:05:05 UTC*
 <!-- SPOTIFY-END -->
