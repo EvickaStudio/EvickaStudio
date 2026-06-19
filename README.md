@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273bc1f5081e8cc0aafed1d4a3a" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0X40C6tZ5NVMMpeWvLSLPo">American girls</a></strong><br/>
+  <em>by</em> <strong>MGNA Crrrta</strong><br/>
+  <em>Album:</em> American girls
+</p>
+
+<p align="center"><code>0:41</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `11 h ago`
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `11 h ago`
-- **[Ivy](https://open.spotify.com/track/766tUxeKxb6AKLvsdL3aBN)** by **Bby Eco** *(Sky (i))* - `11 h ago`
-- **[nachtaktiv](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)** by **Tamino404** *(nachtaktiv)* - `11 h ago`
-- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `11 h ago`
+- **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)* - `just now`
+- **[Eyelash](https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF)** by **Bladee** *(Love Is A State)* - `2 min ago`
+- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `6 min ago`
+- **[4up7up](https://open.spotify.com/track/2LlTrIxxo3f1CgXqG7U92G)** by **The Hellp** *(Enemy)* - `8 min ago`
+- **[Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru)** by **Jane Remover** *(Revengeseekerz)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-19 08:54:05 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-19 12:41:37 UTC*
 <!-- SPOTIFY-END -->
