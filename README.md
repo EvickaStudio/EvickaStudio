@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bc1f5081e8cc0aafed1d4a3a" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0X40C6tZ5NVMMpeWvLSLPo">American girls</a></strong><br/>
-  <em>by</em> <strong>MGNA Crrrta</strong><br/>
-  <em>Album:</em> American girls
-</p>
-
-<p align="center"><code>0:41</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:17</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I Am A Destiny](https://open.spotify.com/track/576UdhRmi9sFgSZ93ugqTv)** by **Thrilliam Angels, David Arms Deal, Wounder, Prince Revives, floweroom** *(Iliad Unspoken)* - `just now`
-- **[Eyelash](https://open.spotify.com/track/52wpFNuwZEr4Im7BSoo2vF)** by **Bladee** *(Love Is A State)* - `2 min ago`
-- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `6 min ago`
-- **[4up7up](https://open.spotify.com/track/2LlTrIxxo3f1CgXqG7U92G)** by **The Hellp** *(Enemy)* - `8 min ago`
-- **[Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru)** by **Jane Remover** *(Revengeseekerz)* - `11 min ago`
+- **[191 - Verbrechen im Nichts - Teil 20](https://open.spotify.com/track/6pw4Ld2BhtFomZ4Ftj9QZ9)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `45 min ago`
+- **[191 - Verbrechen im Nichts - Teil 19](https://open.spotify.com/track/5dr0TmJjZnbrmYeLEFSmVf)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `48 min ago`
+- **[191 - Verbrechen im Nichts - Teil 18](https://open.spotify.com/track/2woeBXuEU7GPktDZBuanKp)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `50 min ago`
+- **[191 - Verbrechen im Nichts - Teil 17](https://open.spotify.com/track/5v8czLAua68Wh6JBF5krZ3)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `51 min ago`
+- **[191 - Verbrechen im Nichts - Teil 16](https://open.spotify.com/track/122PTUob4HoWmFaCoTBxQ5)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `53 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**NO RISK NO FUN**](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-19 12:41:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-19 15:52:23 UTC*
 <!-- SPOTIFY-END -->
