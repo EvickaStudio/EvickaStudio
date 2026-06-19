@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734e520169fed8748fcb8317ad" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI">sex money feelings die - slowed version</a></strong><br/>
+  <em>by</em> <strong>Lykke Li</strong><br/>
+  <em>Album:</em> sex money feelings die (slowed version)
+</p>
+
+<p align="center"><code>1:00</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:48</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
 - **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `1 h ago`
-- **[191 - Verbrechen im Nichts - Teil 21](https://open.spotify.com/track/6azOFpzB8jdaanmvJUG1c5)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `1 h ago`
-- **[191 - Verbrechen im Nichts - Teil 20](https://open.spotify.com/track/6pw4Ld2BhtFomZ4Ftj9QZ9)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `4 h ago`
-- **[191 - Verbrechen im Nichts - Teil 19](https://open.spotify.com/track/5dr0TmJjZnbrmYeLEFSmVf)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `4 h ago`
-- **[191 - Verbrechen im Nichts - Teil 18](https://open.spotify.com/track/2woeBXuEU7GPktDZBuanKp)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `4 h ago`
+- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `2 h ago`
+- **[191 - Verbrechen im Nichts - Teil 21](https://open.spotify.com/track/6azOFpzB8jdaanmvJUG1c5)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `2 h ago`
+- **[191 - Verbrechen im Nichts - Teil 20](https://open.spotify.com/track/6pw4Ld2BhtFomZ4Ftj9QZ9)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `5 h ago`
+- **[191 - Verbrechen im Nichts - Teil 19](https://open.spotify.com/track/5dr0TmJjZnbrmYeLEFSmVf)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-19 19:27:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-19 20:50:55 UTC*
 <!-- SPOTIFY-END -->
