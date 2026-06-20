@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736c72a58f12410a9afa7910fc" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730fa069b67bba65a9b1e11687" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/48YquDtzlEerHXFSnYsdJr">Regina</a></strong><br/>
-  <em>by</em> <strong>SSIEGE</strong><br/>
-  <em>Album:</em> Fading Summer
+  <strong><a href="https://open.spotify.com/track/65xEdkR8dKCnAAElJkNCMQ">169 - Die Spur des Spielers - Teil 28</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 169/Die Spur des Spielers
 </p>
 
-<p align="center"><code>0:10</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:25</code></p>
+<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[#BrooklynBloodPop! - Sped Up Edit](https://open.spotify.com/track/40PgxYs9gdEiAK4KVR6hHP)** by **SyKo** *(#BrooklynBloodPop! (Edits))* - `just now`
-- **[Love Is A State](https://open.spotify.com/track/3SSknGbDp5qHMc4BtBYg23)** by **Bladee** *(Love Is A State)* - `2 min ago`
-- **[WEG!](https://open.spotify.com/track/6lu9gbwUlJ3Zoy9G88RrCE)** by **Lix, Elujjin** *(LLL x X)* - `6 min ago`
-- **[Everything In Its Right Place - House](https://open.spotify.com/track/0NHzRvrq9uxH4SEBWPWtki)** by **Warband023** *(Everything In Its Right Place (House))* - `8 min ago`
-- **[where did i go wrong](https://open.spotify.com/track/4jdDxouGcnkcPembhYEp5M)** by **emorave** *(where did i go wrong)* - `10 min ago`
+- **[169 - Die Spur des Spielers - Teil 27](https://open.spotify.com/track/3hILBazJCyn4DFwR7OLesA)** by **Die drei ???** *(169/Die Spur des Spielers)* - `1 min ago`
+- **[169 - Die Spur des Spielers - Teil 26](https://open.spotify.com/track/1JHSWQJOa4YTrpYrrUpVLA)** by **Die drei ???** *(169/Die Spur des Spielers)* - `3 min ago`
+- **[169 - Die Spur des Spielers - Teil 25](https://open.spotify.com/track/6bVhvqDgWRUk65cXKruclF)** by **Die drei ???** *(169/Die Spur des Spielers)* - `5 min ago`
+- **[169 - Die Spur des Spielers - Teil 24](https://open.spotify.com/track/5FXbuzOeqzB3OJOlKD2fFw)** by **Die drei ???** *(169/Die Spur des Spielers)* - `8 min ago`
+- **[169 - Die Spur des Spielers - Teil 23](https://open.spotify.com/track/1xR7zuOPQjRxRKHHvlrzRb)** by **Die drei ???** *(169/Die Spur des Spielers)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-20 14:38:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-20 16:05:11 UTC*
 <!-- SPOTIFY-END -->
