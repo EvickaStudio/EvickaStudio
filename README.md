@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ">Walking On A Dream</a></strong><br/>
-  <em>by</em> <strong>Empire Of The Sun</strong><br/>
-  <em>Album:</em> Walking On A Dream (10th Anniversary Edition)
-</p>
-
-<p align="center"><code>1:38</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:18</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Love U](https://open.spotify.com/track/5CypDZUPzV1UOx3DqB7trM)** by **Razihel** *(Love U)* - `1 min ago`
-- **[Where Do We Go](https://open.spotify.com/track/6Zun2x70G4dVoESZJwhYKe)** by **Eurohead** *(Where Do We Go)* - `6 min ago`
-- **[169 - Die Spur des Spielers - Teil 33](https://open.spotify.com/track/6ZobGrC43IXGBvgREMOHvG)** by **Die drei ???** *(169/Die Spur des Spielers)* - `1 h ago`
-- **[169 - Die Spur des Spielers - Teil 32](https://open.spotify.com/track/0A9LdmPTe7O29OD8VlTw6X)** by **Die drei ???** *(169/Die Spur des Spielers)* - `1 h ago`
-- **[169 - Die Spur des Spielers - Teil 31](https://open.spotify.com/track/0aLIIipyw9WMFNJI2ePyLm)** by **Die drei ???** *(169/Die Spur des Spielers)* - `1 h ago`
+- **[Decay](https://open.spotify.com/track/7lwOe2S5Ge3k0FVDtmS1UF)** by **Blood Estate** *(Floodgate)* - `57 min ago`
+- **[Pollen](https://open.spotify.com/track/3Xh9p0irRLUX83LSt22x4g)** by **Ecco2k** *(Pollen)* - `1 h ago`
+- **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)* - `1 h ago`
+- **[Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)** by **Calvin Harris** *(Motion)* - `1 h ago`
+- **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by **Sg Lily, Buffalobang, Eera** *(XTC FINAL)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +108,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-20 17:45:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-20 19:11:50 UTC*
 <!-- SPOTIFY-END -->
