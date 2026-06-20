@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27349e824b81bb2d2d928f35ed6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7">Love Is A Long Road</a></strong><br/>
-  <em>by</em> <strong>Tom Petty</strong><br/>
-  <em>Album:</em> Full Moon Fever
+  <strong><a href="https://open.spotify.com/track/0jWPsJcuQpF8ouHvxrIJVE">Cold Nights pt 2</a></strong><br/>
+  <em>by</em> <strong>Whitearmor</strong><br/>
+  <em>Album:</em> In the Abyss: Music for Weddings
 </p>
 
-<p align="center"><code>1:26</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>4:07</code></p>
+<p align="center"><code>2:40</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:52</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[moonlit](https://open.spotify.com/track/6AgbVoJXwUSFCFlQgm3Hu3)** by **glissey** *(moonlit)* - `1 min ago`
-- **[____](https://open.spotify.com/track/4Xp6mYPAFMJN6HsmwOAlEc)** by **bliiiss** *(____)* - `3 min ago`
-- **[erdnussallergie](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)** by **lovehead** *(erdnussallergie)* - `6 min ago`
-- **[falling 4 u](https://open.spotify.com/track/6Fh8kgREbog8Z4VpvUQNBI)** by **archive computer** *(falling 4 u)* - `10 min ago`
-- **[jvoulais die dans tes bras](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)** by **sens<3, ama???!!!!** *(jvoulais die dans tes bras)* - `12 min ago`
+- **[Nichts mehr fühlen](https://open.spotify.com/track/7Jmss3QIGYJqKbWKF8O708)** by **Yung Hurn** *(Nichts mehr fühlen)* - `2 min ago`
+- **[white light](https://open.spotify.com/track/42bT97wh7wvu9jXitD4ocQ)** by **Hiko Momoji, meat computer** *(white light)* - `5 min ago`
+- **[Things I Only Imagined](https://open.spotify.com/track/2AskR1d7k5dMXLjvZAqex3)** by **Mietze Conte** *(Things I Only Imagined)* - `8 min ago`
+- **[lemme just...](https://open.spotify.com/track/1gStvnh1jXA5AcmJzOLNKV)** by **Razegod** *(lemme just...)* - `10 min ago`
+- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-20 10:40:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-20 12:16:59 UTC*
 <!-- SPOTIFY-END -->
