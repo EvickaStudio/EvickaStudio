@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `9 h ago`
-- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `10 h ago`
-- **[191 - Verbrechen im Nichts - Teil 21](https://open.spotify.com/track/6azOFpzB8jdaanmvJUG1c5)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `10 h ago`
-- **[191 - Verbrechen im Nichts - Teil 20](https://open.spotify.com/track/6pw4Ld2BhtFomZ4Ftj9QZ9)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `13 h ago`
-- **[191 - Verbrechen im Nichts - Teil 19](https://open.spotify.com/track/5dr0TmJjZnbrmYeLEFSmVf)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `13 h ago`
+- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `13 h ago`
+- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `13 h ago`
+- **[191 - Verbrechen im Nichts - Teil 21](https://open.spotify.com/track/6azOFpzB8jdaanmvJUG1c5)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `14 h ago`
+- **[191 - Verbrechen im Nichts - Teil 20](https://open.spotify.com/track/6pw4Ld2BhtFomZ4Ftj9QZ9)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `16 h ago`
+- **[191 - Verbrechen im Nichts - Teil 19](https://open.spotify.com/track/5dr0TmJjZnbrmYeLEFSmVf)** by **Die drei ???** *(191/Verbrechen im Nichts)* - `17 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-20 04:39:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-20 08:05:08 UTC*
 <!-- SPOTIFY-END -->
