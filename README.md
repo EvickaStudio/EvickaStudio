@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fc3f8866faf5d09164a0e555" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27366b4e3d6adc2d83ef5b30ebc" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/05PeuyOcr9GzSv8PmPwCSx">Verschwende deine Zeit</a></strong><br/>
-  <em>by</em> <strong>Edwin Rosen</strong><br/>
-  <em>Album:</em> Verschwende deine Zeit
+  <strong><a href="https://open.spotify.com/track/4fMIhL0DEDJU676Sxk4ANe">Scared That I Might Blow Up</a></strong><br/>
+  <em>by</em> <strong>Sacred holes</strong><br/>
+  <em>Album:</em> Genuine Uppers Life
 </p>
 
-<p align="center"><code>0:28</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:38</code></p>
+<p align="center"><code>0:39</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>1:28</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU)** by **my bloody valentine** *(loveless)* - `just now`
-- **[Crossfire](https://open.spotify.com/track/5HjBpej4uHPAX8sMeUFJms)** by **Stephen** *(Crossfire)* - `4 min ago`
-- **[girl](https://open.spotify.com/track/464XMdxuH3QmvwLpMrOhGj)** by **salvia palth** *(melanchole)* - `9 min ago`
-- **[du bleibst gleich quickscope](https://open.spotify.com/track/4RUqFVRKx84CdfyIwVOxWZ)** by **leander, ilyproxy** *(du bleibst gleich)* - `11 min ago`
-- **[Upside Down](https://open.spotify.com/track/1O6Y59UFcRXmp9JFIhhjG7)** by **SlushhKitten, hqwilli** *(Upside Down)* - `13 min ago`
+- **[Ekliges Spiel](https://open.spotify.com/track/1CbAoGB2AnA8UzlR8kXSWd)** by **Skepsiz, rapha** *(DiY!)* - `just now`
+- **[Night4](https://open.spotify.com/track/6K2VHRkY2cpN2meyiI9JCo)** by **Nonori** *(Tabula Rasa)* - `3 min ago`
+- **[vampire](https://open.spotify.com/track/6jpKCpO79oyr0uSCay1Sa7)** by **re6ce** *(vampire)* - `5 min ago`
+- **[leaveme2fukitup *2020* *RARE*](https://open.spotify.com/track/3pNXcHdfBeGXivsO3KANxE)** by **ccareful, Capoxxo** *(leaveme2fukitup *2020* *RARE*)* - `8 min ago`
+- **[Klettverschluss](https://open.spotify.com/track/5DK4lNGkh4fKxiKAkXRIj0)** by **Brown-Eyes White Boy** *(Metanarkose)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-21 17:20:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-21 18:56:52 UTC*
 <!-- SPOTIFY-END -->
