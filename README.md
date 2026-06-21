@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e279c0bd83178109ce8df9ae" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5iWOr89nbdn5x59b6JgrqD">Es ist peinlich</a></strong><br/>
+  <em>by</em> <strong>kevin</strong><br/>
+  <em>Album:</em> Es ist peinlich
+</p>
+
+<p align="center"><code>1:24</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:33</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[072 - Dreckiger Deal - Teil 13](https://open.spotify.com/track/2JmSsy9nOjQMbOYrvUiGWF)** by **Die drei ???** *(072/Dreckiger Deal)* - `39 min ago`
-- **[072 - Dreckiger Deal - Teil 12](https://open.spotify.com/track/3TGjKcUO46gyEvU3MJ8yrW)** by **Die drei ???** *(072/Dreckiger Deal)* - `41 min ago`
-- **[072 - Dreckiger Deal - Teil 11](https://open.spotify.com/track/5q4fWLYWiC1hNDnOZBGimO)** by **Die drei ???** *(072/Dreckiger Deal)* - `42 min ago`
-- **[072 - Dreckiger Deal - Teil 10](https://open.spotify.com/track/6xX95AwjTMPOYFVsCyiV17)** by **Die drei ???** *(072/Dreckiger Deal)* - `44 min ago`
-- **[072 - Dreckiger Deal - Teil 09](https://open.spotify.com/track/3a0c0kvzwmB3aicNXGZx2z)** by **Die drei ???** *(072/Dreckiger Deal)* - `45 min ago`
+- **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)* - `1 min ago`
+- **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)* - `4 min ago`
+- **[It wont stop raining here](https://open.spotify.com/track/3UFqAJzlerXb1QmZVKpHIX)** by **Inverted Variable** *(Armored core (ep))* - `8 min ago`
+- **[Fetish](https://open.spotify.com/track/0sOSSBzcUMD7cbdFzDYnYa)** by **ear** *(Fetish / Valley Serpent)* - `12 min ago`
+- **[Champion God Level](https://open.spotify.com/track/3aujFAv6o9EhKOPJYnGlMg)** by **fliggsy** *(Champion God Level)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -115,10 +125,10 @@
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**NO RISK NO FUN**](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-21 13:50:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-21 15:45:54 UTC*
 <!-- SPOTIFY-END -->
