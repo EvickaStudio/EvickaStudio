@@ -96,20 +96,20 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Decay](https://open.spotify.com/track/7lwOe2S5Ge3k0FVDtmS1UF)** by **Blood Estate** *(Floodgate)* - `17 h ago`
-- **[Pollen](https://open.spotify.com/track/3Xh9p0irRLUX83LSt22x4g)** by **Ecco2k** *(Pollen)* - `17 h ago`
-- **[soul doubt](https://open.spotify.com/track/2rlioSFBWQ6FaRpqABbUel)** by **archive computer** *(soul doubt)* - `17 h ago`
-- **[Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)** by **Calvin Harris** *(Motion)* - `17 h ago`
-- **[XTC FINAL](https://open.spotify.com/track/2AuFTPCGSvdmfiYClxUFH4)** by **Sg Lily, Buffalobang, Eera** *(XTC FINAL)* - `17 h ago`
+- **[072 - Dreckiger Deal - Teil 13](https://open.spotify.com/track/2JmSsy9nOjQMbOYrvUiGWF)** by **Die drei ???** *(072/Dreckiger Deal)* - `39 min ago`
+- **[072 - Dreckiger Deal - Teil 12](https://open.spotify.com/track/3TGjKcUO46gyEvU3MJ8yrW)** by **Die drei ???** *(072/Dreckiger Deal)* - `41 min ago`
+- **[072 - Dreckiger Deal - Teil 11](https://open.spotify.com/track/5q4fWLYWiC1hNDnOZBGimO)** by **Die drei ???** *(072/Dreckiger Deal)* - `42 min ago`
+- **[072 - Dreckiger Deal - Teil 10](https://open.spotify.com/track/6xX95AwjTMPOYFVsCyiV17)** by **Die drei ???** *(072/Dreckiger Deal)* - `44 min ago`
+- **[072 - Dreckiger Deal - Teil 09](https://open.spotify.com/track/3a0c0kvzwmB3aicNXGZx2z)** by **Die drei ???** *(072/Dreckiger Deal)* - `45 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-21 11:52:13 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-21 13:50:56 UTC*
 <!-- SPOTIFY-END -->
