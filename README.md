@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27368920b0101f15a48c7a22ce5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27399f38dfe7731006f4a92d85c" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1">Girls Just Want Breaks (yion-flip)</a></strong><br/>
-  <em>by</em> <strong>yion</strong><br/>
-  <em>Album:</em> Girls Just Want Breaks (yion-flip)
+  <strong><a href="https://open.spotify.com/track/2v3T8FsegbJ431WnALAIg0">Der Drache wirft sein Auge auf die Stadt</a></strong><br/>
+  <em>by</em> <strong>Pink Katana</strong><br/>
+  <em>Album:</em> Der Drache wirft sein Auge auf die Stadt
 </p>
 
-<p align="center"><code>1:34</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:46</code></p>
+<p align="center"><code>1:23</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Wieso bist du nicht da](https://open.spotify.com/track/1IWu6NnBEjtmK5jOfUPFEF)** by **ArniTheSavage** *(Wieso bist du nicht da)* - `1 min ago`
-- **[Einfach Sein - Demo](https://open.spotify.com/track/5mMOE6nPc2MEeT692dgTam)** by **Leuchtstoff** *(Einfach Sein (Demo))* - `4 min ago`
-- **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)* - `9 min ago`
-- **[Girl I Got Girl - Fortnite E Pill mix](https://open.spotify.com/track/60xY8dpTLvQQe4ljvz4RBK)** by **Varg²™, RXKNephew** *(LD50 VOL.1)* - `11 min ago`
-- **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)* - `16 min ago`
+- **[Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)** by **citrulinq, Kiki<3** *(Hard Resonance)* - `1 min ago`
+- **[Roadrunner](https://open.spotify.com/track/5DTjY81sxyU3o2zVb5CFpR)** by **Kwam.E, NARU** *(Roadrunner)* - `4 min ago`
+- **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)* - `7 min ago`
+- **[Ненавижу(?)](https://open.spotify.com/track/5xpySLeppqpnVAJv1quEoQ)** by **Xopowo** *(Ненавижу)* - `10 min ago`
+- **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-22 16:07:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-22 19:44:09 UTC*
 <!-- SPOTIFY-END -->
