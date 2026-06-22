@@ -92,34 +92,34 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27368920b0101f15a48c7a22ce5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7pXxRKifcW2dswkJEKUZq2">Don't Stop Me Now</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> ?
+  <strong><a href="https://open.spotify.com/track/4MtOZTBWG4KMDzGiyWbfi1">Girls Just Want Breaks (yion-flip)</a></strong><br/>
+  <em>by</em> <strong>yion</strong><br/>
+  <em>Album:</em> Girls Just Want Breaks (yion-flip)
 </p>
 
-<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:23</code></p>
+<p align="center"><code>1:34</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:46</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)* - `1 min ago`
-- **[Makes you wonder](https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf)** by **Bassvictim** *(Makes you wonder)* - `6 min ago`
-- **[I Like It](https://open.spotify.com/track/1rMtIJmr6U3dBbUEXf33qn)** by **Bassvictim** *(Basspunk)* - `9 min ago`
-- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `12 min ago`
-- **[Grow Up!!!](https://open.spotify.com/track/6WdsRJNc9bAbu6ILi7u39d)** by **Bassvictim** *(Forever)* - `15 min ago`
+- **[Wieso bist du nicht da](https://open.spotify.com/track/1IWu6NnBEjtmK5jOfUPFEF)** by **ArniTheSavage** *(Wieso bist du nicht da)* - `1 min ago`
+- **[Einfach Sein - Demo](https://open.spotify.com/track/5mMOE6nPc2MEeT692dgTam)** by **Leuchtstoff** *(Einfach Sein (Demo))* - `4 min ago`
+- **[Standby](https://open.spotify.com/track/5s2ifV1vtTaebGxxBKlRHQ)** by **Pitfall, kurtains** *(Standby)* - `9 min ago`
+- **[Girl I Got Girl - Fortnite E Pill mix](https://open.spotify.com/track/60xY8dpTLvQQe4ljvz4RBK)** by **Varg²™, RXKNephew** *(LD50 VOL.1)* - `11 min ago`
+- **[iPhone 6](https://open.spotify.com/track/7fIFrHI5C1iwBWsHTG5Djl)** by **Maxi Nagl, Tamino404** *(Maxi Nagl Prod Tape #1)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**kevin**](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**kevin**](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -128,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Zwei Bier (La La La)**](https://open.spotify.com/track/2XYhPvy87kReJA0YgAWskk)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-22 11:19:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-22 16:07:51 UTC*
 <!-- SPOTIFY-END -->
