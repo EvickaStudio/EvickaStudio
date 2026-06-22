@@ -91,34 +91,24 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27399f38dfe7731006f4a92d85c" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2v3T8FsegbJ431WnALAIg0">Der Drache wirft sein Auge auf die Stadt</a></strong><br/>
-  <em>by</em> <strong>Pink Katana</strong><br/>
-  <em>Album:</em> Der Drache wirft sein Auge auf die Stadt
-</p>
-
-<p align="center"><code>1:23</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:37</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Hard Resonance](https://open.spotify.com/track/4WrWiLDgxlqPu2svTI84tk)** by **citrulinq, Kiki<3** *(Hard Resonance)* - `1 min ago`
-- **[Roadrunner](https://open.spotify.com/track/5DTjY81sxyU3o2zVb5CFpR)** by **Kwam.E, NARU** *(Roadrunner)* - `4 min ago`
-- **[Einsame Insel](https://open.spotify.com/track/2I1VWBdyYPjkzldPoLUP76)** by **Ritter Lean** *(Einsame Insel)* - `7 min ago`
-- **[Ненавижу(?)](https://open.spotify.com/track/5xpySLeppqpnVAJv1quEoQ)** by **Xopowo** *(Ненавижу)* - `10 min ago`
-- **[Montauk](https://open.spotify.com/track/4PKw6MT8Vr4nnQLY53ZY1t)** by **hqwilli** *(Montauk)* - `11 min ago`
+- **[Faster n Harder](https://open.spotify.com/track/0iTDQYC3G9o12aQ3D9Btkv)** by **6arelyhuman** *(Internet Famous)* - `15 min ago`
+- **[Mascara](https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ)** by **Deftones** *(Around the Fur)* - `16 min ago`
+- **[ich bin OFFSET](https://open.spotify.com/track/1ZmxzejFrG3cue5IVeOLe3)** by **agelast222, Kalila Oumbri** *(solar connection)* - `20 min ago`
+- **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)* - `21 min ago`
+- **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu** *(ich bring mich um)* - `24 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**kevin**](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**kevin**](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
 
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-22 19:44:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-22 21:48:50 UTC*
 <!-- SPOTIFY-END -->
