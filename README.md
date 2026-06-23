@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e3bfd44b116471999e47a910" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO">feminine adornments</a></strong><br/>
-  <em>by</em> <strong>julie</strong><br/>
-  <em>Album:</em> my anti-aircraft friend
-</p>
-
-<p align="center"><code>0:53</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>4:13</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[South](https://open.spotify.com/track/6S96IkInhNq28RefHja4Mg)** by **quannnic** *(Stepdream)* - `just now`
-- **[don't you feel strange?](https://open.spotify.com/track/0wNj9qFOj6NWMgd0zp3b5o)** by **Misfire SD** *(don't you feel strange?)* - `4 min ago`
-- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `8 min ago`
-- **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)* - `11 min ago`
-- **[i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV)** by **salvia palth** *(melanchole)* - `1 h ago`
+- **[Chlorine](https://open.spotify.com/track/0LYI1e4P9lyhcO41GqYeLu)** by **Title Fight** *(Hyperview)* - `9 min ago`
+- **[Like a Ritual](https://open.spotify.com/track/3dheEW5hRoFTuEASMFxrYu)** by **Title Fight** *(Floral Green)* - `12 min ago`
+- **[Stab](https://open.spotify.com/track/0F1qoW2zTt7JSPtKx4onKp)** by **Title Fight** *(Shed)* - `15 min ago`
+- **[Anaconda Sniper](https://open.spotify.com/track/1rTgvzjQOhLtBsKBo8t6wI)** by **Title Fight** *(The Last Thing You Forget)* - `17 min ago`
+- **[Liar's Love](https://open.spotify.com/track/0k5N2FhF1zszcfHX1EOfFc)** by **Title Fight** *(Hyperview)* - `20 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +108,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**kevin**](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-23 21:11:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-23 22:36:31 UTC*
 <!-- SPOTIFY-END -->
