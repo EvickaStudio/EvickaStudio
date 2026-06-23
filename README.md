@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj)** by **Bring Me The Horizon** *(Sempiternal (Expanded Edition))* - `11 h ago`
-- **[Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK)** by **Amira Elfeky** *(Will You Love Me When I’m Dead)* - `11 h ago`
-- **[Faster n Harder](https://open.spotify.com/track/0iTDQYC3G9o12aQ3D9Btkv)** by **6arelyhuman** *(Internet Famous)* - `11 h ago`
-- **[Mascara](https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ)** by **Deftones** *(Around the Fur)* - `11 h ago`
-- **[ich bin OFFSET](https://open.spotify.com/track/1ZmxzejFrG3cue5IVeOLe3)** by **agelast222, Kalila Oumbri** *(solar connection)* - `11 h ago`
+- **[You're Not Gone, You're Just Dead!](https://open.spotify.com/track/2X2E0RIzYWt6HTDRSTG4qm)** by **VIOLENT VIRA** *(Till' Death Was Never Enough)* - `1 h ago`
+- **[Room](https://open.spotify.com/track/0B41ml5CjuFuCzx3CCWbRk)** by **Superheaven** *(Ours Is Chrome)* - `1 h ago`
+- **[27](https://open.spotify.com/track/4OlPyqlxsEbIdJBPCHjTv6)** by **Title Fight** *(Shed)* - `1 h ago`
+- **[Digital Bath](https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS)** by **Deftones** *(White Pony)* - `1 h ago`
+- **[REPULSIVE IN ITS SPLENDID BEAUTY](https://open.spotify.com/track/5VGAlq9o0u09jZavGLUfdo)** by **Crowbar** *(Sonic Excess In Its Purest Form)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-23 08:45:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-23 11:53:03 UTC*
 <!-- SPOTIFY-END -->
