@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27310de399e9c02ae7a4a61f9e9" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e3bfd44b116471999e47a910" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6S96IkInhNq28RefHja4Mg">South</a></strong><br/>
-  <em>by</em> <strong>quannnic</strong><br/>
-  <em>Album:</em> Stepdream
+  <strong><a href="https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO">feminine adornments</a></strong><br/>
+  <em>by</em> <strong>julie</strong><br/>
+  <em>Album:</em> my anti-aircraft friend
 </p>
 
-<p align="center"><code>0:43</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:31</code></p>
+<p align="center"><code>0:53</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>4:13</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `3 min ago`
-- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `7 min ago`
-- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `7 min ago`
-- **[don't you feel strange?](https://open.spotify.com/track/0wNj9qFOj6NWMgd0zp3b5o)** by **Misfire SD** *(don't you feel strange?)* - `11 min ago`
-- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `15 min ago`
+- **[South](https://open.spotify.com/track/6S96IkInhNq28RefHja4Mg)** by **quannnic** *(Stepdream)* - `just now`
+- **[don't you feel strange?](https://open.spotify.com/track/0wNj9qFOj6NWMgd0zp3b5o)** by **Misfire SD** *(don't you feel strange?)* - `4 min ago`
+- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `8 min ago`
+- **[(L)MIRL](https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC)** by **Deftones** *(Gore)* - `11 min ago`
+- **[i was all over her](https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV)** by **salvia palth** *(melanchole)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-23 19:17:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-23 21:11:01 UTC*
 <!-- SPOTIFY-END -->
