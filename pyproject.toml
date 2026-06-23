@@ -7,7 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "flask>=3.1.1",
     "mypy>=1.4.1",
-    "pre-commit>=4.2.0",
+    "pre-commit>=4.5.1",
     "pytest>=7.3.1",
     "python-dotenv>=0.21.0",
     "requests>=2.25.1",
