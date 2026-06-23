@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Faster n Harder](https://open.spotify.com/track/0iTDQYC3G9o12aQ3D9Btkv)** by **6arelyhuman** *(Internet Famous)* - `3 h ago`
-- **[Mascara](https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ)** by **Deftones** *(Around the Fur)* - `3 h ago`
-- **[ich bin OFFSET](https://open.spotify.com/track/1ZmxzejFrG3cue5IVeOLe3)** by **agelast222, Kalila Oumbri** *(solar connection)* - `3 h ago`
-- **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)* - `3 h ago`
-- **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu** *(ich bring mich um)* - `3 h ago`
+- **[Faster n Harder](https://open.spotify.com/track/0iTDQYC3G9o12aQ3D9Btkv)** by **6arelyhuman** *(Internet Famous)* - `8 h ago`
+- **[Mascara](https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ)** by **Deftones** *(Around the Fur)* - `8 h ago`
+- **[ich bin OFFSET](https://open.spotify.com/track/1ZmxzejFrG3cue5IVeOLe3)** by **agelast222, Kalila Oumbri** *(solar connection)* - `8 h ago`
+- **[Fick die Szene](https://open.spotify.com/track/5TwV5w8ndIe41J78ZYAK7b)** by **52Blue** *(Fick die Szene)* - `8 h ago`
+- **[ich bring mich um](https://open.spotify.com/track/6WxiLwXwPQNNSCnhjL5KT6)** by **luu** *(ich bring mich um)* - `8 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-23 01:22:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-23 05:34:34 UTC*
 <!-- SPOTIFY-END -->
