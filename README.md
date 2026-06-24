@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730b269b6186be2a9904080a2f" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd">In-Between</a></strong><br/>
+  <em>by</em> <strong>Title Fight</strong><br/>
+  <em>Album:</em> Floral Green
+</p>
+
+<p align="center"><code>1:06</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[NAGELLACK IN SACHSEN](https://open.spotify.com/track/56jhnqot08ew8x4f2yXRAJ)** by **Swaglord3000x** *(NAGELLACK IN SACHSEN)* - `1 h ago`
-- **[Endeavor](https://open.spotify.com/track/6mBUYjzlI3uPiRaxtCeqIH)** by **wyrdo** *(Endeavor)* - `1 h ago`
-- **[Endeavor](https://open.spotify.com/track/6mBUYjzlI3uPiRaxtCeqIH)** by **wyrdo** *(Endeavor)* - `1 h ago`
-- **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)* - `1 h ago`
-- **[*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)** by **TMY, Keigo, TYM, Maikel** *(*Magichnicht*)* - `1 h ago`
+- **[Borderline](https://open.spotify.com/track/3Q8zGsA0wfKcWGaR6hHBtW)** by **6host** *(Borderline)* - `1 min ago`
+- **[Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ)** by **Empire Of The Sun** *(Walking On A Dream (10th Anniversary Edition))* - `1 h ago`
+- **[Silent Hill](https://open.spotify.com/track/4jWKmt5te2dXqRobbQHDdr)** by **fliggsy** *(Project Life)* - `1 h ago`
+- **[qold qlay](https://open.spotify.com/track/32VXhgvJT4Ta7YxiJRFymU)** by **Kroka Koka** *(Vindobona)* - `1 h ago`
+- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-24 11:28:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-24 13:35:13 UTC*
 <!-- SPOTIFY-END -->
