@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273739d356d5b78969e65658d53" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4qb73E397r4f0DEKpRN8xo">Closer</a></strong><br/>
+  <em>by</em> <strong>Sundazer</strong><br/>
+  <em>Album:</em> Closer
+</p>
+
+<p align="center"><code>2:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>4:14</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Chlorine](https://open.spotify.com/track/0LYI1e4P9lyhcO41GqYeLu)** by **Title Fight** *(Hyperview)* - `7 h ago`
-- **[Like a Ritual](https://open.spotify.com/track/3dheEW5hRoFTuEASMFxrYu)** by **Title Fight** *(Floral Green)* - `7 h ago`
-- **[Stab](https://open.spotify.com/track/0F1qoW2zTt7JSPtKx4onKp)** by **Title Fight** *(Shed)* - `7 h ago`
-- **[Anaconda Sniper](https://open.spotify.com/track/1rTgvzjQOhLtBsKBo8t6wI)** by **Title Fight** *(The Last Thing You Forget)* - `7 h ago`
-- **[Liar's Love](https://open.spotify.com/track/0k5N2FhF1zszcfHX1EOfFc)** by **Title Fight** *(Hyperview)* - `7 h ago`
+- **[Comatose](https://open.spotify.com/track/0u0SIh7y7UopLQMFUvEhvp)** by **quannnic** *(Stepdream)* - `2 min ago`
+- **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)* - `6 min ago`
+- **[Need](https://open.spotify.com/track/1lS81tStikTOHms8wZnvSY)** by **Midrift** *(Need)* - `9 min ago`
+- **[Swerve City](https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp)** by **Deftones** *(Koi No Yokan)* - `12 min ago`
+- **[11/11](https://open.spotify.com/track/3SyzUB8LeQxplnbWTVYTVj)** by **Team Sleep** *(Team Sleep (U.S. Release))* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-24 05:40:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-24 08:42:10 UTC*
 <!-- SPOTIFY-END -->
