@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Chlorine](https://open.spotify.com/track/0LYI1e4P9lyhcO41GqYeLu)** by **Title Fight** *(Hyperview)* - `1 h ago`
-- **[Like a Ritual](https://open.spotify.com/track/3dheEW5hRoFTuEASMFxrYu)** by **Title Fight** *(Floral Green)* - `1 h ago`
-- **[Stab](https://open.spotify.com/track/0F1qoW2zTt7JSPtKx4onKp)** by **Title Fight** *(Shed)* - `1 h ago`
-- **[Anaconda Sniper](https://open.spotify.com/track/1rTgvzjQOhLtBsKBo8t6wI)** by **Title Fight** *(The Last Thing You Forget)* - `1 h ago`
-- **[Liar's Love](https://open.spotify.com/track/0k5N2FhF1zszcfHX1EOfFc)** by **Title Fight** *(Hyperview)* - `1 h ago`
+- **[Chlorine](https://open.spotify.com/track/0LYI1e4P9lyhcO41GqYeLu)** by **Title Fight** *(Hyperview)* - `3 h ago`
+- **[Like a Ritual](https://open.spotify.com/track/3dheEW5hRoFTuEASMFxrYu)** by **Title Fight** *(Floral Green)* - `3 h ago`
+- **[Stab](https://open.spotify.com/track/0F1qoW2zTt7JSPtKx4onKp)** by **Title Fight** *(Shed)* - `3 h ago`
+- **[Anaconda Sniper](https://open.spotify.com/track/1rTgvzjQOhLtBsKBo8t6wI)** by **Title Fight** *(The Last Thing You Forget)* - `3 h ago`
+- **[Liar's Love](https://open.spotify.com/track/0k5N2FhF1zszcfHX1EOfFc)** by **Title Fight** *(Hyperview)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-23 23:39:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-24 01:29:35 UTC*
 <!-- SPOTIFY-END -->
