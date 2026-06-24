@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273739d356d5b78969e65658d53" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4qb73E397r4f0DEKpRN8xo">Closer</a></strong><br/>
-  <em>by</em> <strong>Sundazer</strong><br/>
-  <em>Album:</em> Closer
-</p>
-
-<p align="center"><code>2:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>4:14</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Comatose](https://open.spotify.com/track/0u0SIh7y7UopLQMFUvEhvp)** by **quannnic** *(Stepdream)* - `2 min ago`
-- **[Enough for you](https://open.spotify.com/track/1z8nQqjNwNtuj0aoALh7gf)** by **Wisp** *(Pandora)* - `6 min ago`
-- **[Need](https://open.spotify.com/track/1lS81tStikTOHms8wZnvSY)** by **Midrift** *(Need)* - `9 min ago`
-- **[Swerve City](https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp)** by **Deftones** *(Koi No Yokan)* - `12 min ago`
-- **[11/11](https://open.spotify.com/track/3SyzUB8LeQxplnbWTVYTVj)** by **Team Sleep** *(Team Sleep (U.S. Release))* - `15 min ago`
+- **[NAGELLACK IN SACHSEN](https://open.spotify.com/track/56jhnqot08ew8x4f2yXRAJ)** by **Swaglord3000x** *(NAGELLACK IN SACHSEN)* - `1 h ago`
+- **[Endeavor](https://open.spotify.com/track/6mBUYjzlI3uPiRaxtCeqIH)** by **wyrdo** *(Endeavor)* - `1 h ago`
+- **[Endeavor](https://open.spotify.com/track/6mBUYjzlI3uPiRaxtCeqIH)** by **wyrdo** *(Endeavor)* - `1 h ago`
+- **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)* - `1 h ago`
+- **[*Magichnicht*](https://open.spotify.com/track/1OWCuPYfnTmvCk826lMUHk)** by **TMY, Keigo, TYM, Maikel** *(*Magichnicht*)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-24 08:42:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-24 11:28:37 UTC*
 <!-- SPOTIFY-END -->
