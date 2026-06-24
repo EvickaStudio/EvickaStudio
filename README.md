@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Play Em Like Atari](https://open.spotify.com/track/6OBG8EY8yNMgTBsKa6OP9O)** by **osa, vic, ciaffa** *(aloegarten)* - `9 min ago`
-- **[frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)** by **5v, mint** *(frei)* - `14 min ago`
-- **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)* - `17 min ago`
-- **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)* - `26 min ago`
-- **[Porcelain Angel](https://open.spotify.com/track/4XMCjvNxxNPBZDHOnzORN6)** by **kiLLa Laharl, s0cliché** *(Digital Shrine)* - `29 min ago`
+- **[Gott segne die Säure](https://open.spotify.com/track/2PB0uECe4pzlPtdxPwNx5C)** by **KLAMER** *(Gott segne die Säure)* - `1 h ago`
+- **[Play Em Like Atari](https://open.spotify.com/track/6OBG8EY8yNMgTBsKa6OP9O)** by **osa, vic, ciaffa** *(aloegarten)* - `2 h ago`
+- **[frei](https://open.spotify.com/track/6p6PpsDuMRhIvjGQhAoWNx)** by **5v, mint** *(frei)* - `2 h ago`
+- **[Mr. Rager](https://open.spotify.com/track/393MDhe62s8hbH8ETrlxe5)** by **Kid Cudi** *(Man On The Moon II: The Legend Of Mr. Rager)* - `2 h ago`
+- **[lucked out](https://open.spotify.com/track/426vlB94njRnYXovQkTBE6)** by **upgrades, Aukina, dreamstation** *(lucked out)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-24 17:59:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-24 19:50:44 UTC*
 <!-- SPOTIFY-END -->
