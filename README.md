@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733975b6b899eed4af577f7ba6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27318e4c2913a55fa0de4d2a0a5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr">Freaks</a></strong><br/>
-  <em>by</em> <strong>Surf Curse</strong><br/>
-  <em>Album:</em> Freaks
+  <strong><a href="https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF">In Da Party</a></strong><br/>
+  <em>by</em> <strong>smokedope2016</strong><br/>
+  <em>Album:</em> THE PEAK
 </p>
 
-<p align="center"><code>1:06</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>2:27</code></p>
+<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Vertigo](https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV)** by **Edwin Rosen** *(Vertigo)* - `1 min ago`
-- **[Stairway to Heaven - Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc)** by **Led Zeppelin** *(Led Zeppelin IV (Deluxe Edition))* - `4 min ago`
-- **[keine kraft](https://open.spotify.com/track/5tSzocu3ONCE5cIdcXe9Oh)** by **Mobezzy, Steve276** *(keine kraft)* - `12 min ago`
-- **[Heroes](https://open.spotify.com/track/0xytPK0VHd8cnDZxgUmSD4)** by **The Truth** *(U.S.T)* - `14 min ago`
-- **[The Prayer](https://open.spotify.com/track/10f3slxAbJLHl4OURuxgzq)** by **Thrilliam Angels, Mori Mori, User2222** *(The Static Screams Your Name)* - `18 min ago`
+- **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)* - `1 min ago`
+- **[Doppler](https://open.spotify.com/track/4dyBAwaVbUSpJ1lltitP0h)** by **The Hellp** *(Riviera)* - `4 min ago`
+- **[wenn ich nicht mehr will...☻](https://open.spotify.com/track/31KFibXF0F3s19yGZ8eeC0)** by **Tamino404** *(wenn ich nicht mehr will...☻)* - `1 h ago`
+- **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)* - `1 h ago`
+- **[Boom Boom Pow](https://open.spotify.com/track/00ruYa4EGRTFTmZ1xSBcWQ)** by **Odece, Cubbie** *(Wakanda)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-25 15:14:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-25 17:23:08 UTC*
 <!-- SPOTIFY-END -->
