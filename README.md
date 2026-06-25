@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27318e4c2913a55fa0de4d2a0a5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730cb276c8dbe76c1745335c6a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF">In Da Party</a></strong><br/>
-  <em>by</em> <strong>smokedope2016</strong><br/>
-  <em>Album:</em> THE PEAK
+  <strong><a href="https://open.spotify.com/track/4jYBL6nhJdVPwEQwww81ba">i crave u</a></strong><br/>
+  <em>by</em> <strong>Scarly, ghostmasheen</strong><br/>
+  <em>Album:</em> i crave u
 </p>
 
-<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:21</code></p>
+<p align="center"><code>2:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Expression On Your Face](https://open.spotify.com/track/0FEbe5hB2HqCFOaXpgZ7hD)** by **Mechatok, Ecco2k, Bladee** *(Wide Awake)* - `1 min ago`
-- **[Doppler](https://open.spotify.com/track/4dyBAwaVbUSpJ1lltitP0h)** by **The Hellp** *(Riviera)* - `4 min ago`
-- **[wenn ich nicht mehr will...☻](https://open.spotify.com/track/31KFibXF0F3s19yGZ8eeC0)** by **Tamino404** *(wenn ich nicht mehr will...☻)* - `1 h ago`
-- **[0201](https://open.spotify.com/track/3sMCiSQLX2PHkN0IvvE4rX)** by **sparr00w** *(0201)* - `1 h ago`
-- **[Boom Boom Pow](https://open.spotify.com/track/00ruYa4EGRTFTmZ1xSBcWQ)** by **Odece, Cubbie** *(Wakanda)* - `1 h ago`
+- **[Ijust](https://open.spotify.com/track/4JpuCNDOLETTl3mkxUfCmg)** by **flywoah** *(Ijust)* - `2 min ago`
+- **[YOUVSME](https://open.spotify.com/track/0ZYglVayHTHhwsBZgg1z6a)** by **5v, olus** *(Bad Intentions)* - `4 min ago`
+- **[misery.](https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY)** by **pupsies** *(misery.)* - `6 min ago`
+- **[sechzehn lines](https://open.spotify.com/track/5lhr04CP2axIGp5uMFARFj)** by **luu** *(immenser pflegefall)* - `9 min ago`
+- **[immenser pflegefall (I)](https://open.spotify.com/track/3hOzzTjhpwqkxg8dpPe8FP)** by **luu** *(immenser pflegefall)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-25 17:23:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-25 19:21:37 UTC*
 <!-- SPOTIFY-END -->
