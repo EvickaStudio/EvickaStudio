@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27308cc9bc3c9d72c00fdfa5a87" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2vAts2sr7wl8NJwd8qmUEo">Myth</a></strong><br/>
-  <em>by</em> <strong>Beach House</strong><br/>
-  <em>Album:</em> Bloom
-</p>
-
-<p align="center"><code>1:16</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>4:18</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[September](https://open.spotify.com/track/1uQhcJ2XETEg2YCUTUkZ5N)** by **xaoc** *(September)* - `1 min ago`
-- **[schlamm](https://open.spotify.com/track/7MfHRaYlpqT0XEeIgHOozW)** by **SQF2000** *(YOLOCORE)* - `4 min ago`
-- **[king of the darkness](https://open.spotify.com/track/5Om2he2ktyNaofIjKjdRKf)** by **2hollis** *(White Tiger)* - `6 min ago`
-- **[If I Give You My Heart, Can I Trust You With It?](https://open.spotify.com/track/40Hd6KbH0s6myWuY0z897M)** by **Blythe Star** *(If I Give You My Heart, Can I Trust You With It?)* - `9 min ago`
-- **[wanna see u run](https://open.spotify.com/track/7hxb1g9TrHbYWBTuAC2gqQ)** by **Senses** *(wanna see u run)* - `14 min ago`
+- **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)* - `1 h ago`
+- **[Dark Beach](https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr)** by **Pastel Ghost** *(Abyss)* - `1 h ago`
+- **[Tu Tu Neurotic](https://open.spotify.com/track/07n9sk2MGDjw0SHrSaxmog)** by **The Hellp** *(Vol. 1)* - `1 h ago`
+- **[Stab The Voice](https://open.spotify.com/track/1kQbwHWgUJcrL8qV9ZVLzP)** by **Snow Strippers** *(RIFT Two)* - `1 h ago`
+- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-25 09:56:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-25 12:14:21 UTC*
 <!-- SPOTIFY-END -->
