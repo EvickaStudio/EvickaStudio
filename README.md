@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kiss Me At Camp Crystal Lake](https://open.spotify.com/track/68gOS7qY9yEXKZvs6lnHIk)** by **Television Blonde** *(Kiss Me At Camp Crystal Lake)* - `5 h ago`
-- **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)* - `5 h ago`
-- **[life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7)** by **quannnic** *(kenopsia)* - `5 h ago`
-- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `5 h ago`
-- **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))* - `5 h ago`
+- **[Kiss Me At Camp Crystal Lake](https://open.spotify.com/track/68gOS7qY9yEXKZvs6lnHIk)** by **Television Blonde** *(Kiss Me At Camp Crystal Lake)* - `9 h ago`
+- **[Life Is Beautiful - Cover](https://open.spotify.com/track/1CHvYc7nEMVQfM02rH5ZNR)** by **Thrilliam Angels, floweroom** *(This Sunrise Is Brutal)* - `9 h ago`
+- **[life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7)** by **quannnic** *(kenopsia)* - `9 h ago`
+- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `9 h ago`
+- **[Throw Your Hatred Down - Live](https://open.spotify.com/track/5P1BmkSoCEYizRiA85dhuD)** by **Neil Young** *(Throw Your Hatred Down (Live))* - `9 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-25 02:33:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-25 06:34:04 UTC*
 <!-- SPOTIFY-END -->
