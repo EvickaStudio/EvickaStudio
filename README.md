@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27328c50326b4e477d500965a43" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8">ALONE IN THE DARK</a></strong><br/>
-  <em>by</em> <strong>RomancePlanet</strong><br/>
-  <em>Album:</em> ALONE IN THE DARK
-</p>
-
-<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:15</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)* - `1 min ago`
-- **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)* - `3 min ago`
-- **[stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)** by **meat computer** *(stay ?)* - `7 min ago`
-- **[Shiko](https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB)** by **Gehlektek, TakaTuka** *(Acid Pirate 13)* - `9 min ago`
-- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `19 min ago`
+- **[halt mich fest](https://open.spotify.com/track/3K1SRFtbc1JMkvc9bVQvln)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `21 min ago`
+- **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)* - `22 min ago`
+- **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)* - `25 min ago`
+- **[Careless Teens](https://open.spotify.com/track/7oJ613BMf8a6C7U8ufzV2n)** by **The Bilinda Butchers** *(Regret, Love, Guilt, Dreams)* - `27 min ago`
+- **[I'll See You Again (feat. Chi Chi)](https://open.spotify.com/track/1dg7CYPHrqB6BE0vNk4uMM)** by **S3RL, Chichi** *(I'll See You Again (feat. Chi Chi))* - `32 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 20:53:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 22:04:08 UTC*
 <!-- SPOTIFY-END -->
