@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK)** by **Grimes** *(Visions)* - `19 min ago`
-- **[Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)** by **Sophie Ellis-Bextor** *(Read My Lips (Deluxe Version))* - `23 min ago`
-- **[Black Lipstick](https://open.spotify.com/track/2wsW7FXHByxfP6Qzwf4iaj)** by **Chicano Batman** *(Black Lipstick)* - `28 min ago`
-- **[Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI)** by **LCD Soundsystem** *(LCD Soundsystem)* - `32 min ago`
-- **[Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a)** by **M.I.A.** *(Kala)* - `37 min ago`
+- **[Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK)** by **Grimes** *(Visions)* - `2 h ago`
+- **[Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)** by **Sophie Ellis-Bextor** *(Read My Lips (Deluxe Version))* - `2 h ago`
+- **[Black Lipstick](https://open.spotify.com/track/2wsW7FXHByxfP6Qzwf4iaj)** by **Chicano Batman** *(Black Lipstick)* - `2 h ago`
+- **[Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI)** by **LCD Soundsystem** *(LCD Soundsystem)* - `2 h ago`
+- **[Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a)** by **M.I.A.** *(Kala)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 17:13:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 19:02:57 UTC*
 <!-- SPOTIFY-END -->
