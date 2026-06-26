@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e9c5898fcbe03028e0f9412" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P">all1ne</a></strong><br/>
-  <em>by</em> <strong>Niclov, ilyproxy, leander</strong><br/>
-  <em>Album:</em> all1ne
-</p>
-
-<p align="center"><code>2:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:51</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)** by **Calvin Harris** *(Motion)* - `just now`
-- **[Borderline](https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc)** by **Ely Oaks, LAVINIA** *(Borderline)* - `4 min ago`
-- **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `6 min ago`
-- **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))* - `8 min ago`
-- **[Nie mehr](https://open.spotify.com/track/5K5f2Gv8AmSM1oBNaWyruJ)** by **CRO** *(Raop)* - `12 min ago`
+- **[Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK)** by **Grimes** *(Visions)* - `19 min ago`
+- **[Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)** by **Sophie Ellis-Bextor** *(Read My Lips (Deluxe Version))* - `23 min ago`
+- **[Black Lipstick](https://open.spotify.com/track/2wsW7FXHByxfP6Qzwf4iaj)** by **Chicano Batman** *(Black Lipstick)* - `28 min ago`
+- **[Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI)** by **LCD Soundsystem** *(LCD Soundsystem)* - `32 min ago`
+- **[Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a)** by **M.I.A.** *(Kala)* - `37 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 15:15:13 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 17:13:17 UTC*
 <!-- SPOTIFY-END -->
