@@ -92,34 +92,34 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738c6b04b7d47799439c07ec5c" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27357d33eb90b752e94c0d02e6d" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/63kNjK4DDiICErJth8ETnU">"1119"</a></strong><br/>
-  <em>by</em> <strong>Edwin Rosen</strong><br/>
-  <em>Album:</em> mitleerenhänden
+  <strong><a href="https://open.spotify.com/track/4DFfhrxIcDmdGco2uj1qSW">Shut My Eyes</a></strong><br/>
+  <em>by</em> <strong>Burrrn</strong><br/>
+  <em>Album:</em> Blaze Down His Way Like the Space Show
 </p>
 
-<p align="center"><code>2:38</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>2:50</code></p>
+<p align="center"><code>3:42</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:50</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D)** by **Kaito Shoma, DJ Paul, Kingpin Skinny Pimp** *(Scary Garry)* - `2 min ago`
-- **[Angels Sippen Mashup](https://open.spotify.com/track/2PY3iACMbiOw7r6tH9QjeP)** by **Der Heimer, Symba, SDP** *(Angels Sippen Mashup)* - `4 min ago`
-- **[Everything In Its Right Place](https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8)** by **Radiohead** *(Kid A)* - `6 min ago`
-- **[schädel](https://open.spotify.com/track/6BII34KK8G5nlstODgf14e)** by **EASY EASY** *(schädel)* - `10 min ago`
-- **[stari*](https://open.spotify.com/track/7cnPmj7ArsPRuLOEpm1nC1)** by **SQF2000, Tamino404** *(stari*)* - `14 min ago`
+- **[Melodie](https://open.spotify.com/track/2iGBtxtGTwomOhHoHptFSl)** by **OMG** *(Melodie / Kayseri)* - `3 min ago`
+- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `5 min ago`
+- **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by **Flawless Issues** *(Good Vibrations)* - `10 min ago`
+- **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)* - `13 min ago`
+- **[Auf den Dächern der Stadt](https://open.spotify.com/track/4QgWqv5PfoHFUv7f6wKagp)** by **Lugatti & 9ine** *(MKS 3.0)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**kevin**](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 10:38:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 12:32:52 UTC*
 <!-- SPOTIFY-END -->
