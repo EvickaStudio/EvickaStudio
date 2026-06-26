@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[halt mich fest](https://open.spotify.com/track/3K1SRFtbc1JMkvc9bVQvln)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `21 min ago`
-- **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)* - `22 min ago`
-- **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)* - `25 min ago`
-- **[Careless Teens](https://open.spotify.com/track/7oJ613BMf8a6C7U8ufzV2n)** by **The Bilinda Butchers** *(Regret, Love, Guilt, Dreams)* - `27 min ago`
-- **[I'll See You Again (feat. Chi Chi)](https://open.spotify.com/track/1dg7CYPHrqB6BE0vNk4uMM)** by **S3RL, Chichi** *(I'll See You Again (feat. Chi Chi))* - `32 min ago`
+- **[halt mich fest](https://open.spotify.com/track/3K1SRFtbc1JMkvc9bVQvln)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `1 h ago`
+- **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)* - `1 h ago`
+- **[Under my Bed](https://open.spotify.com/track/5cIsycaJ0uBDrbIT86Razj)** by **Mietze Conte** *(Under my Bed)* - `1 h ago`
+- **[Careless Teens](https://open.spotify.com/track/7oJ613BMf8a6C7U8ufzV2n)** by **The Bilinda Butchers** *(Regret, Love, Guilt, Dreams)* - `1 h ago`
+- **[I'll See You Again (feat. Chi Chi)](https://open.spotify.com/track/1dg7CYPHrqB6BE0vNk4uMM)** by **S3RL, Chichi** *(I'll See You Again (feat. Chi Chi))* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 22:04:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 23:21:40 UTC*
 <!-- SPOTIFY-END -->
