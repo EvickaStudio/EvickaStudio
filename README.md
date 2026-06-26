@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27328c50326b4e477d500965a43" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4B4ANAqWoBWJNQI1t9s4t8">ALONE IN THE DARK</a></strong><br/>
+  <em>by</em> <strong>RomancePlanet</strong><br/>
+  <em>Album:</em> ALONE IN THE DARK
+</p>
+
+<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK)** by **Grimes** *(Visions)* - `2 h ago`
-- **[Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48)** by **Sophie Ellis-Bextor** *(Read My Lips (Deluxe Version))* - `2 h ago`
-- **[Black Lipstick](https://open.spotify.com/track/2wsW7FXHByxfP6Qzwf4iaj)** by **Chicano Batman** *(Black Lipstick)* - `2 h ago`
-- **[Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI)** by **LCD Soundsystem** *(LCD Soundsystem)* - `2 h ago`
-- **[Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a)** by **M.I.A.** *(Kala)* - `2 h ago`
+- **[still looking for you.](https://open.spotify.com/track/23W4sh8f9iETWtQpn8YscJ)** by **SHEMYYY** *(still looking for you.)* - `1 min ago`
+- **[König Der Welt](https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw)** by **Traumatin** *(König Der Welt)* - `3 min ago`
+- **[stay ?](https://open.spotify.com/track/1e45Aam6M4zgS9OJz3mW1j)** by **meat computer** *(stay ?)* - `7 min ago`
+- **[Shiko](https://open.spotify.com/track/011dWhYZyNEITebRXv3ARB)** by **Gehlektek, TakaTuka** *(Acid Pirate 13)* - `9 min ago`
+- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 19:02:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 20:53:18 UTC*
 <!-- SPOTIFY-END -->
