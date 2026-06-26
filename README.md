@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27357d33eb90b752e94c0d02e6d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736e9c5898fcbe03028e0f9412" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4DFfhrxIcDmdGco2uj1qSW">Shut My Eyes</a></strong><br/>
-  <em>by</em> <strong>Burrrn</strong><br/>
-  <em>Album:</em> Blaze Down His Way Like the Space Show
+  <strong><a href="https://open.spotify.com/track/2W0qdBwrcDKOzdOBPFyq7P">all1ne</a></strong><br/>
+  <em>by</em> <strong>Niclov, ilyproxy, leander</strong><br/>
+  <em>Album:</em> all1ne
 </p>
 
-<p align="center"><code>3:42</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:50</code></p>
+<p align="center"><code>2:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Melodie](https://open.spotify.com/track/2iGBtxtGTwomOhHoHptFSl)** by **OMG** *(Melodie / Kayseri)* - `3 min ago`
-- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `5 min ago`
-- **[Good Vibrations](https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA)** by **Flawless Issues** *(Good Vibrations)* - `10 min ago`
-- **[souluploads](https://open.spotify.com/track/7lJDfGIqOC7ZrvTqqs4Vwe)** by **k0d4m4** *(nothing matters)* - `13 min ago`
-- **[Auf den Dächern der Stadt](https://open.spotify.com/track/4QgWqv5PfoHFUv7f6wKagp)** by **Lugatti & 9ine** *(MKS 3.0)* - `15 min ago`
+- **[Summer](https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05)** by **Calvin Harris** *(Motion)* - `just now`
+- **[Borderline](https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc)** by **Ely Oaks, LAVINIA** *(Borderline)* - `4 min ago`
+- **[S1RENEN ༄](https://open.spotify.com/track/0ihIZ8e17WuzLbFXRPx4w7)** by **mickyi, S1RENA** *(zone out ep ⋆｡°✩)* - `6 min ago`
+- **[Empathy](https://open.spotify.com/track/2R3heksil8zmzSFUwYQIPC)** by **Crystal Castles** *(Crystal Castles (II))* - `8 min ago`
+- **[Nie mehr](https://open.spotify.com/track/5K5f2Gv8AmSM1oBNaWyruJ)** by **CRO** *(Raop)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 12:32:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-26 15:15:13 UTC*
 <!-- SPOTIFY-END -->
