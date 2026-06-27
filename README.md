@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731b9aa5710b4ff194b1153d8e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735a1a951d8d08cebe6fbf9ad8" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0UKII5KawMv9vpU1iVysrG">sommeil</a></strong><br/>
-  <em>by</em> <strong>kemoxoo, yungmii</strong><br/>
-  <em>Album:</em> sommeil
+  <strong><a href="https://open.spotify.com/track/5o4u7wIcB4XmKzUZjgEDSj">Bauchgefühl</a></strong><br/>
+  <em>by</em> <strong>Tamino404, Hashi</strong><br/>
+  <em>Album:</em> schlechte luft
 </p>
 
-<p align="center"><code>1:45</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:58</code></p>
+<p align="center"><code>1:26</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>2:09</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Endeavor](https://open.spotify.com/track/6mBUYjzlI3uPiRaxtCeqIH)** by **wyrdo** *(Endeavor)* - `1 min ago`
-- **[Tangerine - Remaster](https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS)** by **Led Zeppelin** *(Led Zeppelin III (Remaster))* - `3 min ago`
-- **[unreal (II)](https://open.spotify.com/track/3Va6Pps37mr4HKGgHeHpSJ)** by **luu** *(unreal (II))* - `7 min ago`
-- **[ww3](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)** by **grim noir** *(WW3 RADIO)* - `9 min ago`
-- **[jvoulais die dans tes bras](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)** by **sens<3, ama???!!!!** *(jvoulais die dans tes bras)* - `11 min ago`
+- **[Danny Phantom](https://open.spotify.com/track/64brWbRMRFMbiqDcgpEh9e)** by **Tamino404** *(schlechte luft)* - `1 min ago`
+- **[STORM](https://open.spotify.com/track/1nFwSnMSNRrIXmgJZtjpSz)** by **GENER8ION, Yung Lean** *(STORM)* - `4 min ago`
+- **[STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq)** by **GENER8ION, Yung Lean** *(STORM)* - `11 min ago`
+- **[Here I Am](https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN)** by **The Hellp** *(Here I Am)* - `14 min ago`
+- **[Ekliges Spiel](https://open.spotify.com/track/1CbAoGB2AnA8UzlR8kXSWd)** by **Skepsiz, rapha** *(DiY!)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-27 17:15:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-27 18:18:10 UTC*
 <!-- SPOTIFY-END -->
