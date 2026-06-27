@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `just now`
-- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `28 min ago`
-- **[Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)** by **Passion Pit** *(Manners)* - `30 min ago`
-- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `3 h ago`
-- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `4 h ago`
+- **[all my life](https://open.spotify.com/track/3JYMFX7YphXL2y7NQc7CKp)** by **Pearlblade** *(all my life)* - `22 min ago`
+- **[Pillars](https://open.spotify.com/track/0nqItUdx96RDxP32foWt7H)** by **Sunny Day Real Estate** *(How It Feels To Be Something On)* - `25 min ago`
+- **[South](https://open.spotify.com/track/6S96IkInhNq28RefHja4Mg)** by **quannnic** *(Stepdream)* - `30 min ago`
+- **[don't you feel strange?](https://open.spotify.com/track/0wNj9qFOj6NWMgd0zp3b5o)** by **Misfire SD** *(don't you feel strange?)* - `34 min ago`
+- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `38 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-27 14:55:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-27 15:59:42 UTC*
 <!-- SPOTIFY-END -->
