@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `2 h ago`
-- **[Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)** by **Passion Pit** *(Manners)* - `2 h ago`
-- **[Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)** by **Passion Pit** *(Manners)* - `2 h ago`
-- **[Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)** by **Passion Pit** *(Manners)* - `2 h ago`
-- **[Fright Night](https://open.spotify.com/track/5cno1CEH153y4tGw3QwlLf)** by **evrythnghurtz, Patrik Špicl, Jitka Babačková** *(Fright Night)* - `3 h ago`
+- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `just now`
+- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `28 min ago`
+- **[Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)** by **Passion Pit** *(Manners)* - `30 min ago`
+- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `3 h ago`
+- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-27 13:15:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-27 14:55:47 UTC*
 <!-- SPOTIFY-END -->
