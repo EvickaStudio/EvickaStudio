@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fe397eccaf7236021fd61463" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/1f5QB8fxdxDMFjCgUIePfG">fireproof</a></strong><br/>
-  <em>by</em> <strong>Senses, Nightclub20xx</strong><br/>
-  <em>Album:</em> fireproof
-</p>
-
-<p align="center"><code>0:05</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:07</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[i am machine](https://open.spotify.com/track/4L4NS2roW5mgGyfzeiXj89)** by **Levi Ryan** *(operation wandering soul)* - `just now`
-- **[jedes mal wenn du mich anlügst](https://open.spotify.com/track/55G1223Cbp0ieeCRVvKp2F)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `2 min ago`
-- **[Seit zwei drei Jahren](https://open.spotify.com/track/5356VhLCZrVoQWeiYrztGI)** by **sparr00w** *(Nadja)* - `4 min ago`
-- **[Nie mehr](https://open.spotify.com/track/5K5f2Gv8AmSM1oBNaWyruJ)** by **CRO** *(Raop)* - `6 min ago`
-- **[Wizardry](https://open.spotify.com/track/0Ftjnd8PDWCRmimUiz0Xab)** by **Geo22** *(Wizardry)* - `9 min ago`
+- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `1 h ago`
+- **[highs](https://open.spotify.com/track/1cXVnaJfUjoucBBZS9KoE0)** by **$OHO BANI** *($OHO UND NICHT ANDERS)* - `1 h ago`
+- **[highs](https://open.spotify.com/track/1cXVnaJfUjoucBBZS9KoE0)** by **$OHO BANI** *($OHO UND NICHT ANDERS)* - `1 h ago`
+- **[Angel with a Shotgun](https://open.spotify.com/track/1CRZq41Fxe9MNrnOQhPvtB)** by **Nightcore Reality, meme my** *(Angel with a Shotgun)* - `1 h ago`
+- **[Children](https://open.spotify.com/track/3boi65u59Ex9jbhLXcXwre)** by **Robert Miles** *(2gether 90 (Années 90))* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-27 08:04:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-27 10:21:08 UTC*
 <!-- SPOTIFY-END -->
