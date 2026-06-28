@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273465b1cd8ec76467b1a43c463" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0QH8G7qP9vgxwg2HASyMNl">The Killing Sun - Makinarium Remix</a></strong><br/>
-  <em>by</em> <strong>Merely, Makinarium</strong><br/>
-  <em>Album:</em> The Killing Sun (Makinarium Remix)
-</p>
-
-<p align="center"><code>0:15</code> ▓░░░░░░░░░░░░░░░░░░░ <code>6:50</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Drosera](https://open.spotify.com/track/1WIfMRnAiO1IKNZdUVTYmr)** by **Dusk Records, DJ Break Da Law** *(DUSK HORS SÉRIE 04 - TRANCE V/A)* - `just now`
-- **[Into Dust](https://open.spotify.com/track/1AStM33V0ADnj9BavZZQv9)** by **Bladee** *(Into Dust)* - `9 min ago`
-- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `12 min ago`
-- **[mutig schwach](https://open.spotify.com/track/5DEZXDJpQw3aLRq14kwPwW)** by **Pink Katana** *(Den Mutigen gehört die Welt)* - `13 min ago`
-- **[FLATLINE](https://open.spotify.com/track/2uUzWTAtMLbwu8YL1C53sN)** by **Bladee** *(Cold Visions)* - `16 min ago`
+- **[Morning In Deira](https://open.spotify.com/track/5SweVCSfJekPl2UvtpPFnW)** by **Above & Beyond** *(Morning In Deira / Time Heals)* - `17 min ago`
+- **[A Drink Before The War](https://open.spotify.com/track/4v1vMeZJkdO5kZdFaxW7T4)** by **Sun Angels** *(S3TEP)* - `23 min ago`
+- **[feeling a moment](https://open.spotify.com/track/263ki9AFFZXcKdldXButLO)** by **adammmmmmmmmmmm** *(ok im real i think)* - `31 min ago`
+- **[ANTHEM](https://open.spotify.com/track/6MVreup4Uks32b9dO05gHs)** by **HDMIRROR** *(ANTHEMS)* - `34 min ago`
+- **[Crystal Sky](https://open.spotify.com/track/6eSroYRKLZ56lKk9PeNzFd)** by **Trillosta** *(Neverending Dream)* - `37 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 15:40:05 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 16:46:50 UTC*
 <!-- SPOTIFY-END -->
