@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Morning In Deira](https://open.spotify.com/track/5SweVCSfJekPl2UvtpPFnW)** by **Above & Beyond** *(Morning In Deira / Time Heals)* - `17 min ago`
-- **[A Drink Before The War](https://open.spotify.com/track/4v1vMeZJkdO5kZdFaxW7T4)** by **Sun Angels** *(S3TEP)* - `23 min ago`
-- **[feeling a moment](https://open.spotify.com/track/263ki9AFFZXcKdldXButLO)** by **adammmmmmmmmmmm** *(ok im real i think)* - `31 min ago`
-- **[ANTHEM](https://open.spotify.com/track/6MVreup4Uks32b9dO05gHs)** by **HDMIRROR** *(ANTHEMS)* - `34 min ago`
-- **[Crystal Sky](https://open.spotify.com/track/6eSroYRKLZ56lKk9PeNzFd)** by **Trillosta** *(Neverending Dream)* - `37 min ago`
+- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `1 h ago`
+- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `1 h ago`
+- **[Stilla](https://open.spotify.com/track/7EjDLErzJ7vqiiyUqDop2o)** by **Sun Angels** *(Hemma)* - `1 h ago`
+- **[Morning In Deira](https://open.spotify.com/track/5SweVCSfJekPl2UvtpPFnW)** by **Above & Beyond** *(Morning In Deira / Time Heals)* - `1 h ago`
+- **[A Drink Before The War](https://open.spotify.com/track/4v1vMeZJkdO5kZdFaxW7T4)** by **Sun Angels** *(S3TEP)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 16:46:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 17:59:25 UTC*
 <!-- SPOTIFY-END -->
