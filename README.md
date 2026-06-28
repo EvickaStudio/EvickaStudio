@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738c5e4a13ec0e88afc4dc4e73" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273fcef1374bf56085bdef24c67" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3CdP1xTUbdVw7BwaOJSncS">ph0eNiXX</a></strong><br/>
-  <em>by</em> <strong>Yatsu</strong><br/>
-  <em>Album:</em> WE liVE iN A W0RLD // S0CiETYY ⭑.ᐟ
+  <strong><a href="https://open.spotify.com/track/4WAkGKcS0pFhs1RDHWmDME">will you miss me ?</a></strong><br/>
+  <em>by</em> <strong>archive computer</strong><br/>
+  <em>Album:</em> will you miss me ?
 </p>
 
-<p align="center"><code>0:20</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>2:14</code></p>
+<p align="center"><code>0:34</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:11</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dein Team hat verloren](https://open.spotify.com/track/08tENefKXmvLan7q6zGPpO)** by **NEUNUNDNEUNZIG, AMANDUS 99, DANZINGER 99** *(99 Nichts Für Immer)* - `just now`
-- **[Canary Wharf freestyle](https://open.spotify.com/track/61feSMPVPI3RadQEv8kvGb)** by **Bassvictim, Oatmilkandcodeine** *(Canary Wharf freestyle)* - `1 min ago`
-- **[FORFEIT](https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv)** by **2hollis** *(2)* - `4 min ago`
-- **[We Don't Leave the House](https://open.spotify.com/track/5Tej0q4FelEClV0ZvYvz89)** by **glaive** *(Y’all)* - `6 min ago`
-- **[Hate.](https://open.spotify.com/track/2XynYulas10Wmef4Gqrxw9)** by **ThxSoMch** *(Hate.)* - `9 min ago`
+- **[Mar](https://open.spotify.com/track/0zrC4giAAhqTcs6Ng41xNb)** by **JB 50** *(Mar)* - `just now`
+- **[CONSTANTLY](https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY)** by **Tiffany Day, slayr** *(CONSTANTLY)* - `3 min ago`
+- **[I CAN’T WAIT (feat. Ms. Lauryn Hill)](https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4)** by **Kanye West, Ye, Ms. Lauryn Hill** *(BULLY - DELUXE)* - `6 min ago`
+- **[Dreams & Secrets - ideasforconversations Remix](https://open.spotify.com/track/754l5ADCARB3AkVCkvb4dg)** by **Nation, ideasforconversations** *(Nation 2 (Remixes))* - `8 min ago`
+- **[Vladimir Cosma](https://open.spotify.com/track/1rIniryxOmLfi4gOc3x0F8)** by **Carlifornia, morten, Brown-Eyes White Boy** *(SLAB!!)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 21:44:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 22:43:24 UTC*
 <!-- SPOTIFY-END -->
