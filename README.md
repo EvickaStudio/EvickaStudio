@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273646a3ff29b70c65ace36a778" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/767RhfV1ZiI8OfGT318MxU">Don't Go</a></strong><br/>
+  <em>by</em> <strong>Yung Lean</strong><br/>
+  <em>Album:</em> Unknown Memory
+</p>
+
+<p align="center"><code>0:44</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:56</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `1 h ago`
-- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `1 h ago`
-- **[Stilla](https://open.spotify.com/track/7EjDLErzJ7vqiiyUqDop2o)** by **Sun Angels** *(Hemma)* - `1 h ago`
-- **[Morning In Deira](https://open.spotify.com/track/5SweVCSfJekPl2UvtpPFnW)** by **Above & Beyond** *(Morning In Deira / Time Heals)* - `1 h ago`
-- **[A Drink Before The War](https://open.spotify.com/track/4v1vMeZJkdO5kZdFaxW7T4)** by **Sun Angels** *(S3TEP)* - `1 h ago`
+- **[4](https://open.spotify.com/track/3W9INBEJLZwnBZlbGHz8P2)** by **Dean Blunt, Elias Rønnenfelt** *(lucre)* - `3 min ago`
+- **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)* - `6 min ago`
+- **[CALM DES FCKDOWN](https://open.spotify.com/track/1xKd1mnYuHPRJXpUseKUMJ)** by **Buckshot** *(CALM DES FCKDOWN)* - `8 min ago`
+- **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)* - `11 min ago`
+- **[Doppler](https://open.spotify.com/track/4dyBAwaVbUSpJ1lltitP0h)** by **The Hellp** *(Riviera)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 17:59:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 19:25:15 UTC*
 <!-- SPOTIFY-END -->
