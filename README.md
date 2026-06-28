@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273646a3ff29b70c65ace36a778" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ada67042a2e3c6f9299169ee" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/767RhfV1ZiI8OfGT318MxU">Don't Go</a></strong><br/>
-  <em>by</em> <strong>Yung Lean</strong><br/>
-  <em>Album:</em> Unknown Memory
+  <strong><a href="https://open.spotify.com/track/6MiRjPd9Bs95hba2V4i5wx">Sheer Magic</a></strong><br/>
+  <em>by</em> <strong>Ice Cold Love, Tammy</strong><br/>
+  <em>Album:</em> Sheer Magic b/w Wonderful To Be Loved
 </p>
 
-<p align="center"><code>0:44</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:56</code></p>
+<p align="center"><code>1:54</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:28</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[4](https://open.spotify.com/track/3W9INBEJLZwnBZlbGHz8P2)** by **Dean Blunt, Elias Rønnenfelt** *(lucre)* - `3 min ago`
-- **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)* - `6 min ago`
-- **[CALM DES FCKDOWN](https://open.spotify.com/track/1xKd1mnYuHPRJXpUseKUMJ)** by **Buckshot** *(CALM DES FCKDOWN)* - `8 min ago`
-- **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)* - `11 min ago`
-- **[Doppler](https://open.spotify.com/track/4dyBAwaVbUSpJ1lltitP0h)** by **The Hellp** *(Riviera)* - `12 min ago`
+- **[I Don't Wanna Cry (2024 Remaster)](https://open.spotify.com/track/0E6JUW5r348LpKixBLGSZy)** by **The After Hours** *(I Don't Wanna Cry / Love Affair (2024 Remaster))* - `1 min ago`
+- **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)* - `4 min ago`
+- **[Hum it to google](https://open.spotify.com/track/2q8Vitl14019j7jDORqXwz)** by **Bassvictim, Ngahere Wafer** *(Basspunk 2)* - `7 min ago`
+- **[tell me](https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL)** by **lustr** *(tell me)* - `9 min ago`
+- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 19:25:15 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 20:39:44 UTC*
 <!-- SPOTIFY-END -->
