@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fcef1374bf56085bdef24c67" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4WAkGKcS0pFhs1RDHWmDME">will you miss me ?</a></strong><br/>
-  <em>by</em> <strong>archive computer</strong><br/>
-  <em>Album:</em> will you miss me ?
-</p>
-
-<p align="center"><code>0:34</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:11</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Mar](https://open.spotify.com/track/0zrC4giAAhqTcs6Ng41xNb)** by **JB 50** *(Mar)* - `just now`
-- **[CONSTANTLY](https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY)** by **Tiffany Day, slayr** *(CONSTANTLY)* - `3 min ago`
-- **[I CAN’T WAIT (feat. Ms. Lauryn Hill)](https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4)** by **Kanye West, Ye, Ms. Lauryn Hill** *(BULLY - DELUXE)* - `6 min ago`
-- **[Dreams & Secrets - ideasforconversations Remix](https://open.spotify.com/track/754l5ADCARB3AkVCkvb4dg)** by **Nation, ideasforconversations** *(Nation 2 (Remixes))* - `8 min ago`
-- **[Vladimir Cosma](https://open.spotify.com/track/1rIniryxOmLfi4gOc3x0F8)** by **Carlifornia, morten, Brown-Eyes White Boy** *(SLAB!!)* - `11 min ago`
+- **[sag mir](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)** by **savio sieht die zukunft, blombi19** *(verloren gehen)* - `48 min ago`
+- **[goin up](https://open.spotify.com/track/3dIzqC5vEYYFIZ3vA5v1Vm)** by **Yatsu, Marcy** *(goin up)* - `50 min ago`
+- **[bcn bando](https://open.spotify.com/track/2YSvhpOUDaXpYvfkoxtsSL)** by **mikeycyrus** *(bcn bando)* - `51 min ago`
+- **[selfie](https://open.spotify.com/track/0tzDaQS5OOH28ii9NnFRW7)** by **100filtre, nagi, miix, kemoxoo** *(selfie)* - `53 min ago`
+- **[not a robot](https://open.spotify.com/track/6kojkXQAZ4QkQufeUvbjwW)** by **meat computer** *(not a robot)* - `56 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 22:43:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-28 23:46:49 UTC*
 <!-- SPOTIFY-END -->
