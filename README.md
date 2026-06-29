@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[sag mir](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)** by **savio sieht die zukunft, blombi19** *(verloren gehen)* - `3 h ago`
-- **[goin up](https://open.spotify.com/track/3dIzqC5vEYYFIZ3vA5v1Vm)** by **Yatsu, Marcy** *(goin up)* - `3 h ago`
-- **[bcn bando](https://open.spotify.com/track/2YSvhpOUDaXpYvfkoxtsSL)** by **mikeycyrus** *(bcn bando)* - `3 h ago`
-- **[selfie](https://open.spotify.com/track/0tzDaQS5OOH28ii9NnFRW7)** by **100filtre, nagi, miix, kemoxoo** *(selfie)* - `3 h ago`
-- **[not a robot](https://open.spotify.com/track/6kojkXQAZ4QkQufeUvbjwW)** by **meat computer** *(not a robot)* - `3 h ago`
+- **[sag mir](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)** by **savio sieht die zukunft, blombi19** *(verloren gehen)* - `8 h ago`
+- **[goin up](https://open.spotify.com/track/3dIzqC5vEYYFIZ3vA5v1Vm)** by **Yatsu, Marcy** *(goin up)* - `8 h ago`
+- **[bcn bando](https://open.spotify.com/track/2YSvhpOUDaXpYvfkoxtsSL)** by **mikeycyrus** *(bcn bando)* - `8 h ago`
+- **[selfie](https://open.spotify.com/track/0tzDaQS5OOH28ii9NnFRW7)** by **100filtre, nagi, miix, kemoxoo** *(selfie)* - `8 h ago`
+- **[not a robot](https://open.spotify.com/track/6kojkXQAZ4QkQufeUvbjwW)** by **meat computer** *(not a robot)* - `8 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-29 02:42:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-29 07:14:58 UTC*
 <!-- SPOTIFY-END -->
