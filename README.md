@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273836f984c773dc8d12db746a6" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6i4v615gtB6EPRyZDhPZaC">KOMPLIMENT</a></strong><br/>
-  <em>by</em> <strong>makko, Miksu / Macloud</strong><br/>
-  <em>Album:</em> UNDERCOVER
-</p>
-
-<p align="center"><code>0:17</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:38</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[KEIN DISNEY](https://open.spotify.com/track/3q13GYMLpyB0jdQ6F7hl6X)** by **Laer Xirtam, Saint Purple** *(ALTER EGO)* - `just now`
-- **[L1ebe 1n der Luft](https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN)** by **S1RENA, TYM** *(L1ebe 1n der Luft)* - `2 min ago`
-- **[ich kann dich sehen](https://open.spotify.com/track/6sKmeQefiWt6VcbrL0UcBj)** by **savio sieht die zukunft** *(verloren gehen)* - `8 min ago`
-- **[Zu Zweit](https://open.spotify.com/track/5hIhluvy3FOzLda7C1TIFA)** by **neji.mp3** *(Zu Zweit)* - `10 min ago`
-- **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)* - `12 min ago`
+- **[ich würde gerne verschwinden, doch ich weiß nicht, wem ich es sagen soll](https://open.spotify.com/track/1QWomHz2ekJSSqQKHYeKQb)** by **Niclov** *(ich würde gerne verschwinden, doch ich weiß nicht, wem ich es sagen soll)* - `1 h ago`
+- **[KOMPLIMENT](https://open.spotify.com/track/6i4v615gtB6EPRyZDhPZaC)** by **makko, Miksu / Macloud** *(UNDERCOVER)* - `1 h ago`
+- **[KEIN DISNEY](https://open.spotify.com/track/3q13GYMLpyB0jdQ6F7hl6X)** by **Laer Xirtam, Saint Purple** *(ALTER EGO)* - `1 h ago`
+- **[L1ebe 1n der Luft](https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN)** by **S1RENA, TYM** *(L1ebe 1n der Luft)* - `1 h ago`
+- **[ich kann dich sehen](https://open.spotify.com/track/6sKmeQefiWt6VcbrL0UcBj)** by **savio sieht die zukunft** *(verloren gehen)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-29 22:48:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-29 23:55:37 UTC*
 <!-- SPOTIFY-END -->
