@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733bdc6c16de7cf6385a0e6d11" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273836f984c773dc8d12db746a6" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK">swallow</a></strong><br/>
-  <em>by</em> <strong>Joey Cash</strong><br/>
-  <em>Album:</em> swallow
+  <strong><a href="https://open.spotify.com/track/6i4v615gtB6EPRyZDhPZaC">KOMPLIMENT</a></strong><br/>
+  <em>by</em> <strong>makko, Miksu / Macloud</strong><br/>
+  <em>Album:</em> UNDERCOVER
 </p>
 
-<p align="center"><code>0:43</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>2:10</code></p>
+<p align="center"><code>0:17</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)** by **Passion Pit** *(Manners)* - `just now`
-- **[Young Blood](https://open.spotify.com/track/20yjYf63OEjxSw9kww01wB)** by **The Naked And Famous** *(Passive Me, Aggressive You)* - `3 min ago`
-- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `7 min ago`
-- **[sag mir](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)** by **savio sieht die zukunft, blombi19** *(verloren gehen)* - `12 min ago`
-- **[072 - Dreckiger Deal - Teil 14](https://open.spotify.com/track/7MuEiMM6lcBWsddQSfI2gk)** by **Die drei ???** *(072/Dreckiger Deal)* - `15 min ago`
+- **[KEIN DISNEY](https://open.spotify.com/track/3q13GYMLpyB0jdQ6F7hl6X)** by **Laer Xirtam, Saint Purple** *(ALTER EGO)* - `just now`
+- **[L1ebe 1n der Luft](https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN)** by **S1RENA, TYM** *(L1ebe 1n der Luft)* - `2 min ago`
+- **[ich kann dich sehen](https://open.spotify.com/track/6sKmeQefiWt6VcbrL0UcBj)** by **savio sieht die zukunft** *(verloren gehen)* - `8 min ago`
+- **[Zu Zweit](https://open.spotify.com/track/5hIhluvy3FOzLda7C1TIFA)** by **neji.mp3** *(Zu Zweit)* - `10 min ago`
+- **[Vögelzwitschern](https://open.spotify.com/track/0YkcRCpm6a5ELoaqNjMX9I)** by **Pink Katana Archive** *(Briefe)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-29 21:49:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-29 22:48:12 UTC*
 <!-- SPOTIFY-END -->
