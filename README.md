@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27320a06af9956a4910fe9199c6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735eef4a5a0481a08f2cf993c3" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1nFwSnMSNRrIXmgJZtjpSz">STORM</a></strong><br/>
-  <em>by</em> <strong>GENER8ION, Yung Lean</strong><br/>
-  <em>Album:</em> STORM
+  <strong><a href="https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK">Limerence</a></strong><br/>
+  <em>by</em> <strong>Yves Tumor</strong><br/>
+  <em>Album:</em> Mono No Aware
 </p>
 
-<p align="center"><code>0:00</code> ░░░░░░░░░░░░░░░░░░░░ <code>7:34</code></p>
+<p align="center"><code>5:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>5:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq)** by **GENER8ION, Yung Lean** *(STORM)* - `1 h ago`
-- **[Here I Am](https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN)** by **The Hellp** *(Here I Am)* - `1 h ago`
-- **[Ekliges Spiel](https://open.spotify.com/track/1CbAoGB2AnA8UzlR8kXSWd)** by **Skepsiz, rapha** *(DiY!)* - `1 h ago`
-- **[WOLKE](https://open.spotify.com/track/6QBE1EuFibok8xSexAXvko)** by **Leftovers** *(HEY)* - `1 h ago`
-- **[Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH)** by **Leftovers** *(Marmelade Und Himbeereis)* - `1 h ago`
+- **[Cold](https://open.spotify.com/track/3md39KksEVQQ9A1zln1UAD)** by **Flawed Mangoes** *(The Unwavering Hand)* - `1 min ago`
+- **[Blondie](https://open.spotify.com/track/6l8T96kpkx6RY9kFac7eMU)** by **Current Joys** *(Wild Heart)* - `4 min ago`
+- **[I Wait for You](https://open.spotify.com/track/7EDcAz6iuKSkxH4VcC3Oko)** by **alex_g_offline** *(1234)* - `7 min ago`
+- **[Moonlight on the River](https://open.spotify.com/track/2fhOljbX79loRcdl47SFye)** by **Mac DeMarco** *(This Old Dog)* - `10 min ago`
+- **[Fear](https://open.spotify.com/track/1JbbYSre3n6j2YlfHH31UL)** by **Current Joys** *(A Different Age)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-29 12:10:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-29 16:07:46 UTC*
 <!-- SPOTIFY-END -->
