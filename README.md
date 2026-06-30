@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ich würde gerne verschwinden, doch ich weiß nicht, wem ich es sagen soll](https://open.spotify.com/track/1QWomHz2ekJSSqQKHYeKQb)** by **Niclov** *(ich würde gerne verschwinden, doch ich weiß nicht, wem ich es sagen soll)* - `7 h ago`
-- **[KOMPLIMENT](https://open.spotify.com/track/6i4v615gtB6EPRyZDhPZaC)** by **makko, Miksu / Macloud** *(UNDERCOVER)* - `7 h ago`
-- **[KEIN DISNEY](https://open.spotify.com/track/3q13GYMLpyB0jdQ6F7hl6X)** by **Laer Xirtam, Saint Purple** *(ALTER EGO)* - `7 h ago`
-- **[L1ebe 1n der Luft](https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN)** by **S1RENA, TYM** *(L1ebe 1n der Luft)* - `7 h ago`
-- **[ich kann dich sehen](https://open.spotify.com/track/6sKmeQefiWt6VcbrL0UcBj)** by **savio sieht die zukunft** *(verloren gehen)* - `8 h ago`
+- **[ich würde gerne verschwinden, doch ich weiß nicht, wem ich es sagen soll](https://open.spotify.com/track/1QWomHz2ekJSSqQKHYeKQb)** by **Niclov** *(ich würde gerne verschwinden, doch ich weiß nicht, wem ich es sagen soll)* - `11 h ago`
+- **[KOMPLIMENT](https://open.spotify.com/track/6i4v615gtB6EPRyZDhPZaC)** by **makko, Miksu / Macloud** *(UNDERCOVER)* - `11 h ago`
+- **[KEIN DISNEY](https://open.spotify.com/track/3q13GYMLpyB0jdQ6F7hl6X)** by **Laer Xirtam, Saint Purple** *(ALTER EGO)* - `11 h ago`
+- **[L1ebe 1n der Luft](https://open.spotify.com/track/1F1BrRBjSJnZMhHtjn65oN)** by **S1RENA, TYM** *(L1ebe 1n der Luft)* - `11 h ago`
+- **[ich kann dich sehen](https://open.spotify.com/track/6sKmeQefiWt6VcbrL0UcBj)** by **savio sieht die zukunft** *(verloren gehen)* - `11 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-30 06:40:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-30 10:18:10 UTC*
 <!-- SPOTIFY-END -->
