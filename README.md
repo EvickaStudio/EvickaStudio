@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27307ebad2f11bb91b26fefd436" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN">I Think It's Going to Rain Today</a></strong><br/>
-  <em>by</em> <strong>Randy Newman</strong><br/>
-  <em>Album:</em> Randy Newman
-</p>
-
-<p align="center"><code>1:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:57</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `1 h ago`
-- **[sag mir](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)** by **savio sieht die zukunft, blombi19** *(verloren gehen)* - `1 h ago`
-- **[I Think It's Going to Rain Today](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)** by **Randy Newman** *(Randy Newman)* - `1 h ago`
-- **[Davy the Fat Boy](https://open.spotify.com/track/21xTUHmTo64b1HZ5YO6CwT)** by **Randy Newman** *(Randy Newman)* - `2 h ago`
-- **[I Think It's Going to Rain Today](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)** by **Randy Newman** *(Randy Newman)* - `2 h ago`
+- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `26 min ago`
+- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `30 min ago`
+- **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)* - `33 min ago`
+- **[Dutty](https://open.spotify.com/track/3sJycfg57rJkCi9cSVqWSQ)** by **Fimiguerrero, Bassvictim** *(The Statue of a Fool)* - `36 min ago`
+- **[Alice](https://open.spotify.com/track/2Iw00mEDHOYFm1kqtqBg60)** by **Bassvictim** *(Basspunk 2)* - `40 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-30 21:03:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-06-30 22:37:26 UTC*
 <!-- SPOTIFY-END -->
