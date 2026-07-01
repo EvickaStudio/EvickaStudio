@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ff70e306fc821eefc96552c1" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3JerY3GjBoNp5y1GGjbPFE">Rumspringa</a></strong><br/>
-  <em>by</em> <strong>ear</strong><br/>
-  <em>Album:</em> Rumspringa
-</p>
-
-<p align="center"><code>2:33</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:17</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Coming-of-age Story](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)** by **Brandy Senki** *(BRANDY SENKI)* - `2 min ago`
-- **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)* - `6 min ago`
-- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `9 min ago`
-- **[sex am see](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)** by **lovehead** *(sex am see)* - `12 min ago`
-- **[erdnussallergie](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)** by **lovehead** *(erdnussallergie)* - `14 min ago`
+- **[unreal (II)](https://open.spotify.com/track/3Va6Pps37mr4HKGgHeHpSJ)** by **luu** *(unreal (II))* - `2 h ago`
+- **[ww3](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)** by **grim noir** *(WW3 RADIO)* - `2 h ago`
+- **[jvoulais die dans tes bras](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)** by **sens<3, ama???!!!!** *(jvoulais die dans tes bras)* - `2 h ago`
+- **[Rumspringa](https://open.spotify.com/track/3JerY3GjBoNp5y1GGjbPFE)** by **ear** *(Rumspringa)* - `2 h ago`
+- **[Coming-of-age Story](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)** by **Brandy Senki** *(BRANDY SENKI)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-01 13:22:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-01 16:02:10 UTC*
 <!-- SPOTIFY-END -->
