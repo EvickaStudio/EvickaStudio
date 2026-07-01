@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `37 min ago`
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `39 min ago`
-- **[Dutty](https://open.spotify.com/track/3sJycfg57rJkCi9cSVqWSQ)** by **Fimiguerrero, Bassvictim** *(The Statue of a Fool)* - `42 min ago`
-- **[Makes you wonder](https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf)** by **Bassvictim** *(Makes you wonder)* - `45 min ago`
-- **[I Like It](https://open.spotify.com/track/1rMtIJmr6U3dBbUEXf33qn)** by **Bassvictim** *(Basspunk)* - `48 min ago`
+- **[With you](https://open.spotify.com/track/1PDy5ezNt5OLCw3ew79ywB)** by **Bassvictim** *(Basspunk 2)* - `1 h ago`
+- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `1 h ago`
+- **[Dutty](https://open.spotify.com/track/3sJycfg57rJkCi9cSVqWSQ)** by **Fimiguerrero, Bassvictim** *(The Statue of a Fool)* - `1 h ago`
+- **[Makes you wonder](https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf)** by **Bassvictim** *(Makes you wonder)* - `2 h ago`
+- **[I Like It](https://open.spotify.com/track/1rMtIJmr6U3dBbUEXf33qn)** by **Bassvictim** *(Basspunk)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-01 21:48:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-01 23:04:21 UTC*
 <!-- SPOTIFY-END -->
