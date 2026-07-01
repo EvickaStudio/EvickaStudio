@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27320a06af9956a4910fe9199c6" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1nFwSnMSNRrIXmgJZtjpSz">STORM</a></strong><br/>
+  <em>by</em> <strong>GENER8ION, Yung Lean</strong><br/>
+  <em>Album:</em> STORM
+</p>
+
+<p align="center"><code>0:00</code> ░░░░░░░░░░░░░░░░░░░░ <code>7:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[sag mir](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)** by **savio sieht die zukunft, blombi19** *(verloren gehen)* - `9 min ago`
-- **[I Think It's Going to Rain Today](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)** by **Randy Newman** *(Randy Newman)* - `11 min ago`
-- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `8 h ago`
-- **[Sometimes I believe in God (Sometimes I believe in Me)](https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve)** by **Bassvictim** *(?)* - `8 h ago`
-- **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)* - `8 h ago`
+- **[STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq)** by **GENER8ION, Yung Lean** *(STORM)* - `4 min ago`
+- **[Here I Am](https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN)** by **The Hellp** *(Here I Am)* - `7 min ago`
+- **[Ekliges Spiel](https://open.spotify.com/track/1CbAoGB2AnA8UzlR8kXSWd)** by **Skepsiz, rapha** *(DiY!)* - `11 min ago`
+- **[WOLKE](https://open.spotify.com/track/6QBE1EuFibok8xSexAXvko)** by **Leftovers** *(HEY)* - `13 min ago`
+- **[Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH)** by **Leftovers** *(Marmelade Und Himbeereis)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-01 06:57:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-01 10:40:14 UTC*
 <!-- SPOTIFY-END -->
