@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27320a06af9956a4910fe9199c6" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ff70e306fc821eefc96552c1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1nFwSnMSNRrIXmgJZtjpSz">STORM</a></strong><br/>
-  <em>by</em> <strong>GENER8ION, Yung Lean</strong><br/>
-  <em>Album:</em> STORM
+  <strong><a href="https://open.spotify.com/track/3JerY3GjBoNp5y1GGjbPFE">Rumspringa</a></strong><br/>
+  <em>by</em> <strong>ear</strong><br/>
+  <em>Album:</em> Rumspringa
 </p>
 
-<p align="center"><code>0:00</code> ░░░░░░░░░░░░░░░░░░░░ <code>7:34</code></p>
+<p align="center"><code>2:33</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq)** by **GENER8ION, Yung Lean** *(STORM)* - `4 min ago`
-- **[Here I Am](https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN)** by **The Hellp** *(Here I Am)* - `7 min ago`
-- **[Ekliges Spiel](https://open.spotify.com/track/1CbAoGB2AnA8UzlR8kXSWd)** by **Skepsiz, rapha** *(DiY!)* - `11 min ago`
-- **[WOLKE](https://open.spotify.com/track/6QBE1EuFibok8xSexAXvko)** by **Leftovers** *(HEY)* - `13 min ago`
-- **[Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH)** by **Leftovers** *(Marmelade Und Himbeereis)* - `16 min ago`
+- **[Coming-of-age Story](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)** by **Brandy Senki** *(BRANDY SENKI)* - `2 min ago`
+- **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)* - `6 min ago`
+- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `9 min ago`
+- **[sex am see](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)** by **lovehead** *(sex am see)* - `12 min ago`
+- **[erdnussallergie](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)** by **lovehead** *(erdnussallergie)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-01 10:40:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-01 13:22:17 UTC*
 <!-- SPOTIFY-END -->
