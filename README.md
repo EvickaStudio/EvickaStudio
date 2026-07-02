@@ -92,34 +92,34 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273818b122039f5457f54e88f40" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731fd323a9e68bd7274357f68f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6ghITTFLWlgrBFf9nux1O5">Tato freestyle</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/2twFHRISC3PWbHTVHvVYve">Sometimes I believe in God (Sometimes I believe in Me)</a></strong><br/>
   <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Tato freestyle
+  <em>Album:</em> ?
 </p>
 
-<p align="center"><code>7:12</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>7:13</code></p>
+<p align="center"><code>3:40</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:40</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Makes you wonder](https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf)** by **Bassvictim** *(Makes you wonder)* - `3 min ago`
-- **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)* - `6 min ago`
-- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `11 min ago`
-- **[Tato freestyle](https://open.spotify.com/track/6ghITTFLWlgrBFf9nux1O5)** by **Bassvictim** *(Tato freestyle)* - `14 min ago`
-- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `21 min ago`
+- **[www.liebe.de](https://open.spotify.com/track/72zwz4ANrmcwzDJTHCP4OK)** by **uusymon** *(www.liebe.de)* - `1 min ago`
+- **[Headliner](https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S)** by **Pretty Sick** *(Headliner)* - `3 min ago`
+- **[Another High](https://open.spotify.com/track/2M3Tyxn3jy1O89SH9XtHzd)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `8 min ago`
+- **[Ladies with an attitude](https://open.spotify.com/track/6nr0obIqNhSFWiW14h5mz9)** by **the sound chalk makes** *(Pants on fire)* - `10 min ago`
+- **[I'll be there](https://open.spotify.com/track/3BYBtDAgNPzDIC1X6B6byF)** by **Bassvictim** *(Basspunk 2)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**5v**](https://open.spotify.com/artist/6Ua9c5UJVayd7eUzlachXZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**kevin**](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 16:25:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 18:10:18 UTC*
 <!-- SPOTIFY-END -->
