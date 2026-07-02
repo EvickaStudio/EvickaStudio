@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27391590083ef347ee3f391deca" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27363462d736a00d71de4152e4b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE">Wooden girl</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/0hABGgOfXOklQAiwAe77Et">Wolves Howling</a></strong><br/>
   <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Basspunk 2
+  <em>Album:</em> Forever
 </p>
 
-<p align="center"><code>2:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:55</code></p>
+<p align="center"><code>2:09</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Canary Wharf freestyle](https://open.spotify.com/track/61feSMPVPI3RadQEv8kvGb)** by **Bassvictim, Oatmilkandcodeine** *(Canary Wharf freestyle)* - `2 min ago`
-- **[The Dogs of War](https://open.spotify.com/track/6pidilGWd5NuREht6PQkMj)** by **Bassvictim** *(?)* - `5 min ago`
-- **[It's me Maria](https://open.spotify.com/track/24JU9QfxetgljW6NYcJYA3)** by **Bassvictim** *(Forever)* - `7 min ago`
-- **[Grow Up!!!](https://open.spotify.com/track/6WdsRJNc9bAbu6ILi7u39d)** by **Bassvictim** *(Forever)* - `9 min ago`
-- **[L-ON-D-ON](https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp)** by **Bassvictim** *(Basspunk)* - `10 min ago`
+- **[Dealerz](https://open.spotify.com/track/1Fdd2PRUOh1BBxfPMwuFbK)** by **A Good Year, Quiet Light, Late Verlane** *(Play)* - `2 min ago`
+- **[What a shame i love you too](https://open.spotify.com/track/6VP6nTZ2QBf0kQj8RdAnuZ)** by **Mayvi, shyne** *(What a shame i love you too)* - `4 min ago`
+- **[Live Forever](https://open.spotify.com/track/5whAwGzIKufkTUs3ZPmKgS)** by **The Hellp** *(Riviera)* - `6 min ago`
+- **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)* - `11 min ago`
+- **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 10:29:54 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 12:28:56 UTC*
 <!-- SPOTIFY-END -->
