@@ -106,11 +106,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[www.liebe.de](https://open.spotify.com/track/72zwz4ANrmcwzDJTHCP4OK)** by **uusymon** *(www.liebe.de)* - `1 min ago`
-- **[Headliner](https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S)** by **Pretty Sick** *(Headliner)* - `3 min ago`
-- **[Another High](https://open.spotify.com/track/2M3Tyxn3jy1O89SH9XtHzd)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `8 min ago`
-- **[Ladies with an attitude](https://open.spotify.com/track/6nr0obIqNhSFWiW14h5mz9)** by **the sound chalk makes** *(Pants on fire)* - `10 min ago`
-- **[I'll be there](https://open.spotify.com/track/3BYBtDAgNPzDIC1X6B6byF)** by **Bassvictim** *(Basspunk 2)* - `15 min ago`
+- **[Kratom](https://open.spotify.com/track/1fuaGWkY8BTOeOUaWmBsrw)** by **uusymon, Trashmann** *(Kratom)* - `just now`
+- **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)* - `2 min ago`
+- **[Nier Automata Freestyle](https://open.spotify.com/track/0oO5GjNjj52eVvMAED3sXf)** by **uusymon** *(Arcadia)* - `4 min ago`
+- **[Psychological Warfare](https://open.spotify.com/track/4TG6zBVoGuNr91qoty0dek)** by **uusymon** *(Arcadia)* - `6 min ago`
+- **[Arcadia](https://open.spotify.com/track/1fyK30YPNBRqEX7aaNVSRk)** by **uusymon** *(Arcadia)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 18:10:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 19:49:08 UTC*
 <!-- SPOTIFY-END -->
