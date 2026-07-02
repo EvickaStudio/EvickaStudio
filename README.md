@@ -106,11 +106,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Coming-of-age Story](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)** by **Brandy Senki** *(BRANDY SENKI)* - `just now`
-- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `3 min ago`
-- **[Final Song](https://open.spotify.com/track/25yZDD0eq7J0srwUJbjpRx)** by **Bassvictim** *(Forever)* - `6 min ago`
-- **[Ballet Flat$ On The Ga$ Pedal](https://open.spotify.com/track/26VUliruOm9r2zbg7uJDmY)** by **Cowgirl Clue** *(Total Freedom)* - `10 min ago`
-- **[You Are The Reason For My Life](https://open.spotify.com/track/28HXqAA49bTMm9YJs3ukWL)** by **Nation** *(Nation 2)* - `12 min ago`
+- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))* - `42 min ago`
+- **[Lady Brown](https://open.spotify.com/track/11nuN9xWUoKJNohMtyCoJg)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `45 min ago`
+- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `48 min ago`
+- **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)* - `51 min ago`
+- **[going quietly](https://open.spotify.com/track/0F5NBPoZODoq0J0swH9wIM)** by **Ezekiel** *(going quietly (sped up))* - `53 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 20:56:13 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 22:01:58 UTC*
 <!-- SPOTIFY-END -->
