@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273818b122039f5457f54e88f40" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6ghITTFLWlgrBFf9nux1O5">Tato freestyle</a></strong><br/>
+  <em>by</em> <strong>Bassvictim</strong><br/>
+  <em>Album:</em> Tato freestyle
+</p>
+
+<p align="center"><code>7:12</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>7:13</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[home2hide](https://open.spotify.com/track/08nerOhK5AVYPSKhBr1uz3)** by **Pretty Sick** *(home2hide)* - `1 h ago`
-- **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)* - `2 h ago`
-- **[bad actors](https://open.spotify.com/track/7stu3yFXrr9O4RnPK7J2dG)** by **Casual Affairs** *(bad actors)* - `2 h ago`
-- **[Wolves Howling](https://open.spotify.com/track/0hABGgOfXOklQAiwAe77Et)** by **Bassvictim** *(Forever)* - `2 h ago`
-- **[Dealerz](https://open.spotify.com/track/1Fdd2PRUOh1BBxfPMwuFbK)** by **A Good Year, Quiet Light, Late Verlane** *(Play)* - `2 h ago`
+- **[Makes you wonder](https://open.spotify.com/track/7y01dBaYJqOP4uiGMMadnf)** by **Bassvictim** *(Makes you wonder)* - `3 min ago`
+- **[Grass is Greener](https://open.spotify.com/track/77UWBbcZgmSUqiU21iozUG)** by **Bassvictim** *(Forever)* - `6 min ago`
+- **[Home](https://open.spotify.com/track/5M1YHV0Elt7gRVbqBH2CUS)** by **Bassvictim** *(?)* - `11 min ago`
+- **[Tato freestyle](https://open.spotify.com/track/6ghITTFLWlgrBFf9nux1O5)** by **Bassvictim** *(Tato freestyle)* - `14 min ago`
+- **[Curse is Lifted - Club rmx](https://open.spotify.com/track/55E0iwwaRXZ3cneyi9ECnp)** by **Bassvictim** *(Curse is Lifted (Club rmx))* - `21 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -117,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**NO RISK NO FUN**](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 14:39:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 16:25:48 UTC*
 <!-- SPOTIFY-END -->
