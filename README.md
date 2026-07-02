@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27363462d736a00d71de4152e4b" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0hABGgOfXOklQAiwAe77Et">Wolves Howling</a></strong><br/>
-  <em>by</em> <strong>Bassvictim</strong><br/>
-  <em>Album:</em> Forever
-</p>
-
-<p align="center"><code>2:09</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:25</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dealerz](https://open.spotify.com/track/1Fdd2PRUOh1BBxfPMwuFbK)** by **A Good Year, Quiet Light, Late Verlane** *(Play)* - `2 min ago`
-- **[What a shame i love you too](https://open.spotify.com/track/6VP6nTZ2QBf0kQj8RdAnuZ)** by **Mayvi, shyne** *(What a shame i love you too)* - `4 min ago`
-- **[Live Forever](https://open.spotify.com/track/5whAwGzIKufkTUs3ZPmKgS)** by **The Hellp** *(Riviera)* - `6 min ago`
-- **[stares](https://open.spotify.com/track/1Yl2h5AaFYL2JOAe4WXWJS)** by **lustr** *(stares)* - `11 min ago`
-- **[Wooden girl](https://open.spotify.com/track/2osuJNdKgYW40mvdpXv1ZE)** by **Bassvictim** *(Basspunk 2)* - `13 min ago`
+- **[home2hide](https://open.spotify.com/track/08nerOhK5AVYPSKhBr1uz3)** by **Pretty Sick** *(home2hide)* - `1 h ago`
+- **[burnt](https://open.spotify.com/track/3rs74wE2ssQCRoT3Jx3Ebo)** by **lustr** *(burnt)* - `2 h ago`
+- **[bad actors](https://open.spotify.com/track/7stu3yFXrr9O4RnPK7J2dG)** by **Casual Affairs** *(bad actors)* - `2 h ago`
+- **[Wolves Howling](https://open.spotify.com/track/0hABGgOfXOklQAiwAe77Et)** by **Bassvictim** *(Forever)* - `2 h ago`
+- **[Dealerz](https://open.spotify.com/track/1Fdd2PRUOh1BBxfPMwuFbK)** by **A Good Year, Quiet Light, Late Verlane** *(Play)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**ww3**](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 12:28:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-02 14:39:30 UTC*
 <!-- SPOTIFY-END -->
