@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))* - `13 h ago`
-- **[Lady Brown](https://open.spotify.com/track/11nuN9xWUoKJNohMtyCoJg)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `13 h ago`
-- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `13 h ago`
-- **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)* - `13 h ago`
-- **[going quietly](https://open.spotify.com/track/0F5NBPoZODoq0J0swH9wIM)** by **Ezekiel** *(going quietly (sped up))* - `13 h ago`
+- **[tethered](https://open.spotify.com/track/1YK06pziyW1l0KKOgCZjik)** by **Senses** *(tethered)* - `1 h ago`
+- **[unreal (II)](https://open.spotify.com/track/3Va6Pps37mr4HKGgHeHpSJ)** by **luu** *(unreal (II))* - `1 h ago`
+- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `1 h ago`
+- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))* - `15 h ago`
+- **[Lady Brown](https://open.spotify.com/track/11nuN9xWUoKJNohMtyCoJg)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `15 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 10:29:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 12:26:22 UTC*
 <!-- SPOTIFY-END -->
