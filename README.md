@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I Think It's Going to Rain Today](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)** by **Randy Newman** *(Randy Newman)* - `2 h ago`
-- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `2 h ago`
-- **[Highway Robbery](https://open.spotify.com/track/7GQMoTRxCRHZbLOqdJapi4)** by **Randy Newman** *(Toy Story 5 (Original Motion Picture Soundtrack))* - `2 h ago`
-- **[Touch - Eurohead Remix](https://open.spotify.com/track/4yUE7m4va4ikn5PWc5gNtE)** by **Nation, Eurohead, Ecco2k** *(Nation 2 (Remixes))* - `2 h ago`
+- **[I Think It's Going to Rain Today](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)** by **Randy Newman** *(Randy Newman)* - `3 h ago`
+- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `3 h ago`
+- **[Highway Robbery](https://open.spotify.com/track/7GQMoTRxCRHZbLOqdJapi4)** by **Randy Newman** *(Toy Story 5 (Original Motion Picture Soundtrack))* - `3 h ago`
 - **[Touch - Eurohead Remix](https://open.spotify.com/track/4yUE7m4va4ikn5PWc5gNtE)** by **Nation, Eurohead, Ecco2k** *(Nation 2 (Remixes))* - `3 h ago`
+- **[Touch - Eurohead Remix](https://open.spotify.com/track/4yUE7m4va4ikn5PWc5gNtE)** by **Nation, Eurohead, Ecco2k** *(Nation 2 (Remixes))* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 17:46:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 19:05:00 UTC*
 <!-- SPOTIFY-END -->
