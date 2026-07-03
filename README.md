@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))* - `3 h ago`
-- **[Lady Brown](https://open.spotify.com/track/11nuN9xWUoKJNohMtyCoJg)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `3 h ago`
-- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `3 h ago`
-- **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)* - `3 h ago`
-- **[going quietly](https://open.spotify.com/track/0F5NBPoZODoq0J0swH9wIM)** by **Ezekiel** *(going quietly (sped up))* - `3 h ago`
+- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))* - `7 h ago`
+- **[Lady Brown](https://open.spotify.com/track/11nuN9xWUoKJNohMtyCoJg)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `7 h ago`
+- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `7 h ago`
+- **[BBY](https://open.spotify.com/track/2LrO5ZXYYufowjFzJk2lmM)** by **Bladee** *(The Fool)* - `7 h ago`
+- **[going quietly](https://open.spotify.com/track/0F5NBPoZODoq0J0swH9wIM)** by **Ezekiel** *(going quietly (sped up))* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 01:07:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 04:54:30 UTC*
 <!-- SPOTIFY-END -->
