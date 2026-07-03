@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[tethered](https://open.spotify.com/track/1YK06pziyW1l0KKOgCZjik)** by **Senses** *(tethered)* - `1 h ago`
-- **[unreal (II)](https://open.spotify.com/track/3Va6Pps37mr4HKGgHeHpSJ)** by **luu** *(unreal (II))* - `1 h ago`
-- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `1 h ago`
-- **[Char](https://open.spotify.com/track/2mHngbc9wHeVuJr59VCV2h)** by **Crystal Castles** *(Amnesty (I))* - `15 h ago`
-- **[Lady Brown](https://open.spotify.com/track/11nuN9xWUoKJNohMtyCoJg)** by **Nujabes, Cise Starr** *(Metaphorical Music)* - `15 h ago`
+- **[COUCOU!!](https://open.spotify.com/track/4D9Qr2XnHfQ1t6jrEU3EiW)** by **heav3nlink, laydownrot** *(blood on my converse)* - `22 min ago`
+- **[barely alive](https://open.spotify.com/track/44rUWCLrEwcjHjh2gbflZc)** by **meat computer** *(barely alive)* - `24 min ago`
+- **[how to pretend](https://open.spotify.com/track/6A1k2vekxUQm9MhmjEymms)** by **vai5000** *(how to pretend)* - `26 min ago`
+- **[IM NOT HAPPY BUT MY HARDCORE IS](https://open.spotify.com/track/12AlQi4g9Za0CUT2EevtBh)** by **Zhnoi** *(IM NOT HAPPY BUT MY HARDCORE IS)* - `30 min ago`
+- **[Slow It Down](https://open.spotify.com/track/50fesVpmySp5ABT64ZA17n)** by **orseno, EKKSTACY, Faerybabyy** *(buzzard)* - `32 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 12:26:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 14:39:11 UTC*
 <!-- SPOTIFY-END -->
