@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27310de399e9c02ae7a4a61f9e9" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6S96IkInhNq28RefHja4Mg">South</a></strong><br/>
+  <em>by</em> <strong>quannnic</strong><br/>
+  <em>Album:</em> Stepdream
+</p>
+
+<p align="center"><code>3:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:31</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I Think It's Going to Rain Today](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)** by **Randy Newman** *(Randy Newman)* - `3 h ago`
-- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `3 h ago`
-- **[Highway Robbery](https://open.spotify.com/track/7GQMoTRxCRHZbLOqdJapi4)** by **Randy Newman** *(Toy Story 5 (Original Motion Picture Soundtrack))* - `3 h ago`
-- **[Touch - Eurohead Remix](https://open.spotify.com/track/4yUE7m4va4ikn5PWc5gNtE)** by **Nation, Eurohead, Ecco2k** *(Nation 2 (Remixes))* - `3 h ago`
-- **[Touch - Eurohead Remix](https://open.spotify.com/track/4yUE7m4va4ikn5PWc5gNtE)** by **Nation, Eurohead, Ecco2k** *(Nation 2 (Remixes))* - `4 h ago`
+- **[don't you feel strange?](https://open.spotify.com/track/0wNj9qFOj6NWMgd0zp3b5o)** by **Misfire SD** *(don't you feel strange?)* - `3 min ago`
+- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `7 min ago`
+- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `10 min ago`
+- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `12 min ago`
+- **[Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)** by **Passion Pit** *(Manners)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 19:05:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 20:21:30 UTC*
 <!-- SPOTIFY-END -->
