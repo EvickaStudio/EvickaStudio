@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[COUCOU!!](https://open.spotify.com/track/4D9Qr2XnHfQ1t6jrEU3EiW)** by **heav3nlink, laydownrot** *(blood on my converse)* - `22 min ago`
-- **[barely alive](https://open.spotify.com/track/44rUWCLrEwcjHjh2gbflZc)** by **meat computer** *(barely alive)* - `24 min ago`
-- **[how to pretend](https://open.spotify.com/track/6A1k2vekxUQm9MhmjEymms)** by **vai5000** *(how to pretend)* - `26 min ago`
-- **[IM NOT HAPPY BUT MY HARDCORE IS](https://open.spotify.com/track/12AlQi4g9Za0CUT2EevtBh)** by **Zhnoi** *(IM NOT HAPPY BUT MY HARDCORE IS)* - `30 min ago`
-- **[Slow It Down](https://open.spotify.com/track/50fesVpmySp5ABT64ZA17n)** by **orseno, EKKSTACY, Faerybabyy** *(buzzard)* - `32 min ago`
+- **[I Think It's Going to Rain Today](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)** by **Randy Newman** *(Randy Newman)* - `45 min ago`
+- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `48 min ago`
+- **[Highway Robbery](https://open.spotify.com/track/7GQMoTRxCRHZbLOqdJapi4)** by **Randy Newman** *(Toy Story 5 (Original Motion Picture Soundtrack))* - `51 min ago`
+- **[Touch - Eurohead Remix](https://open.spotify.com/track/4yUE7m4va4ikn5PWc5gNtE)** by **Nation, Eurohead, Ecco2k** *(Nation 2 (Remixes))* - `1 h ago`
+- **[Touch - Eurohead Remix](https://open.spotify.com/track/4yUE7m4va4ikn5PWc5gNtE)** by **Nation, Eurohead, Ecco2k** *(Nation 2 (Remixes))* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -117,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**NO RISK NO FUN**](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Coming-of-age Story**](https://open.spotify.com/track/58DzJ17HoDm9JjHvQAleqH)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**jvoulais die dans tes bras**](https://open.spotify.com/track/7oLDhtCZt8UL4Dwpn3HMir)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 14:39:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-03 16:11:43 UTC*
 <!-- SPOTIFY-END -->
