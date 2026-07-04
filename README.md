@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730b269b6186be2a9904080a2f" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd">In-Between</a></strong><br/>
-  <em>by</em> <strong>Title Fight</strong><br/>
-  <em>Album:</em> Floral Green
-</p>
-
-<p align="center"><code>0:12</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:53</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `2 min ago`
-- **[Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)** by **Passion Pit** *(Manners)* - `5 min ago`
-- **[Young Blood](https://open.spotify.com/track/20yjYf63OEjxSw9kww01wB)** by **The Naked And Famous** *(Passive Me, Aggressive You)* - `7 min ago`
-- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `12 min ago`
-- **[sag mir](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)** by **savio sieht die zukunft, blombi19** *(verloren gehen)* - `17 min ago`
+- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `1 h ago`
+- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `1 h ago`
+- **[Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)** by **Passion Pit** *(Manners)* - `1 h ago`
+- **[Young Blood](https://open.spotify.com/track/20yjYf63OEjxSw9kww01wB)** by **The Naked And Famous** *(Passive Me, Aggressive You)* - `1 h ago`
+- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +108,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**kevin**](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**kevin**](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-04 14:13:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-04 15:30:42 UTC*
 <!-- SPOTIFY-END -->
