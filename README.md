@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Pillars](https://open.spotify.com/track/0nqItUdx96RDxP32foWt7H)** by **Sunny Day Real Estate** *(How It Feels To Be Something On)* - `17 min ago`
-- **[South](https://open.spotify.com/track/6S96IkInhNq28RefHja4Mg)** by **quannnic** *(Stepdream)* - `22 min ago`
-- **[don't you feel strange?](https://open.spotify.com/track/0wNj9qFOj6NWMgd0zp3b5o)** by **Misfire SD** *(don't you feel strange?)* - `25 min ago`
-- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `29 min ago`
-- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `32 min ago`
+- **[Pillars](https://open.spotify.com/track/0nqItUdx96RDxP32foWt7H)** by **Sunny Day Real Estate** *(How It Feels To Be Something On)* - `1 h ago`
+- **[South](https://open.spotify.com/track/6S96IkInhNq28RefHja4Mg)** by **quannnic** *(Stepdream)* - `1 h ago`
+- **[don't you feel strange?](https://open.spotify.com/track/0wNj9qFOj6NWMgd0zp3b5o)** by **Misfire SD** *(don't you feel strange?)* - `1 h ago`
+- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `1 h ago`
+- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-04 11:19:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-04 12:40:17 UTC*
 <!-- SPOTIFY-END -->
