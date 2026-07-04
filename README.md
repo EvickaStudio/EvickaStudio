@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `7 h ago`
-- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `8 h ago`
-- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `8 h ago`
-- **[Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)** by **Passion Pit** *(Manners)* - `8 h ago`
-- **[Young Blood](https://open.spotify.com/track/20yjYf63OEjxSw9kww01wB)** by **The Naked And Famous** *(Passive Me, Aggressive You)* - `8 h ago`
+- **[In-Between](https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd)** by **Title Fight** *(Floral Green)* - `8 h ago`
+- **[All We Do Is Smoke](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)** by **3DOKI** *(All We Do Is Smoke)* - `9 h ago`
+- **[swallow](https://open.spotify.com/track/4QJDHXA9TKrVxbW91gGcaK)** by **Joey Cash** *(swallow)* - `9 h ago`
+- **[Sleepyhead](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)** by **Passion Pit** *(Manners)* - `9 h ago`
+- **[Young Blood](https://open.spotify.com/track/20yjYf63OEjxSw9kww01wB)** by **The Naked And Famous** *(Passive Me, Aggressive You)* - `9 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-04 22:37:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-04 23:41:36 UTC*
 <!-- SPOTIFY-END -->
