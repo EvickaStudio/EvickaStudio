@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Starplayer](https://open.spotify.com/track/52Hcgh5MHj1jzJO1axsX62)** by **Clarry Berry** *(Starplayer)* - `11 min ago`
-- **[AIRBNBs](https://open.spotify.com/track/0cfy2u7XFhBD4p2QG6nQRN)** by **YUN MUFASA** *(AIRBNBs)* - `13 min ago`
-- **[Vogue](https://open.spotify.com/track/17v9DdfPdJ72yHLUJDPlAO)** by **c4rl** *(okay.)* - `15 min ago`
-- **[motion](https://open.spotify.com/track/2ZhWxChi3CgTnuaLwrOtl2)** by **cdgplug** *(POPULAR LONER)* - `17 min ago`
-- **[music](https://open.spotify.com/track/7dKo33BAuvJkKraqvPpI4g)** by **SQF2000** *(music)* - `18 min ago`
+- **[Starplayer](https://open.spotify.com/track/52Hcgh5MHj1jzJO1axsX62)** by **Clarry Berry** *(Starplayer)* - `1 h ago`
+- **[AIRBNBs](https://open.spotify.com/track/0cfy2u7XFhBD4p2QG6nQRN)** by **YUN MUFASA** *(AIRBNBs)* - `1 h ago`
+- **[Vogue](https://open.spotify.com/track/17v9DdfPdJ72yHLUJDPlAO)** by **c4rl** *(okay.)* - `1 h ago`
+- **[motion](https://open.spotify.com/track/2ZhWxChi3CgTnuaLwrOtl2)** by **cdgplug** *(POPULAR LONER)* - `1 h ago`
+- **[music](https://open.spotify.com/track/7dKo33BAuvJkKraqvPpI4g)** by **SQF2000** *(music)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-05 18:45:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-05 20:06:49 UTC*
 <!-- SPOTIFY-END -->
