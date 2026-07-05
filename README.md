@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731127f60230a2ec5ec6afa511" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0p9NBryeVeneaPx7Kvarra">SCHÖNEBERGER JUNGS</a></strong><br/>
-  <em>by</em> <strong>BHZ, Ion Miles, Monk</strong><br/>
-  <em>Album:</em> SCHÖNEBERGER JUNGS
-</p>
-
-<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:40</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[du kannst das nicht](https://open.spotify.com/track/4S9Kp6yIM7X5GsyVgaTRkT)** by **Beyazz** *(du kannst das nicht)* - `1 min ago`
-- **[FUSSBALL<3](https://open.spotify.com/track/0QydQSo4fDp3dp1RQxeQAX)** by **Longus Mongus, BHZ** *(FUSSBALL<3)* - `3 min ago`
-- **[NO RISK NO FUN](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)** by **cdgplug, YUN MUFASA** *(NO RISK NO FUN)* - `6 min ago`
-- **[Here I Am](https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN)** by **The Hellp** *(Here I Am)* - `13 min ago`
-- **[maul lofi ~ star wars](https://open.spotify.com/track/34sn9Ssy6r3H33WA33RSn4)** by **Closed on Sunday** *(maul lofi ~ star wars)* - `17 min ago`
+- **[Starplayer](https://open.spotify.com/track/52Hcgh5MHj1jzJO1axsX62)** by **Clarry Berry** *(Starplayer)* - `11 min ago`
+- **[AIRBNBs](https://open.spotify.com/track/0cfy2u7XFhBD4p2QG6nQRN)** by **YUN MUFASA** *(AIRBNBs)* - `13 min ago`
+- **[Vogue](https://open.spotify.com/track/17v9DdfPdJ72yHLUJDPlAO)** by **c4rl** *(okay.)* - `15 min ago`
+- **[motion](https://open.spotify.com/track/2ZhWxChi3CgTnuaLwrOtl2)** by **cdgplug** *(POPULAR LONER)* - `17 min ago`
+- **[music](https://open.spotify.com/track/7dKo33BAuvJkKraqvPpI4g)** by **SQF2000** *(music)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-05 17:43:58 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-05 18:45:25 UTC*
 <!-- SPOTIFY-END -->
