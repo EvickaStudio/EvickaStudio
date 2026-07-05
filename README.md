@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739112bde6d28101142df7f3c8" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27363809e940ee91df00227d7ed" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5SYVuaC2cmgLUvTJrZS1fO">hopeless</a></strong><br/>
-  <em>by</em> <strong>Peake</strong><br/>
-  <em>Album:</em> Forever the Sickest Rose
+  <strong><a href="https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ">GOLDEN SZN</a></strong><br/>
+  <em>by</em> <strong>OGUZ, Nyctonian</strong><br/>
+  <em>Album:</em> GOLDEN SZN
 </p>
 
-<p align="center"><code>1:19</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>1:58</code></p>
+<p align="center"><code>4:53</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>4:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[MR. SWAG (feat. makko)](https://open.spotify.com/track/0TsePcRp93zJXSrIufCFx9)** by **Maikel, makko** *(MR. SWAG (feat. makko))* - `1 min ago`
-- **[its okay 2 cry\\](https://open.spotify.com/track/22G6ChG5lOHkxfPR1revKw)** by **Zaram** *(its okay 2 cry\\)* - `4 min ago`
-- **[Kein Stop](https://open.spotify.com/track/2ijIN7HYOompr4vq9dwzmU)** by **sparr00w, bleac** *(00)* - `5 min ago`
-- **[ME!ME!ME! feat. daoko_pt.1](https://open.spotify.com/track/3JkwzHI9Oe3TVl2sYhOHQP)** by **日本アニメ(ーター)見本市, TeddyLoid, Daoko** *(日本アニメ(ーター)見本市 「ME!ME!ME!」)* - `7 min ago`
-- **[medikament](https://open.spotify.com/track/0VlnoLzizwR7BuZ89E0FEo)** by **blombi19, 2dizzy** *(medikament)* - `9 min ago`
+- **[Cortez the Killer - 2016 Remaster](https://open.spotify.com/track/3ZPLFD6mbw6hhu3g6S4EGl)** by **Neil Young, Crazy Horse** *(Zuma)* - `2 min ago`
+- **[KLUg](https://open.spotify.com/track/7txb1uQwadCkqgs46JdEPi)** by **agelast222, gard** *(SOLAR TACTICS)* - `9 min ago`
+- **[Love Miles](https://open.spotify.com/track/6opKZy33CYRyY4HcSJ816u)** by **IVOXYGEN** *(Blurry World)* - `11 min ago`
+- **[GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ)** by **OGUZ, Nyctonian** *(GOLDEN SZN)* - `14 min ago`
+- **[Funny Thing](https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332)** by **Thundercat** *(It Is What It Is)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-05 15:35:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-05 16:41:33 UTC*
 <!-- SPOTIFY-END -->
