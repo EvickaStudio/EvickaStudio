@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732a826f1dca4042e11c39809f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273691e4be8a448ee8cbee162f0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6A1k2vekxUQm9MhmjEymms">how to pretend</a></strong><br/>
-  <em>by</em> <strong>vai5000</strong><br/>
-  <em>Album:</em> how to pretend
+  <strong><a href="https://open.spotify.com/track/2q1ZbhSf0WXSwDqe17Jp6e">Candlelights</a></strong><br/>
+  <em>by</em> <strong>makko</strong><br/>
+  <em>Album:</em> Lieb mich oder lass es, Pt.1+2
 </p>
 
-<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:42</code></p>
+<p align="center"><code>0:34</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO)** by **Charli xcx** *(Wink Wink)* - `1 min ago`
-- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `3 min ago`
-- **[barely alive](https://open.spotify.com/track/44rUWCLrEwcjHjh2gbflZc)** by **meat computer** *(barely alive)* - `7 min ago`
-- **[FORFEIT](https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv)** by **2hollis** *(2)* - `8 min ago`
-- **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)* - `10 min ago`
+- **[lightspeed](https://open.spotify.com/track/0lLB36wM1xOFRkSauT0GVq)** by **Max Fry** *(more than dead to me)* - `just now`
+- **[im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko)** by **EKKSTACY** *(misery)* - `2 min ago`
+- **[zzz](https://open.spotify.com/track/6jMbYChkL89v2SlsrjyURG)** by **60 juno** *(zzz)* - `4 min ago`
+- **[Long Sardine](https://open.spotify.com/track/1Vmcab9Dmw2rX1GEC1t2Po)** by **Oxis** *(Oxis 7)* - `6 min ago`
+- **[Left](https://open.spotify.com/track/5orN4HYGUJS3AqewwwFixi)** by **sign crushes motorist** *(i'll be okay)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**kevin**](https://open.spotify.com/artist/3AnRJXttxRO7191Fxwkaxz)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-06 16:44:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-06 18:31:34 UTC*
 <!-- SPOTIFY-END -->
