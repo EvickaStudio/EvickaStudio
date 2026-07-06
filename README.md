@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2732a826f1dca4042e11c39809f" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6A1k2vekxUQm9MhmjEymms">how to pretend</a></strong><br/>
+  <em>by</em> <strong>vai5000</strong><br/>
+  <em>Album:</em> how to pretend
+</p>
+
+<p align="center"><code>1:53</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:42</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[triple trauma](https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR)** by **luu, mehlhaltig, iwannabemissed** *(triple trauma)* - `30 min ago`
-- **[Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj)** by **Limp Bizkit** *(Results May Vary)* - `32 min ago`
-- **[Linen skies](https://open.spotify.com/track/7w8xHEII6bVO1xw6hyfDBg)** by **Clifford Randall** *(Linen skies)* - `36 min ago`
-- **[Out Of Shape](https://open.spotify.com/track/2tH35vPh5XwwO7idVhWI0Q)** by **Ben Lively** *(Out Of Shape)* - `37 min ago`
-- **[Hand over your pocket](https://open.spotify.com/track/5CIkeKeE8beIkEnHeoSzMw)** by **Samuel Greene** *(Hand over your pocket)* - `40 min ago`
+- **[Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO)** by **Charli xcx** *(Wink Wink)* - `1 min ago`
+- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `3 min ago`
+- **[barely alive](https://open.spotify.com/track/44rUWCLrEwcjHjh2gbflZc)** by **meat computer** *(barely alive)* - `7 min ago`
+- **[FORFEIT](https://open.spotify.com/track/08WEIBLx95kvXakvVs8izv)** by **2hollis** *(2)* - `8 min ago`
+- **[HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s)** by **BONES** *(Rotten)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-06 13:44:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-06 16:44:45 UTC*
 <!-- SPOTIFY-END -->
