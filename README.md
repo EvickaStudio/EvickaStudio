@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2732b715e5cf6b242e86db633f1" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a4352c8e40f0a742edd9982e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7">resonance - midwest emo version</a></strong><br/>
-  <em>by</em> <strong>jacal</strong><br/>
-  <em>Album:</em> resonance (midwest emo version)
+  <strong><a href="https://open.spotify.com/track/3NcRqpopElKGH59PRTESFM">Colorado</a></strong><br/>
+  <em>by</em> <strong>The Hellp</strong><br/>
+  <em>Album:</em> LL
 </p>
 
-<p align="center"><code>2:53</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:39</code></p>
+<p align="center"><code>0:49</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Realize](https://open.spotify.com/track/51RriaGnB6VILb54rXHKj8)** by **Trxy!** *(Realize)* - `2 min ago`
-- **[Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ)** by **Superheaven** *(Jar)* - `4 min ago`
-- **[Rewind featuring bladee](https://open.spotify.com/track/0aezkNKaZGeJKMPKBSezlP)** by **Charli xcx, Bladee, A. G. Cook** *(Brat and it’s completely different but also still brat)* - `8 min ago`
-- **[Where Am I?](https://open.spotify.com/track/6NJ5dlpVne8uf24ttjIbpD)** by **Title Fight** *(Shed)* - `10 min ago`
-- **[meine grosse liebe](https://open.spotify.com/track/3GOG0bFlR2j4ybQQFdOq7x)** by **pink luu, xofilo** *(meine grosse liebe)* - `15 min ago`
+- **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)* - `just now`
+- **[Internet Baby](https://open.spotify.com/track/0MAMKSzCQ8nnaalifFWPkb)** by **S3RL, BEANIE** *(Internet Baby)* - `3 min ago`
+- **[Gut Genug (mit Blumengarten & Shirin David)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak)** by **KITSCHKRIEG, Blumengarten, Shirin David** *(KITSCHKRIEG ZWEI)* - `6 min ago`
+- **[FALLING](https://open.spotify.com/track/20TuZfhMZRyVaZGTNDXR44)** by **pluko** *(OXY)* - `9 min ago`
+- **[make believe](https://open.spotify.com/track/5owJ3Q8Y6MIcoCpWSgQiPp)** by **jigitz** *(all my exes live in brooklyn)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-06 20:33:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-06 22:02:07 UTC*
 <!-- SPOTIFY-END -->
