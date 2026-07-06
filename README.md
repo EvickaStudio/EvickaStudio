@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a4352c8e40f0a742edd9982e" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3NcRqpopElKGH59PRTESFM">Colorado</a></strong><br/>
-  <em>by</em> <strong>The Hellp</strong><br/>
-  <em>Album:</em> LL
-</p>
-
-<p align="center"><code>0:49</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:38</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)* - `just now`
-- **[Internet Baby](https://open.spotify.com/track/0MAMKSzCQ8nnaalifFWPkb)** by **S3RL, BEANIE** *(Internet Baby)* - `3 min ago`
-- **[Gut Genug (mit Blumengarten & Shirin David)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak)** by **KITSCHKRIEG, Blumengarten, Shirin David** *(KITSCHKRIEG ZWEI)* - `6 min ago`
-- **[FALLING](https://open.spotify.com/track/20TuZfhMZRyVaZGTNDXR44)** by **pluko** *(OXY)* - `9 min ago`
-- **[make believe](https://open.spotify.com/track/5owJ3Q8Y6MIcoCpWSgQiPp)** by **jigitz** *(all my exes live in brooklyn)* - `12 min ago`
+- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)* - `1 h ago`
+- **[Colorado](https://open.spotify.com/track/3NcRqpopElKGH59PRTESFM)** by **The Hellp** *(LL)* - `1 h ago`
+- **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)* - `1 h ago`
+- **[Internet Baby](https://open.spotify.com/track/0MAMKSzCQ8nnaalifFWPkb)** by **S3RL, BEANIE** *(Internet Baby)* - `1 h ago`
+- **[Gut Genug (mit Blumengarten & Shirin David)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak)** by **KITSCHKRIEG, Blumengarten, Shirin David** *(KITSCHKRIEG ZWEI)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-06 22:02:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-06 23:21:28 UTC*
 <!-- SPOTIFY-END -->
