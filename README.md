@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)* - `3 h ago`
-- **[Colorado](https://open.spotify.com/track/3NcRqpopElKGH59PRTESFM)** by **The Hellp** *(LL)* - `3 h ago`
-- **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)* - `3 h ago`
-- **[Internet Baby](https://open.spotify.com/track/0MAMKSzCQ8nnaalifFWPkb)** by **S3RL, BEANIE** *(Internet Baby)* - `3 h ago`
-- **[Gut Genug (mit Blumengarten & Shirin David)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak)** by **KITSCHKRIEG, Blumengarten, Shirin David** *(KITSCHKRIEG ZWEI)* - `3 h ago`
+- **[where's my head at _](https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw)** by **Basement Jaxx, 100 gecs** *(where's my head at _)* - `7 h ago`
+- **[Colorado](https://open.spotify.com/track/3NcRqpopElKGH59PRTESFM)** by **The Hellp** *(LL)* - `7 h ago`
+- **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)* - `7 h ago`
+- **[Internet Baby](https://open.spotify.com/track/0MAMKSzCQ8nnaalifFWPkb)** by **S3RL, BEANIE** *(Internet Baby)* - `7 h ago`
+- **[Gut Genug (mit Blumengarten & Shirin David)](https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak)** by **KITSCHKRIEG, Blumengarten, Shirin David** *(KITSCHKRIEG ZWEI)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-07 01:13:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-07 05:06:28 UTC*
 <!-- SPOTIFY-END -->
