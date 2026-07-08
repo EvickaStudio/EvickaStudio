@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `2 h ago`
-- **[Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p)** by **Snow Strippers** *(April Mixtape 3)* - `2 h ago`
-- **[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)** by **Kanye West** *(Donda)* - `2 h ago`
-- **[Zeus](https://open.spotify.com/track/1oTWJHicMNduiiXbGzrg9x)** by **Tevvez** *(Zeus)* - `2 h ago`
-- **[#BrooklynBloodPop! - Sped Up Edit](https://open.spotify.com/track/40PgxYs9gdEiAK4KVR6hHP)** by **SyKo** *(#BrooklynBloodPop! (Edits))* - `2 h ago`
+- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `4 h ago`
+- **[Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p)** by **Snow Strippers** *(April Mixtape 3)* - `4 h ago`
+- **[Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO)** by **Kanye West** *(Donda)* - `4 h ago`
+- **[Zeus](https://open.spotify.com/track/1oTWJHicMNduiiXbGzrg9x)** by **Tevvez** *(Zeus)* - `4 h ago`
+- **[#BrooklynBloodPop! - Sped Up Edit](https://open.spotify.com/track/40PgxYs9gdEiAK4KVR6hHP)** by **SyKo** *(#BrooklynBloodPop! (Edits))* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-07 23:50:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-08 01:54:58 UTC*
 <!-- SPOTIFY-END -->
