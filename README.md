@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27367eff9cd2ec006de7dfeaa89" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/00xH89AaNRw2FNwfbo252m">spinnennetz</a></strong><br/>
-  <em>by</em> <strong>blombi19</strong><br/>
-  <em>Album:</em> spinnennetz
-</p>
-
-<p align="center"><code>3:20</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:24</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[abiogenese](https://open.spotify.com/track/5z7kx25WTVFovL4b4OwvmE)** by **blombi19** *(abiogenese)* - `3 min ago`
-- **[krank nightcore](https://open.spotify.com/track/3CuhmIlp0VcHgAGdDKXfcw)** by **blombi19** *(krank)* - `7 min ago`
-- **[herzkasper](https://open.spotify.com/track/3JBwlk8bOuo6FUk9PZSdMD)** by **blombi19, p3pppa** *(herzkasper)* - `10 min ago`
-- **[du bist mein](https://open.spotify.com/track/6muFhQV6ZhsmNWPICPLWSD)** by **blombi19** *(abiogenese)* - `15 min ago`
-- **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)* - `18 min ago`
+- **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)* - `11 min ago`
+- **[silenthill](https://open.spotify.com/track/0Ybz24IjvwOo9kPS7IIiog)** by **blombi19** *(KRÄHENSCHWARZ)* - `13 min ago`
+- **[roller auf rauschgift](https://open.spotify.com/track/5wrFeQuTUoy7QZWvpGiCfu)** by **shuco, robeltobel** *(zwei sticker)* - `17 min ago`
+- **[prettyaddicted](https://open.spotify.com/track/57D5Ia4LuCqPPvCh98cjco)** by **Hello Hannes** *(prettyaddicted)* - `20 min ago`
+- **[Wetter](https://open.spotify.com/track/4V3xTfnERjCNqulQsMIGwt)** by **bennetgriffin, nouglers** *(Wetter)* - `22 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +109,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-09 20:46:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-09 22:14:31 UTC*
 <!-- SPOTIFY-END -->
