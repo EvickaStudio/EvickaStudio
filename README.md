@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730b269b6186be2a9904080a2f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a8e90d059fb1f8ba9b9c5970" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd">In-Between</a></strong><br/>
-  <em>by</em> <strong>Title Fight</strong><br/>
-  <em>Album:</em> Floral Green
+  <strong><a href="https://open.spotify.com/track/0XH1ubtCoq2d33D72eK7AD">Living In The Past</a></strong><br/>
+  <em>by</em> <strong>Unnatural Funk Band</strong><br/>
+  <em>Album:</em> Strange Happenings b/w Living In The Past
 </p>
 
-<p align="center"><code>2:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:53</code></p>
+<p align="center"><code>1:14</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:54</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ww3](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)** by **grim noir** *(WW3 RADIO)* - `2 min ago`
-- **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)* - `3 min ago`
-- **[Here I Am](https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN)** by **The Hellp** *(Here I Am)* - `6 min ago`
-- **[Gyaru](https://open.spotify.com/track/0lcnGYlFDkP08g82HwwqJB)** by **osk** *(Gyaru)* - `10 min ago`
-- **[Spindrift,](https://open.spotify.com/track/5SnYnx9pQpp9Wo90hbvahE)** by **es.cher** *(Scattered sunlight, broken glass, frayed angel)* - `12 min ago`
+- **[you let me down](https://open.spotify.com/track/0j1J0ug7iNkC6UMbZmH5c7)** by **oliviajones34596070, twentythree** *(you let me down)* - `2 min ago`
+- **[Neoperreo](https://open.spotify.com/track/28DBPgLD7pUjGA561yzd8X)** by **Secret Society, ALIC3E** *(Neoperreo)* - `4 min ago`
+- **[Kiss Me Through the Scope](https://open.spotify.com/track/3GCMcuFshftdxKEeFTCIwK)** by **Thaiboy Digital** *(Legendary Member)* - `6 min ago`
+- **[Living In The Past](https://open.spotify.com/track/0XH1ubtCoq2d33D72eK7AD)** by **Unnatural Funk Band** *(Strange Happenings b/w Living In The Past)* - `9 min ago`
+- **[4](https://open.spotify.com/track/3W9INBEJLZwnBZlbGHz8P2)** by **Dean Blunt, Elias Rønnenfelt** *(lucre)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 19:36:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 20:51:40 UTC*
 <!-- SPOTIFY-END -->
