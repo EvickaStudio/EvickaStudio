@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273449c0597481e4e89ff0fcafc" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2tzTVxgsdFyPJLKjdoyVst">As Long as I've Got You</a></strong><br/>
-  <em>by</em> <strong>The Charmels</strong><br/>
-  <em>Album:</em> Stax-Volt: The Complete Singles 1959-1968
-</p>
-
-<p align="center"><code>1:16</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>2:37</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Look up, Look Down](https://open.spotify.com/track/1jkuNTaVIg2vAiUWsIdf4L)** by **Soft Touch** *(The Big Bad Bay Area)* - `1 min ago`
-- **[Wonderful To Be Loved](https://open.spotify.com/track/5vCJeEbIdj8dInxgpP3Hq8)** by **Ice Cold Love, Tammy** *(Sheer Magic b/w Wonderful To Be Loved)* - `4 min ago`
-- **[I'll Erase Away Your Pain](https://open.spotify.com/track/7dCLMi5pZleCWsRroWaBYH)** by **The Whatnauts** *(Introducing the Whatnauts)* - `8 min ago`
-- **[Please Say It Isn't So](https://open.spotify.com/track/5cx2WKUpSohEmny0XUqvfe)** by **Lee Williams & The Cymbals** *(Carnival "Soul" Classics, Volume 5)* - `12 min ago`
-- **[Gotta Find a Way](https://open.spotify.com/track/5R2YYE8Mb8lRGyhCKEY6EN)** by **Bob & Gene** *(If This World Were Mine)* - `14 min ago`
+- **[There Must Be a Better Way](https://open.spotify.com/track/2JZx4dgSUZ352uDpQm68OY)** by **Friday, Saturday And Sunday** *(Henry Stone's Miami Sound - The Record Man's Finest 45s)* - `55 min ago`
+- **[As Long as I've Got You](https://open.spotify.com/track/2tzTVxgsdFyPJLKjdoyVst)** by **The Charmels** *(Stax-Volt: The Complete Singles 1959-1968)* - `58 min ago`
+- **[Look up, Look Down](https://open.spotify.com/track/1jkuNTaVIg2vAiUWsIdf4L)** by **Soft Touch** *(The Big Bad Bay Area)* - `1 h ago`
+- **[Wonderful To Be Loved](https://open.spotify.com/track/5vCJeEbIdj8dInxgpP3Hq8)** by **Ice Cold Love, Tammy** *(Sheer Magic b/w Wonderful To Be Loved)* - `1 h ago`
+- **[I'll Erase Away Your Pain](https://open.spotify.com/track/7dCLMi5pZleCWsRroWaBYH)** by **The Whatnauts** *(Introducing the Whatnauts)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 21:53:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 22:52:37 UTC*
 <!-- SPOTIFY-END -->
