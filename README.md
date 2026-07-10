@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)* - `3 h ago`
-- **[silenthill](https://open.spotify.com/track/0Ybz24IjvwOo9kPS7IIiog)** by **blombi19** *(KRÄHENSCHWARZ)* - `3 h ago`
-- **[roller auf rauschgift](https://open.spotify.com/track/5wrFeQuTUoy7QZWvpGiCfu)** by **shuco, robeltobel** *(zwei sticker)* - `3 h ago`
-- **[prettyaddicted](https://open.spotify.com/track/57D5Ia4LuCqPPvCh98cjco)** by **Hello Hannes** *(prettyaddicted)* - `3 h ago`
-- **[Wetter](https://open.spotify.com/track/4V3xTfnERjCNqulQsMIGwt)** by **bennetgriffin, nouglers** *(Wetter)* - `3 h ago`
+- **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)* - `7 h ago`
+- **[silenthill](https://open.spotify.com/track/0Ybz24IjvwOo9kPS7IIiog)** by **blombi19** *(KRÄHENSCHWARZ)* - `7 h ago`
+- **[roller auf rauschgift](https://open.spotify.com/track/5wrFeQuTUoy7QZWvpGiCfu)** by **shuco, robeltobel** *(zwei sticker)* - `7 h ago`
+- **[prettyaddicted](https://open.spotify.com/track/57D5Ia4LuCqPPvCh98cjco)** by **Hello Hannes** *(prettyaddicted)* - `7 h ago`
+- **[Wetter](https://open.spotify.com/track/4V3xTfnERjCNqulQsMIGwt)** by **bennetgriffin, nouglers** *(Wetter)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 01:14:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 05:08:17 UTC*
 <!-- SPOTIFY-END -->
