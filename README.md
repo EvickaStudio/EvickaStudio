@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27388cbcc3c994bf8f80c63b21a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730b269b6186be2a9904080a2f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX">the bridge</a></strong><br/>
-  <em>by</em> <strong>Kelela, PinkPantheress</strong><br/>
-  <em>Album:</em> the bridge
+  <strong><a href="https://open.spotify.com/track/6PzZiqF13ODniN3s7It7Cd">In-Between</a></strong><br/>
+  <em>by</em> <strong>Title Fight</strong><br/>
+  <em>Album:</em> Floral Green
 </p>
 
-<p align="center"><code>2:50</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:53</code></p>
+<p align="center"><code>2:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:53</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[truth or lie](https://open.spotify.com/track/2TlTDStUdtURERK1D6KTYY)** by **xnti** *(truth or lie)* - `4 min ago`
-- **[Extra Life](https://open.spotify.com/track/4zGX79qiECeZnly8j1zQYE)** by **S3RL, Weaver, Lexi** *(Extra Life)* - `6 min ago`
-- **[Schaden](https://open.spotify.com/track/109pZBKrfhxHbGTCBcX1bY)** by **mickyi** *(Schaden)* - `9 min ago`
-- **[Kaizen](https://open.spotify.com/track/0sp5UzhRWtimQwCirbiqCO)** by **Maliq** *(Kaizen)* - `11 min ago`
-- **[NOCTURNAL](https://open.spotify.com/track/7IUNHUzLA6YHMtC7AbPgGl)** by **MAQ 22** *(GALENA)* - `14 min ago`
+- **[ww3](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)** by **grim noir** *(WW3 RADIO)* - `2 min ago`
+- **[loki](https://open.spotify.com/track/0tslHSxmbBRpPR2X0tF6Gt)** by **tonser archive, i9bonsai** *(loki)* - `3 min ago`
+- **[Here I Am](https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN)** by **The Hellp** *(Here I Am)* - `6 min ago`
+- **[Gyaru](https://open.spotify.com/track/0lcnGYlFDkP08g82HwwqJB)** by **osk** *(Gyaru)* - `10 min ago`
+- **[Spindrift,](https://open.spotify.com/track/5SnYnx9pQpp9Wo90hbvahE)** by **es.cher** *(Scattered sunlight, broken glass, frayed angel)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,17 +118,17 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**NO RISK NO FUN**](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**NO RISK NO FUN**](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 17:59:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 19:36:22 UTC*
 <!-- SPOTIFY-END -->
