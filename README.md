@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[There Must Be a Better Way](https://open.spotify.com/track/2JZx4dgSUZ352uDpQm68OY)** by **Friday, Saturday And Sunday** *(Henry Stone's Miami Sound - The Record Man's Finest 45s)* - `55 min ago`
-- **[As Long as I've Got You](https://open.spotify.com/track/2tzTVxgsdFyPJLKjdoyVst)** by **The Charmels** *(Stax-Volt: The Complete Singles 1959-1968)* - `58 min ago`
+- **[There Must Be a Better Way](https://open.spotify.com/track/2JZx4dgSUZ352uDpQm68OY)** by **Friday, Saturday And Sunday** *(Henry Stone's Miami Sound - The Record Man's Finest 45s)* - `1 h ago`
+- **[As Long as I've Got You](https://open.spotify.com/track/2tzTVxgsdFyPJLKjdoyVst)** by **The Charmels** *(Stax-Volt: The Complete Singles 1959-1968)* - `1 h ago`
 - **[Look up, Look Down](https://open.spotify.com/track/1jkuNTaVIg2vAiUWsIdf4L)** by **Soft Touch** *(The Big Bad Bay Area)* - `1 h ago`
-- **[Wonderful To Be Loved](https://open.spotify.com/track/5vCJeEbIdj8dInxgpP3Hq8)** by **Ice Cold Love, Tammy** *(Sheer Magic b/w Wonderful To Be Loved)* - `1 h ago`
-- **[I'll Erase Away Your Pain](https://open.spotify.com/track/7dCLMi5pZleCWsRroWaBYH)** by **The Whatnauts** *(Introducing the Whatnauts)* - `1 h ago`
+- **[Wonderful To Be Loved](https://open.spotify.com/track/5vCJeEbIdj8dInxgpP3Hq8)** by **Ice Cold Love, Tammy** *(Sheer Magic b/w Wonderful To Be Loved)* - `2 h ago`
+- **[I'll Erase Away Your Pain](https://open.spotify.com/track/7dCLMi5pZleCWsRroWaBYH)** by **The Whatnauts** *(Introducing the Whatnauts)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 22:52:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 23:51:21 UTC*
 <!-- SPOTIFY-END -->
