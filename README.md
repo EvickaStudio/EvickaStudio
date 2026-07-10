@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[absence](https://open.spotify.com/track/1yV3yP5zCoDu6V1MkFzudx)** by **blushʕ ꈍᴥꈍʔ** *(absence / glimpse)* - `28 min ago`
-- **[143 ways to lose urself](https://open.spotify.com/track/0WVwOSGn9J8Ccq5wuBDLmJ)** by **usedcvnt** *(ultraviolet)* - `31 min ago`
-- **[Comme des Garçons](https://open.spotify.com/track/6m0lAoBCigPoZg9Fb9lNHP)** by **Young Boy Piet** *(Comme des Garçons)* - `1 h ago`
-- **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)* - `13 h ago`
-- **[silenthill](https://open.spotify.com/track/0Ybz24IjvwOo9kPS7IIiog)** by **blombi19** *(KRÄHENSCHWARZ)* - `13 h ago`
+- **[absence](https://open.spotify.com/track/1yV3yP5zCoDu6V1MkFzudx)** by **blushʕ ꈍᴥꈍʔ** *(absence / glimpse)* - `2 h ago`
+- **[143 ways to lose urself](https://open.spotify.com/track/0WVwOSGn9J8Ccq5wuBDLmJ)** by **usedcvnt** *(ultraviolet)* - `2 h ago`
+- **[Comme des Garçons](https://open.spotify.com/track/6m0lAoBCigPoZg9Fb9lNHP)** by **Young Boy Piet** *(Comme des Garçons)* - `4 h ago`
+- **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)* - `15 h ago`
+- **[silenthill](https://open.spotify.com/track/0Ybz24IjvwOo9kPS7IIiog)** by **blombi19** *(KRÄHENSCHWARZ)* - `15 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 11:31:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-10 13:33:36 UTC*
 <!-- SPOTIFY-END -->
