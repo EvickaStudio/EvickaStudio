@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)* - `1 h ago`
-- **[30th Floor](https://open.spotify.com/track/65k7u2hEbluUaVhypNHUI9)** by **Thaiboy Digital, Bladee** *(Trash Island)* - `1 h ago`
-- **[Wie der Raum in dem wir leben](https://open.spotify.com/track/4TTRt3X2f7mBVWjRYAhqL1)** by **strangerperson** *(Wie der Raum in dem wir leben)* - `1 h ago`
-- **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)* - `1 h ago`
-- **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)* - `1 h ago`
+- **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)* - `2 h ago`
+- **[30th Floor](https://open.spotify.com/track/65k7u2hEbluUaVhypNHUI9)** by **Thaiboy Digital, Bladee** *(Trash Island)* - `2 h ago`
+- **[Wie der Raum in dem wir leben](https://open.spotify.com/track/4TTRt3X2f7mBVWjRYAhqL1)** by **strangerperson** *(Wie der Raum in dem wir leben)* - `2 h ago`
+- **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)* - `2 h ago`
+- **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sex am see**](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 16:32:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 17:39:03 UTC*
 <!-- SPOTIFY-END -->
