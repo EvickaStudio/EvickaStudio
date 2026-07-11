@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27370dd2ebd8a41b3cab44f0c7b" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w">Sugar (feat. Francesco Yates)</a></strong><br/>
+  <em>by</em> <strong>Robin Schulz, Francesco Yates</strong><br/>
+  <em>Album:</em> Sugar
+</p>
+
+<p align="center"><code>0:02</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:39</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[You're the One for Me](https://open.spotify.com/track/3jc86j0uL5hrsb3cFfMQob)** by **The Edwards Generation** *(The Big Bad Bay Area Vol. 2)* - `1 h ago`
-- **[There Must Be a Better Way](https://open.spotify.com/track/2JZx4dgSUZ352uDpQm68OY)** by **Friday, Saturday And Sunday** *(Henry Stone's Miami Sound - The Record Man's Finest 45s)* - `15 h ago`
-- **[As Long as I've Got You](https://open.spotify.com/track/2tzTVxgsdFyPJLKjdoyVst)** by **The Charmels** *(Stax-Volt: The Complete Singles 1959-1968)* - `15 h ago`
-- **[Look up, Look Down](https://open.spotify.com/track/1jkuNTaVIg2vAiUWsIdf4L)** by **Soft Touch** *(The Big Bad Bay Area)* - `15 h ago`
-- **[Wonderful To Be Loved](https://open.spotify.com/track/5vCJeEbIdj8dInxgpP3Hq8)** by **Ice Cold Love, Tammy** *(Sheer Magic b/w Wonderful To Be Loved)* - `16 h ago`
+- **[Another High](https://open.spotify.com/track/2M3Tyxn3jy1O89SH9XtHzd)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `3 min ago`
+- **[Living In The Past](https://open.spotify.com/track/0XH1ubtCoq2d33D72eK7AD)** by **Unnatural Funk Band** *(Strange Happenings b/w Living In The Past)* - `5 min ago`
+- **[You're the One for Me](https://open.spotify.com/track/3jc86j0uL5hrsb3cFfMQob)** by **The Edwards Generation** *(The Big Bad Bay Area Vol. 2)* - `2 h ago`
+- **[There Must Be a Better Way](https://open.spotify.com/track/2JZx4dgSUZ352uDpQm68OY)** by **Friday, Saturday And Sunday** *(Henry Stone's Miami Sound - The Record Man's Finest 45s)* - `16 h ago`
+- **[As Long as I've Got You](https://open.spotify.com/track/2tzTVxgsdFyPJLKjdoyVst)** by **The Charmels** *(Stax-Volt: The Complete Singles 1959-1968)* - `16 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sex am see**](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 13:51:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 14:43:56 UTC*
 <!-- SPOTIFY-END -->
