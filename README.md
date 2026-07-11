@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27370dd2ebd8a41b3cab44f0c7b" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w">Sugar (feat. Francesco Yates)</a></strong><br/>
-  <em>by</em> <strong>Robin Schulz, Francesco Yates</strong><br/>
-  <em>Album:</em> Sugar
-</p>
-
-<p align="center"><code>0:02</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:39</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Another High](https://open.spotify.com/track/2M3Tyxn3jy1O89SH9XtHzd)** by **Snow Strippers** *(Night Killaz Vol. 1)* - `3 min ago`
-- **[Living In The Past](https://open.spotify.com/track/0XH1ubtCoq2d33D72eK7AD)** by **Unnatural Funk Band** *(Strange Happenings b/w Living In The Past)* - `5 min ago`
-- **[You're the One for Me](https://open.spotify.com/track/3jc86j0uL5hrsb3cFfMQob)** by **The Edwards Generation** *(The Big Bad Bay Area Vol. 2)* - `2 h ago`
-- **[There Must Be a Better Way](https://open.spotify.com/track/2JZx4dgSUZ352uDpQm68OY)** by **Friday, Saturday And Sunday** *(Henry Stone's Miami Sound - The Record Man's Finest 45s)* - `16 h ago`
-- **[As Long as I've Got You](https://open.spotify.com/track/2tzTVxgsdFyPJLKjdoyVst)** by **The Charmels** *(Stax-Volt: The Complete Singles 1959-1968)* - `16 h ago`
+- **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)* - `17 min ago`
+- **[30th Floor](https://open.spotify.com/track/65k7u2hEbluUaVhypNHUI9)** by **Thaiboy Digital, Bladee** *(Trash Island)* - `19 min ago`
+- **[Wie der Raum in dem wir leben](https://open.spotify.com/track/4TTRt3X2f7mBVWjRYAhqL1)** by **strangerperson** *(Wie der Raum in dem wir leben)* - `21 min ago`
+- **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)* - `23 min ago`
+- **[No Wind Resistance!](https://open.spotify.com/track/6R44g2CHNKEdQl0xvctkWY)** by **Kinneret** *(DMZ)* - `26 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sex am see**](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 14:43:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 15:37:24 UTC*
 <!-- SPOTIFY-END -->
