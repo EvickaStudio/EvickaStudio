@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c15c249d2c30e356edf80b98" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ff70e306fc821eefc96552c1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/31mfFFz5koIOPgHgQVqGTM">Lady Blue Eyes</a></strong><br/>
-  <em>by</em> <strong>American Flyer</strong><br/>
-  <em>Album:</em> American Flyer
+  <strong><a href="https://open.spotify.com/track/3JcLs0pJ2u3ptbFDfbGxBg">Ne Plus Ultra</a></strong><br/>
+  <em>by</em> <strong>ear</strong><br/>
+  <em>Album:</em> Rumspringa
 </p>
 
-<p align="center"><code>0:24</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:14</code></p>
+<p align="center"><code>0:46</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:49</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Reflecting Everything](https://open.spotify.com/track/09ntEoqIKc08ESm1E4EAFT)** by **Mapache** *(Swinging Stars)* - `just now`
-- **[Shooting Star](https://open.spotify.com/track/4rgmJdswefN0Mrjhi3pTaB)** by **Danny O'Keefe** *(O'Keefe)* - `2 min ago`
-- **[My My, Hey Hey (Out of the Blue) - 2016 Remaster](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)** by **Neil Young, Crazy Horse** *(Rust Never Sleeps)* - `5 min ago`
-- **[Swingin Party - 2008 Remaster](https://open.spotify.com/track/14g6foD6sxO1qgkDKuPgWv)** by **The Replacements** *(Tim (Expanded))* - `8 min ago`
-- **[California](https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1)** by **Joni Mitchell** *(Blue)* - `11 min ago`
+- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `just now`
+- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `2 min ago`
+- **[bodyguard](https://open.spotify.com/track/6QV7Ek7rP53qE6UYj010VC)** by **5v, Odece** *(bodyguard)* - `4 min ago`
+- **[Meine Hände sind im Feuer - Die Sterne Remix](https://open.spotify.com/track/4KOZIweOs4lyPLsJddyuDh)** by **Edwin Rosen, sparr00w** *(Die Sterne)* - `5 min ago`
+- **[PARTY ....](https://open.spotify.com/track/3I60k2HAdpBi7LyHQLB8I2)** by **agelast222, Gato** *(SOLARCORP)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sex am see**](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 20:39:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 21:31:24 UTC*
 <!-- SPOTIFY-END -->
