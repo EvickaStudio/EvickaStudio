@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c15c249d2c30e356edf80b98" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/62v1MU1PFXL6AUTyST8PJU">Back to the Old House - John Peel Session 14/09/83</a></strong><br/>
-  <em>by</em> <strong>The Smiths</strong><br/>
-  <em>Album:</em> Hatful of Hollow
+  <strong><a href="https://open.spotify.com/track/31mfFFz5koIOPgHgQVqGTM">Lady Blue Eyes</a></strong><br/>
+  <em>by</em> <strong>American Flyer</strong><br/>
+  <em>Album:</em> American Flyer
 </p>
 
-<p align="center"><code>0:09</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:05</code></p>
+<p align="center"><code>0:24</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:14</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Falling van Buuren](https://open.spotify.com/track/5T80xhv5edZ3Z2AtZ4Ki79)** by **TRANCEMAN2000** *(Cheese Police)* - `1 h ago`
-- **[team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6)** by **meat computer** *(team edward)* - `4 h ago`
-- **[30th Floor](https://open.spotify.com/track/65k7u2hEbluUaVhypNHUI9)** by **Thaiboy Digital, Bladee** *(Trash Island)* - `4 h ago`
-- **[Wie der Raum in dem wir leben](https://open.spotify.com/track/4TTRt3X2f7mBVWjRYAhqL1)** by **strangerperson** *(Wie der Raum in dem wir leben)* - `4 h ago`
-- **[ich wollte gar nicht sein, wer ich gerade bin](https://open.spotify.com/track/712vBjPwBMW6Bd4i2xo5pm)** by **RYLO** *(ich wollte gar nicht sein, wer ich gerade bin)* - `4 h ago`
+- **[Reflecting Everything](https://open.spotify.com/track/09ntEoqIKc08ESm1E4EAFT)** by **Mapache** *(Swinging Stars)* - `just now`
+- **[Shooting Star](https://open.spotify.com/track/4rgmJdswefN0Mrjhi3pTaB)** by **Danny O'Keefe** *(O'Keefe)* - `2 min ago`
+- **[My My, Hey Hey (Out of the Blue) - 2016 Remaster](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)** by **Neil Young, Crazy Horse** *(Rust Never Sleeps)* - `5 min ago`
+- **[Swingin Party - 2008 Remaster](https://open.spotify.com/track/14g6foD6sxO1qgkDKuPgWv)** by **The Replacements** *(Tim (Expanded))* - `8 min ago`
+- **[California](https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1)** by **Joni Mitchell** *(Blue)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sex am see**](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 19:50:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 20:39:19 UTC*
 <!-- SPOTIFY-END -->
