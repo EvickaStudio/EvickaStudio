@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[There Must Be a Better Way](https://open.spotify.com/track/2JZx4dgSUZ352uDpQm68OY)** by **Friday, Saturday And Sunday** *(Henry Stone's Miami Sound - The Record Man's Finest 45s)* - `13 h ago`
-- **[As Long as I've Got You](https://open.spotify.com/track/2tzTVxgsdFyPJLKjdoyVst)** by **The Charmels** *(Stax-Volt: The Complete Singles 1959-1968)* - `13 h ago`
-- **[Look up, Look Down](https://open.spotify.com/track/1jkuNTaVIg2vAiUWsIdf4L)** by **Soft Touch** *(The Big Bad Bay Area)* - `13 h ago`
-- **[Wonderful To Be Loved](https://open.spotify.com/track/5vCJeEbIdj8dInxgpP3Hq8)** by **Ice Cold Love, Tammy** *(Sheer Magic b/w Wonderful To Be Loved)* - `13 h ago`
-- **[I'll Erase Away Your Pain](https://open.spotify.com/track/7dCLMi5pZleCWsRroWaBYH)** by **The Whatnauts** *(Introducing the Whatnauts)* - `13 h ago`
+- **[There Must Be a Better Way](https://open.spotify.com/track/2JZx4dgSUZ352uDpQm68OY)** by **Friday, Saturday And Sunday** *(Henry Stone's Miami Sound - The Record Man's Finest 45s)* - `14 h ago`
+- **[As Long as I've Got You](https://open.spotify.com/track/2tzTVxgsdFyPJLKjdoyVst)** by **The Charmels** *(Stax-Volt: The Complete Singles 1959-1968)* - `14 h ago`
+- **[Look up, Look Down](https://open.spotify.com/track/1jkuNTaVIg2vAiUWsIdf4L)** by **Soft Touch** *(The Big Bad Bay Area)* - `14 h ago`
+- **[Wonderful To Be Loved](https://open.spotify.com/track/5vCJeEbIdj8dInxgpP3Hq8)** by **Ice Cold Love, Tammy** *(Sheer Magic b/w Wonderful To Be Loved)* - `14 h ago`
+- **[I'll Erase Away Your Pain](https://open.spotify.com/track/7dCLMi5pZleCWsRroWaBYH)** by **The Whatnauts** *(Introducing the Whatnauts)* - `14 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -109,16 +109,16 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Leftovers**](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**NO RISK NO FUN**](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**NO RISK NO FUN**](https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 11:17:54 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-11 12:11:03 UTC*
 <!-- SPOTIFY-END -->
