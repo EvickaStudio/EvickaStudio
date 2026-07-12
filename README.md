@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)* - `6 h ago`
+- **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)* - `7 h ago`
 - **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)* - `22 h ago`
-- **[Ne Plus Ultra](https://open.spotify.com/track/3JcLs0pJ2u3ptbFDfbGxBg)** by **ear** *(Rumspringa)* - `22 h ago`
-- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `22 h ago`
-- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `22 h ago`
+- **[Ne Plus Ultra](https://open.spotify.com/track/3JcLs0pJ2u3ptbFDfbGxBg)** by **ear** *(Rumspringa)* - `23 h ago`
+- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `23 h ago`
+- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `23 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-12 19:47:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-12 20:35:51 UTC*
 <!-- SPOTIFY-END -->
