@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `20 min ago`
-- **[____ ____ ___](https://open.spotify.com/track/4PuiFKjlDar0zfVnZT5VgS)** by **bbpue** *(DAL 2)* - `23 min ago`
-- **[Rough Days](https://open.spotify.com/track/2A9AWrOuAwNagpR0BKENkH)** by **RJ Pasin** *(Rough Days)* - `25 min ago`
-- **[Cortez the Killer - 2016 Remaster](https://open.spotify.com/track/3ZPLFD6mbw6hhu3g6S4EGl)** by **Neil Young, Crazy Horse** *(Zuma)* - `26 min ago`
-- **[Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj)** by **Limp Bizkit** *(Results May Vary)* - `34 min ago`
+- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `1 h ago`
+- **[____ ____ ___](https://open.spotify.com/track/4PuiFKjlDar0zfVnZT5VgS)** by **bbpue** *(DAL 2)* - `1 h ago`
+- **[Rough Days](https://open.spotify.com/track/2A9AWrOuAwNagpR0BKENkH)** by **RJ Pasin** *(Rough Days)* - `1 h ago`
+- **[Cortez the Killer - 2016 Remaster](https://open.spotify.com/track/3ZPLFD6mbw6hhu3g6S4EGl)** by **Neil Young, Crazy Horse** *(Zuma)* - `1 h ago`
+- **[Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj)** by **Limp Bizkit** *(Results May Vary)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -116,9 +116,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-13 17:48:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-13 19:14:10 UTC*
 <!-- SPOTIFY-END -->
