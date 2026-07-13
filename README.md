@@ -96,7 +96,7 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)* - `18 h ago`
+- **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)* - `21 h ago`
 - **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)* - `1 d ago`
 - **[Ne Plus Ultra](https://open.spotify.com/track/3JcLs0pJ2u3ptbFDfbGxBg)** by **ear** *(Rumspringa)* - `1 d ago`
 - **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `1 d ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-13 07:53:43 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-13 10:51:03 UTC*
 <!-- SPOTIFY-END -->
