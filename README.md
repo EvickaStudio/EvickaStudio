@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X)** by **Grimes** *(Visions)* - `21 h ago`
-- **[It's A Dream (feat. Lil Uzi Vert)](https://open.spotify.com/track/0ThstNIYwHCqvO6Wslpphq)** by **Snow Strippers, Lil Uzi Vert** *(April Mixtape 3)* - `1 d ago`
-- **[Ne Plus Ultra](https://open.spotify.com/track/3JcLs0pJ2u3ptbFDfbGxBg)** by **ear** *(Rumspringa)* - `1 d ago`
-- **[1x](https://open.spotify.com/track/2j2Ya8yR4ACSLktiQoZjlu)** by **Pink Katana** *(1x)* - `1 d ago`
-- **[time keeps flying by](https://open.spotify.com/track/7u1c8VWmboSJKCgkGivibD)** by **mint** *(time keeps flying by)* - `1 d ago`
+- **[Living In The Past](https://open.spotify.com/track/0XH1ubtCoq2d33D72eK7AD)** by **Unnatural Funk Band** *(Strange Happenings b/w Living In The Past)* - `1 h ago`
+- **[Meteociel - Dirpix Remix](https://open.spotify.com/track/4AIRj1IhCcGrTv4artT4P9)** by **Panteros666, Dirpix** *(Meteociel (Dirpix Remix))* - `1 h ago`
+- **[Twizzy](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)** by **Panteros666, MCYL** *(Twizzy)* - `2 h ago`
+- **[Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)** by **Chris Isaak** *(Heart Shaped World)* - `2 h ago`
+- **[My My, Hey Hey (Out of the Blue) - 2016 Remaster](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)** by **Neil Young, Crazy Horse** *(Rust Never Sleeps)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -114,11 +114,11 @@
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**erdnussallergie**](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-13 10:51:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-13 15:51:03 UTC*
 <!-- SPOTIFY-END -->
