@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734e83e938257e7d6ca352924d" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr">erdnussallergie</a></strong><br/>
-  <em>by</em> <strong>lovehead</strong><br/>
-  <em>Album:</em> erdnussallergie
-</p>
-
-<p align="center"><code>0:26</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:53</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Where Do We Go](https://open.spotify.com/track/6Zun2x70G4dVoESZJwhYKe)** by **Eurohead** *(Where Do We Go)* - `just now`
-- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `3 min ago`
-- **[all my life](https://open.spotify.com/track/3JYMFX7YphXL2y7NQc7CKp)** by **Pearlblade** *(all my life)* - `5 min ago`
-- **[Pillars](https://open.spotify.com/track/0nqItUdx96RDxP32foWt7H)** by **Sunny Day Real Estate** *(How It Feels To Be Something On)* - `8 min ago`
-- **[South](https://open.spotify.com/track/6S96IkInhNq28RefHja4Mg)** by **quannnic** *(Stepdream)* - `13 min ago`
+- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `10 min ago`
+- **[____ ____ ___](https://open.spotify.com/track/4PuiFKjlDar0zfVnZT5VgS)** by **bbpue** *(DAL 2)* - `13 min ago`
+- **[Rough Days](https://open.spotify.com/track/2A9AWrOuAwNagpR0BKENkH)** by **RJ Pasin** *(Rough Days)* - `15 min ago`
+- **[Cortez the Killer - 2016 Remaster](https://open.spotify.com/track/3ZPLFD6mbw6hhu3g6S4EGl)** by **Neil Young, Crazy Horse** *(Zuma)* - `16 min ago`
+- **[Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj)** by **Limp Bizkit** *(Results May Vary)* - `23 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-13 21:33:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-13 22:35:36 UTC*
 <!-- SPOTIFY-END -->
