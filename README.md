@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[tu m'écœures](https://open.spotify.com/track/5ZWJP97sdmBE8yqUEENLrQ)** by **ama???!!!!, kysmelo** *(tu m'écœures)* - `5 h ago`
-- **[i just want ur love](https://open.spotify.com/track/0bILYFSd73DQ3Ya5pev74J)** by **iamsodead, LooveX, dollreal, dethkitty, pavlos** *(i just want ur love)* - `5 h ago`
-- **[sommeil](https://open.spotify.com/track/0UKII5KawMv9vpU1iVysrG)** by **kemoxoo, yungmii** *(sommeil)* - `5 h ago`
-- **[Endeavor](https://open.spotify.com/track/6mBUYjzlI3uPiRaxtCeqIH)** by **wyrdo** *(Endeavor)* - `5 h ago`
-- **[Tangerine - Remaster](https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS)** by **Led Zeppelin** *(Led Zeppelin III (Remaster))* - `5 h ago`
+- **[tu m'écœures](https://open.spotify.com/track/5ZWJP97sdmBE8yqUEENLrQ)** by **ama???!!!!, kysmelo** *(tu m'écœures)* - `6 h ago`
+- **[i just want ur love](https://open.spotify.com/track/0bILYFSd73DQ3Ya5pev74J)** by **iamsodead, LooveX, dollreal, dethkitty, pavlos** *(i just want ur love)* - `6 h ago`
+- **[sommeil](https://open.spotify.com/track/0UKII5KawMv9vpU1iVysrG)** by **kemoxoo, yungmii** *(sommeil)* - `6 h ago`
+- **[Endeavor](https://open.spotify.com/track/6mBUYjzlI3uPiRaxtCeqIH)** by **wyrdo** *(Endeavor)* - `6 h ago`
+- **[Tangerine - Remaster](https://open.spotify.com/track/4ywWJqYKOwaVVh9xXARWUS)** by **Led Zeppelin** *(Led Zeppelin III (Remaster))* - `6 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-14 22:29:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-14 23:25:46 UTC*
 <!-- SPOTIFY-END -->
