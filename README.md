@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Young Blood](https://open.spotify.com/track/20yjYf63OEjxSw9kww01wB)** by **The Naked And Famous** *(Passive Me, Aggressive You)* - `2 h ago`
-- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `2 h ago`
-- **[sag mir](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)** by **savio sieht die zukunft, blombi19** *(verloren gehen)* - `2 h ago`
-- **[I Think It's Going to Rain Today](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)** by **Randy Newman** *(Randy Newman)* - `2 h ago`
-- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `2 h ago`
+- **[Young Blood](https://open.spotify.com/track/20yjYf63OEjxSw9kww01wB)** by **The Naked And Famous** *(Passive Me, Aggressive You)* - `4 h ago`
+- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `4 h ago`
+- **[sag mir](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)** by **savio sieht die zukunft, blombi19** *(verloren gehen)* - `4 h ago`
+- **[I Think It's Going to Rain Today](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)** by **Randy Newman** *(Randy Newman)* - `4 h ago`
+- **[Walk Hard (G string edit)](https://open.spotify.com/track/0chqrxaEyyQB20O6puB0D5)** by **Bassvictim, Woesum, Gud** *(Walk Hard (G string edit))* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-15 15:05:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-15 16:42:55 UTC*
 <!-- SPOTIFY-END -->
