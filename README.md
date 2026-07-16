@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Outside World - Original Mix](https://open.spotify.com/track/6l9Gce676uxLg9LEH7iFGf)** by **Sunbeam** *(Outside World (Mixes))* - `13 h ago`
-- **[My My, Hey Hey (Out of the Blue) - 2016 Remaster](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)** by **Neil Young, Crazy Horse** *(Rust Never Sleeps)* - `16 h ago`
-- **[Young Blood](https://open.spotify.com/track/20yjYf63OEjxSw9kww01wB)** by **The Naked And Famous** *(Passive Me, Aggressive You)* - `21 h ago`
-- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `22 h ago`
-- **[sag mir](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)** by **savio sieht die zukunft, blombi19** *(verloren gehen)* - `22 h ago`
+- **[Outside World - Original Mix](https://open.spotify.com/track/6l9Gce676uxLg9LEH7iFGf)** by **Sunbeam** *(Outside World (Mixes))* - `14 h ago`
+- **[My My, Hey Hey (Out of the Blue) - 2016 Remaster](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)** by **Neil Young, Crazy Horse** *(Rust Never Sleeps)* - `17 h ago`
+- **[Young Blood](https://open.spotify.com/track/20yjYf63OEjxSw9kww01wB)** by **The Naked And Famous** *(Passive Me, Aggressive You)* - `23 h ago`
+- **[Under Your Spell](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)** by **Desire** *(Desire)* - `23 h ago`
+- **[sag mir](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)** by **savio sieht die zukunft, blombi19** *(verloren gehen)* - `23 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-16 10:33:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-16 12:07:33 UTC*
 <!-- SPOTIFY-END -->
