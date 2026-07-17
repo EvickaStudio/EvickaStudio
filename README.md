@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a3b93b845e19209508482640" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27348fc05d81a082d8953d21c39" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/56rhRKo8Sr6HJvqIFuOLmZ">BE SERIOUS</a></strong><br/>
-  <em>by</em> <strong>Bad Boombox, Ollie Lishman</strong><br/>
-  <em>Album:</em> BE SERIOUS
+  <strong><a href="https://open.spotify.com/track/54p8gw9EJCZU89Kzh9UgqU">sorry i didn't make it to your set</a></strong><br/>
+  <em>by</em> <strong>snoritz</strong><br/>
+  <em>Album:</em> SNORRI :)
 </p>
 
-<p align="center"><code>3:30</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:36</code></p>
+<p align="center"><code>3:06</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[We Fall](https://open.spotify.com/track/2uzY8OIeWqAqTS6qPKOH64)** by **Siimon** *(We Fall)* - `3 min ago`
-- **[Ultra Ray](https://open.spotify.com/track/3Txv04F3jEYlXBu7wBJhxY)** by **Panteros666, Zorza** *(Ultra Ray)* - `7 min ago`
-- **[Trigger](https://open.spotify.com/track/4vCRfyRUe5Cb9zhiUZIKji)** by **Benleh** *(Trigger)* - `11 min ago`
-- **[Back With Another One](https://open.spotify.com/track/1yBoKEkV1gkPAtmLpeeEj0)** by **Pawlowski, Fenrick** *(Back With Another One)* - `15 min ago`
-- **[Get U 2 Stay](https://open.spotify.com/track/3EKX2ilDNg1GdSJ1wZGeBz)** by **BOR** *(Get U 2 Stay)* - `19 min ago`
+- **[Light](https://open.spotify.com/track/0BggliaP6nCdYEHZiZgAyr)** by **Fractions** *(Light)* - `2 min ago`
+- **[Can't Escape Me](https://open.spotify.com/track/2i6M4wSNNEozZUickJkv5p)** by **snoritz** *(Can't Escape Me)* - `6 min ago`
+- **[Call Me Babe](https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev)** by **mischluft** *(Call Me Babe)* - `9 min ago`
+- **[Chasing Dreams](https://open.spotify.com/track/0YfWwAiPhHSqUjgP7CPPlY)** by **Panteros666** *(Chasing Dreams)* - `12 min ago`
+- **[Heartbreaking](https://open.spotify.com/track/2oNEVdJVTfT8QOvZ5SXKBx)** by **umbraid** *(Heartbreaking)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-17 17:22:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-17 18:31:26 UTC*
 <!-- SPOTIFY-END -->
