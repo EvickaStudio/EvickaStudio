@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b66c23534dd78ff7d3da83b8" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735d1a0b117068f535632126cc" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss">Wicked Game</a></strong><br/>
-  <em>by</em> <strong>Chris Isaak</strong><br/>
-  <em>Album:</em> Heart Shaped World
+  <strong><a href="https://open.spotify.com/track/6Mo9ddKHvPYbzHWs4pcKAO">Moving Men - Panteros666 Remix</a></strong><br/>
+  <em>by</em> <strong>Myd, Panteros666, Mac DeMarco</strong><br/>
+  <em>Album:</em> Moving Men (Remixes)
 </p>
 
-<p align="center"><code>1:59</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:49</code></p>
+<p align="center"><code>1:13</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[My My, Hey Hey (Out of the Blue) - 2016 Remaster](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)** by **Neil Young, Crazy Horse** *(Rust Never Sleeps)* - `1 min ago`
-- **[Eine Insel mit zwei Bergen](https://open.spotify.com/track/348UyoIBv4QVpIvtqTeM11)** by **Dolls United** *(Gut gebrüllt!)* - `5 min ago`
-- **[I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM)** by **Bruce Springsteen** *(Born In The U.S.A.)* - `12 min ago`
-- **[Nur ein Wort](https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I)** by **Wir sind Helden** *(Von hier an blind)* - `14 min ago`
-- **[The Sign](https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE)** by **Ace of Base** *(The Sign)* - `18 min ago`
+- **[Car Wash](https://open.spotify.com/track/4sQJNF9xzRMOc5l0vchI6o)** by **Panteros666** *(Car Wash)* - `1 min ago`
+- **[Take Em](https://open.spotify.com/track/0UsItWrFNmgVbYaU0N81l1)** by **Odymel, Panteros666, Teletech** *(Hyper, Vol. 1)* - `6 min ago`
+- **[DAP](https://open.spotify.com/track/5xkVfkZHLbSoW00hEXNxBB)** by **Panteros666, ARME** *(Meteociel)* - `10 min ago`
+- **[Fire](https://open.spotify.com/track/5iZzTQhZgcskGqG3HKRJ4f)** by **Panteros666, Öwes** *(Fire)* - `15 min ago`
+- **[99% Angel (feat. Diane Sagnier)](https://open.spotify.com/track/7dgrr3SZEsHmpLfjXT9EZW)** by **Panteros666, Diane Sagnier** *(99% Angel (feat. Diane Sagnier))* - `20 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-17 20:34:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-17 21:30:14 UTC*
 <!-- SPOTIFY-END -->
