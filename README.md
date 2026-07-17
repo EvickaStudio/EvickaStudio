@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27348fc05d81a082d8953d21c39" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27313f982aa5c43146c3d2c1964" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/54p8gw9EJCZU89Kzh9UgqU">sorry i didn't make it to your set</a></strong><br/>
-  <em>by</em> <strong>snoritz</strong><br/>
-  <em>Album:</em> SNORRI :)
+  <strong><a href="https://open.spotify.com/track/6CeCOC2zx1qS8mQNYHe6IM">Prologue</a></strong><br/>
+  <em>by</em> <strong>John Williams</strong><br/>
+  <em>Album:</em> Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack
 </p>
 
-<p align="center"><code>3:06</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:06</code></p>
+<p align="center"><code>1:47</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:10</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Light](https://open.spotify.com/track/0BggliaP6nCdYEHZiZgAyr)** by **Fractions** *(Light)* - `2 min ago`
-- **[Can't Escape Me](https://open.spotify.com/track/2i6M4wSNNEozZUickJkv5p)** by **snoritz** *(Can't Escape Me)* - `6 min ago`
-- **[Call Me Babe](https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev)** by **mischluft** *(Call Me Babe)* - `9 min ago`
-- **[Chasing Dreams](https://open.spotify.com/track/0YfWwAiPhHSqUjgP7CPPlY)** by **Panteros666** *(Chasing Dreams)* - `12 min ago`
-- **[Heartbreaking](https://open.spotify.com/track/2oNEVdJVTfT8QOvZ5SXKBx)** by **umbraid** *(Heartbreaking)* - `15 min ago`
+- **[Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH)** by **Madonna** *(Confessions on a Dance Floor)* - `1 min ago`
+- **[Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj)** by **Bonnie Tyler** *(The Very Best of Bonnie Tyler)* - `7 min ago`
+- **[Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR)** by **Cher** *(Believe)* - `13 min ago`
+- **[Hallo lieber Mann im Mond](https://open.spotify.com/track/49PM0a5a9e9xbPLbg9YtbL)** by **Dolls United** *(Gut gebrüllt!)* - `17 min ago`
+- **[Rock the Casbah - Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N)** by **The Clash** *(Combat Rock (Remastered))* - `21 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-17 18:31:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-17 19:44:44 UTC*
 <!-- SPOTIFY-END -->
