@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273298cbd5a93dc26eaf7b113a4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a3b93b845e19209508482640" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2pkIZ2AuuKwkkqasf5wXRo">Under the Moon</a></strong><br/>
-  <em>by</em> <strong>Funk Tribu, Part Time Killer</strong><br/>
-  <em>Album:</em> Under the Moon
+  <strong><a href="https://open.spotify.com/track/56rhRKo8Sr6HJvqIFuOLmZ">BE SERIOUS</a></strong><br/>
+  <em>by</em> <strong>Bad Boombox, Ollie Lishman</strong><br/>
+  <em>Album:</em> BE SERIOUS
 </p>
 
-<p align="center"><code>2:07</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:41</code></p>
+<p align="center"><code>3:30</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:36</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[One More Day](https://open.spotify.com/track/1PNu7O1OAXLbzV8soONc1K)** by **DJ Traytex** *(One More Day)* - `2 min ago`
-- **[Twizzy](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)** by **Panteros666, MCYL** *(Twizzy)* - `4 min ago`
-- **[Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)** by **Chris Isaak** *(Heart Shaped World)* - `9 min ago`
-- **[My My, Hey Hey (Out of the Blue) - 2016 Remaster](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)** by **Neil Young, Crazy Horse** *(Rust Never Sleeps)* - `14 min ago`
-- **[stressed out](https://open.spotify.com/track/2h85YGyigCYpzr00tc84WO)** by **meat computer** *(stressed out)* - `6 h ago`
+- **[We Fall](https://open.spotify.com/track/2uzY8OIeWqAqTS6qPKOH64)** by **Siimon** *(We Fall)* - `3 min ago`
+- **[Ultra Ray](https://open.spotify.com/track/3Txv04F3jEYlXBu7wBJhxY)** by **Panteros666, Zorza** *(Ultra Ray)* - `7 min ago`
+- **[Trigger](https://open.spotify.com/track/4vCRfyRUe5Cb9zhiUZIKji)** by **Benleh** *(Trigger)* - `11 min ago`
+- **[Back With Another One](https://open.spotify.com/track/1yBoKEkV1gkPAtmLpeeEj0)** by **Pawlowski, Fenrick** *(Back With Another One)* - `15 min ago`
+- **[Get U 2 Stay](https://open.spotify.com/track/3EKX2ilDNg1GdSJ1wZGeBz)** by **BOR** *(Get U 2 Stay)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-17 16:07:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-17 17:22:28 UTC*
 <!-- SPOTIFY-END -->
