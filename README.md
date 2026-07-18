@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cadd1a5403740e6a17c6cebd" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2733e74cb83636081ed8bae4648" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2Tq3fayHpjP2nOZlBEjt3N">I Wanted to Leave</a></strong><br/>
-  <em>by</em> <strong>SYML</strong><br/>
-  <em>Album:</em> You Knew It Was Me
+  <strong><a href="https://open.spotify.com/track/348UyoIBv4QVpIvtqTeM11">Eine Insel mit zwei Bergen</a></strong><br/>
+  <em>by</em> <strong>Dolls United</strong><br/>
+  <em>Album:</em> Gut gebrüllt!
 </p>
 
-<p align="center"><code>0:13</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:23</code></p>
+<p align="center"><code>0:01</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:45</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Meteociel - Dirpix Remix](https://open.spotify.com/track/4AIRj1IhCcGrTv4artT4P9)** by **Panteros666, Dirpix** *(Meteociel (Dirpix Remix))* - `5 min ago`
-- **[Twizzy](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)** by **Panteros666, MCYL** *(Twizzy)* - `10 min ago`
-- **[Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)** by **Chris Isaak** *(Heart Shaped World)* - `13 min ago`
-- **[My My, Hey Hey (Out of the Blue) - 2016 Remaster](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)** by **Neil Young, Crazy Horse** *(Rust Never Sleeps)* - `17 min ago`
-- **[Hope - Ric Niels Remix](https://open.spotify.com/track/07DMzWxUGZsyznrmZlnOYw)** by **Robilardo, Ric Niels** *(Hope)* - `25 min ago`
+- **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)* - `6 min ago`
+- **[Ferrari](https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM)** by **Alice Gas** *(Sorry 4 Being Famous)* - `9 min ago`
+- **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)* - `28 min ago`
+- **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)* - `38 min ago`
+- **[Twizzy](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)** by **Panteros666, MCYL** *(Twizzy)* - `41 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-18 14:06:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-18 15:11:56 UTC*
 <!-- SPOTIFY-END -->
