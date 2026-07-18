@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Eine Insel mit zwei Bergen](https://open.spotify.com/track/348UyoIBv4QVpIvtqTeM11)** by **Dolls United** *(Gut gebrüllt!)* - `1 h ago`
-- **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)* - `2 h ago`
-- **[Ferrari](https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM)** by **Alice Gas** *(Sorry 4 Being Famous)* - `2 h ago`
-- **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)* - `2 h ago`
-- **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)* - `2 h ago`
+- **[Eine Insel mit zwei Bergen](https://open.spotify.com/track/348UyoIBv4QVpIvtqTeM11)** by **Dolls United** *(Gut gebrüllt!)* - `2 h ago`
+- **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)* - `3 h ago`
+- **[Ferrari](https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM)** by **Alice Gas** *(Sorry 4 Being Famous)* - `3 h ago`
+- **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)* - `3 h ago`
+- **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-18 17:12:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-18 18:06:37 UTC*
 <!-- SPOTIFY-END -->
