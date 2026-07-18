@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733e74cb83636081ed8bae4648" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/348UyoIBv4QVpIvtqTeM11">Eine Insel mit zwei Bergen</a></strong><br/>
+  <em>by</em> <strong>Dolls United</strong><br/>
+  <em>Album:</em> Gut gebrüllt!
+</p>
+
+<p align="center"><code>0:29</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:45</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Moving Men - Panteros666 Remix](https://open.spotify.com/track/6Mo9ddKHvPYbzHWs4pcKAO)** by **Myd, Panteros666, Mac DeMarco** *(Moving Men (Remixes))* - `8 h ago`
-- **[Car Wash](https://open.spotify.com/track/4sQJNF9xzRMOc5l0vchI6o)** by **Panteros666** *(Car Wash)* - `8 h ago`
-- **[Take Em](https://open.spotify.com/track/0UsItWrFNmgVbYaU0N81l1)** by **Odymel, Panteros666, Teletech** *(Hyper, Vol. 1)* - `8 h ago`
-- **[DAP](https://open.spotify.com/track/5xkVfkZHLbSoW00hEXNxBB)** by **Panteros666, ARME** *(Meteociel)* - `8 h ago`
-- **[Fire](https://open.spotify.com/track/5iZzTQhZgcskGqG3HKRJ4f)** by **Panteros666, Öwes** *(Fire)* - `8 h ago`
+- **[Moving Men - Panteros666 Remix](https://open.spotify.com/track/6Mo9ddKHvPYbzHWs4pcKAO)** by **Myd, Panteros666, Mac DeMarco** *(Moving Men (Remixes))* - `9 h ago`
+- **[Car Wash](https://open.spotify.com/track/4sQJNF9xzRMOc5l0vchI6o)** by **Panteros666** *(Car Wash)* - `9 h ago`
+- **[Take Em](https://open.spotify.com/track/0UsItWrFNmgVbYaU0N81l1)** by **Odymel, Panteros666, Teletech** *(Hyper, Vol. 1)* - `9 h ago`
+- **[DAP](https://open.spotify.com/track/5xkVfkZHLbSoW00hEXNxBB)** by **Panteros666, ARME** *(Meteociel)* - `9 h ago`
+- **[Fire](https://open.spotify.com/track/5iZzTQhZgcskGqG3HKRJ4f)** by **Panteros666, Öwes** *(Fire)* - `10 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-18 05:42:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-18 07:17:47 UTC*
 <!-- SPOTIFY-END -->
