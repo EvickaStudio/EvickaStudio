@@ -91,33 +91,23 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733e74cb83636081ed8bae4648" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/348UyoIBv4QVpIvtqTeM11">Eine Insel mit zwei Bergen</a></strong><br/>
-  <em>by</em> <strong>Dolls United</strong><br/>
-  <em>Album:</em> Gut gebrüllt!
-</p>
-
-<p align="center"><code>0:01</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:45</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)* - `6 min ago`
-- **[Ferrari](https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM)** by **Alice Gas** *(Sorry 4 Being Famous)* - `9 min ago`
-- **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)* - `28 min ago`
-- **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)* - `38 min ago`
-- **[Twizzy](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)** by **Panteros666, MCYL** *(Twizzy)* - `41 min ago`
+- **[Eine Insel mit zwei Bergen](https://open.spotify.com/track/348UyoIBv4QVpIvtqTeM11)** by **Dolls United** *(Gut gebrüllt!)* - `53 min ago`
+- **[Exexex](https://open.spotify.com/track/7FZiWPKhS4yJJlV3tfpen2)** by **SlushhKitten** *(Exexex)* - `1 h ago`
+- **[Ferrari](https://open.spotify.com/track/3FBFNfU6xesxH5Fwk5eXSM)** by **Alice Gas** *(Sorry 4 Being Famous)* - `1 h ago`
+- **[SHE'S A GIRL IN A BLACK DRESS](https://open.spotify.com/track/7uAcZCB2mqvddptgZfCKX0)** by **lavendr, roshyw** *(SHE'S A GIRL IN A BLACK DRESS)* - `1 h ago`
+- **[no, the moon](https://open.spotify.com/track/5ZGzNhBC1sEtYtQ1b6Cy53)** by **Teen Suicide** *(i will be my own hell because there is a devil inside my body)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Title Fight**](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk)
 
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-18 15:11:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-18 16:09:31 UTC*
 <!-- SPOTIFY-END -->
