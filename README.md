@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Moving Men - Panteros666 Remix](https://open.spotify.com/track/6Mo9ddKHvPYbzHWs4pcKAO)** by **Myd, Panteros666, Mac DeMarco** *(Moving Men (Remixes))* - `1 h ago`
-- **[Car Wash](https://open.spotify.com/track/4sQJNF9xzRMOc5l0vchI6o)** by **Panteros666** *(Car Wash)* - `1 h ago`
-- **[Take Em](https://open.spotify.com/track/0UsItWrFNmgVbYaU0N81l1)** by **Odymel, Panteros666, Teletech** *(Hyper, Vol. 1)* - `1 h ago`
-- **[DAP](https://open.spotify.com/track/5xkVfkZHLbSoW00hEXNxBB)** by **Panteros666, ARME** *(Meteociel)* - `1 h ago`
-- **[Fire](https://open.spotify.com/track/5iZzTQhZgcskGqG3HKRJ4f)** by **Panteros666, Öwes** *(Fire)* - `1 h ago`
+- **[Moving Men - Panteros666 Remix](https://open.spotify.com/track/6Mo9ddKHvPYbzHWs4pcKAO)** by **Myd, Panteros666, Mac DeMarco** *(Moving Men (Remixes))* - `2 h ago`
+- **[Car Wash](https://open.spotify.com/track/4sQJNF9xzRMOc5l0vchI6o)** by **Panteros666** *(Car Wash)* - `2 h ago`
+- **[Take Em](https://open.spotify.com/track/0UsItWrFNmgVbYaU0N81l1)** by **Odymel, Panteros666, Teletech** *(Hyper, Vol. 1)* - `2 h ago`
+- **[DAP](https://open.spotify.com/track/5xkVfkZHLbSoW00hEXNxBB)** by **Panteros666, ARME** *(Meteociel)* - `2 h ago`
+- **[Fire](https://open.spotify.com/track/5iZzTQhZgcskGqG3HKRJ4f)** by **Panteros666, Öwes** *(Fire)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-17 23:13:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-18 00:09:21 UTC*
 <!-- SPOTIFY-END -->
