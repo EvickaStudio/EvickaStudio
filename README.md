@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2730d0eabdf92a0297d227819e9" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/36qyR7l0Hflx7j1AjQzgVn">083 - Meuterei auf hoher See - Teil 24</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 083/Meuterei auf hoher See
+</p>
+
+<p align="center"><code>1:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>1:20</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[angelRavegirl](https://open.spotify.com/track/7dpCKgdcNgicwMnrNgZfbK)** by **KidSnorlax, hateoryx** *(angelRavegirl)* - `1 h ago`
-- **[Prettyboy](https://open.spotify.com/track/1t6YgJ6N3gYyGg8A8yVJB9)** by **BEVN, Hadesthegrim** *(Prettyboy)* - `1 h ago`
-- **[Cantina Band](https://open.spotify.com/track/0iysVaWrqhid3cthjqa0WW)** by **John Williams, London Symphony Orchestra** *(Star Wars: Eine neue Hoffnung (Original Film-Soundtrack))* - `1 h ago`
-- **[Hallo](https://open.spotify.com/track/4zBcLQmNznBf0o66bitQwq)** by **viko63, penglord** *(Strada d'Amore)* - `1 h ago`
-- **[Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L)** by **a-ha** *(Hunting High and Low)* - `1 h ago`
+- **[083 - Meuterei auf hoher See - Teil 23](https://open.spotify.com/track/6AUvUnNhGDBpcq88ed9S9F)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `1 min ago`
+- **[083 - Meuterei auf hoher See - Teil 22](https://open.spotify.com/track/6XDzJFphIykpNEltDmJq1A)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `2 min ago`
+- **[083 - Meuterei auf hoher See - Teil 21](https://open.spotify.com/track/6ZqYHVmTGQsUr3rsH5YAUg)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `4 min ago`
+- **[083 - Meuterei auf hoher See - Teil 20](https://open.spotify.com/track/4n3t3m2QMN7qh7K2NJeUWS)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `5 min ago`
+- **[083 - Meuterei auf hoher See - Teil 19](https://open.spotify.com/track/6ubDzFrF5EPdzyMBwzwNR9)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `6 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -108,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Title Fight**](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Title Fight**](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 10:13:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 11:29:18 UTC*
 <!-- SPOTIFY-END -->
