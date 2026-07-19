@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[083 - Meuterei auf hoher See - Teil 40](https://open.spotify.com/track/4KSAeLgQAsiphIp8GC2hAL)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `33 min ago`
-- **[083 - Meuterei auf hoher See - Teil 39](https://open.spotify.com/track/21Ktw8OJjSMkl7vwyMDrit)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `35 min ago`
-- **[083 - Meuterei auf hoher See - Teil 38](https://open.spotify.com/track/2OPE7v5DKoY4zlA2KWvcLp)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `36 min ago`
-- **[083 - Meuterei auf hoher See - Teil 37](https://open.spotify.com/track/53RxQEi8xA2zZmYqknMpeN)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `38 min ago`
-- **[083 - Meuterei auf hoher See - Teil 36](https://open.spotify.com/track/0qWrsRGXhspcc75ozmuCbt)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `39 min ago`
+- **[083 - Meuterei auf hoher See - Teil 40](https://open.spotify.com/track/4KSAeLgQAsiphIp8GC2hAL)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `2 h ago`
+- **[083 - Meuterei auf hoher See - Teil 39](https://open.spotify.com/track/21Ktw8OJjSMkl7vwyMDrit)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `2 h ago`
+- **[083 - Meuterei auf hoher See - Teil 38](https://open.spotify.com/track/2OPE7v5DKoY4zlA2KWvcLp)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `2 h ago`
+- **[083 - Meuterei auf hoher See - Teil 37](https://open.spotify.com/track/53RxQEi8xA2zZmYqknMpeN)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `2 h ago`
+- **[083 - Meuterei auf hoher See - Teil 36](https://open.spotify.com/track/0qWrsRGXhspcc75ozmuCbt)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 12:27:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 13:59:36 UTC*
 <!-- SPOTIFY-END -->
