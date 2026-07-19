@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ob wir zwei zusammen gehören](https://open.spotify.com/track/2zuLbZnDPmUNENNrXmpYf3)** by **fliggsy** *(Überbleibsel des Sommers)* - `1 h ago`
-- **[Rave Religion (feat. Little Big)](https://open.spotify.com/track/0npfbfNxvDL4fZ3flLWZQL)** by **FiNCH, Little Big** *(Finchi's Love Tape)* - `2 h ago`
-- **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)* - `2 h ago`
-- **[Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG)** by **$uicideboy$** *(7th or St. Tammany)* - `2 h ago`
-- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `2 h ago`
+- **[Ob wir zwei zusammen gehören](https://open.spotify.com/track/2zuLbZnDPmUNENNrXmpYf3)** by **fliggsy** *(Überbleibsel des Sommers)* - `2 h ago`
+- **[Rave Religion (feat. Little Big)](https://open.spotify.com/track/0npfbfNxvDL4fZ3flLWZQL)** by **FiNCH, Little Big** *(Finchi's Love Tape)* - `3 h ago`
+- **[Nur zu weit](https://open.spotify.com/track/6aIHRl2E7HJ148v0zSE5xq)** by **Traumatin** *(Nur zu weit)* - `3 h ago`
+- **[Drugs/Hoes/Money/Etc.](https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG)** by **$uicideboy$** *(7th or St. Tammany)* - `3 h ago`
+- **[trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau)** by **2hollis** *(trauma)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 21:12:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 22:07:48 UTC*
 <!-- SPOTIFY-END -->
