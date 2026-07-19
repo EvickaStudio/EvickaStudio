@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc">Sugar</a></strong><br/>
+  <em>by</em> <strong>Bladee</strong><br/>
+  <em>Album:</em> Eversince
+</p>
+
+<p align="center"><code>2:17</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[083 - Meuterei auf hoher See - Teil 40](https://open.spotify.com/track/4KSAeLgQAsiphIp8GC2hAL)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `3 h ago`
-- **[083 - Meuterei auf hoher See - Teil 39](https://open.spotify.com/track/21Ktw8OJjSMkl7vwyMDrit)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `3 h ago`
-- **[083 - Meuterei auf hoher See - Teil 38](https://open.spotify.com/track/2OPE7v5DKoY4zlA2KWvcLp)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `3 h ago`
-- **[083 - Meuterei auf hoher See - Teil 37](https://open.spotify.com/track/53RxQEi8xA2zZmYqknMpeN)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `3 h ago`
-- **[083 - Meuterei auf hoher See - Teil 36](https://open.spotify.com/track/0qWrsRGXhspcc75ozmuCbt)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `3 h ago`
+- **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)* - `2 min ago`
+- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `4 min ago`
+- **[Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p)** by **Snow Strippers** *(April Mixtape 3)* - `7 min ago`
+- **[misery.](https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY)** by **pupsies** *(misery.)* - `11 min ago`
+- **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 14:59:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 15:59:31 UTC*
 <!-- SPOTIFY-END -->
