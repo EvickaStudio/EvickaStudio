@@ -91,35 +91,25 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27370f48da229c61cd6a1af4d60" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc">Sugar</a></strong><br/>
-  <em>by</em> <strong>Bladee</strong><br/>
-  <em>Album:</em> Eversince
-</p>
-
-<p align="center"><code>2:17</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:06</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)* - `2 min ago`
-- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `4 min ago`
-- **[Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p)** by **Snow Strippers** *(April Mixtape 3)* - `7 min ago`
-- **[misery.](https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY)** by **pupsies** *(misery.)* - `11 min ago`
-- **[afraid (feat. nate sib)](https://open.spotify.com/track/41YlWhySoJVw2TXaxW1q5G)** by **2hollis, nate sib** *(afraid (feat. nate sib))* - `14 min ago`
+- **[Sugar](https://open.spotify.com/track/6PhRi0Ttmzi0cNQ9pK8CKc)** by **Bladee** *(Eversince)* - `1 h ago`
+- **[FALL FROM THE SKY - Sped up](https://open.spotify.com/track/4ToKIt0qLCzFUhXiDHwEpW)** by **RomancePlanet** *(FALL FROM THE SKY)* - `1 h ago`
+- **[Dancing Nihilist](https://open.spotify.com/track/0NDwFmgihsIRmkblqpI6BY)** by **pathetic240px** *(Dancing Nihilist)* - `1 h ago`
+- **[Under Your Spell](https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p)** by **Snow Strippers** *(April Mixtape 3)* - `1 h ago`
+- **[misery.](https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY)** by **pupsies** *(misery.)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Title Fight**](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Title Fight**](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 15:59:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 17:00:45 UTC*
 <!-- SPOTIFY-END -->
