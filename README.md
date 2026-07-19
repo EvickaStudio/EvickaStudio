@@ -91,34 +91,24 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730d0eabdf92a0297d227819e9" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/36qyR7l0Hflx7j1AjQzgVn">083 - Meuterei auf hoher See - Teil 24</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 083/Meuterei auf hoher See
-</p>
-
-<p align="center"><code>1:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>1:20</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[083 - Meuterei auf hoher See - Teil 23](https://open.spotify.com/track/6AUvUnNhGDBpcq88ed9S9F)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `1 min ago`
-- **[083 - Meuterei auf hoher See - Teil 22](https://open.spotify.com/track/6XDzJFphIykpNEltDmJq1A)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `2 min ago`
-- **[083 - Meuterei auf hoher See - Teil 21](https://open.spotify.com/track/6ZqYHVmTGQsUr3rsH5YAUg)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `4 min ago`
-- **[083 - Meuterei auf hoher See - Teil 20](https://open.spotify.com/track/4n3t3m2QMN7qh7K2NJeUWS)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `5 min ago`
-- **[083 - Meuterei auf hoher See - Teil 19](https://open.spotify.com/track/6ubDzFrF5EPdzyMBwzwNR9)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `6 min ago`
+- **[083 - Meuterei auf hoher See - Teil 40](https://open.spotify.com/track/4KSAeLgQAsiphIp8GC2hAL)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `33 min ago`
+- **[083 - Meuterei auf hoher See - Teil 39](https://open.spotify.com/track/21Ktw8OJjSMkl7vwyMDrit)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `35 min ago`
+- **[083 - Meuterei auf hoher See - Teil 38](https://open.spotify.com/track/2OPE7v5DKoY4zlA2KWvcLp)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `36 min ago`
+- **[083 - Meuterei auf hoher See - Teil 37](https://open.spotify.com/track/53RxQEi8xA2zZmYqknMpeN)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `38 min ago`
+- **[083 - Meuterei auf hoher See - Teil 36](https://open.spotify.com/track/0qWrsRGXhspcc75ozmuCbt)** by **Die drei ???** *(083/Meuterei auf hoher See)* - `39 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Title Fight**](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk)
 
 
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 11:29:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-19 12:27:11 UTC*
 <!-- SPOTIFY-END -->
