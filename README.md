@@ -96,21 +96,21 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1kropp2OjEmJL9PXgCjcoa">052 - und die Musikpiraten - Teil 16</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/06wWDUprCp0w0BNrc1xSDg">052 - und die Musikpiraten - Teil 29</a></strong><br/>
   <em>by</em> <strong>Die drei ???</strong><br/>
   <em>Album:</em> 052/und die Musikpiraten
 </p>
 
-<p align="center"><code>1:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>1:26</code></p>
+<p align="center"><code>1:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>1:24</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[052 - und die Musikpiraten - Teil 15](https://open.spotify.com/track/0oa7i06oDLmG8HloPkIp6h)** by **Die drei ???** *(052/und die Musikpiraten)* - `1 min ago`
-- **[052 - und die Musikpiraten - Teil 14](https://open.spotify.com/track/3I22h2DTlUpTHlYYaG0X9j)** by **Die drei ???** *(052/und die Musikpiraten)* - `2 min ago`
-- **[052 - und die Musikpiraten - Teil 13](https://open.spotify.com/track/2XVRvJBVxVwdnfHzbipdYo)** by **Die drei ???** *(052/und die Musikpiraten)* - `3 min ago`
-- **[052 - und die Musikpiraten - Teil 12](https://open.spotify.com/track/4dmaxxIcIvUweudcf3dsd9)** by **Die drei ???** *(052/und die Musikpiraten)* - `5 min ago`
-- **[052 - und die Musikpiraten - Teil 11](https://open.spotify.com/track/6ZeehIcMPH1PW84EAXomg4)** by **Die drei ???** *(052/und die Musikpiraten)* - `6 min ago`
+- **[052 - und die Musikpiraten - Teil 28](https://open.spotify.com/track/549uPM7yohYR7WnRg5hS1k)** by **Die drei ???** *(052/und die Musikpiraten)* - `1 min ago`
+- **[052 - und die Musikpiraten - Teil 27](https://open.spotify.com/track/1RmjQkAQQTJl39BXOa1JiT)** by **Die drei ???** *(052/und die Musikpiraten)* - `2 min ago`
+- **[052 - und die Musikpiraten - Teil 26](https://open.spotify.com/track/5yNdNuXnO5WJMduJB9OTgi)** by **Die drei ???** *(052/und die Musikpiraten)* - `3 min ago`
+- **[052 - und die Musikpiraten - Teil 26](https://open.spotify.com/track/5yNdNuXnO5WJMduJB9OTgi)** by **Die drei ???** *(052/und die Musikpiraten)* - `5 min ago`
+- **[052 - und die Musikpiraten - Teil 26](https://open.spotify.com/track/5yNdNuXnO5WJMduJB9OTgi)** by **Die drei ???** *(052/und die Musikpiraten)* - `44 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-20 14:38:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-20 16:12:39 UTC*
 <!-- SPOTIFY-END -->
