@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733a999a94e6618455692574b8" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1kropp2OjEmJL9PXgCjcoa">052 - und die Musikpiraten - Teil 16</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 052/und die Musikpiraten
+</p>
+
+<p align="center"><code>1:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>1:26</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Eternal Rest](https://open.spotify.com/track/0nR7g3MHiGzxUg3fg0pOQU)** by **Sidewalks and Skeletons, CASHFORGOLD** *(Exorcism)* - `1 h ago`
-- **[Bildschirm](https://open.spotify.com/track/1ier6Ov0TytCwRH34esfAW)** by **S1RENA** *(Bildschirm)* - `1 h ago`
-- **[sleepwalkin' :)](https://open.spotify.com/track/7LAB4nhRfktDO64MzXR7Tx)** by **lain** *(sleepwalkin' :))* - `1 h ago`
-- **[Schau dir zu](https://open.spotify.com/track/327J4B693gp2yhtwHSVfKL)** by **Edwin Rosen** *(Die Sterne)* - `2 h ago`
-- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `2 h ago`
+- **[052 - und die Musikpiraten - Teil 15](https://open.spotify.com/track/0oa7i06oDLmG8HloPkIp6h)** by **Die drei ???** *(052/und die Musikpiraten)* - `1 min ago`
+- **[052 - und die Musikpiraten - Teil 14](https://open.spotify.com/track/3I22h2DTlUpTHlYYaG0X9j)** by **Die drei ???** *(052/und die Musikpiraten)* - `2 min ago`
+- **[052 - und die Musikpiraten - Teil 13](https://open.spotify.com/track/2XVRvJBVxVwdnfHzbipdYo)** by **Die drei ???** *(052/und die Musikpiraten)* - `3 min ago`
+- **[052 - und die Musikpiraten - Teil 12](https://open.spotify.com/track/4dmaxxIcIvUweudcf3dsd9)** by **Die drei ???** *(052/und die Musikpiraten)* - `5 min ago`
+- **[052 - und die Musikpiraten - Teil 11](https://open.spotify.com/track/6ZeehIcMPH1PW84EAXomg4)** by **Die drei ???** *(052/und die Musikpiraten)* - `6 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-20 12:28:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-20 14:38:24 UTC*
 <!-- SPOTIFY-END -->
