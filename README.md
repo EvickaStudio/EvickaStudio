@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[052 - und die Musikpiraten - Teil 31](https://open.spotify.com/track/4dScDMynH92o3zuByrxmLj)** by **Die drei ???** *(052/und die Musikpiraten)* - `3 h ago`
-- **[052 - und die Musikpiraten - Teil 30](https://open.spotify.com/track/7EirEwo2GRNPjcdfsynbSo)** by **Die drei ???** *(052/und die Musikpiraten)* - `6 h ago`
-- **[052 - und die Musikpiraten - Teil 29](https://open.spotify.com/track/06wWDUprCp0w0BNrc1xSDg)** by **Die drei ???** *(052/und die Musikpiraten)* - `6 h ago`
-- **[052 - und die Musikpiraten - Teil 28](https://open.spotify.com/track/549uPM7yohYR7WnRg5hS1k)** by **Die drei ???** *(052/und die Musikpiraten)* - `6 h ago`
-- **[052 - und die Musikpiraten - Teil 27](https://open.spotify.com/track/1RmjQkAQQTJl39BXOa1JiT)** by **Die drei ???** *(052/und die Musikpiraten)* - `6 h ago`
+- **[052 - und die Musikpiraten - Teil 31](https://open.spotify.com/track/4dScDMynH92o3zuByrxmLj)** by **Die drei ???** *(052/und die Musikpiraten)* - `4 h ago`
+- **[052 - und die Musikpiraten - Teil 30](https://open.spotify.com/track/7EirEwo2GRNPjcdfsynbSo)** by **Die drei ???** *(052/und die Musikpiraten)* - `7 h ago`
+- **[052 - und die Musikpiraten - Teil 29](https://open.spotify.com/track/06wWDUprCp0w0BNrc1xSDg)** by **Die drei ???** *(052/und die Musikpiraten)* - `7 h ago`
+- **[052 - und die Musikpiraten - Teil 28](https://open.spotify.com/track/549uPM7yohYR7WnRg5hS1k)** by **Die drei ???** *(052/und die Musikpiraten)* - `7 h ago`
+- **[052 - und die Musikpiraten - Teil 27](https://open.spotify.com/track/1RmjQkAQQTJl39BXOa1JiT)** by **Die drei ???** *(052/und die Musikpiraten)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-20 22:30:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-20 23:37:22 UTC*
 <!-- SPOTIFY-END -->
