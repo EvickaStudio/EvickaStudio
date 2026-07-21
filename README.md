@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ee06e177537d2e49fa2902eb" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4dyBAwaVbUSpJ1lltitP0h">Doppler</a></strong><br/>
-  <em>by</em> <strong>The Hellp</strong><br/>
-  <em>Album:</em> Riviera
-</p>
-
-<p align="center"><code>2:20</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:17</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB)** by **2hollis** *(star)* - `2 min ago`
-- **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)* - `4 min ago`
-- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `7 min ago`
-- **[zzz](https://open.spotify.com/track/6jMbYChkL89v2SlsrjyURG)** by **60 juno** *(zzz)* - `10 min ago`
-- **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)* - `12 min ago`
+- **[(SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ](https://open.spotify.com/track/4Qd96b7S923bpGucnINxAA)** by **agelast222** *((SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ)* - `47 min ago`
+- **[Bitte lass mich einfach los](https://open.spotify.com/track/1Z6edEmaMwuOtcgAPigaAo)** by **sparr00w** *(Bitte lass mich einfach los)* - `48 min ago`
+- **[Waster](https://open.spotify.com/track/1cCuxJeZOWHOBGEhXJyRv1)** by **Bladee** *(Icedancer)* - `51 min ago`
+- **[likethat](https://open.spotify.com/track/4FTdD3ZdpOzSYmkVgjxxL0)** by **vai5000, Sadisfy** *(likethat)* - `53 min ago`
+- **[hat was_rec_27.3.22](https://open.spotify.com/track/3cKRySwGCv13b9BHjiFruc)** by **Hello Hannes, pink luu** *(Sober Doesn't Save Me)* - `56 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-21 11:27:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-21 12:51:22 UTC*
 <!-- SPOTIFY-END -->
