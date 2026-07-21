@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ee06e177537d2e49fa2902eb" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4dyBAwaVbUSpJ1lltitP0h">Doppler</a></strong><br/>
+  <em>by</em> <strong>The Hellp</strong><br/>
+  <em>Album:</em> Riviera
+</p>
+
+<p align="center"><code>2:20</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[052 - und die Musikpiraten - Teil 31](https://open.spotify.com/track/4dScDMynH92o3zuByrxmLj)** by **Die drei ???** *(052/und die Musikpiraten)* - `14 h ago`
-- **[052 - und die Musikpiraten - Teil 30](https://open.spotify.com/track/7EirEwo2GRNPjcdfsynbSo)** by **Die drei ???** *(052/und die Musikpiraten)* - `17 h ago`
-- **[052 - und die Musikpiraten - Teil 29](https://open.spotify.com/track/06wWDUprCp0w0BNrc1xSDg)** by **Die drei ???** *(052/und die Musikpiraten)* - `17 h ago`
-- **[052 - und die Musikpiraten - Teil 28](https://open.spotify.com/track/549uPM7yohYR7WnRg5hS1k)** by **Die drei ???** *(052/und die Musikpiraten)* - `17 h ago`
-- **[052 - und die Musikpiraten - Teil 27](https://open.spotify.com/track/1RmjQkAQQTJl39BXOa1JiT)** by **Die drei ???** *(052/und die Musikpiraten)* - `17 h ago`
+- **[nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB)** by **2hollis** *(star)* - `2 min ago`
+- **[Know My Name](https://open.spotify.com/track/7JmJp9PARHAgJIo4Fd0kUl)** by **Snow Strippers** *(The Snow Strippers)* - `4 min ago`
+- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `7 min ago`
+- **[zzz](https://open.spotify.com/track/6jMbYChkL89v2SlsrjyURG)** by **60 juno** *(zzz)* - `10 min ago`
+- **[Mr. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B)** by **The Killers** *(Hot Fuss)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-21 09:37:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-21 11:27:25 UTC*
 <!-- SPOTIFY-END -->
