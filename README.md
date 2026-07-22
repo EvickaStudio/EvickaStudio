@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Far Behind](https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm)** by **Candlebox** *(Candlebox)* - `8 h ago`
-- **[Never Meant](https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM)** by **American Football** *(American Football)* - `8 h ago`
-- **[Not Spring](https://open.spotify.com/track/0bUQSJ5hgFQKD0aXoyWqCN)** by **The Sound of Modesty** *(Not Spring)* - `8 h ago`
+- **[Far Behind](https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm)** by **Candlebox** *(Candlebox)* - `9 h ago`
+- **[Never Meant](https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM)** by **American Football** *(American Football)* - `9 h ago`
+- **[Not Spring](https://open.spotify.com/track/0bUQSJ5hgFQKD0aXoyWqCN)** by **The Sound of Modesty** *(Not Spring)* - `9 h ago`
 - **[Lefty](https://open.spotify.com/track/74dEWc3oRfuNCM3AbiD2xb)** by **Title Fight** *(Floral Green)* - `9 h ago`
-- **[Luna - 2011 Remaster](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf)** by **The Smashing Pumpkins** *(Siamese Dream (Deluxe Edition))* - `9 h ago`
+- **[Luna - 2011 Remaster](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf)** by **The Smashing Pumpkins** *(Siamese Dream (Deluxe Edition))* - `10 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-22 22:41:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-22 23:39:00 UTC*
 <!-- SPOTIFY-END -->
