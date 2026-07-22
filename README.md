@@ -91,13 +91,17 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+> ⚠️ Could not fetch now playing data: `http status: 401, code: -1 - https://api.spotify.com/v1/me/player/currently-playing?additional_types=track:
+ Access token missing, reason: None`
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-> ⚠️ Could not fetch recently played data: `http status: 403, code: -1 - https://api.spotify.com/v1/me/player/recently-played?limit=5:
- Insufficient client scope, reason: None`
+- **[Tears](https://open.spotify.com/track/4k4s6nLeF1h9aOkMI1g8rW)** by **Tre Flip, Aukina** *(Tears)* - `7 h ago`
+- **[Ich_hoffe_du_bleibst_alleine](https://open.spotify.com/track/3wU6KmFAMnN5FYnKuWd60q)** by **sparr00w, bleac** *(00)* - `7 h ago`
+- **[Your face](https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv)** by **Wisp** *(Pandora)* - `7 h ago`
+- **[waitt2Rs](https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH)** by **Ripsquad Archive** *(waitt2Rs)* - `7 h ago`
+- **[I Can't Handle Change](https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9)** by **Roar** *(I Can't Handle Change)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -117,5 +121,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-21 23:38:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-22 01:04:45 UTC*
 <!-- SPOTIFY-END -->
