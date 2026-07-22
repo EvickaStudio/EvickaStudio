@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27357325845e452fdb0004aeadf" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735274788f34fc7656d2856dfd" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4">Holy Forest</a></strong><br/>
-  <em>by</em> <strong>Pinkshinyultrablast</strong><br/>
-  <em>Album:</em> Everything Else Matters
+  <strong><a href="https://open.spotify.com/track/0u5aO1GYsIhAWCPuXdwnak">Today - 2011 Remaster</a></strong><br/>
+  <em>by</em> <strong>The Smashing Pumpkins</strong><br/>
+  <em>Album:</em> Siamese Dream (Deluxe Edition)
 </p>
 
-<p align="center"><code>1:02</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>4:08</code></p>
+<p align="center"><code>0:19</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `just now`
-- **[amalthea](https://open.spotify.com/track/3fMIZaFySYLOzlTevWdUmJ)** by **blombi19** *(amalthea)* - `10 min ago`
-- **[Can't Catch a Break](https://open.spotify.com/track/1C9UDzbcut4KpZdXecVM2s)** by **Nosgov** *(Can't Catch a Break)* - `15 min ago`
-- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `17 min ago`
-- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `19 min ago`
+- **[Leave](https://open.spotify.com/track/6lRJqlbbsSAyoN67hVsF8A)** by **Whirr** *(Distressor)* - `just now`
+- **[crucify](https://open.spotify.com/track/2bs8O3GJcALPAfvZQjOKD1)** by **spacecadetbloom** *(crucify)* - `4 min ago`
+- **[soon](https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ)** by **my bloody valentine** *(loveless)* - `6 min ago`
+- **[Floating In Blue](https://open.spotify.com/track/6XzGWmTnLtvTawNL3Zftda)** by **Young Prisms** *(In Between)* - `13 min ago`
+- **[Catch The Breeze](https://open.spotify.com/track/4cz5bBa239LZ0Pt5DrJXYK)** by **Slowdive** *(Just For A Day)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-22 09:54:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-22 11:42:21 UTC*
 <!-- SPOTIFY-END -->
