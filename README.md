@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Twizzy](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)** by **Panteros666, MCYL** *(Twizzy)* - `13 min ago`
-- **[Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)** by **Chris Isaak** *(Heart Shaped World)* - `16 min ago`
-- **[My My, Hey Hey (Out of the Blue) - 2016 Remaster](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)** by **Neil Young, Crazy Horse** *(Rust Never Sleeps)* - `21 min ago`
-- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `30 min ago`
-- **[Dreamflasher](https://open.spotify.com/track/75Wgg4LerPD3mVO5hEyUN9)** by **Jane Remover** *(Revengeseekerz)* - `35 min ago`
+- **[Twizzy](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)** by **Panteros666, MCYL** *(Twizzy)* - `1 h ago`
+- **[Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)** by **Chris Isaak** *(Heart Shaped World)* - `1 h ago`
+- **[My My, Hey Hey (Out of the Blue) - 2016 Remaster](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)** by **Neil Young, Crazy Horse** *(Rust Never Sleeps)* - `1 h ago`
+- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `2 h ago`
+- **[Dreamflasher](https://open.spotify.com/track/75Wgg4LerPD3mVO5hEyUN9)** by **Jane Remover** *(Revengeseekerz)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-23 18:07:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-23 19:43:07 UTC*
 <!-- SPOTIFY-END -->
