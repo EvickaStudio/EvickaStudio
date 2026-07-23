@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq">Genesis</a></strong><br/>
+  <em>by</em> <strong>Grimes</strong><br/>
+  <em>Album:</em> Visions
+</p>
+
+<p align="center"><code>3:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>4:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Far Behind](https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm)** by **Candlebox** *(Candlebox)* - `14 h ago`
-- **[Never Meant](https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM)** by **American Football** *(American Football)* - `14 h ago`
-- **[Not Spring](https://open.spotify.com/track/0bUQSJ5hgFQKD0aXoyWqCN)** by **The Sound of Modesty** *(Not Spring)* - `14 h ago`
-- **[Lefty](https://open.spotify.com/track/74dEWc3oRfuNCM3AbiD2xb)** by **Title Fight** *(Floral Green)* - `14 h ago`
-- **[Luna - 2011 Remaster](https://open.spotify.com/track/5Q6Xzp25aXYxNJ4B6vBkcf)** by **The Smashing Pumpkins** *(Siamese Dream (Deluxe Edition))* - `14 h ago`
+- **[amethyst 1993](https://open.spotify.com/track/7GYOap1kOuyGjEcDYWTTwk)** by **k0d4m4, fake flowers, echo angel** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)* - `3 min ago`
+- **[Outro](https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV)** by **M83** *(Hurry up, We're Dreaming)* - `6 min ago`
+- **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)* - `10 min ago`
+- **[Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE)** by **Flawed Mangoes** *(Killswitch Lullaby)* - `12 min ago`
+- **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -117,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In-Between**](https://open.spotify.com/track/2yXFFgJgzB2ozeW17xjzyA)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-23 04:30:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-23 07:15:42 UTC*
 <!-- SPOTIFY-END -->
