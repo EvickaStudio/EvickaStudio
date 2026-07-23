@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq">Genesis</a></strong><br/>
-  <em>by</em> <strong>Grimes</strong><br/>
-  <em>Album:</em> Visions
-</p>
-
-<p align="center"><code>3:18</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>4:15</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[amethyst 1993](https://open.spotify.com/track/7GYOap1kOuyGjEcDYWTTwk)** by **k0d4m4, fake flowers, echo angel** *(ⵉȯ̶̞̮͖̑̈́)̸̳̥̰̜̥̺̐ͅȯኒ)̸͚̰͛̔̾̀̿͒͂vⴼⵓ))̸̳̥̰̜̥̺̐ͅ)̴͎̜͍̱̋̌͋̓̾̚ ̷̨아ⵙⵜ(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂v̴̢͚͚͎)* - `3 min ago`
-- **[Outro](https://open.spotify.com/track/1s9i7W8zx7Nxx78MUIsvjV)** by **M83** *(Hurry up, We're Dreaming)* - `6 min ago`
-- **[1024](https://open.spotify.com/track/4jFbpBGM434PkkqrPMOtMK)** by **hqwilli** *(1024)* - `10 min ago`
-- **[Killswitch Lullaby](https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE)** by **Flawed Mangoes** *(Killswitch Lullaby)* - `12 min ago`
-- **[Intimate](https://open.spotify.com/track/1mQi6sctbrJZfQkA3fOH8M)** by **Crystal Castles** *(Crystal Castles (II))* - `14 min ago`
+- **[schnell](https://open.spotify.com/track/3R1ir2qfR0YEkNp6OvVTO4)** by **lil eyes** *(schnell)* - `1 h ago`
+- **[Sonne](https://open.spotify.com/track/6aUdtIZD3WoQu5b4DnzH2t)** by **EASY EASY** *(Sonne)* - `1 h ago`
+- **[Bequem](https://open.spotify.com/track/7mq4CCgO6vTBZHoOjF23b6)** by **makko** *(Leb es oder lass es 2)* - `1 h ago`
+- **[keepsake](https://open.spotify.com/track/2sVJkGLP2lvcBRA8t9CTC6)** by **t0ni** *(EXIT LIFE)* - `1 h ago`
+- **[⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆](https://open.spotify.com/track/2iPcZ48HmKSZlOeRN59lGo)** by **snafu, weirdo girl** *(⋆｡°✶⋆.༘⋆° ̥✩ ̥°̩̥·.°̩̥˚̩̩̥͙✩.˚｡⋆୨୧⋆｡˚·. ̥✩°̩̥‧̥·̊°ˎˊ✶˚ ༘✩*⋆｡˚⋆)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-23 07:15:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-23 09:43:52 UTC*
 <!-- SPOTIFY-END -->
