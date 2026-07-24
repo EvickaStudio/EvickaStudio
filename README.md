@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[schrei](https://open.spotify.com/track/7D98Z6ksy52cuLAOnGqRZi)** by **Honestly, The Worst** *(schrei/rebellisch)* - `55 min ago`
-- **[Kiss Me](https://open.spotify.com/track/5tU1r1aKu0kBhe0x6b59xg)** by **Honestly, The Worst** *(Kiss Me)* - `59 min ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `2 h ago`
-- **[PTSD](https://open.spotify.com/track/0inQ13cUv6YxVYqsA74fMf)** by **mxrrow, emoslut666** *(PTSD)* - `2 h ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `2 h ago`
+- **[schrei](https://open.spotify.com/track/7D98Z6ksy52cuLAOnGqRZi)** by **Honestly, The Worst** *(schrei/rebellisch)* - `4 h ago`
+- **[Kiss Me](https://open.spotify.com/track/5tU1r1aKu0kBhe0x6b59xg)** by **Honestly, The Worst** *(Kiss Me)* - `4 h ago`
+- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `5 h ago`
+- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `5 h ago`
+- **[PTSD](https://open.spotify.com/track/0inQ13cUv6YxVYqsA74fMf)** by **mxrrow, emoslut666** *(PTSD)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-24 14:46:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-24 17:57:08 UTC*
 <!-- SPOTIFY-END -->
