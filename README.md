@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `36 min ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `41 min ago`
-- **[Ego Aus Gold](https://open.spotify.com/track/7vhDRpF0ffcD3Wkojg0IVi)** by **Bernstein** *(Ego Aus Gold)* - `2 h ago`
-- **[zwinger](https://open.spotify.com/track/70JICXXhkaggAf8WaIMyH9)** by **Leocardo DiNaprio** *(zwinger)* - `2 h ago`
-- **[Verliere den Verstand](https://open.spotify.com/track/1vB8hsK3ipZ5cJLPcpkybv)** by **mickyi** *(Verliere den Verstand)* - `2 h ago`
+- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `2 h ago`
+- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `2 h ago`
+- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `3 h ago`
+- **[Ego Aus Gold](https://open.spotify.com/track/7vhDRpF0ffcD3Wkojg0IVi)** by **Bernstein** *(Ego Aus Gold)* - `4 h ago`
+- **[zwinger](https://open.spotify.com/track/70JICXXhkaggAf8WaIMyH9)** by **Leocardo DiNaprio** *(zwinger)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -116,9 +116,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-24 07:08:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-24 09:30:59 UTC*
 <!-- SPOTIFY-END -->
