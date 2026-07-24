@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[binded](https://open.spotify.com/track/1WwvwB525MgxHqiL3WWmWk)** by **Scarly, luvhex** *(binded)* - `12 min ago`
-- **[sex [last nite]](https://open.spotify.com/track/59hROkC1HA1wF5CVrtkNIY)** by **Lil Peep** *(sex [last nite])* - `14 min ago`
-- **[slave module](https://open.spotify.com/track/59yLOuCFHhIcaj2HQCPWaS)** by **Levi Ryan** *(slave module)* - `17 min ago`
-- **[Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ)** by **Charli xcx** *(Camera)* - `21 min ago`
-- **[i need help](https://open.spotify.com/track/7eKVnOZHeHfS9kGSCl82E0)** by **meat computer** *(i need help)* - `23 min ago`
+- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `45 min ago`
+- **[PTSD](https://open.spotify.com/track/0inQ13cUv6YxVYqsA74fMf)** by **mxrrow, emoslut666** *(PTSD)* - `48 min ago`
+- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `48 min ago`
+- **[binded](https://open.spotify.com/track/1WwvwB525MgxHqiL3WWmWk)** by **Scarly, luvhex** *(binded)* - `1 h ago`
+- **[sex [last nite]](https://open.spotify.com/track/59hROkC1HA1wF5CVrtkNIY)** by **Lil Peep** *(sex [last nite])* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-24 11:22:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-24 12:53:04 UTC*
 <!-- SPOTIFY-END -->
