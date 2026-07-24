@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `2 h ago`
-- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `2 h ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `3 h ago`
-- **[Ego Aus Gold](https://open.spotify.com/track/7vhDRpF0ffcD3Wkojg0IVi)** by **Bernstein** *(Ego Aus Gold)* - `4 h ago`
-- **[zwinger](https://open.spotify.com/track/70JICXXhkaggAf8WaIMyH9)** by **Leocardo DiNaprio** *(zwinger)* - `5 h ago`
+- **[binded](https://open.spotify.com/track/1WwvwB525MgxHqiL3WWmWk)** by **Scarly, luvhex** *(binded)* - `12 min ago`
+- **[sex [last nite]](https://open.spotify.com/track/59hROkC1HA1wF5CVrtkNIY)** by **Lil Peep** *(sex [last nite])* - `14 min ago`
+- **[slave module](https://open.spotify.com/track/59yLOuCFHhIcaj2HQCPWaS)** by **Levi Ryan** *(slave module)* - `17 min ago`
+- **[Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ)** by **Charli xcx** *(Camera)* - `21 min ago`
+- **[i need help](https://open.spotify.com/track/7eKVnOZHeHfS9kGSCl82E0)** by **meat computer** *(i need help)* - `23 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -109,7 +109,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**uusymon**](https://open.spotify.com/artist/1nP86YA6aVRFNv6o7p7VG8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Panteros666**](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**All We Do Is Smoke**](https://open.spotify.com/track/7JpENtJ5ytxDbhRy21v5kZ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-24 09:30:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-24 11:22:39 UTC*
 <!-- SPOTIFY-END -->
