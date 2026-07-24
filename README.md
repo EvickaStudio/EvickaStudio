@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Meteociel - Dirpix Remix](https://open.spotify.com/track/4AIRj1IhCcGrTv4artT4P9)** by **Panteros666, Dirpix** *(Meteociel (Dirpix Remix))* - `2 h ago`
-- **[Oben kümmert sich keiner](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)** by **Honestly, The Worst** *(ich glaub ich war nie ich)* - `2 h ago`
-- **[schrei](https://open.spotify.com/track/7D98Z6ksy52cuLAOnGqRZi)** by **Honestly, The Worst** *(schrei/rebellisch)* - `6 h ago`
-- **[Kiss Me](https://open.spotify.com/track/5tU1r1aKu0kBhe0x6b59xg)** by **Honestly, The Worst** *(Kiss Me)* - `6 h ago`
-- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `8 h ago`
+- **[Meteociel - Dirpix Remix](https://open.spotify.com/track/4AIRj1IhCcGrTv4artT4P9)** by **Panteros666, Dirpix** *(Meteociel (Dirpix Remix))* - `3 h ago`
+- **[Oben kümmert sich keiner](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)** by **Honestly, The Worst** *(ich glaub ich war nie ich)* - `3 h ago`
+- **[schrei](https://open.spotify.com/track/7D98Z6ksy52cuLAOnGqRZi)** by **Honestly, The Worst** *(schrei/rebellisch)* - `7 h ago`
+- **[Kiss Me](https://open.spotify.com/track/5tU1r1aKu0kBhe0x6b59xg)** by **Honestly, The Worst** *(Kiss Me)* - `7 h ago`
+- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `9 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-24 20:44:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-24 21:45:34 UTC*
 <!-- SPOTIFY-END -->
