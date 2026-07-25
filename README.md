@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[STOMPED OUT](https://open.spotify.com/track/6zytJPIQ8ctJwop0daZk48)** by **lavendr** *(STOMPED OUT)* - `1 h ago`
-- **[Latenz](https://open.spotify.com/track/1jkRH7yfyYZCwfIvzXP86j)** by **1sunboi, Billyboi Jackson** *(Latenz)* - `1 h ago`
-- **[SILENCE](https://open.spotify.com/track/3bhGDGQtF5ny9MC7iRZIQw)** by **MAQ 22** *(GALENA)* - `1 h ago`
-- **[Oben kümmert sich keiner](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)** by **Honestly, The Worst** *(ich glaub ich war nie ich)* - `1 h ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `1 h ago`
+- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `20 min ago`
+- **[Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx)** by **Apsilon, Berq** *(Kaputte Diamanten)* - `27 min ago`
+- **[Verliere den Verstand](https://open.spotify.com/track/1vB8hsK3ipZ5cJLPcpkybv)** by **mickyi** *(Verliere den Verstand)* - `30 min ago`
+- **[Kiss Me](https://open.spotify.com/track/5tU1r1aKu0kBhe0x6b59xg)** by **Honestly, The Worst** *(Kiss Me)* - `33 min ago`
+- **[Oben kümmert sich keiner](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)** by **Honestly, The Worst** *(ich glaub ich war nie ich)* - `38 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-25 11:57:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-25 13:20:10 UTC*
 <!-- SPOTIFY-END -->
