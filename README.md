@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `9 h ago`
-- **[DIE BIRKEN](https://open.spotify.com/track/08pxZDWR4QuH2P87UjUr2X)** by **Julia Effekt** *(NACHTPARKETT)* - `9 h ago`
-- **[Gottverlassen](https://open.spotify.com/track/69pZYXqgkQbrbh9V6uKbVT)** by **Kilian Knight** *(Gottverlassen)* - `9 h ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `9 h ago`
-- **[Meteociel - Dirpix Remix](https://open.spotify.com/track/4AIRj1IhCcGrTv4artT4P9)** by **Panteros666, Dirpix** *(Meteociel (Dirpix Remix))* - `15 h ago`
+- **[STOMPED OUT](https://open.spotify.com/track/6zytJPIQ8ctJwop0daZk48)** by **lavendr** *(STOMPED OUT)* - `12 min ago`
+- **[Latenz](https://open.spotify.com/track/1jkRH7yfyYZCwfIvzXP86j)** by **1sunboi, Billyboi Jackson** *(Latenz)* - `14 min ago`
+- **[SILENCE](https://open.spotify.com/track/3bhGDGQtF5ny9MC7iRZIQw)** by **MAQ 22** *(GALENA)* - `16 min ago`
+- **[Oben kümmert sich keiner](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)** by **Honestly, The Worst** *(ich glaub ich war nie ich)* - `19 min ago`
+- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-25 09:20:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-25 10:50:05 UTC*
 <!-- SPOTIFY-END -->
