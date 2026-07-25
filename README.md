@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Bitte komm nach Hause](https://open.spotify.com/track/3DefhrB2WlZEtCz3tYVuJQ)** by **fliggsy** *(Project Life)* - `28 min ago`
-- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `1 h ago`
-- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `1 h ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `1 h ago`
-- **[Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx)** by **Apsilon, Berq** *(Kaputte Diamanten)* - `1 h ago`
+- **[Bitte komm nach Hause](https://open.spotify.com/track/3DefhrB2WlZEtCz3tYVuJQ)** by **fliggsy** *(Project Life)* - `1 h ago`
+- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `2 h ago`
+- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `2 h ago`
+- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `2 h ago`
+- **[Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx)** by **Apsilon, Berq** *(Kaputte Diamanten)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-25 14:44:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-25 15:46:54 UTC*
 <!-- SPOTIFY-END -->
