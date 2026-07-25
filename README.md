@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[STOMPED OUT](https://open.spotify.com/track/6zytJPIQ8ctJwop0daZk48)** by **lavendr** *(STOMPED OUT)* - `12 min ago`
-- **[Latenz](https://open.spotify.com/track/1jkRH7yfyYZCwfIvzXP86j)** by **1sunboi, Billyboi Jackson** *(Latenz)* - `14 min ago`
-- **[SILENCE](https://open.spotify.com/track/3bhGDGQtF5ny9MC7iRZIQw)** by **MAQ 22** *(GALENA)* - `16 min ago`
-- **[Oben kümmert sich keiner](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)** by **Honestly, The Worst** *(ich glaub ich war nie ich)* - `19 min ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `19 min ago`
+- **[STOMPED OUT](https://open.spotify.com/track/6zytJPIQ8ctJwop0daZk48)** by **lavendr** *(STOMPED OUT)* - `1 h ago`
+- **[Latenz](https://open.spotify.com/track/1jkRH7yfyYZCwfIvzXP86j)** by **1sunboi, Billyboi Jackson** *(Latenz)* - `1 h ago`
+- **[SILENCE](https://open.spotify.com/track/3bhGDGQtF5ny9MC7iRZIQw)** by **MAQ 22** *(GALENA)* - `1 h ago`
+- **[Oben kümmert sich keiner](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)** by **Honestly, The Worst** *(ich glaub ich war nie ich)* - `1 h ago`
+- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -114,11 +114,11 @@
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Sleepyhead**](https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-25 10:50:05 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-25 11:57:30 UTC*
 <!-- SPOTIFY-END -->
