@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `3 h ago`
-- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `4 h ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `4 h ago`
-- **[Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx)** by **Apsilon, Berq** *(Kaputte Diamanten)* - `4 h ago`
-- **[Verliere den Verstand](https://open.spotify.com/track/1vB8hsK3ipZ5cJLPcpkybv)** by **mickyi** *(Verliere den Verstand)* - `4 h ago`
+- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `5 h ago`
+- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `5 h ago`
+- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `5 h ago`
+- **[Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx)** by **Apsilon, Berq** *(Kaputte Diamanten)* - `5 h ago`
+- **[Verliere den Verstand](https://open.spotify.com/track/1vB8hsK3ipZ5cJLPcpkybv)** by **mickyi** *(Verliere den Verstand)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-26 15:45:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-26 16:50:34 UTC*
 <!-- SPOTIFY-END -->
