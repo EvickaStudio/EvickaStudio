@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273adc7646ec2dc90fc12477818" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3ZPLFD6mbw6hhu3g6S4EGl">Cortez the Killer - 2016 Remaster</a></strong><br/>
+  <em>by</em> <strong>Neil Young, Crazy Horse</strong><br/>
+  <em>Album:</em> Zuma
+</p>
+
+<p align="center"><code>1:47</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>7:29</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `5 h ago`
-- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `5 h ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `5 h ago`
-- **[Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx)** by **Apsilon, Berq** *(Kaputte Diamanten)* - `5 h ago`
-- **[Verliere den Verstand](https://open.spotify.com/track/1vB8hsK3ipZ5cJLPcpkybv)** by **mickyi** *(Verliere den Verstand)* - `5 h ago`
+- **[Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj)** by **Limp Bizkit** *(Results May Vary)* - `1 min ago`
+- **[Living In The Past](https://open.spotify.com/track/0XH1ubtCoq2d33D72eK7AD)** by **Unnatural Funk Band** *(Strange Happenings b/w Living In The Past)* - `6 min ago`
+- **[Meteociel - Dirpix Remix](https://open.spotify.com/track/4AIRj1IhCcGrTv4artT4P9)** by **Panteros666, Dirpix** *(Meteociel (Dirpix Remix))* - `10 min ago`
+- **[Twizzy](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)** by **Panteros666, MCYL** *(Twizzy)* - `15 min ago`
+- **[Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)** by **Chris Isaak** *(Heart Shaped World)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -116,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**sag mir**](https://open.spotify.com/track/1hxexVGNlzYQw8qI0oTBjm)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-26 16:50:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-26 17:55:29 UTC*
 <!-- SPOTIFY-END -->
