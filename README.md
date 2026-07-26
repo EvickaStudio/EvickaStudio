@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2731f478dacb513e939f5ac0586" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL">Beautiful World</a></strong><br/>
-  <em>by</em> <strong>Parannoul</strong><br/>
-  <em>Album:</em> To See the Next Part of the Dream
-</p>
-
-<p align="center"><code>3:58</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>5:20</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `3 min ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `8 min ago`
-- **[Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx)** by **Apsilon, Berq** *(Kaputte Diamanten)* - `11 min ago`
-- **[Verliere den Verstand](https://open.spotify.com/track/1vB8hsK3ipZ5cJLPcpkybv)** by **mickyi** *(Verliere den Verstand)* - `14 min ago`
-- **[Kiss Me](https://open.spotify.com/track/5tU1r1aKu0kBhe0x6b59xg)** by **Honestly, The Worst** *(Kiss Me)* - `16 min ago`
+- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `1 h ago`
+- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `1 h ago`
+- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `1 h ago`
+- **[Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx)** by **Apsilon, Berq** *(Kaputte Diamanten)* - `1 h ago`
+- **[Verliere den Verstand](https://open.spotify.com/track/1vB8hsK3ipZ5cJLPcpkybv)** by **mickyi** *(Verliere den Verstand)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Under Your Spell**](https://open.spotify.com/track/2cSRuejq6DU9U6OkSmUw17)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-26 11:47:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-26 13:01:45 UTC*
 <!-- SPOTIFY-END -->
