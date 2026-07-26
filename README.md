@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273adc7646ec2dc90fc12477818" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27321b4fc8caede28a6681f3c88" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3ZPLFD6mbw6hhu3g6S4EGl">Cortez the Killer - 2016 Remaster</a></strong><br/>
-  <em>by</em> <strong>Neil Young, Crazy Horse</strong><br/>
-  <em>Album:</em> Zuma
+  <strong><a href="https://open.spotify.com/track/6sSm0l9TT750BOWvF0TTx9">NO RISK NO FUN</a></strong><br/>
+  <em>by</em> <strong>cdgplug, YUN MUFASA</strong><br/>
+  <em>Album:</em> NO RISK NO FUN
 </p>
 
-<p align="center"><code>1:47</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>7:29</code></p>
+<p align="center"><code>2:57</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>3:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj)** by **Limp Bizkit** *(Results May Vary)* - `1 min ago`
-- **[Living In The Past](https://open.spotify.com/track/0XH1ubtCoq2d33D72eK7AD)** by **Unnatural Funk Band** *(Strange Happenings b/w Living In The Past)* - `6 min ago`
-- **[Meteociel - Dirpix Remix](https://open.spotify.com/track/4AIRj1IhCcGrTv4artT4P9)** by **Panteros666, Dirpix** *(Meteociel (Dirpix Remix))* - `10 min ago`
-- **[Twizzy](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)** by **Panteros666, MCYL** *(Twizzy)* - `15 min ago`
-- **[Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)** by **Chris Isaak** *(Heart Shaped World)* - `18 min ago`
+- **[sex am see](https://open.spotify.com/track/1WzlyPE9WY5jLQCgCjh17g)** by **lovehead** *(sex am see)* - `2 min ago`
+- **[erdnussallergie](https://open.spotify.com/track/06G6wKBDW3e9u8yA5NwySr)** by **lovehead** *(erdnussallergie)* - `5 min ago`
+- **[Where Do We Go](https://open.spotify.com/track/6Zun2x70G4dVoESZJwhYKe)** by **Eurohead** *(Where Do We Go)* - `7 min ago`
+- **[PLUVIOSITY](https://open.spotify.com/track/4ApeBWiipQFtlLiy4i8dX8)** by **codex33** *(PLUVIOSITY)* - `10 min ago`
+- **[all my life](https://open.spotify.com/track/3JYMFX7YphXL2y7NQc7CKp)** by **Pearlblade** *(all my life)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-26 17:55:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-26 18:59:50 UTC*
 <!-- SPOTIFY-END -->
