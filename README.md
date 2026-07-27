@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[secrets](https://open.spotify.com/track/5qjAm8JHiIkUYxhp7Fhji6)** by **pink luu** *(secrets)* - `58 min ago`
-- **[Kalter Wind](https://open.spotify.com/track/1jeJfNNOvnTVbPRFIiQt6Z)** by **Kilian Knight** *(Kalter Wind)* - `1 h ago`
-- **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)* - `1 h ago`
-- **[Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK)** by **Mazzy Star** *(So Tonight That I Might See)* - `3 h ago`
-- **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)* - `4 h ago`
+- **[secrets](https://open.spotify.com/track/5qjAm8JHiIkUYxhp7Fhji6)** by **pink luu** *(secrets)* - `3 h ago`
+- **[Kalter Wind](https://open.spotify.com/track/1jeJfNNOvnTVbPRFIiQt6Z)** by **Kilian Knight** *(Kalter Wind)* - `3 h ago`
+- **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)* - `3 h ago`
+- **[Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK)** by **Mazzy Star** *(So Tonight That I Might See)* - `5 h ago`
+- **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-27 13:33:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-27 16:01:38 UTC*
 <!-- SPOTIFY-END -->
