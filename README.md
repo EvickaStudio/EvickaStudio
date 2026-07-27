@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `3 h ago`
-- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `3 h ago`
-- **[Ivy](https://open.spotify.com/track/766tUxeKxb6AKLvsdL3aBN)** by **Bby Eco** *(Sky (i))* - `3 h ago`
-- **[nachtaktiv](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)** by **Tamino404** *(nachtaktiv)* - `3 h ago`
-- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `3 h ago`
+- **[Home!!! (wake up)](https://open.spotify.com/track/6B545HCga4ORXyPNXsZCR5)** by **Bassvictim** *(?)* - `7 h ago`
+- **[Dirge](https://open.spotify.com/track/4ibIqlCeKvQ9MLi9PEWASU)** by **Bassvictim** *(?)* - `7 h ago`
+- **[Ivy](https://open.spotify.com/track/766tUxeKxb6AKLvsdL3aBN)** by **Bby Eco** *(Sky (i))* - `7 h ago`
+- **[nachtaktiv](https://open.spotify.com/track/65o55uKAOociPZWWk7wO9u)** by **Tamino404** *(nachtaktiv)* - `7 h ago`
+- **[U.S.T](https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv)** by **The Truth** *(U.S.T)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-27 00:10:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-27 03:58:43 UTC*
 <!-- SPOTIFY-END -->
