@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[secrets](https://open.spotify.com/track/5qjAm8JHiIkUYxhp7Fhji6)** by **pink luu** *(secrets)* - `16 h ago`
-- **[Kalter Wind](https://open.spotify.com/track/1jeJfNNOvnTVbPRFIiQt6Z)** by **Kilian Knight** *(Kalter Wind)* - `16 h ago`
-- **[Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd)** by **Charli xcx** *(BRAT)* - `16 h ago`
-- **[Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK)** by **Mazzy Star** *(So Tonight That I Might See)* - `19 h ago`
-- **[Csgo](https://open.spotify.com/track/39Agr5bENBLrh6XWvpQOcx)** by **uusymon, hqwilli** *(Csgo)* - `20 h ago`
+- **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)* - `10 min ago`
+- **[Oben kümmert sich keiner](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)** by **Honestly, The Worst** *(ich glaub ich war nie ich)* - `14 min ago`
+- **[Camera](https://open.spotify.com/track/5Fdj0DtH4ZhymltyN5xEv2)** by **Charli xcx** *(Music, Fashion, Film)* - `18 h ago`
+- **[secrets](https://open.spotify.com/track/5qjAm8JHiIkUYxhp7Fhji6)** by **pink luu** *(secrets)* - `19 h ago`
+- **[Kalter Wind](https://open.spotify.com/track/1jeJfNNOvnTVbPRFIiQt6Z)** by **Kilian Knight** *(Kalter Wind)* - `19 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-28 05:23:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-28 07:57:28 UTC*
 <!-- SPOTIFY-END -->
