@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273eb06078227023e761f13b59b" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/7CeJbTu12fEWBc1UgKOgwb">Love Migraine</a></strong><br/>
-  <em>by</em> <strong>Parannoul, Asian Glow, sonhos tomam conta</strong><br/>
-  <em>Album:</em> Downfall of the Neon Youth
-</p>
-
-<p align="center"><code>0:24</code> ▓░░░░░░░░░░░░░░░░░░░ <code>7:08</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `just now`
-- **[Backwards](https://open.spotify.com/track/2WOlnPG3x63m065PFZJTl0)** by **Parannoul** *(Sky Hundred)* - `5 min ago`
-- **[Hoppípolla](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm)** by **Sigur Rós** *(Takk...)* - `11 min ago`
-- **[ゆらめき IN THE AIR - Live](https://open.spotify.com/track/4tVmJzUEkbK7HH1uzixD1M)** by **Fishmans** *(98.12.28 男達の別れ (Live))* - `15 min ago`
-- **[sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ)** by **my bloody valentine** *(loveless)* - `31 min ago`
+- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `35 min ago`
+- **[choke enough](https://open.spotify.com/track/0QPx53oznsOnW9eiR5Ezga)** by **Oklou** *(choke enough)* - `43 min ago`
+- **[Easter Pink](https://open.spotify.com/track/6RM6SBmaiv1ouUxh9nmQLj)** by **fakemink** *(Easter Pink)* - `47 min ago`
+- **[Unfold](https://open.spotify.com/track/5Wf9cAnVnBxFdFezlxyySA)** by **Porter Robinson, TEED** *(Nurture)* - `49 min ago`
+- **[Neon Memories](https://open.spotify.com/track/7pQLDFpyHjAJsnloiDAEZS)** by **death's dynamic shroud** *(Darklife)* - `53 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-28 19:49:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-28 20:59:54 UTC*
 <!-- SPOTIFY-END -->
