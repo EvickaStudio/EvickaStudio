@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `36 min ago`
-- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `54 min ago`
-- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `1 h ago`
-- **[Pirouette](https://open.spotify.com/track/5YlsYwFBJ3RtJLRsaZh9Mz)** by **Lil Narnia** *(Wisteria)* - `6 h ago`
-- **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)* - `7 h ago`
+- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `2 h ago`
+- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `2 h ago`
+- **[Club Amour (Intro) (feat. iKeda, The Femcels)](https://open.spotify.com/track/7J8q3FyRhlj1oJJcMDc8Hr)** by **Babymorocco, iKeda, The Femcels** *(Amour)* - `2 h ago`
+- **[Pirouette](https://open.spotify.com/track/5YlsYwFBJ3RtJLRsaZh9Mz)** by **Lil Narnia** *(Wisteria)* - `8 h ago`
+- **[risking all and everything](https://open.spotify.com/track/0YrCKwoeOeOGERhc3Iq9Qy)** by **archive computer** *(risking all and everything)* - `8 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -109,7 +109,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**uusymon**](https://open.spotify.com/artist/1nP86YA6aVRFNv6o7p7VG8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-28 14:56:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-28 16:37:41 UTC*
 <!-- SPOTIFY-END -->
