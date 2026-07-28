@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273eb06078227023e761f13b59b" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/7CeJbTu12fEWBc1UgKOgwb">Love Migraine</a></strong><br/>
+  <em>by</em> <strong>Parannoul, Asian Glow, sonhos tomam conta</strong><br/>
+  <em>Album:</em> Downfall of the Neon Youth
+</p>
+
+<p align="center"><code>0:24</code> ▓░░░░░░░░░░░░░░░░░░░ <code>7:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Money Loves Me](https://open.spotify.com/track/0ehzVOJ5aJlY3AhnN9gFti)** by **Der Witz** *(Affirmations)* - `24 min ago`
-- **[Stars](https://open.spotify.com/track/6qldoBkOcSbj2KUHpGILwB)** by **limedisx.** *(Stars)* - `27 min ago`
-- **[unbutton me + Clara Kimera flip](https://open.spotify.com/track/2JtDFPWwPGEITUlNGHoSEb)** by **benzii, Clara Kimera** *(unbutton me + Clara Kimera flip)* - `30 min ago`
-- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `3 h ago`
-- **[TL;DR](https://open.spotify.com/track/2bFB6dc6kTmSW56Ds4W20i)** by **Bladee, Ecco2k, Thaiboy Digital** *(TL;DR)* - `3 h ago`
+- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `just now`
+- **[Backwards](https://open.spotify.com/track/2WOlnPG3x63m065PFZJTl0)** by **Parannoul** *(Sky Hundred)* - `5 min ago`
+- **[Hoppípolla](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm)** by **Sigur Rós** *(Takk...)* - `11 min ago`
+- **[ゆらめき IN THE AIR - Live](https://open.spotify.com/track/4tVmJzUEkbK7HH1uzixD1M)** by **Fishmans** *(98.12.28 男達の別れ (Live))* - `15 min ago`
+- **[sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ)** by **my bloody valentine** *(loveless)* - `31 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -115,10 +125,10 @@
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-28 18:01:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-28 19:49:50 UTC*
 <!-- SPOTIFY-END -->
