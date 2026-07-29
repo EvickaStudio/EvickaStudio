@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz">Touch (feat. Paul Williams)</a></strong><br/>
+  <em>by</em> <strong>Daft Punk, Paul Williams</strong><br/>
+  <em>Album:</em> Random Access Memories
+</p>
+
+<p align="center"><code>5:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>8:18</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `9 h ago`
-- **[choke enough](https://open.spotify.com/track/0QPx53oznsOnW9eiR5Ezga)** by **Oklou** *(choke enough)* - `10 h ago`
-- **[Easter Pink](https://open.spotify.com/track/6RM6SBmaiv1ouUxh9nmQLj)** by **fakemink** *(Easter Pink)* - `10 h ago`
-- **[Unfold](https://open.spotify.com/track/5Wf9cAnVnBxFdFezlxyySA)** by **Porter Robinson, TEED** *(Nurture)* - `10 h ago`
-- **[Neon Memories](https://open.spotify.com/track/7pQLDFpyHjAJsnloiDAEZS)** by **death's dynamic shroud** *(Darklife)* - `10 h ago`
+- **[choke enough](https://open.spotify.com/track/0QPx53oznsOnW9eiR5Ezga)** by **Oklou** *(choke enough)* - `6 min ago`
+- **[Easter Pink](https://open.spotify.com/track/6RM6SBmaiv1ouUxh9nmQLj)** by **fakemink** *(Easter Pink)* - `10 min ago`
+- **[Unfold](https://open.spotify.com/track/5Wf9cAnVnBxFdFezlxyySA)** by **Porter Robinson, TEED** *(Nurture)* - `11 min ago`
+- **[Neon Memories](https://open.spotify.com/track/7pQLDFpyHjAJsnloiDAEZS)** by **death's dynamic shroud** *(Darklife)* - `16 min ago`
+- **[Whitebird](https://open.spotify.com/track/19FmSxMxuGTYhUsmfhy9Nc)** by **BrokenTeeth** *(The Letters)* - `20 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -116,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**I Think It's Going to Rain Today**](https://open.spotify.com/track/71JQeGqY5S7XX8oFtkALTN)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Cortez the Killer**](https://open.spotify.com/track/1OYCJ7Y8H0wVir4EX2YYJW)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 06:17:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 09:18:55 UTC*
 <!-- SPOTIFY-END -->
