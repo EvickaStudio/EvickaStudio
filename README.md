@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b8b2f65e2dfa733439974801" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz">Touch (feat. Paul Williams)</a></strong><br/>
-  <em>by</em> <strong>Daft Punk, Paul Williams</strong><br/>
-  <em>Album:</em> Random Access Memories
+  <strong><a href="https://open.spotify.com/track/4tVmJzUEkbK7HH1uzixD1M">ゆらめき IN THE AIR - Live</a></strong><br/>
+  <em>by</em> <strong>Fishmans</strong><br/>
+  <em>Album:</em> 98.12.28 男達の別れ (Live)
 </p>
 
-<p align="center"><code>5:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>8:18</code></p>
+<p align="center"><code>3:06</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>15:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[choke enough](https://open.spotify.com/track/0QPx53oznsOnW9eiR5Ezga)** by **Oklou** *(choke enough)* - `6 min ago`
-- **[Easter Pink](https://open.spotify.com/track/6RM6SBmaiv1ouUxh9nmQLj)** by **fakemink** *(Easter Pink)* - `10 min ago`
-- **[Unfold](https://open.spotify.com/track/5Wf9cAnVnBxFdFezlxyySA)** by **Porter Robinson, TEED** *(Nurture)* - `11 min ago`
-- **[Neon Memories](https://open.spotify.com/track/7pQLDFpyHjAJsnloiDAEZS)** by **death's dynamic shroud** *(Darklife)* - `16 min ago`
-- **[Whitebird](https://open.spotify.com/track/19FmSxMxuGTYhUsmfhy9Nc)** by **BrokenTeeth** *(The Letters)* - `20 min ago`
+- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `13 min ago`
+- **[Love Migraine](https://open.spotify.com/track/7CeJbTu12fEWBc1UgKOgwb)** by **Parannoul, Asian Glow, sonhos tomam conta** *(Downfall of the Neon Youth)* - `18 min ago`
+- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `23 min ago`
+- **[Backwards](https://open.spotify.com/track/2WOlnPG3x63m065PFZJTl0)** by **Parannoul** *(Sky Hundred)* - `28 min ago`
+- **[Hoppípolla](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm)** by **Sigur Rós** *(Takk...)* - `34 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Cortez the Killer**](https://open.spotify.com/track/1OYCJ7Y8H0wVir4EX2YYJW)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 09:18:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 11:37:49 UTC*
 <!-- SPOTIFY-END -->
