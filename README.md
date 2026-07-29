@@ -92,31 +92,31 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273148b32e65eb2564ea53b5f74" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6RM6SBmaiv1ouUxh9nmQLj">Easter Pink</a></strong><br/>
-  <em>by</em> <strong>fakemink</strong><br/>
-  <em>Album:</em> Easter Pink
+  <strong><a href="https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb">Ptolemy</a></strong><br/>
+  <em>by</em> <strong>Aphex Twin</strong><br/>
+  <em>Album:</em> Selected Ambient Works 85-92
 </p>
 
-<p align="center"><code>0:28</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>1:24</code></p>
+<p align="center"><code>6:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>7:14</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Unfold](https://open.spotify.com/track/5Wf9cAnVnBxFdFezlxyySA)** by **Porter Robinson, TEED** *(Nurture)* - `just now`
-- **[Neon Memories](https://open.spotify.com/track/7pQLDFpyHjAJsnloiDAEZS)** by **death's dynamic shroud** *(Darklife)* - `5 min ago`
-- **[Whitebird](https://open.spotify.com/track/19FmSxMxuGTYhUsmfhy9Nc)** by **BrokenTeeth** *(The Letters)* - `9 min ago`
-- **[Love Migraine](https://open.spotify.com/track/7CeJbTu12fEWBc1UgKOgwb)** by **Parannoul, Asian Glow, sonhos tomam conta** *(Downfall of the Neon Youth)* - `14 min ago`
-- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `21 min ago`
+- **[DYED](https://open.spotify.com/track/5gVPZOprkxJkWhac8lziMC)** by **WALRUS** *(光のカケラ)* - `9 min ago`
+- **[Sunset Strike](https://open.spotify.com/track/4xpxI8BIj8s4KR5hIYVPPm)** by **BrokenTeeth** *(How to Sink Slowly)* - `16 min ago`
+- **[The Big Gloom](https://open.spotify.com/track/6r4Ux7Szu6ncGMjVh0tmCB)** by **Have A Nice Life** *(Deathconsciousness)* - `21 min ago`
+- **[Reflections in Suspension - 30th Anniversary Remaster, Deluxe](https://open.spotify.com/track/0zKCkZ9EhkEUH3LKK3LMPq)** by **Steve Roach** *(Structures From Silence (30th Anniversary Remaster, Deluxe))* - `29 min ago`
+- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `46 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**uusymon**](https://open.spotify.com/artist/1nP86YA6aVRFNv6o7p7VG8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Cortez the Killer**](https://open.spotify.com/track/1OYCJ7Y8H0wVir4EX2YYJW)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 20:34:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 21:34:15 UTC*
 <!-- SPOTIFY-END -->
