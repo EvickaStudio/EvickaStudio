@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b8b2f65e2dfa733439974801" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4tVmJzUEkbK7HH1uzixD1M">ゆらめき IN THE AIR - Live</a></strong><br/>
-  <em>by</em> <strong>Fishmans</strong><br/>
-  <em>Album:</em> 98.12.28 男達の別れ (Live)
-</p>
-
-<p align="center"><code>3:06</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>15:59</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `13 min ago`
-- **[Love Migraine](https://open.spotify.com/track/7CeJbTu12fEWBc1UgKOgwb)** by **Parannoul, Asian Glow, sonhos tomam conta** *(Downfall of the Neon Youth)* - `18 min ago`
-- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `23 min ago`
-- **[Backwards](https://open.spotify.com/track/2WOlnPG3x63m065PFZJTl0)** by **Parannoul** *(Sky Hundred)* - `28 min ago`
-- **[Hoppípolla](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm)** by **Sigur Rós** *(Takk...)* - `34 min ago`
+- **[Ptolemy](https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `5 min ago`
+- **[Reflections in Suspension - 30th Anniversary Remaster, Deluxe](https://open.spotify.com/track/0zKCkZ9EhkEUH3LKK3LMPq)** by **Steve Roach** *(Structures From Silence (30th Anniversary Remaster, Deluxe))* - `35 min ago`
+- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `50 min ago`
+- **[Backwards](https://open.spotify.com/track/2WOlnPG3x63m065PFZJTl0)** by **Parannoul** *(Sky Hundred)* - `1 h ago`
+- **[Hoppípolla](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm)** by **Sigur Rós** *(Takk...)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Cortez the Killer**](https://open.spotify.com/track/1OYCJ7Y8H0wVir4EX2YYJW)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 11:37:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 13:21:36 UTC*
 <!-- SPOTIFY-END -->
