@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Ptolemy](https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `5 min ago`
-- **[Reflections in Suspension - 30th Anniversary Remaster, Deluxe](https://open.spotify.com/track/0zKCkZ9EhkEUH3LKK3LMPq)** by **Steve Roach** *(Structures From Silence (30th Anniversary Remaster, Deluxe))* - `35 min ago`
-- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `50 min ago`
-- **[Backwards](https://open.spotify.com/track/2WOlnPG3x63m065PFZJTl0)** by **Parannoul** *(Sky Hundred)* - `1 h ago`
-- **[Hoppípolla](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm)** by **Sigur Rós** *(Takk...)* - `1 h ago`
+- **[Video](https://open.spotify.com/track/5oOK1zl5Rtv8gHBCtl864C)** by **Jane Remover** *(Census Designated)* - `56 min ago`
+- **[born yesterday](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)** by **Quadeca** *(I Didn't Mean To Haunt You)* - `1 h ago`
+- **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `1 h ago`
+- **[Oben kümmert sich keiner](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)** by **Honestly, The Worst** *(ich glaub ich war nie ich)* - `2 h ago`
+- **[Ptolemy](https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -116,9 +116,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Cortez the Killer**](https://open.spotify.com/track/1OYCJ7Y8H0wVir4EX2YYJW)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 13:21:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 15:25:18 UTC*
 <!-- SPOTIFY-END -->
