@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `7 h ago`
-- **[choke enough](https://open.spotify.com/track/0QPx53oznsOnW9eiR5Ezga)** by **Oklou** *(choke enough)* - `7 h ago`
-- **[Easter Pink](https://open.spotify.com/track/6RM6SBmaiv1ouUxh9nmQLj)** by **fakemink** *(Easter Pink)* - `7 h ago`
-- **[Unfold](https://open.spotify.com/track/5Wf9cAnVnBxFdFezlxyySA)** by **Porter Robinson, TEED** *(Nurture)* - `7 h ago`
-- **[Neon Memories](https://open.spotify.com/track/7pQLDFpyHjAJsnloiDAEZS)** by **death's dynamic shroud** *(Darklife)* - `7 h ago`
+- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `9 h ago`
+- **[choke enough](https://open.spotify.com/track/0QPx53oznsOnW9eiR5Ezga)** by **Oklou** *(choke enough)* - `10 h ago`
+- **[Easter Pink](https://open.spotify.com/track/6RM6SBmaiv1ouUxh9nmQLj)** by **fakemink** *(Easter Pink)* - `10 h ago`
+- **[Unfold](https://open.spotify.com/track/5Wf9cAnVnBxFdFezlxyySA)** by **Porter Robinson, TEED** *(Nurture)* - `10 h ago`
+- **[Neon Memories](https://open.spotify.com/track/7pQLDFpyHjAJsnloiDAEZS)** by **death's dynamic shroud** *(Darklife)* - `10 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 03:34:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 06:17:25 UTC*
 <!-- SPOTIFY-END -->
