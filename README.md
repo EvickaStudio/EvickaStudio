@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Here I Am](https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN)** by **The Hellp** *(Here I Am)* - `1 h ago`
-- **[Ekliges Spiel](https://open.spotify.com/track/1CbAoGB2AnA8UzlR8kXSWd)** by **Skepsiz, rapha** *(DiY!)* - `1 h ago`
-- **[WOLKE](https://open.spotify.com/track/6QBE1EuFibok8xSexAXvko)** by **Leftovers** *(HEY)* - `1 h ago`
-- **[Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH)** by **Leftovers** *(Marmelade Und Himbeereis)* - `1 h ago`
-- **[Mensch am Mond](https://open.spotify.com/track/4VyZE8o6zBc5LYLRVBgFRl)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `1 h ago`
+- **[Here I Am](https://open.spotify.com/track/41G5oiNumgRbt8fNZfncnN)** by **The Hellp** *(Here I Am)* - `2 h ago`
+- **[Ekliges Spiel](https://open.spotify.com/track/1CbAoGB2AnA8UzlR8kXSWd)** by **Skepsiz, rapha** *(DiY!)* - `2 h ago`
+- **[WOLKE](https://open.spotify.com/track/6QBE1EuFibok8xSexAXvko)** by **Leftovers** *(HEY)* - `2 h ago`
+- **[Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH)** by **Leftovers** *(Marmelade Und Himbeereis)* - `2 h ago`
+- **[Mensch am Mond](https://open.spotify.com/track/4VyZE8o6zBc5LYLRVBgFRl)** by **Leftovers** *(ES KANN SEIN DASS ALLES ENDET)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Cortez the Killer**](https://open.spotify.com/track/1OYCJ7Y8H0wVir4EX2YYJW)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-30 16:57:12 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-30 18:12:48 UTC*
 <!-- SPOTIFY-END -->
