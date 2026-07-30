@@ -3,7 +3,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
-import spotify_update as su  # noqa: E402
+import spotify_update as su
 
 
 def test_format_duration() -> None:

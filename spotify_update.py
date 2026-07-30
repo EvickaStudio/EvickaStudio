@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Update the README Spotify section with current, recent, and top data.
 """
@@ -8,8 +7,8 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timezone
-from typing import Any, List, cast
+from datetime import UTC, datetime
+from typing import Any, cast
 
 import requests  # type: ignore
 import spotipy
@@ -155,11 +154,11 @@ def format_relative_time(played_at: str) -> str:
     Convert Spotify played_at timestamp into a short relative label.
     """
     try:
-        played_dt = datetime.fromisoformat(played_at.replace("Z", "+00:00"))
+        played_dt = datetime.fromisoformat(played_at)
     except ValueError:
         return "unknown time"
 
-    delta = datetime.now(timezone.utc) - played_dt.astimezone(timezone.utc)
+    delta = datetime.now(UTC) - played_dt.astimezone(UTC)
     seconds = int(delta.total_seconds())
     if seconds < 60:
         return "just now"
@@ -200,11 +199,11 @@ def create_progress_bar(
     )
 
 
-def generate_now_playing_block(sp: spotipy.Spotify) -> List[str]:
+def generate_now_playing_block(sp: spotipy.Spotify) -> list[str]:
     """
     Generate markdown lines for the "Now Playing" section.
     """
-    block: List[str] = [
+    block: list[str] = [
         "",
         section_heading("play-circle", "Now Playing"),
         "",
@@ -270,11 +269,11 @@ def generate_now_playing_block(sp: spotipy.Spotify) -> List[str]:
     return block
 
 
-def generate_recently_played_block(sp: spotipy.Spotify) -> List[str]:
+def generate_recently_played_block(sp: spotipy.Spotify) -> list[str]:
     """
     Generate markdown lines for "Recently Played" section.
     """
-    block: List[str] = ["", section_heading("history", "Recently Played"), ""]
+    block: list[str] = ["", section_heading("history", "Recently Played"), ""]
     try:
         results = cast(
             dict[str, Any],
@@ -317,11 +316,11 @@ def generate_recently_played_block(sp: spotipy.Spotify) -> List[str]:
     return block
 
 
-def generate_top_artists_block(sp: spotipy.Spotify) -> List[str]:
+def generate_top_artists_block(sp: spotipy.Spotify) -> list[str]:
     """
     Generate markdown lines for "Top Artists" section.
     """
-    block: List[str] = [
+    block: list[str] = [
         "",
         section_heading("users", "Top Artists *(Short Term)*"),
         "",
@@ -362,11 +361,11 @@ def generate_top_artists_block(sp: spotipy.Spotify) -> List[str]:
     return block
 
 
-def generate_top_tracks_block(sp: spotipy.Spotify) -> List[str]:
+def generate_top_tracks_block(sp: spotipy.Spotify) -> list[str]:
     """
     Generate markdown lines for "Top Tracks" section.
     """
-    block: List[str] = [
+    block: list[str] = [
         "",
         section_heading("list-music", "Top Tracks *(Short Term)*"),
         "",
@@ -412,14 +411,14 @@ def generate_markdown() -> str:
     Generate complete Spotify markdown snippet.
     """
     sp = get_spotify_client()
-    parts: List[str] = [
+    parts: list[str] = [
         section_heading("music", "Spotify"),
     ]
     parts.extend(generate_now_playing_block(sp))
     parts.extend(generate_recently_played_block(sp))
     parts.extend(generate_top_artists_block(sp))
     parts.extend(generate_top_tracks_block(sp))
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    now = datetime.now(UTC).strftime("%Y-%m-%d %H:%M:%S UTC")
     parts.append(f"{icon_tag('clock3', 'Last updated')} *Last updated: {now}*")
     return "\n".join(parts)
 

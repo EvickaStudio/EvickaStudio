@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Script to obtain Spotify OAuth refresh token.
 Requires:
@@ -8,8 +7,8 @@ environment variables.
 """
 
 import os
+import sys
 import webbrowser
-from typing import Tuple, Union
 
 import requests  # type: ignore
 from dotenv import load_dotenv
@@ -25,13 +24,13 @@ TOKEN_URL = "https://accounts.spotify.com/api/token"
 
 if not CLIENT_ID or not CLIENT_SECRET:
     print(
-        "Error: Set SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET environment variables."  # noqa: E501
+        "Error: Set SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET environment variables."
     )
-    exit(1)
+    sys.exit(1)
 
 
 @app.route("/callback")
-def callback() -> Union[str, Tuple[str, int]]:
+def callback() -> str | tuple[str, int]:
     code = request.args.get("code")
     if not code:
         return "Error: Missing code parameter.", 400
@@ -56,12 +55,12 @@ def callback() -> Union[str, Tuple[str, int]]:
     shutdown = request.environ.get("werkzeug.server.shutdown")
     if shutdown:
         shutdown()
-    return f"<html><body><h1>Success</h1><p>Copy your refresh token:</p><pre>{refresh_token}</pre></body></html>"  # noqa: E501
+    return f"<html><body><h1>Success</h1><p>Copy your refresh token:</p><pre>{refresh_token}</pre></body></html>"
 
 
 def main() -> None:
     # Open Spotify auth URL
-    scopes = "user-read-currently-playing user-read-recently-played user-top-read"  # noqa: E501
+    scopes = "user-read-currently-playing user-read-recently-played user-top-read"
     auth_url = (
         "https://accounts.spotify.com/authorize"
         f"?client_id={CLIENT_ID}"
