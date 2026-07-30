@@ -92,33 +92,33 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273db0caaa2b01471d6068053a8" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730cabafb8b01b956fae313c57" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw">My My, Hey Hey (Out of the Blue) - 2016 Remaster</a></strong><br/>
-  <em>by</em> <strong>Neil Young, Crazy Horse</strong><br/>
-  <em>Album:</em> Rust Never Sleeps
+  <strong><a href="https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou">Headlock</a></strong><br/>
+  <em>by</em> <strong>Imogen Heap</strong><br/>
+  <em>Album:</em> Speak for Yourself (Deluxe Version)
 </p>
 
-<p align="center"><code>2:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:47</code></p>
+<p align="center"><code>2:13</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:35</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Eine Insel mit zwei Bergen](https://open.spotify.com/track/348UyoIBv4QVpIvtqTeM11)** by **Dolls United** *(Gut gebrüllt!)* - `2 min ago`
-- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `6 min ago`
-- **[No Stranger To You...](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)** by **Loathe** *(A Stranger To You)* - `11 min ago`
-- **[In meinem Bett](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)** by **dewi** *(In meinem Bett)* - `16 min ago`
-- **[Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx)** by **Apsilon, Berq** *(Kaputte Diamanten)* - `19 min ago`
+- **[Dark And Long - Dark Train](https://open.spotify.com/track/5u67VJ8GAhnkFA1FolVhD0)** by **Underworld** *(1992 - 2012)* - `2 min ago`
+- **[tu m'écœures](https://open.spotify.com/track/5ZWJP97sdmBE8yqUEENLrQ)** by **ama???!!!!, kysmelo** *(tu m'écœures)* - `13 min ago`
+- **[i just want ur love](https://open.spotify.com/track/0bILYFSd73DQ3Ya5pev74J)** by **iamsodead, LooveX, dollreal, dethkitty, pavlos** *(i just want ur love)* - `15 min ago`
+- **[sommeil](https://open.spotify.com/track/0UKII5KawMv9vpU1iVysrG)** by **kemoxoo, yungmii** *(sommeil)* - `17 min ago`
+- **[Endeavor](https://open.spotify.com/track/6mBUYjzlI3uPiRaxtCeqIH)** by **wyrdo** *(Endeavor)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**uusymon**](https://open.spotify.com/artist/1nP86YA6aVRFNv6o7p7VG8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**uusymon**](https://open.spotify.com/artist/1nP86YA6aVRFNv6o7p7VG8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Bassvictim**](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
 
 
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Cortez the Killer**](https://open.spotify.com/track/1OYCJ7Y8H0wVir4EX2YYJW)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-30 13:12:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-30 15:22:30 UTC*
 <!-- SPOTIFY-END -->
