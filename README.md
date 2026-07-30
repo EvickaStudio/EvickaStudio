@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fell in Love (At the Water)](https://open.spotify.com/track/7qgVP1RmTu8Kg3MGsIl87D)** by **Candy Claws** *(Ceres & Calypso in the Deep Time)* - `1 h ago`
-- **[FFM (I Don't Know Which Way to Turn)](https://open.spotify.com/track/2cq4xHt1Dc8iMFycH7qGoG)** by **Cacola** *(The Angel, the Demon)* - `1 h ago`
-- **[soon](https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ)** by **my bloody valentine** *(loveless)* - `1 h ago`
-- **[Ptolemy](https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `2 h ago`
-- **[DYED](https://open.spotify.com/track/5gVPZOprkxJkWhac8lziMC)** by **WALRUS** *(光のカケラ)* - `2 h ago`
+- **[Fell in Love (At the Water)](https://open.spotify.com/track/7qgVP1RmTu8Kg3MGsIl87D)** by **Candy Claws** *(Ceres & Calypso in the Deep Time)* - `3 h ago`
+- **[FFM (I Don't Know Which Way to Turn)](https://open.spotify.com/track/2cq4xHt1Dc8iMFycH7qGoG)** by **Cacola** *(The Angel, the Demon)* - `3 h ago`
+- **[soon](https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ)** by **my bloody valentine** *(loveless)* - `3 h ago`
+- **[Ptolemy](https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `3 h ago`
+- **[DYED](https://open.spotify.com/track/5gVPZOprkxJkWhac8lziMC)** by **WALRUS** *(光のカケラ)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Cortez the Killer**](https://open.spotify.com/track/1OYCJ7Y8H0wVir4EX2YYJW)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-29 23:39:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-07-30 01:00:43 UTC*
 <!-- SPOTIFY-END -->
