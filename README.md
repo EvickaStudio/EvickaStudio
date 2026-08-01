@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d4d690156fa4105b328eb043" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b8b2f65e2dfa733439974801" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2FspRr0MCW0L8dz8OHM02q">Extrovertiert</a></strong><br/>
-  <em>by</em> <strong>grim noir</strong><br/>
-  <em>Album:</em> The Goodbye Tour
+  <strong><a href="https://open.spotify.com/track/4tVmJzUEkbK7HH1uzixD1M">ゆらめき IN THE AIR - Live</a></strong><br/>
+  <em>by</em> <strong>Fishmans</strong><br/>
+  <em>Album:</em> 98.12.28 男達の別れ (Live)
 </p>
 
-<p align="center"><code>0:05</code> ▓░░░░░░░░░░░░░░░░░░░ <code>3:03</code></p>
+<p align="center"><code>6:08</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>15:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Lipgloss](https://open.spotify.com/track/5Qb20LQlIH6729Iy9qksix)** by **Hello Hannes, pink luu** *(Lipgloss)* - `1 min ago`
-- **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)* - `4 min ago`
-- **[YOUVSME](https://open.spotify.com/track/0ZYglVayHTHhwsBZgg1z6a)** by **5v, olus** *(Bad Intentions)* - `6 min ago`
-- **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)* - `8 min ago`
-- **[Felt It Break](https://open.spotify.com/track/2DyKHvQddaIaq2924Sc88n)** by **flywoah** *(Felt It Break)* - `11 min ago`
+- **[Whitebird](https://open.spotify.com/track/19FmSxMxuGTYhUsmfhy9Nc)** by **BrokenTeeth** *(The Letters)* - `5 min ago`
+- **[Love Migraine](https://open.spotify.com/track/7CeJbTu12fEWBc1UgKOgwb)** by **Parannoul, Asian Glow, sonhos tomam conta** *(Downfall of the Neon Youth)* - `9 min ago`
+- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `16 min ago`
+- **[born yesterday](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)** by **Quadeca** *(I Didn't Mean To Haunt You)* - `22 min ago`
+- **[Video](https://open.spotify.com/track/5oOK1zl5Rtv8gHBCtl864C)** by **Jane Remover** *(Census Designated)* - `28 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Cortez the Killer**](https://open.spotify.com/track/1OYCJ7Y8H0wVir4EX2YYJW)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-01 18:29:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-01 19:43:51 UTC*
 <!-- SPOTIFY-END -->
