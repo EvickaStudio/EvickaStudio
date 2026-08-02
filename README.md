@@ -91,34 +91,24 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a259e1c00490f15b8eddfa27" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3qg3KfBDykEL5D51EZxQti">close to you</a></strong><br/>
-  <em>by</em> <strong>Levi Ryan</strong><br/>
-  <em>Album:</em> out of spite
-</p>
-
-<p align="center"><code>0:02</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:38</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[the things we carry](https://open.spotify.com/track/4F1nBGK2yeIc5TvqN06vlp)** by **Levi Ryan** *(operation wandering soul)* - `just now`
-- **[Nightz: ep.1: "Enlightenment I, Act I"](https://open.spotify.com/track/1TpsPi0MqGtZuOHKdfoK4z)** by **7Nightz #cc** *(Nightz: ep.1: "Enlightenment I, Act I")* - `just now`
-- **[Whining](https://open.spotify.com/track/4iuW0Js2RJl1P5vcGgkc4O)** by **Buffalobang** *(Losing Streak)* - `just now`
-- **[Whining](https://open.spotify.com/track/4iuW0Js2RJl1P5vcGgkc4O)** by **Buffalobang** *(Losing Streak)* - `1 min ago`
-- **[Whining](https://open.spotify.com/track/4iuW0Js2RJl1P5vcGgkc4O)** by **Buffalobang** *(Losing Streak)* - `1 min ago`
+- **[Love Tonight](https://open.spotify.com/track/4eAq60OUx6CFS05PJQHWVC)** by **Shouse** *(Love Tonight)* - `38 min ago`
+- **[Break Your Heart](https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W)** by **Taio Cruz** *(The Rokstarr Hits Collection)* - `38 min ago`
+- **[Stoff und Schnaps](https://open.spotify.com/track/3QP3z0IlnRi7u1fUVr4NpL)** by **Lil Kleine, Ronnie Flex** *(WG Party 2021)* - `38 min ago`
+- **[Suicidal](https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8)** by **YNW Melly** *(Melly vs. Melvin)* - `39 min ago`
+- **[505](https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp)** by **Arctic Monkeys** *(Favourite Worst Nightmare)* - `39 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
 
 
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 17:54:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 18:57:31 UTC*
 <!-- SPOTIFY-END -->
