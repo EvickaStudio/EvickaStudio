@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27374f191c31d940086608366f1" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273cae389ab4c2347ccc03d6e08" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5WMnCJcI1CGG33Uhn2tjMc">Lower Your Eyelids To Die With the Sun</a></strong><br/>
-  <em>by</em> <strong>M83</strong><br/>
-  <em>Album:</em> Before the Dawn Heals Us
+  <strong><a href="https://open.spotify.com/track/0DYALM07LyrmvGBNpa8Zfw">Parade</a></strong><br/>
+  <em>by</em> <strong>Parannoul</strong><br/>
+  <em>Album:</em> After the Magic
 </p>
 
-<p align="center"><code>6:06</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>10:37</code></p>
+<p align="center"><code>2:41</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>7:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Let Your Soul Illuminate with the Passion of a Thousand Suns](https://open.spotify.com/track/3r0LavFc0SSO3MjRgIMoIW)** by **desert sand feels warm at night** *(New World Disciples)* - `6 min ago`
-- **[Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO)** by **Floating Points** *(Someone Close)* - `12 min ago`
-- **[Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij)** by **Grouper** *(Dragging a Dead Deer Up a Hill)* - `19 min ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `1 h ago`
-- **[Reflections in Suspension - 30th Anniversary Remaster, Deluxe](https://open.spotify.com/track/0zKCkZ9EhkEUH3LKK3LMPq)** by **Steve Roach** *(Structures From Silence (30th Anniversary Remaster, Deluxe))* - `2 h ago`
+- **[Sunset Strike](https://open.spotify.com/track/4xpxI8BIj8s4KR5hIYVPPm)** by **BrokenTeeth** *(How to Sink Slowly)* - `2 min ago`
+- **[Chrome Country](https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ)** by **Oneohtrix Point Never** *(R Plus Seven)* - `7 min ago`
+- **[Ptolemy](https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `11 min ago`
+- **[Parisian Goldfish](https://open.spotify.com/track/29xEf2nthfXE2rA1X7wO1K)** by **Flying Lotus** *(Los Angeles)* - `16 min ago`
+- **[Chocolate Matter](https://open.spotify.com/track/6AMEHNhqK1qwCEJX9UBjEQ)** by **Sweet Trip** *(Velocity: Design: Comfort.)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 12:13:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 13:53:32 UTC*
 <!-- SPOTIFY-END -->
