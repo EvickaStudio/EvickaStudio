@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[DYED](https://open.spotify.com/track/5gVPZOprkxJkWhac8lziMC)** by **WALRUS** *(光のカケラ)* - `7 h ago`
-- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `7 h ago`
-- **[Knife Prty](https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB)** by **Deftones** *(White Pony)* - `7 h ago`
-- **[The Big Gloom](https://open.spotify.com/track/6r4Ux7Szu6ncGMjVh0tmCB)** by **Have A Nice Life** *(Deathconsciousness)* - `7 h ago`
-- **[choke enough](https://open.spotify.com/track/0QPx53oznsOnW9eiR5Ezga)** by **Oklou** *(choke enough)* - `7 h ago`
+- **[DYED](https://open.spotify.com/track/5gVPZOprkxJkWhac8lziMC)** by **WALRUS** *(光のカケラ)* - `9 h ago`
+- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `9 h ago`
+- **[Knife Prty](https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB)** by **Deftones** *(White Pony)* - `10 h ago`
+- **[The Big Gloom](https://open.spotify.com/track/6r4Ux7Szu6ncGMjVh0tmCB)** by **Have A Nice Life** *(Deathconsciousness)* - `10 h ago`
+- **[choke enough](https://open.spotify.com/track/0QPx53oznsOnW9eiR5Ezga)** by **Oklou** *(choke enough)* - `10 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Cortez the Killer**](https://open.spotify.com/track/1OYCJ7Y8H0wVir4EX2YYJW)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 04:37:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 07:16:06 UTC*
 <!-- SPOTIFY-END -->
