@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273eb06078227023e761f13b59b" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/7CeJbTu12fEWBc1UgKOgwb">Love Migraine</a></strong><br/>
-  <em>by</em> <strong>Parannoul, Asian Glow, sonhos tomam conta</strong><br/>
-  <em>Album:</em> Downfall of the Neon Youth
-</p>
-
-<p align="center"><code>4:04</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>7:08</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `3 min ago`
-- **[These Chains](https://open.spotify.com/track/4eFkPKdkAbyLjHneGQQNPe)** by **Mid-Air Thief** *(Crumbling)* - `11 min ago`
-- **[born yesterday](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)** by **Quadeca** *(I Didn't Mean To Haunt You)* - `16 min ago`
-- **[Video](https://open.spotify.com/track/5oOK1zl5Rtv8gHBCtl864C)** by **Jane Remover** *(Census Designated)* - `22 min ago`
-- **[Lower Your Eyelids To Die With the Sun](https://open.spotify.com/track/5WMnCJcI1CGG33Uhn2tjMc)** by **M83** *(Before the Dawn Heals Us)* - `30 min ago`
+- **[Whitebird](https://open.spotify.com/track/19FmSxMxuGTYhUsmfhy9Nc)** by **BrokenTeeth** *(The Letters)* - `47 min ago`
+- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `51 min ago`
+- **[Love Migraine](https://open.spotify.com/track/7CeJbTu12fEWBc1UgKOgwb)** by **Parannoul, Asian Glow, sonhos tomam conta** *(Downfall of the Neon Youth)* - `56 min ago`
+- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `1 h ago`
+- **[These Chains](https://open.spotify.com/track/4eFkPKdkAbyLjHneGQQNPe)** by **Mid-Air Thief** *(Crumbling)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 21:08:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 22:08:02 UTC*
 <!-- SPOTIFY-END -->
