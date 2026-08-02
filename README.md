@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cae389ab4c2347ccc03d6e08" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273ea193fbd430e24dbe9cb6e3f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0DYALM07LyrmvGBNpa8Zfw">Parade</a></strong><br/>
-  <em>by</em> <strong>Parannoul</strong><br/>
-  <em>Album:</em> After the Magic
+  <strong><a href="https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5">Dayvan Cowboy</a></strong><br/>
+  <em>by</em> <strong>Boards of Canada</strong><br/>
+  <em>Album:</em> The Campfire Headphase
 </p>
 
-<p align="center"><code>2:41</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>7:34</code></p>
+<p align="center"><code>2:44</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>5:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sunset Strike](https://open.spotify.com/track/4xpxI8BIj8s4KR5hIYVPPm)** by **BrokenTeeth** *(How to Sink Slowly)* - `2 min ago`
-- **[Chrome Country](https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ)** by **Oneohtrix Point Never** *(R Plus Seven)* - `7 min ago`
-- **[Ptolemy](https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `11 min ago`
-- **[Parisian Goldfish](https://open.spotify.com/track/29xEf2nthfXE2rA1X7wO1K)** by **Flying Lotus** *(Los Angeles)* - `16 min ago`
-- **[Chocolate Matter](https://open.spotify.com/track/6AMEHNhqK1qwCEJX9UBjEQ)** by **Sweet Trip** *(Velocity: Design: Comfort.)* - `19 min ago`
+- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `2 min ago`
+- **[ゆらめき IN THE AIR - Live](https://open.spotify.com/track/4tVmJzUEkbK7HH1uzixD1M)** by **Fishmans** *(98.12.28 男達の別れ (Live))* - `7 min ago`
+- **[Whitebird](https://open.spotify.com/track/19FmSxMxuGTYhUsmfhy9Nc)** by **BrokenTeeth** *(The Letters)* - `22 min ago`
+- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `26 min ago`
+- **[Love Migraine](https://open.spotify.com/track/7CeJbTu12fEWBc1UgKOgwb)** by **Parannoul, Asian Glow, sonhos tomam conta** *(Downfall of the Neon Youth)* - `31 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 13:53:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 14:54:38 UTC*
 <!-- SPOTIFY-END -->
