@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27374f191c31d940086608366f1" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/5jcrFtjW9dscpbkFjjLmyH">Moonchild</a></strong><br/>
+  <em>by</em> <strong>M83</strong><br/>
+  <em>Album:</em> Before the Dawn Heals Us
+</p>
+
+<p align="center"><code>1:45</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Love Tonight](https://open.spotify.com/track/4eAq60OUx6CFS05PJQHWVC)** by **Shouse** *(Love Tonight)* - `38 min ago`
-- **[Break Your Heart](https://open.spotify.com/track/7ElF5zxOwYP4qVSWVvse3W)** by **Taio Cruz** *(The Rokstarr Hits Collection)* - `38 min ago`
-- **[Stoff und Schnaps](https://open.spotify.com/track/3QP3z0IlnRi7u1fUVr4NpL)** by **Lil Kleine, Ronnie Flex** *(WG Party 2021)* - `38 min ago`
-- **[Suicidal](https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8)** by **YNW Melly** *(Melly vs. Melvin)* - `39 min ago`
-- **[505](https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp)** by **Arctic Monkeys** *(Favourite Worst Nightmare)* - `39 min ago`
+- **[Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz)** by **Bibio** *(Ribbons)* - `1 min ago`
+- **[Moonchild](https://open.spotify.com/track/5jcrFtjW9dscpbkFjjLmyH)** by **M83** *(Before the Dawn Heals Us)* - `3 min ago`
+- **[Kids Will Be Skeletons](https://open.spotify.com/track/3xogCrlDsnIZ7nQo8VvRL6)** by **Mogwai** *(Happy Songs for Happy People)* - `3 min ago`
+- **[Gong](https://open.spotify.com/track/1ZjQgM7HHjv5EjE05dOEMq)** by **Sigur Rós** *(Takk...)* - `3 min ago`
+- **[Gong](https://open.spotify.com/track/1ZjQgM7HHjv5EjE05dOEMq)** by **Sigur Rós** *(Takk...)* - `3 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 18:57:31 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 20:08:22 UTC*
 <!-- SPOTIFY-END -->
