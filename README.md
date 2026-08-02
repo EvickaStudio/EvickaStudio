@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273db8e38addb58131f77b48377" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734ff03e0f8b9c600b6e48b382" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ">sometimes</a></strong><br/>
-  <em>by</em> <strong>my bloody valentine</strong><br/>
-  <em>Album:</em> loveless
+  <strong><a href="https://open.spotify.com/track/2PGjwXWCkFaPKYsl1Pyu2y">Cop Shoot Cop...</a></strong><br/>
+  <em>by</em> <strong>Spiritualized</strong><br/>
+  <em>Album:</em> Ladies and gentlemen we are floating in space
 </p>
 
-<p align="center"><code>0:11</code> ▓░░░░░░░░░░░░░░░░░░░ <code>5:19</code></p>
+<p align="center"><code>1:26</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>17:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Neon Memories](https://open.spotify.com/track/7pQLDFpyHjAJsnloiDAEZS)** by **death's dynamic shroud** *(Darklife)* - `4 min ago`
-- **[Stargazer](https://open.spotify.com/track/3Jhl5YNtxcesHnvs8vouwG)** by **honeydip** *(Another Sunny Day -Remastered-)* - `8 min ago`
-- **[Parade](https://open.spotify.com/track/0DYALM07LyrmvGBNpa8Zfw)** by **Parannoul** *(After the Magic)* - `20 min ago`
-- **[Sunset Strike](https://open.spotify.com/track/4xpxI8BIj8s4KR5hIYVPPm)** by **BrokenTeeth** *(How to Sink Slowly)* - `27 min ago`
-- **[Chrome Country](https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ)** by **Oneohtrix Point Never** *(R Plus Seven)* - `32 min ago`
+- **[DYED](https://open.spotify.com/track/5gVPZOprkxJkWhac8lziMC)** by **WALRUS** *(光のカケラ)* - `1 min ago`
+- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `6 min ago`
+- **[Knife Prty](https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB)** by **Deftones** *(White Pony)* - `11 min ago`
+- **[The Big Gloom](https://open.spotify.com/track/6r4Ux7Szu6ncGMjVh0tmCB)** by **Have A Nice Life** *(Deathconsciousness)* - `15 min ago`
+- **[choke enough](https://open.spotify.com/track/0QPx53oznsOnW9eiR5Ezga)** by **Oklou** *(choke enough)* - `21 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 15:54:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 16:50:34 UTC*
 <!-- SPOTIFY-END -->
