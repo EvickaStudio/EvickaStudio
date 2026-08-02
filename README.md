@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734ff03e0f8b9c600b6e48b382" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a259e1c00490f15b8eddfa27" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2PGjwXWCkFaPKYsl1Pyu2y">Cop Shoot Cop...</a></strong><br/>
-  <em>by</em> <strong>Spiritualized</strong><br/>
-  <em>Album:</em> Ladies and gentlemen we are floating in space
+  <strong><a href="https://open.spotify.com/track/3qg3KfBDykEL5D51EZxQti">close to you</a></strong><br/>
+  <em>by</em> <strong>Levi Ryan</strong><br/>
+  <em>Album:</em> out of spite
 </p>
 
-<p align="center"><code>1:26</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>17:00</code></p>
+<p align="center"><code>0:02</code> ░░░░░░░░░░░░░░░░░░░░ <code>3:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[DYED](https://open.spotify.com/track/5gVPZOprkxJkWhac8lziMC)** by **WALRUS** *(光のカケラ)* - `1 min ago`
-- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `6 min ago`
-- **[Knife Prty](https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB)** by **Deftones** *(White Pony)* - `11 min ago`
-- **[The Big Gloom](https://open.spotify.com/track/6r4Ux7Szu6ncGMjVh0tmCB)** by **Have A Nice Life** *(Deathconsciousness)* - `15 min ago`
-- **[choke enough](https://open.spotify.com/track/0QPx53oznsOnW9eiR5Ezga)** by **Oklou** *(choke enough)* - `21 min ago`
+- **[the things we carry](https://open.spotify.com/track/4F1nBGK2yeIc5TvqN06vlp)** by **Levi Ryan** *(operation wandering soul)* - `just now`
+- **[Nightz: ep.1: "Enlightenment I, Act I"](https://open.spotify.com/track/1TpsPi0MqGtZuOHKdfoK4z)** by **7Nightz #cc** *(Nightz: ep.1: "Enlightenment I, Act I")* - `just now`
+- **[Whining](https://open.spotify.com/track/4iuW0Js2RJl1P5vcGgkc4O)** by **Buffalobang** *(Losing Streak)* - `just now`
+- **[Whining](https://open.spotify.com/track/4iuW0Js2RJl1P5vcGgkc4O)** by **Buffalobang** *(Losing Streak)* - `1 min ago`
+- **[Whining](https://open.spotify.com/track/4iuW0Js2RJl1P5vcGgkc4O)** by **Buffalobang** *(Losing Streak)* - `1 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 16:50:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-02 17:54:56 UTC*
 <!-- SPOTIFY-END -->
