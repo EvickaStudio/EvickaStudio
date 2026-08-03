@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Whitebird](https://open.spotify.com/track/19FmSxMxuGTYhUsmfhy9Nc)** by **BrokenTeeth** *(The Letters)* - `13 h ago`
-- **[Beautiful World](https://open.spotify.com/track/6dNk7wme2WgW7Sd6lYcCbL)** by **Parannoul** *(To See the Next Part of the Dream)* - `13 h ago`
-- **[Love Migraine](https://open.spotify.com/track/7CeJbTu12fEWBc1UgKOgwb)** by **Parannoul, Asian Glow, sonhos tomam conta** *(Downfall of the Neon Youth)* - `13 h ago`
-- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `13 h ago`
-- **[These Chains](https://open.spotify.com/track/4eFkPKdkAbyLjHneGQQNPe)** by **Mid-Air Thief** *(Crumbling)* - `13 h ago`
+- **[Odessa](https://open.spotify.com/track/5xhALmvO5mJNBUnqjGcVg2)** by **FEET** *(Odessa)* - `1 h ago`
+- **[TY (robbed the bank)](https://open.spotify.com/track/73eqbA35mz6kNdvTem4GBu)** by **Beaks** *(TY (robbed the bank))* - `1 h ago`
+- **[titnyanic](https://open.spotify.com/track/33pbg4AFTkCa7ux9TEzshw)** by **luutwo, mehlhaltig** *(verluustanzeige (wo bin ich?))* - `1 h ago`
+- **[nur für dich!!^_-](https://open.spotify.com/track/3sSIWSVqGT6Gub7E3XUzMw)** by **mehlhaltig, luu** *(nur für dich!!^_-)* - `1 h ago`
+- **[immenser pflegefall (I)](https://open.spotify.com/track/4wD8OKDGYgU7QcDkiWPA4s)** by **luu** *(immenser pflegefall)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-03 10:33:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-03 13:29:22 UTC*
 <!-- SPOTIFY-END -->
