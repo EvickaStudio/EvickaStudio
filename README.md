@@ -91,35 +91,25 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27331d48c8bff9357a77d4e397c" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh">ex-freundin</a></strong><br/>
-  <em>by</em> <strong>luu, Nosgov</strong><br/>
-  <em>Album:</em> immenser pflegefall
-</p>
-
-<p align="center"><code>0:51</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>1:34</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ex-freundin (cut version)](https://open.spotify.com/track/0xAo4fwqRpOuQ7lcmEoGQl)** by **luu** *(ex-freundin (cut version))* - `just now`
-- **[ex-freundin (cut version)](https://open.spotify.com/track/0xAo4fwqRpOuQ7lcmEoGQl)** by **luu** *(ex-freundin (cut version))* - `just now`
-- **[ex-freundin](https://open.spotify.com/track/1lj4mfwOiVcpETgmG5Lpli)** by **luu, Nosgov** *(immenser pflegefall)* - `1 min ago`
-- **[ex-freundin](https://open.spotify.com/track/1lj4mfwOiVcpETgmG5Lpli)** by **luu, Nosgov** *(immenser pflegefall)* - `2 min ago`
-- **[ex-freundin](https://open.spotify.com/track/1lj4mfwOiVcpETgmG5Lpli)** by **luu, Nosgov** *(immenser pflegefall)* - `2 min ago`
+- **[ex-freundin (cut version)](https://open.spotify.com/track/0xAo4fwqRpOuQ7lcmEoGQl)** by **luu** *(ex-freundin (cut version))* - `1 h ago`
+- **[ex-freundin (cut version)](https://open.spotify.com/track/0xAo4fwqRpOuQ7lcmEoGQl)** by **luu** *(ex-freundin (cut version))* - `1 h ago`
+- **[ex-freundin](https://open.spotify.com/track/1lj4mfwOiVcpETgmG5Lpli)** by **luu, Nosgov** *(immenser pflegefall)* - `1 h ago`
+- **[ex-freundin](https://open.spotify.com/track/1lj4mfwOiVcpETgmG5Lpli)** by **luu, Nosgov** *(immenser pflegefall)* - `1 h ago`
+- **[ex-freundin](https://open.spotify.com/track/1lj4mfwOiVcpETgmG5Lpli)** by **luu, Nosgov** *(immenser pflegefall)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Bladee**](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Panteros666**](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-03 19:54:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-03 20:56:00 UTC*
 <!-- SPOTIFY-END -->
