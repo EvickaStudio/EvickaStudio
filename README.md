@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273512c5c4bfc8588832e6bde49" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3r0LavFc0SSO3MjRgIMoIW">Let Your Soul Illuminate with the Passion of a Thousand Suns</a></strong><br/>
-  <em>by</em> <strong>desert sand feels warm at night</strong><br/>
-  <em>Album:</em> New World Disciples
-</p>
-
-<p align="center"><code>0:31</code> ▓░░░░░░░░░░░░░░░░░░░ <code>7:32</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij)** by **Grouper** *(Dragging a Dead Deer Up a Hill)* - `6 min ago`
-- **[103 - und die giftigen Feuerquallen - Teil 24](https://open.spotify.com/track/07nH8c1C3PV4tgOG4f31zt)** by **Fünf Freunde** *(103/und die giftigen Feuerquallen)* - `8 h ago`
-- **[063 - Fußballgangster - Teil 10](https://open.spotify.com/track/6ckYpWr5UPBon5JVtnhVno)** by **Die drei ???** *(063/Fußball-Gangster)* - `8 h ago`
-- **[Der Hellseher, Szene 4](https://open.spotify.com/track/22bfl7S5gvVBmW23ZoUiKk)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.69 (Der Hellseher, Haarige Zeiten, Schmuckstücke))* - `8 h ago`
-- **[16 - Orungu, Fratze aus dem Dschungel - Teil 11](https://open.spotify.com/track/0ukUpY4KpKB6hmVQe6PrwE)** by **Larry Brent** *(16/Orungu, Fratze aus dem Dschungel)* - `8 h ago`
+- **[Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO)** by **Floating Points** *(Someone Close)* - `2 h ago`
+- **[Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij)** by **Grouper** *(Dragging a Dead Deer Up a Hill)* - `2 h ago`
+- **[103 - und die giftigen Feuerquallen - Teil 24](https://open.spotify.com/track/07nH8c1C3PV4tgOG4f31zt)** by **Fünf Freunde** *(103/und die giftigen Feuerquallen)* - `10 h ago`
+- **[063 - Fußballgangster - Teil 10](https://open.spotify.com/track/6ckYpWr5UPBon5JVtnhVno)** by **Die drei ???** *(063/Fußball-Gangster)* - `10 h ago`
+- **[Der Hellseher, Szene 4](https://open.spotify.com/track/22bfl7S5gvVBmW23ZoUiKk)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.69 (Der Hellseher, Haarige Zeiten, Schmuckstücke))* - `10 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-04 13:21:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-04 15:43:17 UTC*
 <!-- SPOTIFY-END -->
