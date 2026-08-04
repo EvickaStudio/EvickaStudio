@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a35460c2222812121c78ca61" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739f7c2b3379eabb1b2af2241e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0dS1C0WcNC96hxqrl2lp3A">Kapitel 17: und das Flüstern aus der Geisterwelt - Folge 170</a></strong><br/>
-  <em>by</em> <strong>Fünf Freunde</strong><br/>
-  <em>Album:</em> Folge 170: und das Flüstern aus der Geisterwelt
+  <strong><a href="https://open.spotify.com/track/6GZ15PBfRZ3XgZ23PnyEVe">01 - Rettet Azuro! - Teil 38</a></strong><br/>
+  <em>by</em> <strong>Kati & Azuro</strong><br/>
+  <em>Album:</em> 01/Rettet Azuro!
 </p>
 
-<p align="center"><code>1:40</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:01</code></p>
+<p align="center"><code>0:46</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>1:46</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 11: Verbrechen live im Radio - Folge 242](https://open.spotify.com/track/5DPVfxJzuviPl9DfYCK3jc)** by **TKKG** *(Folge 242: Verbrechen live im Radio)* - `1 min ago`
-- **[069 - Späte Rache - Teil 22](https://open.spotify.com/track/0JF81FNj5T7ActxhgwMd90)** by **Die drei ???** *(069/Späte Rache)* - `4 min ago`
-- **[Outro: und die schwarze Rose - Folge 240](https://open.spotify.com/track/659FfKQUnsWLtR6jt1wtBG)** by **Die drei ???** *(Folge 240: und die schwarze Rose)* - `5 min ago`
-- **[Kapitel 22: und die schwarze Rose - Folge 240](https://open.spotify.com/track/6en6F9nf1lGmzRiExmP4Ar)** by **Die drei ???** *(Folge 240: und die schwarze Rose)* - `7 min ago`
-- **[Kapitel 21: und die schwarze Rose - Folge 240](https://open.spotify.com/track/7n2RsVUu3muYdUY3z9A99q)** by **Die drei ???** *(Folge 240: und die schwarze Rose)* - `12 min ago`
+- **[109 - und die mysteriöse Botschaft - Teil 26](https://open.spotify.com/track/0IBtqJ9PGyItkLTdDZow0N)** by **Fünf Freunde** *(109/und die mysteriöse Botschaft)* - `just now`
+- **[168 - GPS-Gangster - Teil 40](https://open.spotify.com/track/2DGTj8PvW4NyFQsSXsOlYl)** by **Die drei ???** *(168/GPS-Gangster)* - `2 min ago`
+- **[Die Dichterlesung, Szene 1](https://open.spotify.com/track/3Jt0adT6xE9v71MG9inTYr)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel, Peter Schneider** *(Die haarsträubenden Fälle des Philip Maloney, No.56 (Der schöne Fuss, Die Dichterlesung, Tödliches Frühstück))* - `3 min ago`
+- **[218 - Schutzgeld für Dämonen - Teil 07](https://open.spotify.com/track/0xBS6tc6a1oMADoaZmbJxO)** by **TKKG** *(Folge 218: Schutzgeld für Dämonen)* - `7 min ago`
+- **[Die Haie von L.A. Kapitel 4](https://open.spotify.com/track/06nTcfv3FeNjKZQtHBCdtc)** by **Mord ist ihr Leben** *(Folge 5: Die Haie von L.A.)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-04 00:57:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-04 04:10:31 UTC*
 <!-- SPOTIFY-END -->
