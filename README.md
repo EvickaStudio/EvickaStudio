@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO)** by **Floating Points** *(Someone Close)* - `2 h ago`
-- **[Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij)** by **Grouper** *(Dragging a Dead Deer Up a Hill)* - `2 h ago`
-- **[103 - und die giftigen Feuerquallen - Teil 24](https://open.spotify.com/track/07nH8c1C3PV4tgOG4f31zt)** by **Fünf Freunde** *(103/und die giftigen Feuerquallen)* - `10 h ago`
-- **[063 - Fußballgangster - Teil 10](https://open.spotify.com/track/6ckYpWr5UPBon5JVtnhVno)** by **Die drei ???** *(063/Fußball-Gangster)* - `10 h ago`
-- **[Der Hellseher, Szene 4](https://open.spotify.com/track/22bfl7S5gvVBmW23ZoUiKk)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.69 (Der Hellseher, Haarige Zeiten, Schmuckstücke))* - `10 h ago`
+- **[note2self](https://open.spotify.com/track/744X1bHPviU1npsVK9X3x8)** by **Senses** *(seventh heaven)* - `1 h ago`
+- **[zombie](https://open.spotify.com/track/7gLd6RlgSLbCAwbQdqjMU6)** by **Senses** *(zombie)* - `1 h ago`
+- **[Let Your Soul Illuminate with the Passion of a Thousand Suns](https://open.spotify.com/track/3r0LavFc0SSO3MjRgIMoIW)** by **desert sand feels warm at night** *(New World Disciples)* - `3 h ago`
+- **[Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO)** by **Floating Points** *(Someone Close)* - `3 h ago`
+- **[Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij)** by **Grouper** *(Dragging a Dead Deer Up a Hill)* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-04 15:43:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-04 17:20:37 UTC*
 <!-- SPOTIFY-END -->
