@@ -91,22 +91,32 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a35460c2222812121c78ca61" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0dS1C0WcNC96hxqrl2lp3A">Kapitel 17: und das Flüstern aus der Geisterwelt - Folge 170</a></strong><br/>
+  <em>by</em> <strong>Fünf Freunde</strong><br/>
+  <em>Album:</em> Folge 170: und das Flüstern aus der Geisterwelt
+</p>
+
+<p align="center"><code>1:40</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:01</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ex-freundin (cut version)](https://open.spotify.com/track/0xAo4fwqRpOuQ7lcmEoGQl)** by **luu** *(ex-freundin (cut version))* - `3 h ago`
-- **[ex-freundin (cut version)](https://open.spotify.com/track/0xAo4fwqRpOuQ7lcmEoGQl)** by **luu** *(ex-freundin (cut version))* - `3 h ago`
-- **[ex-freundin](https://open.spotify.com/track/1lj4mfwOiVcpETgmG5Lpli)** by **luu, Nosgov** *(immenser pflegefall)* - `3 h ago`
-- **[ex-freundin](https://open.spotify.com/track/1lj4mfwOiVcpETgmG5Lpli)** by **luu, Nosgov** *(immenser pflegefall)* - `3 h ago`
-- **[ex-freundin](https://open.spotify.com/track/1lj4mfwOiVcpETgmG5Lpli)** by **luu, Nosgov** *(immenser pflegefall)* - `3 h ago`
+- **[Kapitel 11: Verbrechen live im Radio - Folge 242](https://open.spotify.com/track/5DPVfxJzuviPl9DfYCK3jc)** by **TKKG** *(Folge 242: Verbrechen live im Radio)* - `1 min ago`
+- **[069 - Späte Rache - Teil 22](https://open.spotify.com/track/0JF81FNj5T7ActxhgwMd90)** by **Die drei ???** *(069/Späte Rache)* - `4 min ago`
+- **[Outro: und die schwarze Rose - Folge 240](https://open.spotify.com/track/659FfKQUnsWLtR6jt1wtBG)** by **Die drei ???** *(Folge 240: und die schwarze Rose)* - `5 min ago`
+- **[Kapitel 22: und die schwarze Rose - Folge 240](https://open.spotify.com/track/6en6F9nf1lGmzRiExmP4Ar)** by **Die drei ???** *(Folge 240: und die schwarze Rose)* - `7 min ago`
+- **[Kapitel 21: und die schwarze Rose - Folge 240](https://open.spotify.com/track/7n2RsVUu3muYdUY3z9A99q)** by **Die drei ???** *(Folge 240: und die schwarze Rose)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Panteros666**](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt)
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-03 23:17:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-04 00:57:19 UTC*
 <!-- SPOTIFY-END -->
