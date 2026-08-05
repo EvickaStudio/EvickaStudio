@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `5 h ago`
-- **[ex-freundin](https://open.spotify.com/track/1lj4mfwOiVcpETgmG5Lpli)** by **luu, Nosgov** *(immenser pflegefall)* - `20 h ago`
-- **[ex-freundin (cut version)](https://open.spotify.com/track/0xAo4fwqRpOuQ7lcmEoGQl)** by **luu** *(ex-freundin (cut version))* - `20 h ago`
-- **[ex-freundin (cut version)](https://open.spotify.com/track/0xAo4fwqRpOuQ7lcmEoGQl)** by **luu** *(ex-freundin (cut version))* - `20 h ago`
-- **[ex-freundin (cut version)](https://open.spotify.com/track/0xAo4fwqRpOuQ7lcmEoGQl)** by **luu** *(ex-freundin (cut version))* - `20 h ago`
+- **[Video](https://open.spotify.com/track/5oOK1zl5Rtv8gHBCtl864C)** by **Jane Remover** *(Census Designated)* - `1 h ago`
+- **[born yesterday](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)** by **Quadeca** *(I Didn't Mean To Haunt You)* - `1 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `1 h ago`
+- **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `7 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-05 14:43:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-05 16:21:12 UTC*
 <!-- SPOTIFY-END -->
