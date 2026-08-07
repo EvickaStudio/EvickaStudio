@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `9 h ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `9 h ago`
-- **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `9 h ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `13 h ago`
-- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `13 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `10 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `11 h ago`
+- **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `11 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `15 h ago`
+- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `15 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-07 03:37:07 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-07 05:21:51 UTC*
 <!-- SPOTIFY-END -->
