@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[your clothes](https://open.spotify.com/track/5gFfE8UgFslvqjVQw7dktZ)** by **Jane Remover** *(Frailty)* - `34 min ago`
-- **[Home](https://open.spotify.com/track/21SPSnpVoc1r833c6Fecsf)** by **Bassvictim** *(?)* - `3 h ago`
-- **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)* - `7 h ago`
-- **[all my life](https://open.spotify.com/track/3JYMFX7YphXL2y7NQc7CKp)** by **Pearlblade** *(all my life)* - `7 h ago`
-- **[Liveleak](https://open.spotify.com/track/4eesKv2u9IdfrxrfseiIpk)** by **Pearlblade, 2504, Scratchy** *(Liveleak)* - `7 h ago`
+- **[your clothes](https://open.spotify.com/track/5gFfE8UgFslvqjVQw7dktZ)** by **Jane Remover** *(Frailty)* - `1 h ago`
+- **[Home](https://open.spotify.com/track/21SPSnpVoc1r833c6Fecsf)** by **Bassvictim** *(?)* - `4 h ago`
+- **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)* - `8 h ago`
+- **[all my life](https://open.spotify.com/track/3JYMFX7YphXL2y7NQc7CKp)** by **Pearlblade** *(all my life)* - `8 h ago`
+- **[Liveleak](https://open.spotify.com/track/4eesKv2u9IdfrxrfseiIpk)** by **Pearlblade, 2504, Scratchy** *(Liveleak)* - `8 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-07 15:45:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-07 16:42:46 UTC*
 <!-- SPOTIFY-END -->
