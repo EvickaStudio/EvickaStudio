@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736a8005297c63dc8376ababb3" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3JYMFX7YphXL2y7NQc7CKp">all my life</a></strong><br/>
-  <em>by</em> <strong>Pearlblade</strong><br/>
-  <em>Album:</em> all my life
-</p>
-
-<p align="center"><code>3:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:30</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Liveleak](https://open.spotify.com/track/4eesKv2u9IdfrxrfseiIpk)** by **Pearlblade, 2504, Scratchy** *(Liveleak)* - `3 min ago`
-- **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `12 h ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `13 h ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `13 h ago`
+- **[all my life](https://open.spotify.com/track/3JYMFX7YphXL2y7NQc7CKp)** by **Pearlblade** *(all my life)* - `59 min ago`
+- **[Liveleak](https://open.spotify.com/track/4eesKv2u9IdfrxrfseiIpk)** by **Pearlblade, 2504, Scratchy** *(Liveleak)* - `1 h ago`
 - **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `13 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `14 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `14 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +108,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**blombi19**](https://open.spotify.com/artist/2FUxHkL04oZxoExwQ5bUVb)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Panteros666**](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Panteros666**](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Title Fight**](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-07 07:58:45 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-07 08:58:33 UTC*
 <!-- SPOTIFY-END -->
