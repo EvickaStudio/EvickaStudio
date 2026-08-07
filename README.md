@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2736a8005297c63dc8376ababb3" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/3JYMFX7YphXL2y7NQc7CKp">all my life</a></strong><br/>
+  <em>by</em> <strong>Pearlblade</strong><br/>
+  <em>Album:</em> all my life
+</p>
+
+<p align="center"><code>3:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>3:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `12 h ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `12 h ago`
+- **[Liveleak](https://open.spotify.com/track/4eesKv2u9IdfrxrfseiIpk)** by **Pearlblade, 2504, Scratchy** *(Liveleak)* - `3 min ago`
 - **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `12 h ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `16 h ago`
-- **[Touch (feat. Paul Williams)](https://open.spotify.com/track/7oaEjLP2dTJLJsITbAxTOz)** by **Daft Punk, Paul Williams** *(Random Access Memories)* - `16 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `13 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `13 h ago`
+- **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `13 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-07 06:41:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-07 07:58:45 UTC*
 <!-- SPOTIFY-END -->
