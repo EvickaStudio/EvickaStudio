@@ -98,9 +98,9 @@
 
 - **[Chocolate Matter](https://open.spotify.com/track/6AMEHNhqK1qwCEJX9UBjEQ)** by **Sweet Trip** *(Velocity: Design: Comfort.)* - `5 h ago`
 - **[soon](https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ)** by **my bloody valentine** *(loveless)* - `5 h ago`
-- **[Dayvan Cowboy](https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5)** by **Boards of Canada** *(The Campfire Headphase)* - `5 h ago`
-- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `5 h ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `5 h ago`
+- **[Dayvan Cowboy](https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5)** by **Boards of Canada** *(The Campfire Headphase)* - `6 h ago`
+- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `6 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `6 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-08 21:21:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-08 21:53:34 UTC*
 <!-- SPOTIFY-END -->
