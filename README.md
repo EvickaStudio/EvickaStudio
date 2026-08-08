@@ -96,10 +96,10 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `6 min ago`
-- **[misplace](https://open.spotify.com/track/0ALXVfQFaNZ1GmqvlG8X7V)** by **Jane Remover** *(Frailty)* - `21 h ago`
-- **[your clothes](https://open.spotify.com/track/5gFfE8UgFslvqjVQw7dktZ)** by **Jane Remover** *(Frailty)* - `21 h ago`
-- **[Home](https://open.spotify.com/track/21SPSnpVoc1r833c6Fecsf)** by **Bassvictim** *(?)* - `23 h ago`
+- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `1 h ago`
+- **[misplace](https://open.spotify.com/track/0ALXVfQFaNZ1GmqvlG8X7V)** by **Jane Remover** *(Frailty)* - `22 h ago`
+- **[your clothes](https://open.spotify.com/track/5gFfE8UgFslvqjVQw7dktZ)** by **Jane Remover** *(Frailty)* - `22 h ago`
+- **[Home](https://open.spotify.com/track/21SPSnpVoc1r833c6Fecsf)** by **Bassvictim** *(?)* - `1 d ago`
 - **[PAPARAZZI](https://open.spotify.com/track/4PcAdWFjJtbIhelrydZlu4)** by **nami, d3r, Pearlblade** *(PAPARAZZI)* - `1 d ago`
 
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-08 12:29:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-08 13:27:11 UTC*
 <!-- SPOTIFY-END -->
