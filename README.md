@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dc47397224e434f6107542cb" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735c200edb72f26fd6654e89eb" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/054K3BHGXhHYVzi9rdu0Vz">why do i feel like this ???</a></strong><br/>
-  <em>by</em> <strong>meat computer</strong><br/>
-  <em>Album:</em> soundtrack to the end of a world
+  <strong><a href="https://open.spotify.com/track/1EDvvAvJR0rSwOjXPXitmx">starry eyes</a></strong><br/>
+  <em>by</em> <strong>gl0wrm, Levi Ryan</strong><br/>
+  <em>Album:</em> starry eyes
 </p>
 
-<p align="center"><code>0:14</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>1:49</code></p>
+<p align="center"><code>2:17</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:12</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[still lost](https://open.spotify.com/track/4lYamb9J4jZC9E7N9HyPKb)** by **meat computer** *(soundtrack to the end of a world)* - `just now`
-- **[still lost](https://open.spotify.com/track/4lYamb9J4jZC9E7N9HyPKb)** by **meat computer** *(soundtrack to the end of a world)* - `1 min ago`
-- **[still lost](https://open.spotify.com/track/4lYamb9J4jZC9E7N9HyPKb)** by **meat computer** *(soundtrack to the end of a world)* - `1 min ago`
-- **[Let Your Soul Illuminate with the Passion of a Thousand Suns](https://open.spotify.com/track/3r0LavFc0SSO3MjRgIMoIW)** by **desert sand feels warm at night** *(New World Disciples)* - `4 h ago`
-- **[Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO)** by **Floating Points** *(Someone Close)* - `4 h ago`
+- **[Hand in hand](https://open.spotify.com/track/1NXoyGnIDUMEQRLccYUqco)** by **Buffalobang, Swoopy** *(Losing Streak)* - `2 min ago`
+- **[mid](https://open.spotify.com/track/0bDdzFjqEeA64NaQ6m2gYg)** by **lor2mg** *(LOR4LIFE)* - `4 min ago`
+- **[COP](https://open.spotify.com/track/59nK7LvkxakM8pY7sKXOJl)** by **Henry Mosto** *(HENRY MOSTO)* - `5 min ago`
+- **[Friday Nite](https://open.spotify.com/track/7vjCeLTX5movVPYx22ceCe)** by **elricfd** *(Friday Nite)* - `7 min ago`
+- **[Or](https://open.spotify.com/track/6GAZSojiXAuIkq74RLapoD)** by **Tek lintowe, Pentagrvm** *(I am a evil person)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 17:22:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 17:55:47 UTC*
 <!-- SPOTIFY-END -->
