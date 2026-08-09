@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bcfe5461b9e0604fdc29f16b" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6U1M8ZmPVY0eq1kUhgkQPv">U.S.T</a></strong><br/>
-  <em>by</em> <strong>The Truth</strong><br/>
-  <em>Album:</em> U.S.T
-</p>
-
-<p align="center"><code>1:48</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>3:05</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[stuck in wpg](https://open.spotify.com/track/1VL0g5od7B0Ewd3l9gkzbi)** by **meat computer** *(stuck in wpg)* - `1 min ago`
-- **[Sudden Departure Soccer Club 2](https://open.spotify.com/track/3uykzaj1z8VGLWnFFvxrMr)** by **Buffalobang, Sg Lily** *(Sudden Departure, Soccer Club 2)* - `3 min ago`
-- **[ihavesexwghosts](https://open.spotify.com/track/06nFjn9Om6TUiaOpY8chIj)** by **gl0wrm** *(ihavesexwghosts)* - `5 min ago`
-- **[condolence letter](https://open.spotify.com/track/5GQqX9NEbbsMSmC95XJCC6)** by **Levi Ryan** *(soviet winter)* - `7 min ago`
-- **[intertwined](https://open.spotify.com/track/3lalBb2TkU3vyEwtgOW0sP)** by **lor2mg** *(LOR4LIFE)* - `11 min ago`
+- **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)* - `14 min ago`
+- **[Red & Double](https://open.spotify.com/track/7KK7ZrShqtVPS06Z5QgyNo)** by **the sound chalk makes** *(Red & Double)* - `16 min ago`
+- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `19 min ago`
+- **[Bleed](https://open.spotify.com/track/1exic5QaGh6dSLXzoE8S4B)** by **Eera, DJH** *(Just Keep Holding On)* - `21 min ago`
+- **[blood n chocolate](https://open.spotify.com/track/4XnscnjWjP1GOE1sg4jO23)** by **lor2mg, Rezlaine** *(unrequited)* - `24 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 19:10:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 19:46:48 UTC*
 <!-- SPOTIFY-END -->
