@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d9de27fd6ce50ce683174df2" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO">Someone Close</a></strong><br/>
+  <em>by</em> <strong>Floating Points</strong><br/>
+  <em>Album:</em> Someone Close
+</p>
+
+<p align="center"><code>5:27</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>8:12</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Chocolate Matter](https://open.spotify.com/track/6AMEHNhqK1qwCEJX9UBjEQ)** by **Sweet Trip** *(Velocity: Design: Comfort.)* - `19 h ago`
-- **[soon](https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ)** by **my bloody valentine** *(loveless)* - `20 h ago`
-- **[Dayvan Cowboy](https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5)** by **Boards of Canada** *(The Campfire Headphase)* - `20 h ago`
-- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `20 h ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `20 h ago`
+- **[Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij)** by **Grouper** *(Dragging a Dead Deer Up a Hill)* - `4 min ago`
+- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `7 min ago`
+- **[Reflections in Suspension - 30th Anniversary Remaster, Deluxe](https://open.spotify.com/track/0zKCkZ9EhkEUH3LKK3LMPq)** by **Steve Roach** *(Structures From Silence (30th Anniversary Remaster, Deluxe))* - `9 min ago`
+- **[Chocolate Matter](https://open.spotify.com/track/6AMEHNhqK1qwCEJX9UBjEQ)** by **Sweet Trip** *(Velocity: Design: Comfort.)* - `21 h ago`
+- **[soon](https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ)** by **my bloody valentine** *(loveless)* - `21 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 12:00:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 13:12:32 UTC*
 <!-- SPOTIFY-END -->
