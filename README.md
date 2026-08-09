@@ -100,7 +100,7 @@
 - **[Red & Double](https://open.spotify.com/track/7KK7ZrShqtVPS06Z5QgyNo)** by **the sound chalk makes** *(Red & Double)* - `3 h ago`
 - **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `3 h ago`
 - **[Bleed](https://open.spotify.com/track/1exic5QaGh6dSLXzoE8S4B)** by **Eera, DJH** *(Just Keep Holding On)* - `3 h ago`
-- **[blood n chocolate](https://open.spotify.com/track/4XnscnjWjP1GOE1sg4jO23)** by **lor2mg, Rezlaine** *(unrequited)* - `3 h ago`
+- **[blood n chocolate](https://open.spotify.com/track/4XnscnjWjP1GOE1sg4jO23)** by **lor2mg, Rezlaine** *(unrequited)* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 22:47:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 23:22:27 UTC*
 <!-- SPOTIFY-END -->
