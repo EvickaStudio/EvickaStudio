@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2735c200edb72f26fd6654e89eb" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2731c2c19a5a47ec89f9ccbf09f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1EDvvAvJR0rSwOjXPXitmx">starry eyes</a></strong><br/>
-  <em>by</em> <strong>gl0wrm, Levi Ryan</strong><br/>
-  <em>Album:</em> starry eyes
+  <strong><a href="https://open.spotify.com/track/5RLgJ21B2n7wYWnlpE4jOH">waitt2Rs</a></strong><br/>
+  <em>by</em> <strong>Ripsquad Archive</strong><br/>
+  <em>Album:</em> waitt2Rs
 </p>
 
-<p align="center"><code>2:17</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>3:12</code></p>
+<p align="center"><code>2:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Hand in hand](https://open.spotify.com/track/1NXoyGnIDUMEQRLccYUqco)** by **Buffalobang, Swoopy** *(Losing Streak)* - `2 min ago`
-- **[mid](https://open.spotify.com/track/0bDdzFjqEeA64NaQ6m2gYg)** by **lor2mg** *(LOR4LIFE)* - `4 min ago`
-- **[COP](https://open.spotify.com/track/59nK7LvkxakM8pY7sKXOJl)** by **Henry Mosto** *(HENRY MOSTO)* - `5 min ago`
-- **[Friday Nite](https://open.spotify.com/track/7vjCeLTX5movVPYx22ceCe)** by **elricfd** *(Friday Nite)* - `7 min ago`
-- **[Or](https://open.spotify.com/track/6GAZSojiXAuIkq74RLapoD)** by **Tek lintowe, Pentagrvm** *(I am a evil person)* - `11 min ago`
+- **[XxPosed](https://open.spotify.com/track/59TJ5ZhDrG2PmWjep1LXgn)** by **waster, payphobia, vic, ciaffa** *(Bliss Fields)* - `1 min ago`
+- **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)* - `4 min ago`
+- **[Stupid Life Story](https://open.spotify.com/track/63UE5b5MEN3mFsvqH2XqQM)** by **w3bcam** *(Stupid Life Story)* - `6 min ago`
+- **[Love Burns](https://open.spotify.com/track/3XLiKfRODMkFSTVRcwiIjV)** by **Thrilliam Angels, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `8 min ago`
+- **[A MUTUAL FEELING x 9LIVES](https://open.spotify.com/track/7K7e0uH7yfIySGpihAE3S6)** by **VALOUS ISRAFIL** *(A MUTUAL FEELING x 9LIVES)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Panteros666**](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Title Fight**](https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 17:55:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 18:28:03 UTC*
 <!-- SPOTIFY-END -->
