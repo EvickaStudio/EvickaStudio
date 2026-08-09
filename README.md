@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273dc47397224e434f6107542cb" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/054K3BHGXhHYVzi9rdu0Vz">why do i feel like this ???</a></strong><br/>
+  <em>by</em> <strong>meat computer</strong><br/>
+  <em>Album:</em> soundtrack to the end of a world
+</p>
+
+<p align="center"><code>0:14</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>1:49</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Let Your Soul Illuminate with the Passion of a Thousand Suns](https://open.spotify.com/track/3r0LavFc0SSO3MjRgIMoIW)** by **desert sand feels warm at night** *(New World Disciples)* - `3 h ago`
-- **[Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO)** by **Floating Points** *(Someone Close)* - `3 h ago`
-- **[Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij)** by **Grouper** *(Dragging a Dead Deer Up a Hill)* - `3 h ago`
-- **[this was all a dream](https://open.spotify.com/track/4MyMjlAiwBxvfZ4euhH4Il)** by **Pearlblade** *(this was all a dream)* - `3 h ago`
-- **[Reflections in Suspension - 30th Anniversary Remaster, Deluxe](https://open.spotify.com/track/0zKCkZ9EhkEUH3LKK3LMPq)** by **Steve Roach** *(Structures From Silence (30th Anniversary Remaster, Deluxe))* - `3 h ago`
+- **[still lost](https://open.spotify.com/track/4lYamb9J4jZC9E7N9HyPKb)** by **meat computer** *(soundtrack to the end of a world)* - `just now`
+- **[still lost](https://open.spotify.com/track/4lYamb9J4jZC9E7N9HyPKb)** by **meat computer** *(soundtrack to the end of a world)* - `1 min ago`
+- **[still lost](https://open.spotify.com/track/4lYamb9J4jZC9E7N9HyPKb)** by **meat computer** *(soundtrack to the end of a world)* - `1 min ago`
+- **[Let Your Soul Illuminate with the Passion of a Thousand Suns](https://open.spotify.com/track/3r0LavFc0SSO3MjRgIMoIW)** by **desert sand feels warm at night** *(New World Disciples)* - `4 h ago`
+- **[Someone Close](https://open.spotify.com/track/1AhYmMPEM7UKVSrKC7sfSO)** by **Floating Points** *(Someone Close)* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 16:51:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 17:22:39 UTC*
 <!-- SPOTIFY-END -->
