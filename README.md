@@ -96,7 +96,7 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Chocolate Matter](https://open.spotify.com/track/6AMEHNhqK1qwCEJX9UBjEQ)** by **Sweet Trip** *(Velocity: Design: Comfort.)* - `18 h ago`
+- **[Chocolate Matter](https://open.spotify.com/track/6AMEHNhqK1qwCEJX9UBjEQ)** by **Sweet Trip** *(Velocity: Design: Comfort.)* - `19 h ago`
 - **[soon](https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ)** by **my bloody valentine** *(loveless)* - `19 h ago`
 - **[Dayvan Cowboy](https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5)** by **Boards of Canada** *(The Campfire Headphase)* - `19 h ago`
 - **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `19 h ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Wicked Game**](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 10:59:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-09 11:33:05 UTC*
 <!-- SPOTIFY-END -->
