@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27370494f2e8183896cb962ad9d" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1TpsPi0MqGtZuOHKdfoK4z">Nightz: ep.1: "Enlightenment I, Act I"</a></strong><br/>
+  <em>by</em> <strong>7Nightz #cc</strong><br/>
+  <em>Album:</em> Nightz: ep.1: "Enlightenment I, Act I"
+</p>
+
+<p align="center"><code>2:41</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>3:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `14 min ago`
-- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `17 min ago`
-- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `20 min ago`
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `1 h ago`
-- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `1 h ago`
+- **[Whining](https://open.spotify.com/track/4iuW0Js2RJl1P5vcGgkc4O)** by **Buffalobang** *(Losing Streak)* - `2 min ago`
+- **[blue lips](https://open.spotify.com/track/5aaRid0vjfAJ8vYO0hSBgM)** by **lor2mg** *(blue lips)* - `4 min ago`
+- **[starry eyes](https://open.spotify.com/track/1EDvvAvJR0rSwOjXPXitmx)** by **gl0wrm, Levi Ryan** *(starry eyes)* - `6 min ago`
+- **[Hand in hand](https://open.spotify.com/track/1NXoyGnIDUMEQRLccYUqco)** by **Buffalobang, Swoopy** *(Losing Streak)* - `9 min ago`
+- **[mid](https://open.spotify.com/track/0bDdzFjqEeA64NaQ6m2gYg)** by **lor2mg** *(LOR4LIFE)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -108,8 +118,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Panteros666**](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Panteros666**](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-10 08:11:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-10 09:45:59 UTC*
 <!-- SPOTIFY-END -->
