@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[XxPosed](https://open.spotify.com/track/59TJ5ZhDrG2PmWjep1LXgn)** by **waster, payphobia, vic, ciaffa** *(Bliss Fields)* - `42 min ago`
-- **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)* - `53 min ago`
-- **[Stupid Life Story](https://open.spotify.com/track/63UE5b5MEN3mFsvqH2XqQM)** by **w3bcam** *(Stupid Life Story)* - `56 min ago`
-- **[Love Burns](https://open.spotify.com/track/3XLiKfRODMkFSTVRcwiIjV)** by **Thrilliam Angels, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `57 min ago`
-- **[A MUTUAL FEELING x 9LIVES](https://open.spotify.com/track/7K7e0uH7yfIySGpihAE3S6)** by **VALOUS ISRAFIL** *(A MUTUAL FEELING x 9LIVES)* - `59 min ago`
+- **[XxPosed](https://open.spotify.com/track/59TJ5ZhDrG2PmWjep1LXgn)** by **waster, payphobia, vic, ciaffa** *(Bliss Fields)* - `1 h ago`
+- **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)* - `1 h ago`
+- **[Stupid Life Story](https://open.spotify.com/track/63UE5b5MEN3mFsvqH2XqQM)** by **w3bcam** *(Stupid Life Story)* - `1 h ago`
+- **[Love Burns](https://open.spotify.com/track/3XLiKfRODMkFSTVRcwiIjV)** by **Thrilliam Angels, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `1 h ago`
+- **[A MUTUAL FEELING x 9LIVES](https://open.spotify.com/track/7K7e0uH7yfIySGpihAE3S6)** by **VALOUS ISRAFIL** *(A MUTUAL FEELING x 9LIVES)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-10 10:59:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-10 11:49:18 UTC*
 <!-- SPOTIFY-END -->
