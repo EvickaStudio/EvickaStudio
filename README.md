@@ -96,20 +96,20 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[XxPosed](https://open.spotify.com/track/59TJ5ZhDrG2PmWjep1LXgn)** by **waster, payphobia, vic, ciaffa** *(Bliss Fields)* - `1 h ago`
-- **[2007](https://open.spotify.com/track/1nNLWBUMe4w8m2jwwL6yER)** by **Ripsquad Archive** *(2007)* - `1 h ago`
-- **[Stupid Life Story](https://open.spotify.com/track/63UE5b5MEN3mFsvqH2XqQM)** by **w3bcam** *(Stupid Life Story)* - `1 h ago`
-- **[Love Burns](https://open.spotify.com/track/3XLiKfRODMkFSTVRcwiIjV)** by **Thrilliam Angels, d.j. polyplus u.c.** *(This Sunrise Is Brutal)* - `1 h ago`
-- **[A MUTUAL FEELING x 9LIVES](https://open.spotify.com/track/7K7e0uH7yfIySGpihAE3S6)** by **VALOUS ISRAFIL** *(A MUTUAL FEELING x 9LIVES)* - `1 h ago`
+- **[starry eyes](https://open.spotify.com/track/1EDvvAvJR0rSwOjXPXitmx)** by **gl0wrm, Levi Ryan** *(starry eyes)* - `1 h ago`
+- **[Hand in hand](https://open.spotify.com/track/1NXoyGnIDUMEQRLccYUqco)** by **Buffalobang, Swoopy** *(Losing Streak)* - `1 h ago`
+- **[mid](https://open.spotify.com/track/0bDdzFjqEeA64NaQ6m2gYg)** by **lor2mg** *(LOR4LIFE)* - `1 h ago`
+- **[COP](https://open.spotify.com/track/59nK7LvkxakM8pY7sKXOJl)** by **Henry Mosto** *(HENRY MOSTO)* - `1 h ago`
+- **[Friday Nite](https://open.spotify.com/track/7vjCeLTX5movVPYx22ceCe)** by **elricfd** *(Friday Nite)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-10 11:49:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-10 14:14:37 UTC*
 <!-- SPOTIFY-END -->
