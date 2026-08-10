@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c168bd0c28830ab6a3fafda2" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D">Safe Place</a></strong><br/>
+  <em>by</em> <strong>Sezko</strong><br/>
+  <em>Album:</em> Safe Place
+</p>
+
+<p align="center"><code>0:49</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)* - `9 h ago`
-- **[Red & Double](https://open.spotify.com/track/7KK7ZrShqtVPS06Z5QgyNo)** by **the sound chalk makes** *(Red & Double)* - `9 h ago`
-- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `9 h ago`
-- **[Bleed](https://open.spotify.com/track/1exic5QaGh6dSLXzoE8S4B)** by **Eera, DJH** *(Just Keep Holding On)* - `9 h ago`
-- **[blood n chocolate](https://open.spotify.com/track/4XnscnjWjP1GOE1sg4jO23)** by **lor2mg, Rezlaine** *(unrequited)* - `9 h ago`
+- **[All We Got Is Tonight](https://open.spotify.com/track/61yuuffxTdlilsH8s9Eu17)** by **Thrilliam Angels, David Arms Deal, vrde** *(Iliad Unspoken)* - `10 h ago`
+- **[Red & Double](https://open.spotify.com/track/7KK7ZrShqtVPS06Z5QgyNo)** by **the sound chalk makes** *(Red & Double)* - `10 h ago`
+- **[healing spiritual echo](https://open.spotify.com/track/394rVJKNJM0HfFEgRWY7i0)** by **meat computer** *(slept on the floor still dreamt about you (pop edition))* - `10 h ago`
+- **[Bleed](https://open.spotify.com/track/1exic5QaGh6dSLXzoE8S4B)** by **Eera, DJH** *(Just Keep Holding On)* - `10 h ago`
+- **[blood n chocolate](https://open.spotify.com/track/4XnscnjWjP1GOE1sg4jO23)** by **lor2mg, Rezlaine** *(unrequited)* - `10 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-10 05:02:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-10 06:20:48 UTC*
 <!-- SPOTIFY-END -->
