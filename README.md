@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273a09592781e9c0413d2fdd808" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz">Into the Endless Night - Live</a></strong><br/>
+  <em>by</em> <strong>Parannoul</strong><br/>
+  <em>Album:</em> After the Night (Live)
+</p>
+
+<p align="center"><code>39:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>46:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[starry eyes](https://open.spotify.com/track/1EDvvAvJR0rSwOjXPXitmx)** by **gl0wrm, Levi Ryan** *(starry eyes)* - `1 h ago`
-- **[Hand in hand](https://open.spotify.com/track/1NXoyGnIDUMEQRLccYUqco)** by **Buffalobang, Swoopy** *(Losing Streak)* - `1 h ago`
-- **[mid](https://open.spotify.com/track/0bDdzFjqEeA64NaQ6m2gYg)** by **lor2mg** *(LOR4LIFE)* - `1 h ago`
-- **[COP](https://open.spotify.com/track/59nK7LvkxakM8pY7sKXOJl)** by **Henry Mosto** *(HENRY MOSTO)* - `1 h ago`
-- **[Friday Nite](https://open.spotify.com/track/7vjCeLTX5movVPYx22ceCe)** by **elricfd** *(Friday Nite)* - `1 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `39 min ago`
+- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `42 min ago`
+- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `45 min ago`
+- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `48 min ago`
+- **[starry eyes](https://open.spotify.com/track/1EDvvAvJR0rSwOjXPXitmx)** by **gl0wrm, Levi Ryan** *(starry eyes)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-10 14:14:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-10 15:16:46 UTC*
 <!-- SPOTIFY-END -->
