@@ -92,34 +92,34 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fc9f879f747f98fe27453622" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2739bc2932362782c196fa2e718" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh">Charmer</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/77xbIliiMGEoAOSFaREtnr">Primary Colors</a></strong><br/>
   <em>by</em> <strong>Tigers Jaw</strong><br/>
-  <em>Album:</em> Charmer
+  <em>Album:</em> Lost on You
 </p>
 
-<p align="center"><code>1:08</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>3:25</code></p>
+<p align="center"><code>0:59</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Escape Plan](https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy)** by **Tigers Jaw** *(spin)* - `1 min ago`
-- **[Staring at Empty Faces](https://open.spotify.com/track/1vHE9icL1v0hteKmCpDDfN)** by **Tigers Jaw** *(Lost on You)* - `5 min ago`
-- **[We Are Great, There Is Only One (Tigers Jaw)](https://open.spotify.com/track/0btYefrUbkE9XDtmprpINs)** by **Tigers Jaw** *(Spirit Desire)* - `8 min ago`
-- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `10 min ago`
-- **[Ghost](https://open.spotify.com/track/4GqHGnx1MqL8z1KyTIIwW4)** by **Tigers Jaw** *(Lost on You)* - `14 min ago`
+- **[Meet at the Corner](https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P)** by **Tigers Jaw** *(Spirit Desire)* - `just now`
+- **[Follows](https://open.spotify.com/track/3EVgZBKWXY6xOtS8mrhW1C)** by **Tigers Jaw** *(spin)* - `2 min ago`
+- **[Anxious Blade](https://open.spotify.com/track/2Z9OvK5tTkFY6HBLZ3pgvw)** by **Tigers Jaw** *(Lost on You)* - `6 min ago`
+- **[Charmer](https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh)** by **Tigers Jaw** *(Charmer)* - `9 min ago`
+- **[Escape Plan](https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy)** by **Tigers Jaw** *(spin)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Levi Ryan**](https://open.spotify.com/artist/00hxNB9gMEeMFLLaW06F4J)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Tigers Jaw**](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Honestly, The Worst**](https://open.spotify.com/artist/3JyFIzk46FmjCicDxU4u3s)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 12:08:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 13:39:05 UTC*
 <!-- SPOTIFY-END -->
