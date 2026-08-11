@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737fa27627513898e457d8f9b5" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg">I Saw Water</a></strong><br/>
+  <em>by</em> <strong>Tigers Jaw</strong><br/>
+  <em>Album:</em> Tigers Jaw
+</p>
+
+<p align="center"><code>0:47</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>4:16</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `32 min ago`
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `35 min ago`
-- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `38 min ago`
-- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `42 min ago`
-- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `45 min ago`
+- **[The Sun](https://open.spotify.com/track/5bJt0jOz9spwJ1rJwSQJ1a)** by **Tigers Jaw** *(Tigers Jaw)* - `just now`
+- **[Between Your Band and the Other Band](https://open.spotify.com/track/3l0Q2p2Ynz5Mfm4y3BnZAi)** by **Tigers Jaw** *(Tigers Jaw)* - `4 min ago`
+- **[Spirit Desire](https://open.spotify.com/track/3PTKa8qgM7axIkatKDxVft)** by **Tigers Jaw** *(Spirit Desire)* - `9 min ago`
+- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `14 min ago`
+- **[Spirit Desire](https://open.spotify.com/track/3PTKa8qgM7axIkatKDxVft)** by **Tigers Jaw** *(Spirit Desire)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -114,11 +124,11 @@
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 10:33:42 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 11:27:56 UTC*
 <!-- SPOTIFY-END -->
