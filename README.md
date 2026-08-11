@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737fa27627513898e457d8f9b5" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1JxUKhB7QGd082YGskroob">Plane Vs. Tank Vs. Submarine</a></strong><br/>
+  <em>by</em> <strong>Tigers Jaw</strong><br/>
+  <em>Album:</em> Tigers Jaw
+</p>
+
+<p align="center"><code>0:22</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Meet at the Corner](https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P)** by **Tigers Jaw** *(Spirit Desire)* - `1 h ago`
-- **[Follows](https://open.spotify.com/track/3EVgZBKWXY6xOtS8mrhW1C)** by **Tigers Jaw** *(spin)* - `2 h ago`
-- **[Anxious Blade](https://open.spotify.com/track/2Z9OvK5tTkFY6HBLZ3pgvw)** by **Tigers Jaw** *(Lost on You)* - `2 h ago`
-- **[Charmer](https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh)** by **Tigers Jaw** *(Charmer)* - `2 h ago`
-- **[Escape Plan](https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy)** by **Tigers Jaw** *(spin)* - `2 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `31 min ago`
+- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `34 min ago`
+- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `37 min ago`
+- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `40 min ago`
+- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `43 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 15:36:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 16:33:08 UTC*
 <!-- SPOTIFY-END -->
