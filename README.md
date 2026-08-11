@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb">Ptolemy</a></strong><br/>
-  <em>by</em> <strong>Aphex Twin</strong><br/>
-  <em>Album:</em> Selected Ambient Works 85-92
-</p>
-
-<p align="center"><code>1:43</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>7:14</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Parisian Goldfish](https://open.spotify.com/track/29xEf2nthfXE2rA1X7wO1K)** by **Flying Lotus** *(Los Angeles)* - `just now`
-- **[Chocolate Matter](https://open.spotify.com/track/6AMEHNhqK1qwCEJX9UBjEQ)** by **Sweet Trip** *(Velocity: Design: Comfort.)* - `3 min ago`
-- **[soon](https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ)** by **my bloody valentine** *(loveless)* - `6 min ago`
-- **[Dayvan Cowboy](https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5)** by **Boards of Canada** *(The Campfire Headphase)* - `13 min ago`
-- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `18 min ago`
+- **[Stargazer](https://open.spotify.com/track/3Jhl5YNtxcesHnvs8vouwG)** by **honeydip** *(Another Sunny Day -Remastered-)* - `19 min ago`
+- **[Parade](https://open.spotify.com/track/0DYALM07LyrmvGBNpa8Zfw)** by **Parannoul** *(After the Magic)* - `31 min ago`
+- **[Sunset Strike](https://open.spotify.com/track/4xpxI8BIj8s4KR5hIYVPPm)** by **BrokenTeeth** *(How to Sink Slowly)* - `38 min ago`
+- **[Chrome Country](https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ)** by **Oneohtrix Point Never** *(R Plus Seven)* - `42 min ago`
+- **[Pulsewidth](https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `46 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 17:38:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 18:32:51 UTC*
 <!-- SPOTIFY-END -->
