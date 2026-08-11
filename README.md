@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739bc2932362782c196fa2e718" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/77xbIliiMGEoAOSFaREtnr">Primary Colors</a></strong><br/>
-  <em>by</em> <strong>Tigers Jaw</strong><br/>
-  <em>Album:</em> Lost on You
-</p>
-
-<p align="center"><code>0:59</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:37</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Meet at the Corner](https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P)** by **Tigers Jaw** *(Spirit Desire)* - `just now`
-- **[Follows](https://open.spotify.com/track/3EVgZBKWXY6xOtS8mrhW1C)** by **Tigers Jaw** *(spin)* - `2 min ago`
-- **[Anxious Blade](https://open.spotify.com/track/2Z9OvK5tTkFY6HBLZ3pgvw)** by **Tigers Jaw** *(Lost on You)* - `6 min ago`
-- **[Charmer](https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh)** by **Tigers Jaw** *(Charmer)* - `9 min ago`
-- **[Escape Plan](https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy)** by **Tigers Jaw** *(spin)* - `12 min ago`
+- **[Meet at the Corner](https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P)** by **Tigers Jaw** *(Spirit Desire)* - `1 h ago`
+- **[Follows](https://open.spotify.com/track/3EVgZBKWXY6xOtS8mrhW1C)** by **Tigers Jaw** *(spin)* - `1 h ago`
+- **[Anxious Blade](https://open.spotify.com/track/2Z9OvK5tTkFY6HBLZ3pgvw)** by **Tigers Jaw** *(Lost on You)* - `1 h ago`
+- **[Charmer](https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh)** by **Tigers Jaw** *(Charmer)* - `1 h ago`
+- **[Escape Plan](https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy)** by **Tigers Jaw** *(spin)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +116,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Twizzy**](https://open.spotify.com/track/7uArpGfBTExgZjNaa55IhF)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 13:39:05 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 14:41:46 UTC*
 <!-- SPOTIFY-END -->
