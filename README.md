@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Stargazer](https://open.spotify.com/track/3Jhl5YNtxcesHnvs8vouwG)** by **honeydip** *(Another Sunny Day -Remastered-)* - `19 min ago`
-- **[Parade](https://open.spotify.com/track/0DYALM07LyrmvGBNpa8Zfw)** by **Parannoul** *(After the Magic)* - `31 min ago`
-- **[Sunset Strike](https://open.spotify.com/track/4xpxI8BIj8s4KR5hIYVPPm)** by **BrokenTeeth** *(How to Sink Slowly)* - `38 min ago`
-- **[Chrome Country](https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ)** by **Oneohtrix Point Never** *(R Plus Seven)* - `42 min ago`
-- **[Pulsewidth](https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `46 min ago`
+- **[Stargazer](https://open.spotify.com/track/3Jhl5YNtxcesHnvs8vouwG)** by **honeydip** *(Another Sunny Day -Remastered-)* - `1 h ago`
+- **[Parade](https://open.spotify.com/track/0DYALM07LyrmvGBNpa8Zfw)** by **Parannoul** *(After the Magic)* - `1 h ago`
+- **[Sunset Strike](https://open.spotify.com/track/4xpxI8BIj8s4KR5hIYVPPm)** by **BrokenTeeth** *(How to Sink Slowly)* - `1 h ago`
+- **[Chrome Country](https://open.spotify.com/track/4TBVy5cFYGmK5BA3rdMGEQ)** by **Oneohtrix Point Never** *(R Plus Seven)* - `1 h ago`
+- **[Pulsewidth](https://open.spotify.com/track/643gyipSU7dkmrFhJ8UAIm)** by **Aphex Twin** *(Selected Ambient Works 85-92)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 18:32:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 19:43:47 UTC*
 <!-- SPOTIFY-END -->
