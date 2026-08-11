@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737fa27627513898e457d8f9b5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27338906032688bb13b135ce19a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1JxUKhB7QGd082YGskroob">Plane Vs. Tank Vs. Submarine</a></strong><br/>
-  <em>by</em> <strong>Tigers Jaw</strong><br/>
-  <em>Album:</em> Tigers Jaw
+  <strong><a href="https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb">Ptolemy</a></strong><br/>
+  <em>by</em> <strong>Aphex Twin</strong><br/>
+  <em>Album:</em> Selected Ambient Works 85-92
 </p>
 
-<p align="center"><code>0:22</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:02</code></p>
+<p align="center"><code>1:43</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>7:14</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `31 min ago`
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `34 min ago`
-- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `37 min ago`
-- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `40 min ago`
-- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `43 min ago`
+- **[Parisian Goldfish](https://open.spotify.com/track/29xEf2nthfXE2rA1X7wO1K)** by **Flying Lotus** *(Los Angeles)* - `just now`
+- **[Chocolate Matter](https://open.spotify.com/track/6AMEHNhqK1qwCEJX9UBjEQ)** by **Sweet Trip** *(Velocity: Design: Comfort.)* - `3 min ago`
+- **[soon](https://open.spotify.com/track/4TJVYq699BO7PagAjXxYhJ)** by **my bloody valentine** *(loveless)* - `6 min ago`
+- **[Dayvan Cowboy](https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5)** by **Boards of Canada** *(The Campfire Headphase)* - `13 min ago`
+- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `18 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 16:33:08 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 17:38:04 UTC*
 <!-- SPOTIFY-END -->
