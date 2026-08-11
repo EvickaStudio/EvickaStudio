@@ -97,10 +97,10 @@
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
 - **[Meet at the Corner](https://open.spotify.com/track/2dEhFo7bGnpxExq03Lh66P)** by **Tigers Jaw** *(Spirit Desire)* - `1 h ago`
-- **[Follows](https://open.spotify.com/track/3EVgZBKWXY6xOtS8mrhW1C)** by **Tigers Jaw** *(spin)* - `1 h ago`
-- **[Anxious Blade](https://open.spotify.com/track/2Z9OvK5tTkFY6HBLZ3pgvw)** by **Tigers Jaw** *(Lost on You)* - `1 h ago`
-- **[Charmer](https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh)** by **Tigers Jaw** *(Charmer)* - `1 h ago`
-- **[Escape Plan](https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy)** by **Tigers Jaw** *(spin)* - `1 h ago`
+- **[Follows](https://open.spotify.com/track/3EVgZBKWXY6xOtS8mrhW1C)** by **Tigers Jaw** *(spin)* - `2 h ago`
+- **[Anxious Blade](https://open.spotify.com/track/2Z9OvK5tTkFY6HBLZ3pgvw)** by **Tigers Jaw** *(Lost on You)* - `2 h ago`
+- **[Charmer](https://open.spotify.com/track/1M6ilnTZYuu8jciFYI9VKh)** by **Tigers Jaw** *(Charmer)* - `2 h ago`
+- **[Escape Plan](https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy)** by **Tigers Jaw** *(spin)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 14:41:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-11 15:36:56 UTC*
 <!-- SPOTIFY-END -->
