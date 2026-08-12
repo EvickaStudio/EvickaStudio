@@ -97,9 +97,9 @@
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
 - **[sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ)** by **my bloody valentine** *(loveless)* - `7 h ago`
-- **[Stargazer](https://open.spotify.com/track/3Jhl5YNtxcesHnvs8vouwG)** by **honeydip** *(Another Sunny Day -Remastered-)* - `7 h ago`
-- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `7 h ago`
-- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `7 h ago`
+- **[Stargazer](https://open.spotify.com/track/3Jhl5YNtxcesHnvs8vouwG)** by **honeydip** *(Another Sunny Day -Remastered-)* - `8 h ago`
+- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `8 h ago`
+- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `8 h ago`
 - **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `8 h ago`
 
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-12 22:58:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-12 23:40:32 UTC*
 <!-- SPOTIFY-END -->
