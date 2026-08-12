@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Lower Your Eyelids To Die With the Sun](https://open.spotify.com/track/5WMnCJcI1CGG33Uhn2tjMc)** by **M83** *(Before the Dawn Heals Us)* - `9 min ago`
-- **[27](https://open.spotify.com/track/4OlPyqlxsEbIdJBPCHjTv6)** by **Title Fight** *(Shed)* - `10 h ago`
-- **[Where Am I?](https://open.spotify.com/track/6NJ5dlpVne8uf24ttjIbpD)** by **Title Fight** *(Shed)* - `10 h ago`
-- **[Nodding Off (Fucked/Fine)](https://open.spotify.com/track/3COyOZNJjWk1c3PCEvNEJG)** by **The Obsessives** *(Heck No, Nancy)* - `10 h ago`
-- **[I Hope You're Miserable](https://open.spotify.com/track/4Fi5D0jo5RuBfdwh80HEli)** by **Moose Blood** *(I'll Keep You in Mind, From Time to Time)* - `10 h ago`
+- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `1 h ago`
+- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `1 h ago`
+- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `1 h ago`
+- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `1 h ago`
+- **[Lower Your Eyelids To Die With the Sun](https://open.spotify.com/track/5WMnCJcI1CGG33Uhn2tjMc)** by **M83** *(Before the Dawn Heals Us)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,7 +118,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-12 08:03:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-12 09:29:46 UTC*
 <!-- SPOTIFY-END -->
