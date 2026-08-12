@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[27](https://open.spotify.com/track/4OlPyqlxsEbIdJBPCHjTv6)** by **Title Fight** *(Shed)* - `5 h ago`
-- **[Where Am I?](https://open.spotify.com/track/6NJ5dlpVne8uf24ttjIbpD)** by **Title Fight** *(Shed)* - `5 h ago`
-- **[Nodding Off (Fucked/Fine)](https://open.spotify.com/track/3COyOZNJjWk1c3PCEvNEJG)** by **The Obsessives** *(Heck No, Nancy)* - `5 h ago`
-- **[I Hope You're Miserable](https://open.spotify.com/track/4Fi5D0jo5RuBfdwh80HEli)** by **Moose Blood** *(I'll Keep You in Mind, From Time to Time)* - `5 h ago`
-- **[I Hope You're Miserable](https://open.spotify.com/track/4Fi5D0jo5RuBfdwh80HEli)** by **Moose Blood** *(I'll Keep You in Mind, From Time to Time)* - `5 h ago`
+- **[27](https://open.spotify.com/track/4OlPyqlxsEbIdJBPCHjTv6)** by **Title Fight** *(Shed)* - `7 h ago`
+- **[Where Am I?](https://open.spotify.com/track/6NJ5dlpVne8uf24ttjIbpD)** by **Title Fight** *(Shed)* - `7 h ago`
+- **[Nodding Off (Fucked/Fine)](https://open.spotify.com/track/3COyOZNJjWk1c3PCEvNEJG)** by **The Obsessives** *(Heck No, Nancy)* - `7 h ago`
+- **[I Hope You're Miserable](https://open.spotify.com/track/4Fi5D0jo5RuBfdwh80HEli)** by **Moose Blood** *(I'll Keep You in Mind, From Time to Time)* - `7 h ago`
+- **[I Hope You're Miserable](https://open.spotify.com/track/4Fi5D0jo5RuBfdwh80HEli)** by **Moose Blood** *(I'll Keep You in Mind, From Time to Time)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**My My, Hey Hey (Out of the Blue) - 2016 Remaster**](https://open.spotify.com/track/6VltRkmJbCTqgKrTHk4Ulw)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-12 03:28:49 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-12 05:13:37 UTC*
 <!-- SPOTIFY-END -->
