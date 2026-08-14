@@ -98,9 +98,9 @@
 
 - **[Anioł](https://open.spotify.com/track/3QoIvBpwdDj79GuNQfvD46)** by **Fewio, vorzu, morecalcium** *(Anioł)* - `14 h ago`
 - **[Walking On A Dream - Myd Remix](https://open.spotify.com/track/3c6V6nftb64TG6OcrAPD7V)** by **Empire Of The Sun, Myd** *(Walking On A Dream (Reimagined))* - `14 h ago`
-- **[Fortress Down](https://open.spotify.com/track/63SaN607accD2T4mLJFDRd)** by **Loathe** *(A Stranger To You)* - `14 h ago`
-- **[ESCORT](https://open.spotify.com/track/2MSEvdLW1ae6Vg506rsheE)** by **malcyre, Bandiicam** *(ESCORT)* - `14 h ago`
-- **[sex](https://open.spotify.com/track/6dRUcDBY3c1hYFhqnLXmUb)** by **Psyke** *(Skye)* - `14 h ago`
+- **[Fortress Down](https://open.spotify.com/track/63SaN607accD2T4mLJFDRd)** by **Loathe** *(A Stranger To You)* - `15 h ago`
+- **[ESCORT](https://open.spotify.com/track/2MSEvdLW1ae6Vg506rsheE)** by **malcyre, Bandiicam** *(ESCORT)* - `15 h ago`
+- **[sex](https://open.spotify.com/track/6dRUcDBY3c1hYFhqnLXmUb)** by **Psyke** *(Skye)* - `15 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-14 23:19:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-14 23:44:01 UTC*
 <!-- SPOTIFY-END -->
