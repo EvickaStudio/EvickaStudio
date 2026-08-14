@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273bccaa557f63f6ee95d36619c" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0sW0m4QcO3cLyeG2xDueOq">Hyper Independence</a></strong><br/>
-  <em>by</em> <strong>Pretty Sick</strong><br/>
-  <em>Album:</em> Hyper Independence
-</p>
-
-<p align="center"><code>1:08</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:32</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[gore pop](https://open.spotify.com/track/0wGj2vb6Pex8xITOqN21BT)** by **Gutzxx, cholorofilm, skellington** *(gore pop)* - `1 min ago`
-- **[I Used to Kill](https://open.spotify.com/track/4mOt7GoUAe3UdNCJrVFmgm)** by **daine, aldn** *(I Used to Kill)* - `4 min ago`
-- **[Verschwommen](https://open.spotify.com/track/1km0nSYg3uFU7ezuRbbwyL)** by **Ski Aggu** *(Verschwommen)* - `7 min ago`
-- **[Demise](https://open.spotify.com/track/6Mnnuye52QpQ0WkVxbLW2C)** by **wyrdo** *(Demise)* - `9 min ago`
-- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `12 min ago`
+- **[Anioł](https://open.spotify.com/track/3QoIvBpwdDj79GuNQfvD46)** by **Fewio, vorzu, morecalcium** *(Anioł)* - `13 min ago`
+- **[Walking On A Dream - Myd Remix](https://open.spotify.com/track/3c6V6nftb64TG6OcrAPD7V)** by **Empire Of The Sun, Myd** *(Walking On A Dream (Reimagined))* - `15 min ago`
+- **[Fortress Down](https://open.spotify.com/track/63SaN607accD2T4mLJFDRd)** by **Loathe** *(A Stranger To You)* - `19 min ago`
+- **[ESCORT](https://open.spotify.com/track/2MSEvdLW1ae6Vg506rsheE)** by **malcyre, Bandiicam** *(ESCORT)* - `22 min ago`
+- **[sex](https://open.spotify.com/track/6dRUcDBY3c1hYFhqnLXmUb)** by **Psyke** *(Skye)* - `25 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-14 07:55:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-14 09:01:21 UTC*
 <!-- SPOTIFY-END -->
