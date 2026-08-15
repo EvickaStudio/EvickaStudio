@@ -96,9 +96,9 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Anioł](https://open.spotify.com/track/3QoIvBpwdDj79GuNQfvD46)** by **Fewio, vorzu, morecalcium** *(Anioł)* - `22 h ago`
-- **[Walking On A Dream - Myd Remix](https://open.spotify.com/track/3c6V6nftb64TG6OcrAPD7V)** by **Empire Of The Sun, Myd** *(Walking On A Dream (Reimagined))* - `22 h ago`
-- **[Fortress Down](https://open.spotify.com/track/63SaN607accD2T4mLJFDRd)** by **Loathe** *(A Stranger To You)* - `22 h ago`
+- **[Anioł](https://open.spotify.com/track/3QoIvBpwdDj79GuNQfvD46)** by **Fewio, vorzu, morecalcium** *(Anioł)* - `23 h ago`
+- **[Walking On A Dream - Myd Remix](https://open.spotify.com/track/3c6V6nftb64TG6OcrAPD7V)** by **Empire Of The Sun, Myd** *(Walking On A Dream (Reimagined))* - `23 h ago`
+- **[Fortress Down](https://open.spotify.com/track/63SaN607accD2T4mLJFDRd)** by **Loathe** *(A Stranger To You)* - `23 h ago`
 - **[ESCORT](https://open.spotify.com/track/2MSEvdLW1ae6Vg506rsheE)** by **malcyre, Bandiicam** *(ESCORT)* - `23 h ago`
 - **[sex](https://open.spotify.com/track/6dRUcDBY3c1hYFhqnLXmUb)** by **Psyke** *(Skye)* - `23 h ago`
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-15 07:41:43 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-15 07:58:27 UTC*
 <!-- SPOTIFY-END -->
