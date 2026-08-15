@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273c168bd0c28830ab6a3fafda2" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D">Safe Place</a></strong><br/>
+  <em>by</em> <strong>Sezko</strong><br/>
+  <em>Album:</em> Safe Place
+</p>
+
+<p align="center"><code>1:29</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>2:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Anioł](https://open.spotify.com/track/3QoIvBpwdDj79GuNQfvD46)** by **Fewio, vorzu, morecalcium** *(Anioł)* - `1 d ago`
-- **[Walking On A Dream - Myd Remix](https://open.spotify.com/track/3c6V6nftb64TG6OcrAPD7V)** by **Empire Of The Sun, Myd** *(Walking On A Dream (Reimagined))* - `1 d ago`
-- **[Fortress Down](https://open.spotify.com/track/63SaN607accD2T4mLJFDRd)** by **Loathe** *(A Stranger To You)* - `1 d ago`
-- **[ESCORT](https://open.spotify.com/track/2MSEvdLW1ae6Vg506rsheE)** by **malcyre, Bandiicam** *(ESCORT)* - `1 d ago`
-- **[sex](https://open.spotify.com/track/6dRUcDBY3c1hYFhqnLXmUb)** by **Psyke** *(Skye)* - `1 d ago`
+- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `1 min ago`
+- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `3 min ago`
+- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `5 min ago`
+- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `8 min ago`
+- **[tomorrow was the war](https://open.spotify.com/track/1CTvXu9xeWG44eaSNWvIQj)** by **Levi Ryan** *(soviet winter)* - `13 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-15 10:39:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-15 10:56:37 UTC*
 <!-- SPOTIFY-END -->
