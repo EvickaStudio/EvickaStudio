@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27345f6c58341c281d50d622c5c" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx">born yesterday</a></strong><br/>
-  <em>by</em> <strong>Quadeca</strong><br/>
-  <em>Album:</em> I Didn't Mean To Haunt You
-</p>
-
-<p align="center"><code>0:49</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>6:01</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `just now`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `46 min ago`
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `49 min ago`
-- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `52 min ago`
-- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `56 min ago`
+- **[born yesterday](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)** by **Quadeca** *(I Didn't Mean To Haunt You)* - `20 min ago`
+- **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `26 min ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `1 h ago`
+- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `1 h ago`
+- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-15 11:54:13 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-15 12:20:12 UTC*
 <!-- SPOTIFY-END -->
