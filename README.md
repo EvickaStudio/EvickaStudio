@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Der tätowierte Totenschädel Kapitel 11](https://open.spotify.com/track/4JWTjKqrrPXAqIRskKec46)** by **Die 3 Senioren** *(Folge 11: Der tätowierte Totenschädel)* - `2 h ago`
-- **[204 - Der dunkle Wächter - Teil 27](https://open.spotify.com/track/2kYABqXNAfGpmvppO1a3cO)** by **Die drei ???** *(204/Der dunkle Wächter)* - `2 h ago`
-- **[Der Atem des Drachen (Teil 7)](https://open.spotify.com/track/118IsfXsF3FKqo4TBmRvWc)** by **Inspector Lestrade** *(Ein Fall für Scotland Yard 10: Der Atem des Drachen)* - `2 h ago`
-- **[027 - Die schwarze Lippe - Teil 23](https://open.spotify.com/track/6PUMN2fUe7qApKtv6vAAS9)** by **Kati & Azuro** *(027/Die schwarze Lippe)* - `2 h ago`
-- **[Eisenhut und Sylter Spitze Kapitel 18](https://open.spotify.com/track/2oIH6oBf7YIbXu1TEHBqYz)** by **Insel-Krimi** *(Folge 3: Eisenhut und Sylter Spitze)* - `2 h ago`
+- **[Der tätowierte Totenschädel Kapitel 11](https://open.spotify.com/track/4JWTjKqrrPXAqIRskKec46)** by **Die 3 Senioren** *(Folge 11: Der tätowierte Totenschädel)* - `3 h ago`
+- **[204 - Der dunkle Wächter - Teil 27](https://open.spotify.com/track/2kYABqXNAfGpmvppO1a3cO)** by **Die drei ???** *(204/Der dunkle Wächter)* - `3 h ago`
+- **[Der Atem des Drachen (Teil 7)](https://open.spotify.com/track/118IsfXsF3FKqo4TBmRvWc)** by **Inspector Lestrade** *(Ein Fall für Scotland Yard 10: Der Atem des Drachen)* - `3 h ago`
+- **[027 - Die schwarze Lippe - Teil 23](https://open.spotify.com/track/6PUMN2fUe7qApKtv6vAAS9)** by **Kati & Azuro** *(027/Die schwarze Lippe)* - `3 h ago`
+- **[Eisenhut und Sylter Spitze Kapitel 18](https://open.spotify.com/track/2oIH6oBf7YIbXu1TEHBqYz)** by **Insel-Krimi** *(Folge 3: Eisenhut und Sylter Spitze)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 07:07:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 07:43:12 UTC*
 <!-- SPOTIFY-END -->
