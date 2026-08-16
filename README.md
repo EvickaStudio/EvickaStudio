@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a97acc8ea0543332cc17489b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273700c3a8cd99403aa01b33f5e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0uCPfY1R8gX6QDoPvgkQRA">017 - Die Doppelgängerin - Teil 20</a></strong><br/>
-  <em>by</em> <strong>TKKG Retro-Archiv</strong><br/>
-  <em>Album:</em> 017/Die Doppelgängerin
+  <strong><a href="https://open.spotify.com/track/2JBcIUl8DDDwZ26OLHCVTT">Der Stromschlag, Szene 3</a></strong><br/>
+  <em>by</em> <strong>Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel</strong><br/>
+  <em>Album:</em> Die haarsträubenden Fälle des Philip Maloney, No.94 (Tödliches Camping, Die Frau aus Ungarn, Der Stromschlag)
 </p>
 
-<p align="center"><code>0:42</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:41</code></p>
+<p align="center"><code>0:31</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:25</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Der 5. Advent: 12. Dezember (12 von 24) - Teil 03](https://open.spotify.com/track/6RH5IzFVpBljqXm5zi7Ro2)** by **Die drei ???** *(Der 5. Advent)* - `just now`
-- **[054 - suchen den Stern des Nordens - Teil 37](https://open.spotify.com/track/3QW20zhAIC4DPCm7dbQPNG)** by **Fünf Freunde** *(054/suchen den Stern des Nordens)* - `2 min ago`
-- **[Küstenmorde Folge 02 - Tod per Knopfdruck - Teil 16](https://open.spotify.com/track/5QNqX1BkFH1ANWfbRjZ0F1)** by **Küstenmorde** *(Küstenmorde Folge 02 - Tod per Knopfdruck)* - `3 min ago`
-- **[Kapitel 13: Respekt! - Folge 109](https://open.spotify.com/track/6LJAlWSPkOkEgGE1hBleC5)** by **Teufelskicker** *(Folge 109: Respekt!)* - `6 min ago`
-- **[Der Schatz im Silberwald, Szene 5](https://open.spotify.com/track/4tuqVufdmVVl1CpLlQbgD3)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.73 (Der Schatz im Silberwald, Die Rentnergang, Der Schrumpfkopf))* - `9 min ago`
+- **[095 - U-Bahn des Schreckens - Teil 20](https://open.spotify.com/track/4JY9Nu5u7iyRIvuilDRl0C)** by **TKKG Retro-Archiv** *(095/U-Bahn des Schreckens)* - `just now`
+- **[147 - Grusel auf Campbell Castle - Teil 19](https://open.spotify.com/track/4HvruabDywsenPhIVnNJvY)** by **Die drei ???** *(147/Grusel auf Campbell Castle)* - `1 min ago`
+- **[Küstenmorde 07 - Kaltes Blut in Zimmer 17a - Teil 7](https://open.spotify.com/track/4Fk4gwq9sTRAMSiGFnDPTw)** by **Küstenmorde** *(Küstenmorde 07 - Kaltes Blut in Zimmer 17a)* - `3 min ago`
+- **[Kapitel 06: Der Raub-Zug - Folge 42](https://open.spotify.com/track/2wLm07Y72bZzREMfuH7Ug9)** by **TKKG Junior** *(Folge 42: Der Raub-Zug)* - `6 min ago`
+- **[098 - und die Legende der Zwillingseiche - Teil 07](https://open.spotify.com/track/1uEdwVmEwbrz4WHWdrXdHy)** by **Fünf Freunde** *(098/und die Legende der Zwillingseiche)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 03:25:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 04:05:37 UTC*
 <!-- SPOTIFY-END -->
