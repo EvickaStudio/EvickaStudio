@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273700c3a8cd99403aa01b33f5e" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2JBcIUl8DDDwZ26OLHCVTT">Der Stromschlag, Szene 3</a></strong><br/>
-  <em>by</em> <strong>Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel</strong><br/>
-  <em>Album:</em> Die haarsträubenden Fälle des Philip Maloney, No.94 (Tödliches Camping, Die Frau aus Ungarn, Der Stromschlag)
-</p>
-
-<p align="center"><code>0:31</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>3:25</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[095 - U-Bahn des Schreckens - Teil 20](https://open.spotify.com/track/4JY9Nu5u7iyRIvuilDRl0C)** by **TKKG Retro-Archiv** *(095/U-Bahn des Schreckens)* - `just now`
-- **[147 - Grusel auf Campbell Castle - Teil 19](https://open.spotify.com/track/4HvruabDywsenPhIVnNJvY)** by **Die drei ???** *(147/Grusel auf Campbell Castle)* - `1 min ago`
-- **[Küstenmorde 07 - Kaltes Blut in Zimmer 17a - Teil 7](https://open.spotify.com/track/4Fk4gwq9sTRAMSiGFnDPTw)** by **Küstenmorde** *(Küstenmorde 07 - Kaltes Blut in Zimmer 17a)* - `3 min ago`
-- **[Kapitel 06: Der Raub-Zug - Folge 42](https://open.spotify.com/track/2wLm07Y72bZzREMfuH7Ug9)** by **TKKG Junior** *(Folge 42: Der Raub-Zug)* - `6 min ago`
-- **[098 - und die Legende der Zwillingseiche - Teil 07](https://open.spotify.com/track/1uEdwVmEwbrz4WHWdrXdHy)** by **Fünf Freunde** *(098/und die Legende der Zwillingseiche)* - `9 min ago`
+- **[Der tätowierte Totenschädel Kapitel 11](https://open.spotify.com/track/4JWTjKqrrPXAqIRskKec46)** by **Die 3 Senioren** *(Folge 11: Der tätowierte Totenschädel)* - `12 min ago`
+- **[204 - Der dunkle Wächter - Teil 27](https://open.spotify.com/track/2kYABqXNAfGpmvppO1a3cO)** by **Die drei ???** *(204/Der dunkle Wächter)* - `15 min ago`
+- **[Der Atem des Drachen (Teil 7)](https://open.spotify.com/track/118IsfXsF3FKqo4TBmRvWc)** by **Inspector Lestrade** *(Ein Fall für Scotland Yard 10: Der Atem des Drachen)* - `16 min ago`
+- **[027 - Die schwarze Lippe - Teil 23](https://open.spotify.com/track/6PUMN2fUe7qApKtv6vAAS9)** by **Kati & Azuro** *(027/Die schwarze Lippe)* - `20 min ago`
+- **[Eisenhut und Sylter Spitze Kapitel 18](https://open.spotify.com/track/2oIH6oBf7YIbXu1TEHBqYz)** by **Insel-Krimi** *(Folge 3: Eisenhut und Sylter Spitze)* - `21 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 04:05:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 04:47:55 UTC*
 <!-- SPOTIFY-END -->
