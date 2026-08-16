@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ba1d789e15361f92c7fd5554" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736e4dee147fa04397168d5b0b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3hv6TGG0J0XOpXr4cqpGzb">Ein seltsamer Bruder, Szene 1</a></strong><br/>
-  <em>by</em> <strong>Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel, Peter Schneider</strong><br/>
-  <em>Album:</em> Die haarsträubenden Fälle des Philip Maloney, No.71 (Ein seltsamer Bruder, Es war einmal ein Mord, Der Ersatzmann)
+  <strong><a href="https://open.spotify.com/track/59mRAip7uEiXtaxlEm3NUN">Der Postraub, Szene 7</a></strong><br/>
+  <em>by</em> <strong>Philip Maloney</strong><br/>
+  <em>Album:</em> Die haarsträubenden Fälle des Philip Maloney, No.35 (Der grosse Knall, Der Doppelgänger, Der Postraub)
 </p>
 
-<p align="center"><code>1:26</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:31</code></p>
+<p align="center"><code>1:06</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:50</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 20: Verbrechen live im Radio - Folge 242](https://open.spotify.com/track/78lMPYiateVUEcAooaIEcx)** by **TKKG** *(Folge 242: Verbrechen live im Radio)* - `1 min ago`
-- **[015 - UFOs in Bad Finkenstein - Teil 13](https://open.spotify.com/track/1WZSIjwA7qefq6TnDA6nZn)** by **TKKG Retro-Archiv** *(015/Ufos in Bad Finkenstein)* - `4 min ago`
-- **[Kapitel 10: Gemeinsam stark! - Folge 112](https://open.spotify.com/track/7wXRiWYoeBRPTaplBDRo5Q)** by **Teufelskicker** *(Folge 112: Gemeinsam stark!)* - `6 min ago`
-- **[Kapitel 05: und die Spur der Diebe - Folge 172](https://open.spotify.com/track/5VB8aJizRfcgO6sqpTp7mm)** by **Fünf Freunde** *(Folge 172: und die Spur der Diebe)* - `8 min ago`
-- **[203 - Tauchgang ins Ungewisse - Teil 23](https://open.spotify.com/track/44KERBgLfr2XDr0CZsgnsr)** by **Die drei ???** *(203/Tauchgang ins Ungewisse)* - `11 min ago`
+- **[Kapitel 10: Respekt! - Folge 109](https://open.spotify.com/track/6BCV4ysKNe1iKnPkoTvIXs)** by **Teufelskicker** *(Folge 109: Respekt!)* - `just now`
+- **[002 - Der blinde Hellseher - Teil 08](https://open.spotify.com/track/4RbYprdJ7Qw2z7xyY6QJnB)** by **TKKG Retro-Archiv** *(002/Der blinde Hellseher)* - `3 min ago`
+- **[003 - Moskitos - Anflug der Killer-Insekten - Teil 08](https://open.spotify.com/track/3tZ2sfllzvXsa1R04jSBVi)** by **Gruselserie** *(003/Moskitos - Anflug der Killer-Insekten)* - `5 min ago`
+- **[186 - Die schlafende Chinesin - Teil 34](https://open.spotify.com/track/2BU7qRhWjs8vy2ygaf9pEG)** by **TKKG** *(186/Die schlafende Chinesin)* - `6 min ago`
+- **[157 - Im Zeichen der Schlangen - Teil 17](https://open.spotify.com/track/5dbk1yAHGn8shWMTP7FjaO)** by **Die drei ???** *(157/Im Zeichen der Schlangen)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 00:48:05 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 02:16:29 UTC*
 <!-- SPOTIFY-END -->
