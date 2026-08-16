@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733b114ffdd62ab393de5354f0" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2AcI2V56G3ukY5BEHvAjuf">080 - Geheimakte Ufo - Teil 13</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 080/Geheimakte Ufo
+</p>
+
+<p align="center"><code>0:22</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:33</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `3 h ago`
-- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `3 h ago`
-- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `3 h ago`
-- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `3 h ago`
-- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `3 h ago`
+- **[080 - Geheimakte Ufo - Teil 12](https://open.spotify.com/track/1sIUMYx0gIt8YQBOD2t63c)** by **Die drei ???** *(080/Geheimakte Ufo)* - `just now`
+- **[080 - Geheimakte Ufo - Teil 11](https://open.spotify.com/track/3QxDBJke9yr53go82Hhiht)** by **Die drei ???** *(080/Geheimakte Ufo)* - `1 min ago`
+- **[080 - Geheimakte Ufo - Teil 10](https://open.spotify.com/track/1UXcoAzj0Q4hOiVxcpJydO)** by **Die drei ???** *(080/Geheimakte Ufo)* - `3 min ago`
+- **[080 - Geheimakte Ufo - Teil 09](https://open.spotify.com/track/6Syxymsd8B61Lf7KQt6s9V)** by **Die drei ???** *(080/Geheimakte Ufo)* - `4 min ago`
+- **[080 - Geheimakte Ufo - Teil 08](https://open.spotify.com/track/4ADs2KUokQsEkO1W4rx4oT)** by **Die drei ???** *(080/Geheimakte Ufo)* - `6 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 23:12:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 23:32:52 UTC*
 <!-- SPOTIFY-END -->
