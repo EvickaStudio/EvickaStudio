@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273e677666d78d8b94f9fe18088" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/7EnX9nbG6TMgcw2ESD8K3R">078 - Das leere Grab - Teil 12</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 078/Das leere Grab
+</p>
+
+<p align="center"><code>0:07</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>1:32</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
+- **[078 - Das leere Grab - Teil 10](https://open.spotify.com/track/2w2Q0uKIp2FWDRzpE9WQC7)** by **Die drei ???** *(078/Das leere Grab)* - `1 min ago`
+- **[078 - Das leere Grab - Teil 09](https://open.spotify.com/track/2A1Whdf852iIeKz0hQp2Q0)** by **Die drei ???** *(078/Das leere Grab)* - `2 min ago`
+- **[078 - Das leere Grab - Teil 09](https://open.spotify.com/track/2A1Whdf852iIeKz0hQp2Q0)** by **Die drei ???** *(078/Das leere Grab)* - `1 h ago`
 - **[078 - Das leere Grab - Teil 08](https://open.spotify.com/track/5nHXJC9VjRNrGxv4XIun5z)** by **Die drei ???** *(078/Das leere Grab)* - `1 h ago`
 - **[078 - Das leere Grab - Teil 07](https://open.spotify.com/track/2cEKYTk3jNWOQqgjwjvqUu)** by **Die drei ???** *(078/Das leere Grab)* - `1 h ago`
-- **[078 - Das leere Grab - Teil 06](https://open.spotify.com/track/4tzLiPqJn5Y8ivln1xoj8D)** by **Die drei ???** *(078/Das leere Grab)* - `1 h ago`
-- **[078 - Das leere Grab - Teil 05](https://open.spotify.com/track/33mhe2WlQVmxLzwFPnIqFv)** by **Die drei ???** *(078/Das leere Grab)* - `1 h ago`
-- **[078 - Das leere Grab - Teil 04](https://open.spotify.com/track/2wSjjzlYI5lcpMMB5zoKir)** by **Die drei ???** *(078/Das leere Grab)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 09:57:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 10:18:40 UTC*
 <!-- SPOTIFY-END -->
