@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 04: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/3DBl2klc6uTwJ98ScIPQKZ)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `3 h ago`
-- **[080 - Geheimakte Ufo - Teil 05](https://open.spotify.com/track/4gaCd8SLmkMur8sAJ1AhQ6)** by **Die drei ???** *(080/Geheimakte Ufo)* - `4 h ago`
-- **[080 - Geheimakte Ufo - Teil 04](https://open.spotify.com/track/76jngNF4BceIrFgR2Uir8O)** by **Die drei ???** *(080/Geheimakte Ufo)* - `4 h ago`
-- **[080 - Geheimakte Ufo - Teil 03](https://open.spotify.com/track/239RdJVkqWGJzDvs6epWo1)** by **Die drei ???** *(080/Geheimakte Ufo)* - `4 h ago`
-- **[Kapitel 03: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/4m8gaP7LnTAt3TqQd8DETZ)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `4 h ago`
+- **[Kapitel 04: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/3DBl2klc6uTwJ98ScIPQKZ)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `4 h ago`
+- **[080 - Geheimakte Ufo - Teil 05](https://open.spotify.com/track/4gaCd8SLmkMur8sAJ1AhQ6)** by **Die drei ???** *(080/Geheimakte Ufo)* - `5 h ago`
+- **[080 - Geheimakte Ufo - Teil 04](https://open.spotify.com/track/76jngNF4BceIrFgR2Uir8O)** by **Die drei ???** *(080/Geheimakte Ufo)* - `5 h ago`
+- **[080 - Geheimakte Ufo - Teil 03](https://open.spotify.com/track/239RdJVkqWGJzDvs6epWo1)** by **Die drei ???** *(080/Geheimakte Ufo)* - `5 h ago`
+- **[Kapitel 03: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/4m8gaP7LnTAt3TqQd8DETZ)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 15:55:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 16:14:17 UTC*
 <!-- SPOTIFY-END -->
