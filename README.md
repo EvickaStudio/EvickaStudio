@@ -96,21 +96,21 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2AcI2V56G3ukY5BEHvAjuf">080 - Geheimakte Ufo - Teil 13</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/0Oy7rnLgDZKg3bTAyiyeGA">080 - Geheimakte Ufo - Teil 27</a></strong><br/>
   <em>by</em> <strong>Die drei ???</strong><br/>
   <em>Album:</em> 080/Geheimakte Ufo
 </p>
 
-<p align="center"><code>0:22</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:33</code></p>
+<p align="center"><code>0:58</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>1:31</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[080 - Geheimakte Ufo - Teil 12](https://open.spotify.com/track/1sIUMYx0gIt8YQBOD2t63c)** by **Die drei ???** *(080/Geheimakte Ufo)* - `just now`
-- **[080 - Geheimakte Ufo - Teil 11](https://open.spotify.com/track/3QxDBJke9yr53go82Hhiht)** by **Die drei ???** *(080/Geheimakte Ufo)* - `1 min ago`
-- **[080 - Geheimakte Ufo - Teil 10](https://open.spotify.com/track/1UXcoAzj0Q4hOiVxcpJydO)** by **Die drei ???** *(080/Geheimakte Ufo)* - `3 min ago`
-- **[080 - Geheimakte Ufo - Teil 09](https://open.spotify.com/track/6Syxymsd8B61Lf7KQt6s9V)** by **Die drei ???** *(080/Geheimakte Ufo)* - `4 min ago`
-- **[080 - Geheimakte Ufo - Teil 08](https://open.spotify.com/track/4ADs2KUokQsEkO1W4rx4oT)** by **Die drei ???** *(080/Geheimakte Ufo)* - `6 min ago`
+- **[080 - Geheimakte Ufo - Teil 26](https://open.spotify.com/track/4fRHOEBXIJjPTRB60hHTbb)** by **Die drei ???** *(080/Geheimakte Ufo)* - `just now`
+- **[080 - Geheimakte Ufo - Teil 25](https://open.spotify.com/track/2TbLQ49tWW4hZK2yWzoi1Z)** by **Die drei ???** *(080/Geheimakte Ufo)* - `2 min ago`
+- **[080 - Geheimakte Ufo - Teil 24](https://open.spotify.com/track/5JLiCQWyvpxfNw5GPSvf6l)** by **Die drei ???** *(080/Geheimakte Ufo)* - `4 min ago`
+- **[080 - Geheimakte Ufo - Teil 23](https://open.spotify.com/track/4EUTHVbQqoD61EabEQusXh)** by **Die drei ???** *(080/Geheimakte Ufo)* - `5 min ago`
+- **[080 - Geheimakte Ufo - Teil 22](https://open.spotify.com/track/6EJR1K85LnCrIrMjs7tImW)** by **Die drei ???** *(080/Geheimakte Ufo)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 23:32:52 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 23:54:23 UTC*
 <!-- SPOTIFY-END -->
