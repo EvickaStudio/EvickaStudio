@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Der tätowierte Totenschädel Kapitel 11](https://open.spotify.com/track/4JWTjKqrrPXAqIRskKec46)** by **Die 3 Senioren** *(Folge 11: Der tätowierte Totenschädel)* - `12 min ago`
-- **[204 - Der dunkle Wächter - Teil 27](https://open.spotify.com/track/2kYABqXNAfGpmvppO1a3cO)** by **Die drei ???** *(204/Der dunkle Wächter)* - `15 min ago`
-- **[Der Atem des Drachen (Teil 7)](https://open.spotify.com/track/118IsfXsF3FKqo4TBmRvWc)** by **Inspector Lestrade** *(Ein Fall für Scotland Yard 10: Der Atem des Drachen)* - `16 min ago`
-- **[027 - Die schwarze Lippe - Teil 23](https://open.spotify.com/track/6PUMN2fUe7qApKtv6vAAS9)** by **Kati & Azuro** *(027/Die schwarze Lippe)* - `20 min ago`
-- **[Eisenhut und Sylter Spitze Kapitel 18](https://open.spotify.com/track/2oIH6oBf7YIbXu1TEHBqYz)** by **Insel-Krimi** *(Folge 3: Eisenhut und Sylter Spitze)* - `21 min ago`
+- **[Der tätowierte Totenschädel Kapitel 11](https://open.spotify.com/track/4JWTjKqrrPXAqIRskKec46)** by **Die 3 Senioren** *(Folge 11: Der tätowierte Totenschädel)* - `44 min ago`
+- **[204 - Der dunkle Wächter - Teil 27](https://open.spotify.com/track/2kYABqXNAfGpmvppO1a3cO)** by **Die drei ???** *(204/Der dunkle Wächter)* - `47 min ago`
+- **[Der Atem des Drachen (Teil 7)](https://open.spotify.com/track/118IsfXsF3FKqo4TBmRvWc)** by **Inspector Lestrade** *(Ein Fall für Scotland Yard 10: Der Atem des Drachen)* - `48 min ago`
+- **[027 - Die schwarze Lippe - Teil 23](https://open.spotify.com/track/6PUMN2fUe7qApKtv6vAAS9)** by **Kati & Azuro** *(027/Die schwarze Lippe)* - `51 min ago`
+- **[Eisenhut und Sylter Spitze Kapitel 18](https://open.spotify.com/track/2oIH6oBf7YIbXu1TEHBqYz)** by **Insel-Krimi** *(Folge 3: Eisenhut und Sylter Spitze)* - `53 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 04:47:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 05:19:40 UTC*
 <!-- SPOTIFY-END -->
