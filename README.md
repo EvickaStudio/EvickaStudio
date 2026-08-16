@@ -96,21 +96,21 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/7EnX9nbG6TMgcw2ESD8K3R">078 - Das leere Grab - Teil 12</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/08jPh1ASEHSzh0LEr1bW7d">078 - Das leere Grab - Teil 30</a></strong><br/>
   <em>by</em> <strong>Die drei ???</strong><br/>
   <em>Album:</em> 078/Das leere Grab
 </p>
 
-<p align="center"><code>0:07</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>1:32</code></p>
+<p align="center"><code>1:21</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:30</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[078 - Das leere Grab - Teil 10](https://open.spotify.com/track/2w2Q0uKIp2FWDRzpE9WQC7)** by **Die drei ???** *(078/Das leere Grab)* - `1 min ago`
-- **[078 - Das leere Grab - Teil 09](https://open.spotify.com/track/2A1Whdf852iIeKz0hQp2Q0)** by **Die drei ???** *(078/Das leere Grab)* - `2 min ago`
-- **[078 - Das leere Grab - Teil 09](https://open.spotify.com/track/2A1Whdf852iIeKz0hQp2Q0)** by **Die drei ???** *(078/Das leere Grab)* - `1 h ago`
-- **[078 - Das leere Grab - Teil 08](https://open.spotify.com/track/5nHXJC9VjRNrGxv4XIun5z)** by **Die drei ???** *(078/Das leere Grab)* - `1 h ago`
-- **[078 - Das leere Grab - Teil 07](https://open.spotify.com/track/2cEKYTk3jNWOQqgjwjvqUu)** by **Die drei ???** *(078/Das leere Grab)* - `1 h ago`
+- **[078 - Das leere Grab - Teil 29](https://open.spotify.com/track/2h3916CkNFjsUGmbPgekR2)** by **Die drei ???** *(078/Das leere Grab)* - `1 min ago`
+- **[078 - Das leere Grab - Teil 28](https://open.spotify.com/track/4AsYwaobRq4wYy9rsgpZ78)** by **Die drei ???** *(078/Das leere Grab)* - `2 min ago`
+- **[078 - Das leere Grab - Teil 27](https://open.spotify.com/track/3jowsLTShX6KAdbOaBrdJm)** by **Die drei ???** *(078/Das leere Grab)* - `4 min ago`
+- **[078 - Das leere Grab - Teil 26](https://open.spotify.com/track/5akD6jjt1kV9tbLeZqda92)** by **Die drei ???** *(078/Das leere Grab)* - `5 min ago`
+- **[078 - Das leere Grab - Teil 25](https://open.spotify.com/track/6jJKp4VKdrVy0k3ZEJE57B)** by **Die drei ???** *(078/Das leere Grab)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 10:18:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 10:45:50 UTC*
 <!-- SPOTIFY-END -->
