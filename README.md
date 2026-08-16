@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733afae5da0d3f7093952ce833" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME">I Won't Care How You Remember Me</a></strong><br/>
+  <em>by</em> <strong>Tigers Jaw, Andy Hull</strong><br/>
+  <em>Album:</em> I Won't Care How You Remember Me
+</p>
+
+<p align="center"><code>0:57</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:36</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
+- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `just now`
+- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `5 min ago`
 - **[Kapitel 04: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/3DBl2klc6uTwJ98ScIPQKZ)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `4 h ago`
 - **[080 - Geheimakte Ufo - Teil 05](https://open.spotify.com/track/4gaCd8SLmkMur8sAJ1AhQ6)** by **Die drei ???** *(080/Geheimakte Ufo)* - `5 h ago`
 - **[080 - Geheimakte Ufo - Teil 04](https://open.spotify.com/track/76jngNF4BceIrFgR2Uir8O)** by **Die drei ???** *(080/Geheimakte Ufo)* - `5 h ago`
-- **[080 - Geheimakte Ufo - Teil 03](https://open.spotify.com/track/239RdJVkqWGJzDvs6epWo1)** by **Die drei ???** *(080/Geheimakte Ufo)* - `5 h ago`
-- **[Kapitel 03: Das Geheimnis der sieben Palmen - Folge 239](https://open.spotify.com/track/4m8gaP7LnTAt3TqQd8DETZ)** by **Die drei ???** *(Folge 239: Das Geheimnis der sieben Palmen)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 16:42:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 17:00:04 UTC*
 <!-- SPOTIFY-END -->
