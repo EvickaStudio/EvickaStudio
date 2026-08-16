@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2736e4dee147fa04397168d5b0b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a97acc8ea0543332cc17489b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/59mRAip7uEiXtaxlEm3NUN">Der Postraub, Szene 7</a></strong><br/>
-  <em>by</em> <strong>Philip Maloney</strong><br/>
-  <em>Album:</em> Die haarsträubenden Fälle des Philip Maloney, No.35 (Der grosse Knall, Der Doppelgänger, Der Postraub)
+  <strong><a href="https://open.spotify.com/track/0uCPfY1R8gX6QDoPvgkQRA">017 - Die Doppelgängerin - Teil 20</a></strong><br/>
+  <em>by</em> <strong>TKKG Retro-Archiv</strong><br/>
+  <em>Album:</em> 017/Die Doppelgängerin
 </p>
 
-<p align="center"><code>1:06</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:50</code></p>
+<p align="center"><code>0:42</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:41</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 10: Respekt! - Folge 109](https://open.spotify.com/track/6BCV4ysKNe1iKnPkoTvIXs)** by **Teufelskicker** *(Folge 109: Respekt!)* - `just now`
-- **[002 - Der blinde Hellseher - Teil 08](https://open.spotify.com/track/4RbYprdJ7Qw2z7xyY6QJnB)** by **TKKG Retro-Archiv** *(002/Der blinde Hellseher)* - `3 min ago`
-- **[003 - Moskitos - Anflug der Killer-Insekten - Teil 08](https://open.spotify.com/track/3tZ2sfllzvXsa1R04jSBVi)** by **Gruselserie** *(003/Moskitos - Anflug der Killer-Insekten)* - `5 min ago`
-- **[186 - Die schlafende Chinesin - Teil 34](https://open.spotify.com/track/2BU7qRhWjs8vy2ygaf9pEG)** by **TKKG** *(186/Die schlafende Chinesin)* - `6 min ago`
-- **[157 - Im Zeichen der Schlangen - Teil 17](https://open.spotify.com/track/5dbk1yAHGn8shWMTP7FjaO)** by **Die drei ???** *(157/Im Zeichen der Schlangen)* - `8 min ago`
+- **[Der 5. Advent: 12. Dezember (12 von 24) - Teil 03](https://open.spotify.com/track/6RH5IzFVpBljqXm5zi7Ro2)** by **Die drei ???** *(Der 5. Advent)* - `just now`
+- **[054 - suchen den Stern des Nordens - Teil 37](https://open.spotify.com/track/3QW20zhAIC4DPCm7dbQPNG)** by **Fünf Freunde** *(054/suchen den Stern des Nordens)* - `2 min ago`
+- **[Küstenmorde Folge 02 - Tod per Knopfdruck - Teil 16](https://open.spotify.com/track/5QNqX1BkFH1ANWfbRjZ0F1)** by **Küstenmorde** *(Küstenmorde Folge 02 - Tod per Knopfdruck)* - `3 min ago`
+- **[Kapitel 13: Respekt! - Folge 109](https://open.spotify.com/track/6LJAlWSPkOkEgGE1hBleC5)** by **Teufelskicker** *(Folge 109: Respekt!)* - `6 min ago`
+- **[Der Schatz im Silberwald, Szene 5](https://open.spotify.com/track/4tuqVufdmVVl1CpLlQbgD3)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.73 (Der Schatz im Silberwald, Die Rentnergang, Der Schrumpfkopf))* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 02:16:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 03:25:00 UTC*
 <!-- SPOTIFY-END -->
