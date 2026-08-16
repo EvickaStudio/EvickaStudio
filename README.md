@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[078 - Das leere Grab - Teil 08](https://open.spotify.com/track/5nHXJC9VjRNrGxv4XIun5z)** by **Die drei ???** *(078/Das leere Grab)* - `12 min ago`
-- **[078 - Das leere Grab - Teil 07](https://open.spotify.com/track/2cEKYTk3jNWOQqgjwjvqUu)** by **Die drei ???** *(078/Das leere Grab)* - `13 min ago`
-- **[078 - Das leere Grab - Teil 06](https://open.spotify.com/track/4tzLiPqJn5Y8ivln1xoj8D)** by **Die drei ???** *(078/Das leere Grab)* - `15 min ago`
-- **[078 - Das leere Grab - Teil 05](https://open.spotify.com/track/33mhe2WlQVmxLzwFPnIqFv)** by **Die drei ???** *(078/Das leere Grab)* - `16 min ago`
-- **[078 - Das leere Grab - Teil 04](https://open.spotify.com/track/2wSjjzlYI5lcpMMB5zoKir)** by **Die drei ???** *(078/Das leere Grab)* - `17 min ago`
+- **[078 - Das leere Grab - Teil 08](https://open.spotify.com/track/5nHXJC9VjRNrGxv4XIun5z)** by **Die drei ???** *(078/Das leere Grab)* - `38 min ago`
+- **[078 - Das leere Grab - Teil 07](https://open.spotify.com/track/2cEKYTk3jNWOQqgjwjvqUu)** by **Die drei ???** *(078/Das leere Grab)* - `40 min ago`
+- **[078 - Das leere Grab - Teil 06](https://open.spotify.com/track/4tzLiPqJn5Y8ivln1xoj8D)** by **Die drei ???** *(078/Das leere Grab)* - `41 min ago`
+- **[078 - Das leere Grab - Teil 05](https://open.spotify.com/track/33mhe2WlQVmxLzwFPnIqFv)** by **Die drei ???** *(078/Das leere Grab)* - `43 min ago`
+- **[078 - Das leere Grab - Teil 04](https://open.spotify.com/track/2wSjjzlYI5lcpMMB5zoKir)** by **Die drei ???** *(078/Das leere Grab)* - `44 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 08:34:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 09:01:13 UTC*
 <!-- SPOTIFY-END -->
