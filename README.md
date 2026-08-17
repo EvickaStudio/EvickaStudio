@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[i want ya](https://open.spotify.com/track/1cbmLiSBdxRHe7Myj0rIy6)** by **kurtains** *(i want ya)* - `1 h ago`
-- **[Can We Talk](https://open.spotify.com/track/4jbcVoXN7VsoQXWKlamM4D)** by **Sorisa** *(I Love Colours)* - `4 h ago`
-- **[**Floatin'**](https://open.spotify.com/track/7JvnqO8bMIO8GvSb1iWIKC)** by **hexxxed** *(**Floatin'**)* - `4 h ago`
-- **[EVISCERATE](https://open.spotify.com/track/1wPuJ6TU1udIUxyzBmHlj9)** by **blackwinterwells, Psych, STM** *(EVISCERATE)* - `4 h ago`
-- **[im never leaving the club again](https://open.spotify.com/track/3B5xWBPWtBHOfVfs7OaPmA)** by **caponeti** *(TLC)* - `4 h ago`
+- **[i want ya](https://open.spotify.com/track/1cbmLiSBdxRHe7Myj0rIy6)** by **kurtains** *(i want ya)* - `2 h ago`
+- **[Can We Talk](https://open.spotify.com/track/4jbcVoXN7VsoQXWKlamM4D)** by **Sorisa** *(I Love Colours)* - `5 h ago`
+- **[**Floatin'**](https://open.spotify.com/track/7JvnqO8bMIO8GvSb1iWIKC)** by **hexxxed** *(**Floatin'**)* - `5 h ago`
+- **[EVISCERATE](https://open.spotify.com/track/1wPuJ6TU1udIUxyzBmHlj9)** by **blackwinterwells, Psych, STM** *(EVISCERATE)* - `5 h ago`
+- **[im never leaving the club again](https://open.spotify.com/track/3B5xWBPWtBHOfVfs7OaPmA)** by **caponeti** *(TLC)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 14:19:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 14:51:32 UTC*
 <!-- SPOTIFY-END -->
