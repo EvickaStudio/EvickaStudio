@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Can We Talk](https://open.spotify.com/track/4jbcVoXN7VsoQXWKlamM4D)** by **Sorisa** *(I Love Colours)* - `34 min ago`
-- **[**Floatin'**](https://open.spotify.com/track/7JvnqO8bMIO8GvSb1iWIKC)** by **hexxxed** *(**Floatin'**)* - `36 min ago`
-- **[EVISCERATE](https://open.spotify.com/track/1wPuJ6TU1udIUxyzBmHlj9)** by **blackwinterwells, Psych, STM** *(EVISCERATE)* - `38 min ago`
-- **[im never leaving the club again](https://open.spotify.com/track/3B5xWBPWtBHOfVfs7OaPmA)** by **caponeti** *(TLC)* - `41 min ago`
-- **[hell of a guy](https://open.spotify.com/track/3Pb7URzcajLh4CoblZ38Fg)** by **RudeClub** *(rudeclub)* - `43 min ago`
+- **[Can We Talk](https://open.spotify.com/track/4jbcVoXN7VsoQXWKlamM4D)** by **Sorisa** *(I Love Colours)* - `1 h ago`
+- **[**Floatin'**](https://open.spotify.com/track/7JvnqO8bMIO8GvSb1iWIKC)** by **hexxxed** *(**Floatin'**)* - `1 h ago`
+- **[EVISCERATE](https://open.spotify.com/track/1wPuJ6TU1udIUxyzBmHlj9)** by **blackwinterwells, Psych, STM** *(EVISCERATE)* - `1 h ago`
+- **[im never leaving the club again](https://open.spotify.com/track/3B5xWBPWtBHOfVfs7OaPmA)** by **caponeti** *(TLC)* - `1 h ago`
+- **[hell of a guy](https://open.spotify.com/track/3Pb7URzcajLh4CoblZ38Fg)** by **RudeClub** *(rudeclub)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 10:03:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 10:46:28 UTC*
 <!-- SPOTIFY-END -->
