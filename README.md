@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a7c5828c2bdce5e759a9cdf2" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2737ace5edae69caf3ded5303fa" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5H5MR5oRCPpiXsw8TSlCNE">Mimic</a></strong><br/>
-  <em>by</em> <strong>Palette Knife</strong><br/>
-  <em>Album:</em> Keyframe
+  <strong><a href="https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ">SAS</a></strong><br/>
+  <em>by</em> <strong>Dylan Thom</strong><br/>
+  <em>Album:</em> SAS
 </p>
 
-<p align="center"><code>1:54</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:26</code></p>
+<p align="center"><code>1:10</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>2:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Sleep Paralysis](https://open.spotify.com/track/4N1KOZPKP7cOHaIE2YguCa)** by **Palette Knife** *(Keyframe)* - `1 min ago`
-- **[Phoenix Down](https://open.spotify.com/track/4Ta3q4cofEqA22MXKExSod)** by **Palette Knife** *(Keyframe)* - `4 min ago`
-- **[i want ya](https://open.spotify.com/track/1cbmLiSBdxRHe7Myj0rIy6)** by **kurtains** *(i want ya)* - `5 h ago`
-- **[Can We Talk](https://open.spotify.com/track/4jbcVoXN7VsoQXWKlamM4D)** by **Sorisa** *(I Love Colours)* - `8 h ago`
-- **[**Floatin'**](https://open.spotify.com/track/7JvnqO8bMIO8GvSb1iWIKC)** by **hexxxed** *(**Floatin'**)* - `8 h ago`
+- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `1 min ago`
+- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `4 min ago`
+- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `7 min ago`
+- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `10 min ago`
+- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 17:52:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 18:25:31 UTC*
 <!-- SPOTIFY-END -->
