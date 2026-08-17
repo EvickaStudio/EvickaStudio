@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a89c80ab3c2d1e6f119ede73" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273de2486b9216e453d51c94ab8" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5nhhqOqEuBThGBppZ0vmyH">Newark Liberty</a></strong><br/>
-  <em>by</em> <strong>Kkoki</strong><br/>
-  <em>Album:</em> Newark Liberty
+  <strong><a href="https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR">Now I've Got A Lot You Know</a></strong><br/>
+  <em>by</em> <strong>Sophia Stel</strong><br/>
+  <em>Album:</em> Now I've Got A Lot You Know
 </p>
 
-<p align="center"><code>0:12</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:27</code></p>
+<p align="center"><code>0:03</code> ░░░░░░░░░░░░░░░░░░░░ <code>5:10</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Coming Around](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)** by **Kkoki** *(Coming Around)* - `7 min ago`
-- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `15 min ago`
-- **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `15 min ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `1 h ago`
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `1 h ago`
+- **[HR](https://open.spotify.com/track/2S2zq0Jjb9CkMI9ndZIgez)** by **Kkoki** *(HR)* - `5 min ago`
+- **[Newark Liberty](https://open.spotify.com/track/5nhhqOqEuBThGBppZ0vmyH)** by **Kkoki** *(Newark Liberty)* - `8 min ago`
+- **[I Hate This Place](https://open.spotify.com/track/7JrMMJJumRNsrwDHle0nw1)** by **Kkoki** *(I Hate This Place)* - `11 min ago`
+- **[So Long](https://open.spotify.com/track/2P44sLBx0Z0TkpAXbIFeVw)** by **Kkoki** *(So Long)* - `12 min ago`
+- **[Coming Around](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)** by **Kkoki** *(Coming Around)* - `15 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 20:21:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 20:50:27 UTC*
 <!-- SPOTIFY-END -->
