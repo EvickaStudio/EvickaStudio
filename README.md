@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273087e42e930f26bb7737e0bd5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27322df77d8636c3ec4814069c5" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/685416iIFXOSNxQFOAWnII">117 - Der finstere Rivale - Teil 16</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 117/Der finstere Rivale
+  <strong><a href="https://open.spotify.com/track/51BWr882olzE08ivVpuFQa">Kapitel 06: Zwischen Wölfen und Banditen - Folge 43</a></strong><br/>
+  <em>by</em> <strong>TKKG Junior</strong><br/>
+  <em>Album:</em> Folge 43: Zwischen Wölfen und Banditen
 </p>
 
-<p align="center"><code>0:39</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:34</code></p>
+<p align="center"><code>1:12</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>3:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[059 - Trickdieb auf Burg Drachenstein - Teil 18](https://open.spotify.com/track/5IgS5zfwtD6ZOU95HCK6uX)** by **TKKG Retro-Archiv** *(059/Trickdieb auf Burg Drachenstein)* - `just now`
-- **[Eisenhut und Sylter Spitze Kapitel 9](https://open.spotify.com/track/4L6nvxr9sxGe7Rsa1slWb5)** by **Insel-Krimi** *(Folge 3: Eisenhut und Sylter Spitze)* - `2 min ago`
-- **[007 - Die Begegnung mit der Mörder-Mumie - Teil 39](https://open.spotify.com/track/6MiKSzj6oNZYb7S4e1X5pg)** by **Gruselserie** *(007/Die Begegnung mit der Mörder-Mumie)* - `5 min ago`
-- **[Ein seltsamer Bruder, Szene 1](https://open.spotify.com/track/3hv6TGG0J0XOpXr4cqpGzb)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel, Peter Schneider** *(Die haarsträubenden Fälle des Philip Maloney, No.71 (Ein seltsamer Bruder, Es war einmal ein Mord, Der Ersatzmann))* - `6 min ago`
-- **[109 - und die mysteriöse Botschaft - Teil 26](https://open.spotify.com/track/0IBtqJ9PGyItkLTdDZow0N)** by **Fünf Freunde** *(109/und die mysteriöse Botschaft)* - `9 min ago`
+- **[Die Alte und der Kommissar Folge 1 - Sie kann's nicht lassen Teil 13](https://open.spotify.com/track/51qhBiviMkO7hoJjiZxfY6)** by **Die Alte und der Kommissar** *(Die Alte und der Kommissar Folge 1 - Sie kann's nicht lassen)* - `1 min ago`
+- **[12 - Zurück im Mittelalter - Teil 14](https://open.spotify.com/track/6xC5R8jxGOnhkoT7sengYU)** by **HUI BUH neue Welt** *(12/Zurück im Mittelalter)* - `5 min ago`
+- **[091 - Labyrinth der Götter - Teil 17](https://open.spotify.com/track/3qJlsRHnduSB2JyDGJ7h5E)** by **Die drei ???** *(091/Labyrinth der Götter)* - `6 min ago`
+- **[14 - bringen alle in Schwung - Teil 38](https://open.spotify.com/track/6T9PtOSwMP9eSQdkcgC9Bk)** by **Hanni und Nanni** *(14/bringen alle in Schwung)* - `8 min ago`
+- **[Pellworms kleine Leichen Kapitel 16](https://open.spotify.com/track/2wPh9kJkGkWjn5rry5wiy7)** by **Insel-Krimi** *(Folge 14: Pellworms kleine Leichen)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 04:00:04 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 04:47:42 UTC*
 <!-- SPOTIFY-END -->
