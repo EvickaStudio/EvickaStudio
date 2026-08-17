@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2737fa27627513898e457d8f9b5" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2735fa47bae94b2e16b43785417" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1JxUKhB7QGd082YGskroob">Plane Vs. Tank Vs. Submarine</a></strong><br/>
-  <em>by</em> <strong>Tigers Jaw</strong><br/>
-  <em>Album:</em> Tigers Jaw
+  <strong><a href="https://open.spotify.com/track/1wPuJ6TU1udIUxyzBmHlj9">EVISCERATE</a></strong><br/>
+  <em>by</em> <strong>blackwinterwells, Psych, STM</strong><br/>
+  <em>Album:</em> EVISCERATE
 </p>
 
-<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:02</code></p>
+<p align="center"><code>0:11</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:44</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `1 min ago`
-- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `5 min ago`
-- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `9 min ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `12 min ago`
-- **[15 - und ihre Gäste - Teil 08](https://open.spotify.com/track/6HCPCyIbhx2GJGW5xHmA4b)** by **Hanni und Nanni** *(15/und ihre Gäste)* - `3 h ago`
+- **[im never leaving the club again](https://open.spotify.com/track/3B5xWBPWtBHOfVfs7OaPmA)** by **caponeti** *(TLC)* - `just now`
+- **[hell of a guy](https://open.spotify.com/track/3Pb7URzcajLh4CoblZ38Fg)** by **RudeClub** *(rudeclub)* - `2 min ago`
+- **[Tune In](https://open.spotify.com/track/6NMXCgErjIq5pAxnxfsu2o)** by **Tommy Fleece** *(Ultrasonic)* - `4 min ago`
+- **[11:55](https://open.spotify.com/track/7EK5xflC761cTjchhILiNk)** by **Fijimar** *(11:55)* - `7 min ago`
+- **[liar](https://open.spotify.com/track/71Alanuk7evR2SCabpuAVh)** by **bleecher** *(liar)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -124,11 +124,11 @@
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
 
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 08:32:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 09:22:18 UTC*
 <!-- SPOTIFY-END -->
