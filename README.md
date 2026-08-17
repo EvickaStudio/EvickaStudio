@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738e8e95a4233cd186a3a25b9a" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3YxhvxBBmMvKmE9OIR6T8o">001 - Polterabend - Nacht des Entsetzens - Teil 26</a></strong><br/>
-  <em>by</em> <strong>Gruselserie</strong><br/>
-  <em>Album:</em> 001/Polterabend - Nacht des Entsetzens
-</p>
-
-<p align="center"><code>1:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:17</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[172 - Das Geheimnis der Moorleiche - Teil 21](https://open.spotify.com/track/1wJY4iSI3Cjs6NXS8kjWNW)** by **TKKG** *(172/Das Geheimnis der Moorleiche)* - `1 min ago`
-- **[Der Hellseher, Szene 4](https://open.spotify.com/track/22bfl7S5gvVBmW23ZoUiKk)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.69 (Der Hellseher, Haarige Zeiten, Schmuckstücke))* - `2 min ago`
-- **[137 - Pfad der Angst - Teil 32](https://open.spotify.com/track/1CgC4DHC19AfJ7RtWWoY0u)** by **Die drei ???** *(137/Pfad der Angst)* - `5 min ago`
-- **[Kapitel 10: Gemeinsam stark! - Folge 112](https://open.spotify.com/track/7wXRiWYoeBRPTaplBDRo5Q)** by **Teufelskicker** *(Folge 112: Gemeinsam stark!)* - `7 min ago`
-- **[Blutmond über Föhr Kapitel 12](https://open.spotify.com/track/6puxNvFUaxrOSe7jUiwRuc)** by **Insel-Krimi** *(Folge 8: Blutmond über Föhr)* - `10 min ago`
+- **[Tonband 54 Kapitel 7](https://open.spotify.com/track/23CSEfMIqH1AnDnHhJSJbR)** by **Midnight Tales** *(Folge 73: Tonband 54)* - `12 min ago`
+- **[Eisenhut und Sylter Spitze Kapitel 17](https://open.spotify.com/track/37AA4d78UpeNPJLLripoSl)** by **Insel-Krimi** *(Folge 3: Eisenhut und Sylter Spitze)* - `15 min ago`
+- **[007 - Die Begegnung mit der Mörder-Mumie - Teil 04](https://open.spotify.com/track/7HedE7FrGDVD4Hp9GiaC2a)** by **Gruselserie** *(007/Die Begegnung mit der Mörder-Mumie)* - `18 min ago`
+- **[Der Goldfisch, Szene 5](https://open.spotify.com/track/33aYdql4oYGuq7Qi5LUWHv)** by **Philip Maloney** *(Die haarsträubenden Fälle des Philip Maloney, No.22 (Der Stein der Weisen, Der Heiratsschwindler, Der Goldfisch))* - `19 min ago`
+- **[084 - Musik des Teufels - Teil 11](https://open.spotify.com/track/2kKiITxAABLjGX6FxGZkIl)** by **Die drei ???** *(084/Musik des Teufels)* - `23 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 00:44:50 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 02:08:46 UTC*
 <!-- SPOTIFY-END -->
