@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2737fa27627513898e457d8f9b5" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1JxUKhB7QGd082YGskroob">Plane Vs. Tank Vs. Submarine</a></strong><br/>
+  <em>by</em> <strong>Tigers Jaw</strong><br/>
+  <em>Album:</em> Tigers Jaw
+</p>
+
+<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>2:02</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[15 - und ihre Gäste - Teil 08](https://open.spotify.com/track/6HCPCyIbhx2GJGW5xHmA4b)** by **Hanni und Nanni** *(15/und ihre Gäste)* - `2 h ago`
-- **[082 - Die Karten des Bösen - Teil 07](https://open.spotify.com/track/1b6pSh8dZCKv3g8YhaozsV)** by **Die drei ???** *(082/Die Karten des Bösen)* - `2 h ago`
-- **[Die verschwundenen Trucks, Szene 1](https://open.spotify.com/track/4p34r97CZg6rKau0i1YYJU)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel, Peter Schneider** *(Die haarsträubenden Fälle des Philip Maloney, No.60 (Das Investment, Der Jungbrunnen, Die verschwundenen Trucks))* - `2 h ago`
-- **[Schreckensnacht auf Oland Kapitel 8](https://open.spotify.com/track/1fReM7w6qU95ulvv8RfEj1)** by **Insel-Krimi** *(Folge 22: Schreckensnacht auf Oland)* - `2 h ago`
-- **[Kapitel 06: Zwischen Wölfen und Banditen - Folge 43](https://open.spotify.com/track/51BWr882olzE08ivVpuFQa)** by **TKKG Junior** *(Folge 43: Zwischen Wölfen und Banditen)* - `3 h ago`
+- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `1 min ago`
+- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `5 min ago`
+- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `9 min ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `12 min ago`
+- **[15 - und ihre Gäste - Teil 08](https://open.spotify.com/track/6HCPCyIbhx2GJGW5xHmA4b)** by **Hanni und Nanni** *(15/und ihre Gäste)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 07:51:14 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 08:32:59 UTC*
 <!-- SPOTIFY-END -->
