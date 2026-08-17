@@ -96,8 +96,8 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fry](https://open.spotify.com/track/5bTtVWUatbCvi1e3Sq3zn3)** by **Oxis** *(Oxis 8)* - `56 min ago`
-- **[Electronic Eyes - HORNET Re:mix](https://open.spotify.com/track/7iPHKGDVSjTtEK0EOSQ4Cg)** by **the sound chalk makes, HORNET** *(Electronic Eyes (HORNET Re:mix))* - `59 min ago`
+- **[Fry](https://open.spotify.com/track/5bTtVWUatbCvi1e3Sq3zn3)** by **Oxis** *(Oxis 8)* - `1 h ago`
+- **[Electronic Eyes - HORNET Re:mix](https://open.spotify.com/track/7iPHKGDVSjTtEK0EOSQ4Cg)** by **the sound chalk makes, HORNET** *(Electronic Eyes (HORNET Re:mix))* - `1 h ago`
 - **[HR](https://open.spotify.com/track/2S2zq0Jjb9CkMI9ndZIgez)** by **Kkoki** *(HR)* - `1 h ago`
 - **[Newark Liberty](https://open.spotify.com/track/5nhhqOqEuBThGBppZ0vmyH)** by **Kkoki** *(Newark Liberty)* - `1 h ago`
 - **[I Hate This Place](https://open.spotify.com/track/7JrMMJJumRNsrwDHle0nw1)** by **Kkoki** *(I Hate This Place)* - `1 h ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 21:47:17 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 22:15:07 UTC*
 <!-- SPOTIFY-END -->
