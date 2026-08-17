@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273087e42e930f26bb7737e0bd5" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/685416iIFXOSNxQFOAWnII">117 - Der finstere Rivale - Teil 16</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 117/Der finstere Rivale
+</p>
+
+<p align="center"><code>0:39</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Tonband 54 Kapitel 7](https://open.spotify.com/track/23CSEfMIqH1AnDnHhJSJbR)** by **Midnight Tales** *(Folge 73: Tonband 54)* - `1 h ago`
-- **[Eisenhut und Sylter Spitze Kapitel 17](https://open.spotify.com/track/37AA4d78UpeNPJLLripoSl)** by **Insel-Krimi** *(Folge 3: Eisenhut und Sylter Spitze)* - `1 h ago`
-- **[007 - Die Begegnung mit der Mörder-Mumie - Teil 04](https://open.spotify.com/track/7HedE7FrGDVD4Hp9GiaC2a)** by **Gruselserie** *(007/Die Begegnung mit der Mörder-Mumie)* - `1 h ago`
-- **[Der Goldfisch, Szene 5](https://open.spotify.com/track/33aYdql4oYGuq7Qi5LUWHv)** by **Philip Maloney** *(Die haarsträubenden Fälle des Philip Maloney, No.22 (Der Stein der Weisen, Der Heiratsschwindler, Der Goldfisch))* - `1 h ago`
-- **[084 - Musik des Teufels - Teil 11](https://open.spotify.com/track/2kKiITxAABLjGX6FxGZkIl)** by **Die drei ???** *(084/Musik des Teufels)* - `1 h ago`
+- **[059 - Trickdieb auf Burg Drachenstein - Teil 18](https://open.spotify.com/track/5IgS5zfwtD6ZOU95HCK6uX)** by **TKKG Retro-Archiv** *(059/Trickdieb auf Burg Drachenstein)* - `just now`
+- **[Eisenhut und Sylter Spitze Kapitel 9](https://open.spotify.com/track/4L6nvxr9sxGe7Rsa1slWb5)** by **Insel-Krimi** *(Folge 3: Eisenhut und Sylter Spitze)* - `2 min ago`
+- **[007 - Die Begegnung mit der Mörder-Mumie - Teil 39](https://open.spotify.com/track/6MiKSzj6oNZYb7S4e1X5pg)** by **Gruselserie** *(007/Die Begegnung mit der Mörder-Mumie)* - `5 min ago`
+- **[Ein seltsamer Bruder, Szene 1](https://open.spotify.com/track/3hv6TGG0J0XOpXr4cqpGzb)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel, Peter Schneider** *(Die haarsträubenden Fälle des Philip Maloney, No.71 (Ein seltsamer Bruder, Es war einmal ein Mord, Der Ersatzmann))* - `6 min ago`
+- **[109 - und die mysteriöse Botschaft - Teil 26](https://open.spotify.com/track/0IBtqJ9PGyItkLTdDZow0N)** by **Fünf Freunde** *(109/und die mysteriöse Botschaft)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 03:10:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 04:00:04 UTC*
 <!-- SPOTIFY-END -->
