@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2733b114ffdd62ab393de5354f0" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738e8e95a4233cd186a3a25b9a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0Oy7rnLgDZKg3bTAyiyeGA">080 - Geheimakte Ufo - Teil 27</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 080/Geheimakte Ufo
+  <strong><a href="https://open.spotify.com/track/3YxhvxBBmMvKmE9OIR6T8o">001 - Polterabend - Nacht des Entsetzens - Teil 26</a></strong><br/>
+  <em>by</em> <strong>Gruselserie</strong><br/>
+  <em>Album:</em> 001/Polterabend - Nacht des Entsetzens
 </p>
 
-<p align="center"><code>0:58</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>1:31</code></p>
+<p align="center"><code>1:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[080 - Geheimakte Ufo - Teil 26](https://open.spotify.com/track/4fRHOEBXIJjPTRB60hHTbb)** by **Die drei ???** *(080/Geheimakte Ufo)* - `just now`
-- **[080 - Geheimakte Ufo - Teil 25](https://open.spotify.com/track/2TbLQ49tWW4hZK2yWzoi1Z)** by **Die drei ???** *(080/Geheimakte Ufo)* - `2 min ago`
-- **[080 - Geheimakte Ufo - Teil 24](https://open.spotify.com/track/5JLiCQWyvpxfNw5GPSvf6l)** by **Die drei ???** *(080/Geheimakte Ufo)* - `4 min ago`
-- **[080 - Geheimakte Ufo - Teil 23](https://open.spotify.com/track/4EUTHVbQqoD61EabEQusXh)** by **Die drei ???** *(080/Geheimakte Ufo)* - `5 min ago`
-- **[080 - Geheimakte Ufo - Teil 22](https://open.spotify.com/track/6EJR1K85LnCrIrMjs7tImW)** by **Die drei ???** *(080/Geheimakte Ufo)* - `7 min ago`
+- **[172 - Das Geheimnis der Moorleiche - Teil 21](https://open.spotify.com/track/1wJY4iSI3Cjs6NXS8kjWNW)** by **TKKG** *(172/Das Geheimnis der Moorleiche)* - `1 min ago`
+- **[Der Hellseher, Szene 4](https://open.spotify.com/track/22bfl7S5gvVBmW23ZoUiKk)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.69 (Der Hellseher, Haarige Zeiten, Schmuckstücke))* - `2 min ago`
+- **[137 - Pfad der Angst - Teil 32](https://open.spotify.com/track/1CgC4DHC19AfJ7RtWWoY0u)** by **Die drei ???** *(137/Pfad der Angst)* - `5 min ago`
+- **[Kapitel 10: Gemeinsam stark! - Folge 112](https://open.spotify.com/track/7wXRiWYoeBRPTaplBDRo5Q)** by **Teufelskicker** *(Folge 112: Gemeinsam stark!)* - `7 min ago`
+- **[Blutmond über Föhr Kapitel 12](https://open.spotify.com/track/6puxNvFUaxrOSe7jUiwRuc)** by **Insel-Krimi** *(Folge 8: Blutmond über Föhr)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-16 23:54:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-17 00:44:50 UTC*
 <!-- SPOTIFY-END -->
