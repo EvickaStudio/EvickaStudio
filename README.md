@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273217c05e0d1a84204306f34c6" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9">Robotboy</a></strong><br/>
+  <em>by</em> <strong>Yung Lean</strong><br/>
+  <em>Album:</em> Robotboy
+</p>
+
+<p align="center"><code>0:32</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>2:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `3 h ago`
-- **[Coming Around](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)** by **Kkoki** *(Coming Around)* - `3 h ago`
-- **[Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR)** by **Sophia Stel** *(Now I've Got A Lot You Know)* - `19 h ago`
-- **[Fry](https://open.spotify.com/track/5bTtVWUatbCvi1e3Sq3zn3)** by **Oxis** *(Oxis 8)* - `19 h ago`
-- **[Electronic Eyes - HORNET Re:mix](https://open.spotify.com/track/7iPHKGDVSjTtEK0EOSQ4Cg)** by **the sound chalk makes, HORNET** *(Electronic Eyes (HORNET Re:mix))* - `19 h ago`
+- **[THE CROWD](https://open.spotify.com/track/3H7d2D1weFxHQpFN1tzx1I)** by **okay troy** *(THE CROWD)* - `just now`
+- **[The Infinite Shore](https://open.spotify.com/track/43poRcd7S470UHQhgeogak)** by **The Missing Peace** *(The Infinite Shore)* - `3 min ago`
+- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `7 min ago`
+- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `4 h ago`
+- **[Coming Around](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)** by **Kkoki** *(Coming Around)* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-18 16:20:32 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-18 16:55:15 UTC*
 <!-- SPOTIFY-END -->
