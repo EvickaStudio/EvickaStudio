@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `41 min ago`
-- **[Coming Around](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)** by **Kkoki** *(Coming Around)* - `44 min ago`
+- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `1 h ago`
+- **[Coming Around](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)** by **Kkoki** *(Coming Around)* - `1 h ago`
 - **[Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR)** by **Sophia Stel** *(Now I've Got A Lot You Know)* - `16 h ago`
-- **[Fry](https://open.spotify.com/track/5bTtVWUatbCvi1e3Sq3zn3)** by **Oxis** *(Oxis 8)* - `16 h ago`
-- **[Electronic Eyes - HORNET Re:mix](https://open.spotify.com/track/7iPHKGDVSjTtEK0EOSQ4Cg)** by **the sound chalk makes, HORNET** *(Electronic Eyes (HORNET Re:mix))* - `16 h ago`
+- **[Fry](https://open.spotify.com/track/5bTtVWUatbCvi1e3Sq3zn3)** by **Oxis** *(Oxis 8)* - `17 h ago`
+- **[Electronic Eyes - HORNET Re:mix](https://open.spotify.com/track/7iPHKGDVSjTtEK0EOSQ4Cg)** by **the sound chalk makes, HORNET** *(Electronic Eyes (HORNET Re:mix))* - `17 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-18 13:22:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-18 14:03:11 UTC*
 <!-- SPOTIFY-END -->
