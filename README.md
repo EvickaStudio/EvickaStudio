@@ -96,9 +96,9 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR)** by **Sophia Stel** *(Now I've Got A Lot You Know)* - `12 h ago`
-- **[Fry](https://open.spotify.com/track/5bTtVWUatbCvi1e3Sq3zn3)** by **Oxis** *(Oxis 8)* - `12 h ago`
-- **[Electronic Eyes - HORNET Re:mix](https://open.spotify.com/track/7iPHKGDVSjTtEK0EOSQ4Cg)** by **the sound chalk makes, HORNET** *(Electronic Eyes (HORNET Re:mix))* - `12 h ago`
+- **[Now I've Got A Lot You Know](https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR)** by **Sophia Stel** *(Now I've Got A Lot You Know)* - `13 h ago`
+- **[Fry](https://open.spotify.com/track/5bTtVWUatbCvi1e3Sq3zn3)** by **Oxis** *(Oxis 8)* - `13 h ago`
+- **[Electronic Eyes - HORNET Re:mix](https://open.spotify.com/track/7iPHKGDVSjTtEK0EOSQ4Cg)** by **the sound chalk makes, HORNET** *(Electronic Eyes (HORNET Re:mix))* - `13 h ago`
 - **[HR](https://open.spotify.com/track/2S2zq0Jjb9CkMI9ndZIgez)** by **Kkoki** *(HR)* - `13 h ago`
 - **[Newark Liberty](https://open.spotify.com/track/5nhhqOqEuBThGBppZ0vmyH)** by **Kkoki** *(Newark Liberty)* - `13 h ago`
 
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-18 09:46:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-18 10:18:36 UTC*
 <!-- SPOTIFY-END -->
