@@ -96,8 +96,8 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `48 min ago`
-- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `52 min ago`
+- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `1 h ago`
+- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `1 h ago`
 - **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `1 h ago`
 - **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `1 h ago`
 - **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `1 h ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-19 11:47:29 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-19 12:27:45 UTC*
 <!-- SPOTIFY-END -->
