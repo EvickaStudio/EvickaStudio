@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273217c05e0d1a84204306f34c6" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9">Robotboy</a></strong><br/>
-  <em>by</em> <strong>Yung Lean</strong><br/>
-  <em>Album:</em> Robotboy
-</p>
-
-<p align="center"><code>0:36</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>2:34</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `12 min ago`
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `15 min ago`
-- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `18 min ago`
-- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `21 min ago`
-- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `24 min ago`
+- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `18 min ago`
+- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `22 min ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `36 min ago`
+- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `39 min ago`
+- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `42 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**No Stranger To You...**](https://open.spotify.com/track/7rZetbeg5iTN98VcGRljsO)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-19 10:52:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-19 11:17:20 UTC*
 <!-- SPOTIFY-END -->
