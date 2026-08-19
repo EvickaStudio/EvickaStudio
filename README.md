@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `2 h ago`
-- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `3 h ago`
+- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `3 h ago`
+- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `4 h ago`
 - **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `4 h ago`
 - **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `4 h ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `4 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-19 15:22:09 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-19 15:54:16 UTC*
 <!-- SPOTIFY-END -->
