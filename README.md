@@ -96,21 +96,21 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5ybHNEborlygJJxzFfA3Sv">082 - Die Karten des Bösen - Teil 11</a></strong><br/>
+  <strong><a href="https://open.spotify.com/track/7jBBY57e7Y6emGaxPufhAw">082 - Die Karten des Bösen - Teil 26</a></strong><br/>
   <em>by</em> <strong>Die drei ???</strong><br/>
   <em>Album:</em> 082/Die Karten des Bösen
 </p>
 
-<p align="center"><code>0:27</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:49</code></p>
+<p align="center"><code>0:12</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>1:37</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[082 - Die Karten des Bösen - Teil 10](https://open.spotify.com/track/7jXhNhqkLTtedzfNhEUQsM)** by **Die drei ???** *(082/Die Karten des Bösen)* - `just now`
-- **[082 - Die Karten des Bösen - Teil 09](https://open.spotify.com/track/7INIeCvhrGh4xXC2CLcPju)** by **Die drei ???** *(082/Die Karten des Bösen)* - `2 min ago`
-- **[082 - Die Karten des Bösen - Teil 08](https://open.spotify.com/track/3PhXFjPRsGJ83C7dzrei7t)** by **Die drei ???** *(082/Die Karten des Bösen)* - `3 min ago`
-- **[082 - Die Karten des Bösen - Teil 07](https://open.spotify.com/track/1b6pSh8dZCKv3g8YhaozsV)** by **Die drei ???** *(082/Die Karten des Bösen)* - `5 min ago`
-- **[082 - Die Karten des Bösen - Teil 06](https://open.spotify.com/track/4Xa0P4BKWm9Hj7OponyPay)** by **Die drei ???** *(082/Die Karten des Bösen)* - `7 min ago`
+- **[082 - Die Karten des Bösen - Teil 25](https://open.spotify.com/track/0iEY1yV6YfBAiEsyRF3ctj)** by **Die drei ???** *(082/Die Karten des Bösen)* - `just now`
+- **[082 - Die Karten des Bösen - Teil 24](https://open.spotify.com/track/6b8iuLsVJ9AhG9sRCaU256)** by **Die drei ???** *(082/Die Karten des Bösen)* - `2 min ago`
+- **[082 - Die Karten des Bösen - Teil 23](https://open.spotify.com/track/6tGD72pBL6swDLUYNJV4ms)** by **Die drei ???** *(082/Die Karten des Bösen)* - `3 min ago`
+- **[082 - Die Karten des Bösen - Teil 22](https://open.spotify.com/track/339cCEm7ktqKQysPyeTAab)** by **Die drei ???** *(082/Die Karten des Bösen)* - `5 min ago`
+- **[082 - Die Karten des Bösen - Teil 21](https://open.spotify.com/track/7lO0zz51fzEYekj3wfOA2t)** by **Die drei ???** *(082/Die Karten des Bösen)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 22:51:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 23:17:44 UTC*
 <!-- SPOTIFY-END -->
