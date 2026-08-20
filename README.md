@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734ff03e0f8b9c600b6e48b382" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273508e748b3ca8908a6f38c9b1" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2PGjwXWCkFaPKYsl1Pyu2y">Cop Shoot Cop...</a></strong><br/>
-  <em>by</em> <strong>Spiritualized</strong><br/>
-  <em>Album:</em> Ladies and gentlemen we are floating in space
+  <strong><a href="https://open.spotify.com/track/6n7EzXekjBHOgAjJbrWrn8">Remaining</a></strong><br/>
+  <em>by</em> <strong>Parannoul</strong><br/>
+  <em>Album:</em> Remaining
 </p>
 
-<p align="center"><code>12:23</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>17:00</code></p>
+<p align="center"><code>3:16</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>5:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Fell in Love (At the Water)](https://open.spotify.com/track/7qgVP1RmTu8Kg3MGsIl87D)** by **Candy Claws** *(Ceres & Calypso in the Deep Time)* - `12 min ago`
-- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `21 min ago`
-- **[ゆらめき IN THE AIR - Live](https://open.spotify.com/track/4tVmJzUEkbK7HH1uzixD1M)** by **Fishmans** *(98.12.28 男達の別れ (Live))* - `26 min ago`
-- **[Let Your Soul Illuminate with the Passion of a Thousand Suns](https://open.spotify.com/track/3r0LavFc0SSO3MjRgIMoIW)** by **desert sand feels warm at night** *(New World Disciples)* - `40 min ago`
-- **[Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij)** by **Grouper** *(Dragging a Dead Deer Up a Hill)* - `48 min ago`
+- **[Heaven Express(again)](https://open.spotify.com/track/1u0lxAcdecgdveHYbFUSqJ)** by **BrokenTeeth** *(How to Sink Slowly)* - `3 min ago`
+- **[Cage Girl / Camgirl](https://open.spotify.com/track/2oRyCk8PgH3LNMlmfwBNwH)** by **Jane Remover** *(Census Designated)* - `7 min ago`
+- **[光のカケラ](https://open.spotify.com/track/5NbzinzKXeFU3K8GimTKb1)** by **WALRUS** *(光のカケラ)* - `13 min ago`
+- **[southview](https://open.spotify.com/track/7AChzOkdQHkekPXQaKdrAP)** by **8485, fish narc** *(southview)* - `18 min ago`
+- **[DUSTCUTTER](https://open.spotify.com/track/0fC23QgwF2sIM7hRTJhfov)** by **Quadeca** *(SCRAPYARD)* - `21 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 19:25:39 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 19:53:10 UTC*
 <!-- SPOTIFY-END -->
