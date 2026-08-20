@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a8a1beadfdce1b1b078c9ef9" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b8b2f65e2dfa733439974801" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4dyBx65ffgL2h8ju7bWCAi">Hisoku Blue</a></strong><br/>
-  <em>by</em> <strong>maya ongaku</strong><br/>
-  <em>Album:</em> Nothing Space Music
+  <strong><a href="https://open.spotify.com/track/4tVmJzUEkbK7HH1uzixD1M">ゆらめき IN THE AIR - Live</a></strong><br/>
+  <em>by</em> <strong>Fishmans</strong><br/>
+  <em>Album:</em> 98.12.28 男達の別れ (Live)
 </p>
 
-<p align="center"><code>3:24</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>6:41</code></p>
+<p align="center"><code>12:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>15:59</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `3 min ago`
-- **[Backwards](https://open.spotify.com/track/2WOlnPG3x63m065PFZJTl0)** by **Parannoul** *(Sky Hundred)* - `8 min ago`
-- **[Sunset Strike](https://open.spotify.com/track/4xpxI8BIj8s4KR5hIYVPPm)** by **BrokenTeeth** *(How to Sink Slowly)* - `14 min ago`
-- **[The Big Gloom](https://open.spotify.com/track/6r4Ux7Szu6ncGMjVh0tmCB)** by **Have A Nice Life** *(Deathconsciousness)* - `19 min ago`
-- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `27 min ago`
+- **[Let Your Soul Illuminate with the Passion of a Thousand Suns](https://open.spotify.com/track/3r0LavFc0SSO3MjRgIMoIW)** by **desert sand feels warm at night** *(New World Disciples)* - `11 min ago`
+- **[Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij)** by **Grouper** *(Dragging a Dead Deer Up a Hill)* - `18 min ago`
+- **[Dayvan Cowboy](https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5)** by **Boards of Canada** *(The Campfire Headphase)* - `24 min ago`
+- **[Neon Memories](https://open.spotify.com/track/7pQLDFpyHjAJsnloiDAEZS)** by **death's dynamic shroud** *(Darklife)* - `30 min ago`
+- **[Whitebird](https://open.spotify.com/track/19FmSxMxuGTYhUsmfhy9Nc)** by **BrokenTeeth** *(The Letters)* - `35 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 18:00:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 18:56:18 UTC*
 <!-- SPOTIFY-END -->
