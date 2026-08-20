@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a54f2b401501b3569990c256" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a8a1beadfdce1b1b078c9ef9" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6r4Ux7Szu6ncGMjVh0tmCB">The Big Gloom</a></strong><br/>
-  <em>by</em> <strong>Have A Nice Life</strong><br/>
-  <em>Album:</em> Deathconsciousness
+  <strong><a href="https://open.spotify.com/track/4dyBx65ffgL2h8ju7bWCAi">Hisoku Blue</a></strong><br/>
+  <em>by</em> <strong>maya ongaku</strong><br/>
+  <em>Album:</em> Nothing Space Music
 </p>
 
-<p align="center"><code>1:11</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>8:03</code></p>
+<p align="center"><code>3:24</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>6:41</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `1 min ago`
-- **[Hoppípolla](https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm)** by **Sigur Rós** *(Takk...)* - `7 min ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `21 min ago`
-- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `24 min ago`
-- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `27 min ago`
+- **[月](https://open.spotify.com/track/460LMJ4YeYgV7EYCRfveqm)** by **WALRUS** *(光のカケラ)* - `3 min ago`
+- **[Backwards](https://open.spotify.com/track/2WOlnPG3x63m065PFZJTl0)** by **Parannoul** *(Sky Hundred)* - `8 min ago`
+- **[Sunset Strike](https://open.spotify.com/track/4xpxI8BIj8s4KR5hIYVPPm)** by **BrokenTeeth** *(How to Sink Slowly)* - `14 min ago`
+- **[The Big Gloom](https://open.spotify.com/track/6r4Ux7Szu6ncGMjVh0tmCB)** by **Have A Nice Life** *(Deathconsciousness)* - `19 min ago`
+- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `27 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +127,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 17:34:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 18:00:30 UTC*
 <!-- SPOTIFY-END -->
