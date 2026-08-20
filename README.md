@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e3d1444522d3f0297bbe75af" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/64gWP9jhdHftGZQlU05kDz">Rain, Rain, Rain.</a></strong><br/>
-  <em>by</em> <strong>BrokenTeeth</strong><br/>
-  <em>Album:</em> The Letters
-</p>
-
-<p align="center"><code>4:02</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>6:01</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Census Designated](https://open.spotify.com/track/6HacgXCExkzS552ILfJTXu)** by **Jane Remover** *(Census Designated)* - `3 min ago`
-- **[トネリコ](https://open.spotify.com/track/4JFayBhbpmw2vqMaLVs2pV)** by **WALRUS** *(光のカケラ)* - `9 min ago`
-- **[Thousand yard stare](https://open.spotify.com/track/0kE9Sx06mOikMnb7e6AtXR)** by **kmoe** *(K1)* - `16 min ago`
-- **[U DON’T KNOW ME LIKE THAT](https://open.spotify.com/track/5K8lOqPnsWh9QNSgNBqhO2)** by **Quadeca** *(SCRAPYARD)* - `19 min ago`
-- **[Remaining](https://open.spotify.com/track/6n7EzXekjBHOgAjJbrWrn8)** by **Parannoul** *(Remaining)* - `23 min ago`
+- **[Sound Inside Me, Waves Inside You](https://open.spotify.com/track/6ruT2aJTnLNhKEI0ekQVYU)** by **Parannoul** *(After the Magic)* - `27 min ago`
+- **[Rain, Rain, Rain.](https://open.spotify.com/track/64gWP9jhdHftGZQlU05kDz)** by **BrokenTeeth** *(The Letters)* - `32 min ago`
+- **[Census Designated](https://open.spotify.com/track/6HacgXCExkzS552ILfJTXu)** by **Jane Remover** *(Census Designated)* - `38 min ago`
+- **[トネリコ](https://open.spotify.com/track/4JFayBhbpmw2vqMaLVs2pV)** by **WALRUS** *(光のカケラ)* - `44 min ago`
+- **[Thousand yard stare](https://open.spotify.com/track/0kE9Sx06mOikMnb7e6AtXR)** by **kmoe** *(K1)* - `51 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 20:18:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 20:53:13 UTC*
 <!-- SPOTIFY-END -->
