@@ -98,9 +98,9 @@
 
 - **[Sound Inside Me, Waves Inside You](https://open.spotify.com/track/6ruT2aJTnLNhKEI0ekQVYU)** by **Parannoul** *(After the Magic)* - `1 h ago`
 - **[Rain, Rain, Rain.](https://open.spotify.com/track/64gWP9jhdHftGZQlU05kDz)** by **BrokenTeeth** *(The Letters)* - `1 h ago`
-- **[Census Designated](https://open.spotify.com/track/6HacgXCExkzS552ILfJTXu)** by **Jane Remover** *(Census Designated)* - `1 h ago`
-- **[トネリコ](https://open.spotify.com/track/4JFayBhbpmw2vqMaLVs2pV)** by **WALRUS** *(光のカケラ)* - `1 h ago`
-- **[Thousand yard stare](https://open.spotify.com/track/0kE9Sx06mOikMnb7e6AtXR)** by **kmoe** *(K1)* - `1 h ago`
+- **[Census Designated](https://open.spotify.com/track/6HacgXCExkzS552ILfJTXu)** by **Jane Remover** *(Census Designated)* - `2 h ago`
+- **[トネリコ](https://open.spotify.com/track/4JFayBhbpmw2vqMaLVs2pV)** by **WALRUS** *(光のカケラ)* - `2 h ago`
+- **[Thousand yard stare](https://open.spotify.com/track/0kE9Sx06mOikMnb7e6AtXR)** by **kmoe** *(K1)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 21:50:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 22:17:35 UTC*
 <!-- SPOTIFY-END -->
