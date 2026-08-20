@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2733afae5da0d3f7093952ce833" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME">I Won't Care How You Remember Me</a></strong><br/>
+  <em>by</em> <strong>Tigers Jaw, Andy Hull</strong><br/>
+  <em>Album:</em> I Won't Care How You Remember Me
+</p>
+
+<p align="center"><code>0:39</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>3:36</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[THE CROWD](https://open.spotify.com/track/3H7d2D1weFxHQpFN1tzx1I)** by **okay troy** *(THE CROWD)* - `2 h ago`
-- **[The Infinite Shore](https://open.spotify.com/track/43poRcd7S470UHQhgeogak)** by **The Missing Peace** *(The Infinite Shore)* - `2 h ago`
-- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `2 h ago`
-- **[Coming Around](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)** by **Kkoki** *(Coming Around)* - `2 h ago`
-- **[oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8)** by **Steve Lacy** *(Oh yeah?)* - `2 h ago`
+- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `just now`
+- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `4 min ago`
+- **[THE CROWD](https://open.spotify.com/track/3H7d2D1weFxHQpFN1tzx1I)** by **okay troy** *(THE CROWD)* - `7 min ago`
+- **[The Infinite Shore](https://open.spotify.com/track/43poRcd7S470UHQhgeogak)** by **The Missing Peace** *(The Infinite Shore)* - `10 min ago`
+- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**In meinem Bett**](https://open.spotify.com/track/1Nokxc0eTy5ub7O7WLrjMS)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 16:27:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 17:00:11 UTC*
 <!-- SPOTIFY-END -->
