@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273b8b2f65e2dfa733439974801" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734ff03e0f8b9c600b6e48b382" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4tVmJzUEkbK7HH1uzixD1M">ゆらめき IN THE AIR - Live</a></strong><br/>
-  <em>by</em> <strong>Fishmans</strong><br/>
-  <em>Album:</em> 98.12.28 男達の別れ (Live)
+  <strong><a href="https://open.spotify.com/track/2PGjwXWCkFaPKYsl1Pyu2y">Cop Shoot Cop...</a></strong><br/>
+  <em>by</em> <strong>Spiritualized</strong><br/>
+  <em>Album:</em> Ladies and gentlemen we are floating in space
 </p>
 
-<p align="center"><code>12:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>15:59</code></p>
+<p align="center"><code>12:23</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>17:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Let Your Soul Illuminate with the Passion of a Thousand Suns](https://open.spotify.com/track/3r0LavFc0SSO3MjRgIMoIW)** by **desert sand feels warm at night** *(New World Disciples)* - `11 min ago`
-- **[Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij)** by **Grouper** *(Dragging a Dead Deer Up a Hill)* - `18 min ago`
-- **[Dayvan Cowboy](https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5)** by **Boards of Canada** *(The Campfire Headphase)* - `24 min ago`
-- **[Neon Memories](https://open.spotify.com/track/7pQLDFpyHjAJsnloiDAEZS)** by **death's dynamic shroud** *(Darklife)* - `30 min ago`
-- **[Whitebird](https://open.spotify.com/track/19FmSxMxuGTYhUsmfhy9Nc)** by **BrokenTeeth** *(The Letters)* - `35 min ago`
+- **[Fell in Love (At the Water)](https://open.spotify.com/track/7qgVP1RmTu8Kg3MGsIl87D)** by **Candy Claws** *(Ceres & Calypso in the Deep Time)* - `12 min ago`
+- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `21 min ago`
+- **[ゆらめき IN THE AIR - Live](https://open.spotify.com/track/4tVmJzUEkbK7HH1uzixD1M)** by **Fishmans** *(98.12.28 男達の別れ (Live))* - `26 min ago`
+- **[Let Your Soul Illuminate with the Passion of a Thousand Suns](https://open.spotify.com/track/3r0LavFc0SSO3MjRgIMoIW)** by **desert sand feels warm at night** *(New World Disciples)* - `40 min ago`
+- **[Heavy Water/I'd Rather Be Sleeping](https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij)** by **Grouper** *(Dragging a Dead Deer Up a Hill)* - `48 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 18:56:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 19:25:39 UTC*
 <!-- SPOTIFY-END -->
