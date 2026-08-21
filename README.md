@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f37f77341c4533a22f795b1f" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6BCV4ysKNe1iKnPkoTvIXs">Kapitel 10: Respekt! - Folge 109</a></strong><br/>
-  <em>by</em> <strong>Teufelskicker</strong><br/>
-  <em>Album:</em> Folge 109: Respekt!
-</p>
-
-<p align="center"><code>1:36</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>3:03</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 03: und der doppelte Onkel - Folge 171](https://open.spotify.com/track/6bGmBMekSflC3fLzzrbm7O)** by **Fünf Freunde** *(Folge 171: und der doppelte Onkel)* - `1 min ago`
-- **[009 - Abenteuer im Ferienlager - Teil 05](https://open.spotify.com/track/10W8sA3Ua0A1mts0p1IeG0)** by **TKKG Retro-Archiv** *(009/Abenteuer im Ferienlager)* - `4 min ago`
-- **[064 - Geisterstadt - Teil 34](https://open.spotify.com/track/3d9yPNQPQL7ZPe5JyA9IYS)** by **Die drei ???** *(064/Geisterstadt)* - `6 min ago`
-- **[Der Regenschirm, Szene 4](https://open.spotify.com/track/6sunj7vZLLNzIqibbXNldD)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.83 (Der Ausserirdische, Der Mann auf der Brücke, Der Regenschirm))* - `7 min ago`
-- **[Sherlock Holmes auf Langeoog Kapitel 15](https://open.spotify.com/track/7MfpkJHfZZTYU2iMg3NZZ0)** by **Insel-Krimi** *(Folge 11: Sherlock Holmes auf Langeoog)* - `11 min ago`
+- **[Kapitel 08: Gemeinsam stark! - Folge 112](https://open.spotify.com/track/3Itzbq5Un169tLHgEUQTX9)** by **Teufelskicker** *(Folge 112: Gemeinsam stark!)* - `38 min ago`
+- **[11 - Das verlorene Geistertal - Teil 25](https://open.spotify.com/track/0J3rvsg1wR9vRCfZtyleg0)** by **HUI BUH neue Welt** *(11/Das verlorene Geistertal)* - `41 min ago`
+- **[01 - Der Schatz der halben Münze - Teil 37](https://open.spotify.com/track/1kpv3OQ6YoNuroetykxmKS)** by **Piraten der Meere** *(01/Der Schatz der halben Münze)* - `42 min ago`
+- **[203 - Tauchgang ins Ungewisse - Teil 06](https://open.spotify.com/track/2bxik40yuksblRc50EC7hr)** by **Die drei ???** *(203/Tauchgang ins Ungewisse)* - `43 min ago`
+- **[Der Mann im Hotel, Szene 2](https://open.spotify.com/track/3U20IZnDSlhwFRajw8h426)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.47 (Der Mann im Hotel, Die Mondfinsternis, Die Saisonkarte))* - `45 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-21 02:18:41 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-21 03:27:40 UTC*
 <!-- SPOTIFY-END -->
