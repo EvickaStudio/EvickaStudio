@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `5 h ago`
-- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `5 h ago`
-- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `5 h ago`
-- **[THE CROWD](https://open.spotify.com/track/3H7d2D1weFxHQpFN1tzx1I)** by **okay troy** *(THE CROWD)* - `5 h ago`
-- **[The Infinite Shore](https://open.spotify.com/track/43poRcd7S470UHQhgeogak)** by **The Missing Peace** *(The Infinite Shore)* - `5 h ago`
+- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `6 h ago`
+- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `6 h ago`
+- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `6 h ago`
+- **[THE CROWD](https://open.spotify.com/track/3H7d2D1weFxHQpFN1tzx1I)** by **okay troy** *(THE CROWD)* - `6 h ago`
+- **[The Infinite Shore](https://open.spotify.com/track/43poRcd7S470UHQhgeogak)** by **The Missing Peace** *(The Infinite Shore)* - `6 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-21 15:00:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-21 15:46:02 UTC*
 <!-- SPOTIFY-END -->
