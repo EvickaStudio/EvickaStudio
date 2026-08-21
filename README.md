@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273201af5be8d579995dc0c082d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273b573cfd942ea97ba2bc869fe" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/39zrjklRdOx8KChGpNi7i4">204 - Der dunkle Wächter - Teil 24</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 204/Der dunkle Wächter
+  <strong><a href="https://open.spotify.com/track/1tYYkjoENUxnECU3RxvVvL">Kapitel 09: und der doppelte Onkel - Folge 171</a></strong><br/>
+  <em>by</em> <strong>Fünf Freunde</strong><br/>
+  <em>Album:</em> Folge 171: und der doppelte Onkel
 </p>
 
-<p align="center"><code>0:43</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>1:45</code></p>
+<p align="center"><code>0:59</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>3:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 19: und die Spur der Diebe - Folge 172](https://open.spotify.com/track/2qW46TXt2hgePyENxvbBx5)** by **Fünf Freunde** *(Folge 172: und die Spur der Diebe)* - `just now`
-- **[082 - Die Karten des Bösen - Teil 40](https://open.spotify.com/track/5LoJS2RKtf8lRfKbLwdAMz)** by **Die drei ???** *(082/Die Karten des Bösen)* - `3 min ago`
-- **[082 - Die Karten des Bösen - Teil 39](https://open.spotify.com/track/6qcdrVVdIGFzLTwqvxswQA)** by **Die drei ???** *(082/Die Karten des Bösen)* - `5 min ago`
-- **[082 - Die Karten des Bösen - Teil 38](https://open.spotify.com/track/2Du5hRtWcYtWMa2wTh6ZaA)** by **Die drei ???** *(082/Die Karten des Bösen)* - `7 min ago`
-- **[082 - Die Karten des Bösen - Teil 37](https://open.spotify.com/track/2WF0st9gAyIOC2lmM8QkXw)** by **Die drei ???** *(082/Die Karten des Bösen)* - `8 min ago`
+- **[07 - Das unheimliche Internat - Teil 35](https://open.spotify.com/track/2rMWTgYRDvsDEogBfgZ8h2)** by **HUI BUH neue Welt** *(07/Das unheimliche Internat)* - `just now`
+- **[Heisse Tage, Szene 4](https://open.spotify.com/track/7oMGui01w7sO72qGnIQMf5)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.26 (Heisse Tage, Durch dick und dünn, Suchtgefahr))* - `2 min ago`
+- **[015 - UFOs in Bad Finkenstein - Teil 13](https://open.spotify.com/track/1WZSIjwA7qefq6TnDA6nZn)** by **TKKG Retro-Archiv** *(015/Ufos in Bad Finkenstein)* - `6 min ago`
+- **[71 - Hanni und Nanni sind nicht zu bremsen - Teil 04](https://open.spotify.com/track/6IYQLpADIU1EzDyO46P2qm)** by **Hanni und Nanni** *(Folge 71: Hanni und Nanni sind nicht zu bremsen)* - `7 min ago`
+- **[118 - Das düstere Vermächtnis - Teil 39](https://open.spotify.com/track/4KgCwR5PilXGvel5tr2V5Q)** by **Die drei ???** *(118/Das düstere Vermächtnis)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-20 23:47:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-21 00:49:20 UTC*
 <!-- SPOTIFY-END -->
