@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Kapitel 08: Gemeinsam stark! - Folge 112](https://open.spotify.com/track/3Itzbq5Un169tLHgEUQTX9)** by **Teufelskicker** *(Folge 112: Gemeinsam stark!)* - `1 h ago`
-- **[11 - Das verlorene Geistertal - Teil 25](https://open.spotify.com/track/0J3rvsg1wR9vRCfZtyleg0)** by **HUI BUH neue Welt** *(11/Das verlorene Geistertal)* - `1 h ago`
-- **[01 - Der Schatz der halben Münze - Teil 37](https://open.spotify.com/track/1kpv3OQ6YoNuroetykxmKS)** by **Piraten der Meere** *(01/Der Schatz der halben Münze)* - `1 h ago`
-- **[203 - Tauchgang ins Ungewisse - Teil 06](https://open.spotify.com/track/2bxik40yuksblRc50EC7hr)** by **Die drei ???** *(203/Tauchgang ins Ungewisse)* - `1 h ago`
-- **[Der Mann im Hotel, Szene 2](https://open.spotify.com/track/3U20IZnDSlhwFRajw8h426)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.47 (Der Mann im Hotel, Die Mondfinsternis, Die Saisonkarte))* - `1 h ago`
+- **[Kapitel 08: Gemeinsam stark! - Folge 112](https://open.spotify.com/track/3Itzbq5Un169tLHgEUQTX9)** by **Teufelskicker** *(Folge 112: Gemeinsam stark!)* - `2 h ago`
+- **[11 - Das verlorene Geistertal - Teil 25](https://open.spotify.com/track/0J3rvsg1wR9vRCfZtyleg0)** by **HUI BUH neue Welt** *(11/Das verlorene Geistertal)* - `2 h ago`
+- **[01 - Der Schatz der halben Münze - Teil 37](https://open.spotify.com/track/1kpv3OQ6YoNuroetykxmKS)** by **Piraten der Meere** *(01/Der Schatz der halben Münze)* - `2 h ago`
+- **[203 - Tauchgang ins Ungewisse - Teil 06](https://open.spotify.com/track/2bxik40yuksblRc50EC7hr)** by **Die drei ???** *(203/Tauchgang ins Ungewisse)* - `2 h ago`
+- **[Der Mann im Hotel, Szene 2](https://open.spotify.com/track/3U20IZnDSlhwFRajw8h426)** by **Philip Maloney, Roger Graf, Michael Schacht, Jodoc Seidel** *(Die haarsträubenden Fälle des Philip Maloney, No.47 (Der Mann im Hotel, Die Mondfinsternis, Die Saisonkarte))* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**born yesterday**](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-21 04:08:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-21 04:51:36 UTC*
 <!-- SPOTIFY-END -->
