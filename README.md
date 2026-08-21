@@ -96,7 +96,7 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `6 h ago`
+- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `7 h ago`
 - **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `7 h ago`
 - **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `7 h ago`
 - **[THE CROWD](https://open.spotify.com/track/3H7d2D1weFxHQpFN1tzx1I)** by **okay troy** *(THE CROWD)* - `7 h ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-21 16:21:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-21 16:58:43 UTC*
 <!-- SPOTIFY-END -->
