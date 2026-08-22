@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273607b2761ab925c78a25449a2" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2736b61c6c0f8621eb57d1bb596" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM">Suddenly</a></strong><br/>
-  <em>by</em> <strong>Kkoki</strong><br/>
-  <em>Album:</em> Suddenly
+  <strong><a href="https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV">The American Experiment</a></strong><br/>
+  <em>by</em> <strong>MGNA Crrrta</strong><br/>
+  <em>Album:</em> New Jersey
 </p>
 
-<p align="center"><code>2:41</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>2:44</code></p>
+<p align="center"><code>0:15</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:00</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Coming Around](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)** by **Kkoki** *(Coming Around)* - `2 min ago`
-- **[oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8)** by **Steve Lacy** *(Oh yeah?)* - `5 min ago`
-- **[Inundauswendig](https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq)** by **makko, The Chainsmokers** *(Inundauswendig)* - `8 min ago`
-- **[Inundauswendig](https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq)** by **makko, The Chainsmokers** *(Inundauswendig)* - `11 min ago`
-- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `1 d ago`
+- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `just now`
+- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `3 min ago`
+- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `6 min ago`
+- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `8 min ago`
+- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 10:19:16 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 10:46:32 UTC*
 <!-- SPOTIFY-END -->
