@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27384d9788915697efd5cbf56f4" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe">The Big Ship - 2004 Remaster</a></strong><br/>
-  <em>by</em> <strong>Brian Eno</strong><br/>
-  <em>Album:</em> Another Green World (2004 Remaster)
-</p>
-
-<p align="center"><code>1:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:01</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Helicon 1](https://open.spotify.com/track/5jhGdiDenEF6xd7iYQzucr)** by **Mogwai** *(Ten Rapid)* - `1 min ago`
-- **[Vapour Trail - 2001 Remaster](https://open.spotify.com/track/58AWfmYbSeMywgJtXkey7Q)** by **Ride** *(Nowhere (Expanded))* - `6 min ago`
-- **[Sleep](https://open.spotify.com/track/5viL6E7yylGtpuANKZxFJm)** by **Azure Ray** *(Azure Ray)* - `10 min ago`
-- **[Streamside](https://open.spotify.com/track/4zBT1DYfe9w9zKuBN08JLl)** by **The Album Leaf** *(In A Safe Place)* - `14 min ago`
-- **[Kids Will Be Skeletons](https://open.spotify.com/track/3xogCrlDsnIZ7nQo8VvRL6)** by **Mogwai** *(Happy Songs for Happy People)* - `17 min ago`
+- **[Helicon 1](https://open.spotify.com/track/5jhGdiDenEF6xd7iYQzucr)** by **Mogwai** *(Ten Rapid)* - `22 min ago`
+- **[Vapour Trail - 2001 Remaster](https://open.spotify.com/track/58AWfmYbSeMywgJtXkey7Q)** by **Ride** *(Nowhere (Expanded))* - `27 min ago`
+- **[Sleep](https://open.spotify.com/track/5viL6E7yylGtpuANKZxFJm)** by **Azure Ray** *(Azure Ray)* - `31 min ago`
+- **[Streamside](https://open.spotify.com/track/4zBT1DYfe9w9zKuBN08JLl)** by **The Album Leaf** *(In A Safe Place)* - `35 min ago`
+- **[Kids Will Be Skeletons](https://open.spotify.com/track/3xogCrlDsnIZ7nQo8VvRL6)** by **Mogwai** *(Happy Songs for Happy People)* - `38 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 15:56:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 16:17:40 UTC*
 <!-- SPOTIFY-END -->
