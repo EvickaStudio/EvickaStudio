@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Your Hand in Mine](https://open.spotify.com/track/4mZofk9oND0AA4sJfzTH0R)** by **Explosions In The Sky** *(The Earth Is Not a Cold Dead Place)* - `41 min ago`
-- **[We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k)** by **múm** *(Finally We Are No One)* - `49 min ago`
-- **[Byegone](https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4)** by **Volcano Choir** *(Repave)* - `54 min ago`
-- **[Takk...](https://open.spotify.com/track/44SQOW2hynczktADLNPeuH)** by **Sigur Rós** *(Takk...)* - `58 min ago`
-- **[Twentytwofourteen](https://open.spotify.com/track/6PSgBb1yQZe99yIjn0eUgp)** by **The Album Leaf** *(In A Safe Place)* - `59 min ago`
+- **[Your Hand in Mine](https://open.spotify.com/track/4mZofk9oND0AA4sJfzTH0R)** by **Explosions In The Sky** *(The Earth Is Not a Cold Dead Place)* - `1 h ago`
+- **[We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k)** by **múm** *(Finally We Are No One)* - `1 h ago`
+- **[Byegone](https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4)** by **Volcano Choir** *(Repave)* - `1 h ago`
+- **[Takk...](https://open.spotify.com/track/44SQOW2hynczktADLNPeuH)** by **Sigur Rós** *(Takk...)* - `1 h ago`
+- **[Twentytwofourteen](https://open.spotify.com/track/6PSgBb1yQZe99yIjn0eUgp)** by **The Album Leaf** *(In A Safe Place)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 17:55:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 18:18:56 UTC*
 <!-- SPOTIFY-END -->
