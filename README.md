@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e4d3c93278fe1e88483ad1a0" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4mZofk9oND0AA4sJfzTH0R">Your Hand in Mine</a></strong><br/>
-  <em>by</em> <strong>Explosions In The Sky</strong><br/>
-  <em>Album:</em> The Earth Is Not a Cold Dead Place
-</p>
-
-<p align="center"><code>6:12</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>8:17</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k)** by **múm** *(Finally We Are No One)* - `6 min ago`
-- **[Byegone](https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4)** by **Volcano Choir** *(Repave)* - `10 min ago`
-- **[Takk...](https://open.spotify.com/track/44SQOW2hynczktADLNPeuH)** by **Sigur Rós** *(Takk...)* - `15 min ago`
-- **[Twentytwofourteen](https://open.spotify.com/track/6PSgBb1yQZe99yIjn0eUgp)** by **The Album Leaf** *(In A Safe Place)* - `16 min ago`
-- **[Crosses](https://open.spotify.com/track/277bAXhqfHukF9Yvhk6MYr)** by **José González** *(Veneer)* - `22 min ago`
+- **[Your Hand in Mine](https://open.spotify.com/track/4mZofk9oND0AA4sJfzTH0R)** by **Explosions In The Sky** *(The Earth Is Not a Cold Dead Place)* - `20 min ago`
+- **[We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k)** by **múm** *(Finally We Are No One)* - `28 min ago`
+- **[Byegone](https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4)** by **Volcano Choir** *(Repave)* - `33 min ago`
+- **[Takk...](https://open.spotify.com/track/44SQOW2hynczktADLNPeuH)** by **Sigur Rós** *(Takk...)* - `37 min ago`
+- **[Twentytwofourteen](https://open.spotify.com/track/6PSgBb1yQZe99yIjn0eUgp)** by **The Album Leaf** *(In A Safe Place)* - `38 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 17:12:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 17:34:54 UTC*
 <!-- SPOTIFY-END -->
