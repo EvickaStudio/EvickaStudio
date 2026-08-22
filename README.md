@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273adefb06291cb00edfcb1ae0b" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6FXKRKzAXLoIx9vyEbprbd">Moonlight</a></strong><br/>
+  <em>by</em> <strong>Message To Bears</strong><br/>
+  <em>Album:</em> Maps
+</p>
+
+<p align="center"><code>1:47</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:21</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
+- **[Green Green Grass Of Tunnel](https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM)** by **múm** *(Finally We Are No One)* - `just now`
 - **[Untitled #4 - Njósnavélin](https://open.spotify.com/track/3fjoFeVDK2ifrZ4yOCwFYC)** by **Sigur Rós** *(( ))* - `1 h ago`
-- **[Rugla](https://open.spotify.com/track/4IlDk2WqvB9IODyLA1TwV9)** by **amiina** *(Kurr)* - `1 h ago`
-- **[Window](https://open.spotify.com/track/5lLAenT4RjwShN3kJyUq6R)** by **The Album Leaf** *(In A Safe Place)* - `1 h ago`
-- **[Moonchild](https://open.spotify.com/track/5jcrFtjW9dscpbkFjjLmyH)** by **M83** *(Before the Dawn Heals Us)* - `1 h ago`
-- **[Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz)** by **Bibio** *(Ribbons)* - `1 h ago`
+- **[Rugla](https://open.spotify.com/track/4IlDk2WqvB9IODyLA1TwV9)** by **amiina** *(Kurr)* - `2 h ago`
+- **[Window](https://open.spotify.com/track/5lLAenT4RjwShN3kJyUq6R)** by **The Album Leaf** *(In A Safe Place)* - `2 h ago`
+- **[Moonchild](https://open.spotify.com/track/5jcrFtjW9dscpbkFjjLmyH)** by **M83** *(Before the Dawn Heals Us)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 14:58:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 15:22:07 UTC*
 <!-- SPOTIFY-END -->
