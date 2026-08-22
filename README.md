@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2734aeb8c5fa2f751ed7a83c926" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e4d3c93278fe1e88483ad1a0" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5ei4GfYcpOtVDf9zSE8kE8">No Way</a></strong><br/>
-  <em>by</em> <strong>The Naked And Famous</strong><br/>
-  <em>Album:</em> Passive Me, Aggressive You
+  <strong><a href="https://open.spotify.com/track/4mZofk9oND0AA4sJfzTH0R">Your Hand in Mine</a></strong><br/>
+  <em>by</em> <strong>Explosions In The Sky</strong><br/>
+  <em>Album:</em> The Earth Is Not a Cold Dead Place
 </p>
 
-<p align="center"><code>3:37</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>5:29</code></p>
+<p align="center"><code>6:12</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>8:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Angeles](https://open.spotify.com/track/0Ziohm1Ku8E2yUDYoclfhO)** by **Elliott Smith** *(Either/Or)* - `3 min ago`
-- **[Við spilum endalaust](https://open.spotify.com/track/3M17yW4JjJPi9acAGhb98f)** by **Sigur Rós** *(Med Sud í Eyrum Vid Spilum Endalaust)* - `6 min ago`
-- **[The Big Ship - 2004 Remaster](https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe)** by **Brian Eno** *(Another Green World (2004 Remaster))* - `9 min ago`
-- **[Helicon 1](https://open.spotify.com/track/5jhGdiDenEF6xd7iYQzucr)** by **Mogwai** *(Ten Rapid)* - `51 min ago`
-- **[Vapour Trail - 2001 Remaster](https://open.spotify.com/track/58AWfmYbSeMywgJtXkey7Q)** by **Ride** *(Nowhere (Expanded))* - `56 min ago`
+- **[We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k)** by **múm** *(Finally We Are No One)* - `6 min ago`
+- **[Byegone](https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4)** by **Volcano Choir** *(Repave)* - `10 min ago`
+- **[Takk...](https://open.spotify.com/track/44SQOW2hynczktADLNPeuH)** by **Sigur Rós** *(Takk...)* - `15 min ago`
+- **[Twentytwofourteen](https://open.spotify.com/track/6PSgBb1yQZe99yIjn0eUgp)** by **The Album Leaf** *(In A Safe Place)* - `16 min ago`
+- **[Crosses](https://open.spotify.com/track/277bAXhqfHukF9Yvhk6MYr)** by **José González** *(Veneer)* - `22 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 16:46:40 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 17:12:40 UTC*
 <!-- SPOTIFY-END -->
