@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273845c80b3f4d7f95b099889c0" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b27384d9788915697efd5cbf56f4" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5viL6E7yylGtpuANKZxFJm">Sleep</a></strong><br/>
-  <em>by</em> <strong>Azure Ray</strong><br/>
-  <em>Album:</em> Azure Ray
+  <strong><a href="https://open.spotify.com/track/2d9KBVxb6bUfVCjjv1JAVe">The Big Ship - 2004 Remaster</a></strong><br/>
+  <em>by</em> <strong>Brian Eno</strong><br/>
+  <em>Album:</em> Another Green World (2004 Remaster)
 </p>
 
-<p align="center"><code>1:01</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>5:03</code></p>
+<p align="center"><code>1:59</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:01</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Streamside](https://open.spotify.com/track/4zBT1DYfe9w9zKuBN08JLl)** by **The Album Leaf** *(In A Safe Place)* - `just now`
-- **[Kids Will Be Skeletons](https://open.spotify.com/track/3xogCrlDsnIZ7nQo8VvRL6)** by **Mogwai** *(Happy Songs for Happy People)* - `3 min ago`
-- **[Gong](https://open.spotify.com/track/1ZjQgM7HHjv5EjE05dOEMq)** by **Sigur Rós** *(Takk...)* - `7 min ago`
-- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `12 min ago`
-- **[Moonlight](https://open.spotify.com/track/6FXKRKzAXLoIx9vyEbprbd)** by **Message To Bears** *(Maps)* - `18 min ago`
+- **[Helicon 1](https://open.spotify.com/track/5jhGdiDenEF6xd7iYQzucr)** by **Mogwai** *(Ten Rapid)* - `1 min ago`
+- **[Vapour Trail - 2001 Remaster](https://open.spotify.com/track/58AWfmYbSeMywgJtXkey7Q)** by **Ride** *(Nowhere (Expanded))* - `6 min ago`
+- **[Sleep](https://open.spotify.com/track/5viL6E7yylGtpuANKZxFJm)** by **Azure Ray** *(Azure Ray)* - `10 min ago`
+- **[Streamside](https://open.spotify.com/track/4zBT1DYfe9w9zKuBN08JLl)** by **The Album Leaf** *(In A Safe Place)* - `14 min ago`
+- **[Kids Will Be Skeletons](https://open.spotify.com/track/3xogCrlDsnIZ7nQo8VvRL6)** by **Mogwai** *(Happy Songs for Happy People)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 15:42:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 15:56:46 UTC*
 <!-- SPOTIFY-END -->
