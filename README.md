@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738fcc191aeb296f0662d3d5db" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273978bb25fbbc9fb2fc830836e" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/6Nu85CnU2uYii9Stic075E">Anastasia</a></strong><br/>
-  <em>by</em> <strong>SILICONE VALLEY</strong><br/>
-  <em>Album:</em> Anastasia
+  <strong><a href="https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz">Curls</a></strong><br/>
+  <em>by</em> <strong>Bibio</strong><br/>
+  <em>Album:</em> Ribbons
 </p>
 
-<p align="center"><code>1:57</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:56</code></p>
+<p align="center"><code>2:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:17</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Inundauswendig](https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq)** by **makko, The Chainsmokers** *(Inundauswendig)* - `1 min ago`
-- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `17 min ago`
-- **[Parade](https://open.spotify.com/track/0DYALM07LyrmvGBNpa8Zfw)** by **Parannoul** *(After the Magic)* - `22 min ago`
-- **[Video](https://open.spotify.com/track/5oOK1zl5Rtv8gHBCtl864C)** by **Jane Remover** *(Census Designated)* - `29 min ago`
-- **[born yesterday](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)** by **Quadeca** *(I Didn't Mean To Haunt You)* - `38 min ago`
+- **[Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC)** by **The Middle East** *(The Recordings of the Middle East)* - `1 min ago`
+- **[Sleep the Clock Around](https://open.spotify.com/track/2Z5kQTijIo3yVIL0EPrq9T)** by **Belle and Sebastian** *(The Boy With The Arab Strap)* - `6 min ago`
+- **[So Here We Are](https://open.spotify.com/track/7Jbf5qUrjaRIQG2GAkabKB)** by **Bloc Party** *(Silent Alarm)* - `10 min ago`
+- **[Winter Beats](https://open.spotify.com/track/6o6Dmd2gQW3BXzyzxMHnfz)** by **I Break Horses** *(Hearts)* - `14 min ago`
+- **[A Little Piece](https://open.spotify.com/track/13G0k2hwfXSyyMOuvlZhaO)** by **The Jezabels** *(Dark Storm)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -128,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 12:22:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 13:07:23 UTC*
 <!-- SPOTIFY-END -->
