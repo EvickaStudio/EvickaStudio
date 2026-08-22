@@ -96,7 +96,7 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Untitled #4 - Njósnavélin](https://open.spotify.com/track/3fjoFeVDK2ifrZ4yOCwFYC)** by **Sigur Rós** *(( ))* - `53 min ago`
+- **[Untitled #4 - Njósnavélin](https://open.spotify.com/track/3fjoFeVDK2ifrZ4yOCwFYC)** by **Sigur Rós** *(( ))* - `1 h ago`
 - **[Rugla](https://open.spotify.com/track/4IlDk2WqvB9IODyLA1TwV9)** by **amiina** *(Kurr)* - `1 h ago`
 - **[Window](https://open.spotify.com/track/5lLAenT4RjwShN3kJyUq6R)** by **The Album Leaf** *(In A Safe Place)* - `1 h ago`
 - **[Moonchild](https://open.spotify.com/track/5jcrFtjW9dscpbkFjjLmyH)** by **M83** *(Before the Dawn Heals Us)* - `1 h ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 14:20:24 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 14:44:37 UTC*
 <!-- SPOTIFY-END -->
