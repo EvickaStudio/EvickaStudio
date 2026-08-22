@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273cae389ab4c2347ccc03d6e08" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2738fcc191aeb296f0662d3d5db" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0DYALM07LyrmvGBNpa8Zfw">Parade</a></strong><br/>
-  <em>by</em> <strong>Parannoul</strong><br/>
-  <em>Album:</em> After the Magic
+  <strong><a href="https://open.spotify.com/track/6Nu85CnU2uYii9Stic075E">Anastasia</a></strong><br/>
+  <em>by</em> <strong>SILICONE VALLEY</strong><br/>
+  <em>Album:</em> Anastasia
 </p>
 
-<p align="center"><code>2:37</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>7:34</code></p>
+<p align="center"><code>1:57</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>3:56</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Video](https://open.spotify.com/track/5oOK1zl5Rtv8gHBCtl864C)** by **Jane Remover** *(Census Designated)* - `2 min ago`
-- **[born yesterday](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)** by **Quadeca** *(I Didn't Mean To Haunt You)* - `11 min ago`
-- **[Into the Endless Night - Live](https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz)** by **Parannoul** *(After the Night (Live))* - `17 min ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `1 h ago`
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `1 h ago`
+- **[Inundauswendig](https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq)** by **makko, The Chainsmokers** *(Inundauswendig)* - `1 min ago`
+- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `17 min ago`
+- **[Parade](https://open.spotify.com/track/0DYALM07LyrmvGBNpa8Zfw)** by **Parannoul** *(After the Magic)* - `22 min ago`
+- **[Video](https://open.spotify.com/track/5oOK1zl5Rtv8gHBCtl864C)** by **Jane Remover** *(Census Designated)* - `29 min ago`
+- **[born yesterday](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)** by **Quadeca** *(I Didn't Mean To Haunt You)* - `38 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Oben kümmert sich keiner**](https://open.spotify.com/track/4Fug9Dv0k93DJ95J5KcNew)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 11:55:38 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 12:22:53 UTC*
 <!-- SPOTIFY-END -->
