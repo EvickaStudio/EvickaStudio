@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273978bb25fbbc9fb2fc830836e" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz">Curls</a></strong><br/>
-  <em>by</em> <strong>Bibio</strong><br/>
-  <em>Album:</em> Ribbons
-</p>
-
-<p align="center"><code>2:08</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ <code>3:17</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC)** by **The Middle East** *(The Recordings of the Middle East)* - `1 min ago`
-- **[Sleep the Clock Around](https://open.spotify.com/track/2Z5kQTijIo3yVIL0EPrq9T)** by **Belle and Sebastian** *(The Boy With The Arab Strap)* - `6 min ago`
-- **[So Here We Are](https://open.spotify.com/track/7Jbf5qUrjaRIQG2GAkabKB)** by **Bloc Party** *(Silent Alarm)* - `10 min ago`
-- **[Winter Beats](https://open.spotify.com/track/6o6Dmd2gQW3BXzyzxMHnfz)** by **I Break Horses** *(Hearts)* - `14 min ago`
-- **[A Little Piece](https://open.spotify.com/track/13G0k2hwfXSyyMOuvlZhaO)** by **The Jezabels** *(Dark Storm)* - `19 min ago`
+- **[Untitled #4 - Njósnavélin](https://open.spotify.com/track/3fjoFeVDK2ifrZ4yOCwFYC)** by **Sigur Rós** *(( ))* - `15 min ago`
+- **[Rugla](https://open.spotify.com/track/4IlDk2WqvB9IODyLA1TwV9)** by **amiina** *(Kurr)* - `22 min ago`
+- **[Window](https://open.spotify.com/track/5lLAenT4RjwShN3kJyUq6R)** by **The Album Leaf** *(In A Safe Place)* - `26 min ago`
+- **[Moonchild](https://open.spotify.com/track/5jcrFtjW9dscpbkFjjLmyH)** by **M83** *(Before the Dawn Heals Us)* - `29 min ago`
+- **[Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz)** by **Bibio** *(Ribbons)* - `34 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 13:07:23 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-22 13:42:41 UTC*
 <!-- SPOTIFY-END -->
