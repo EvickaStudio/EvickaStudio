@@ -96,7 +96,7 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[codename x](https://open.spotify.com/track/566bhVqzswsbEzBV56YmTp)** by **blombi19** *(codename x)* - `12 h ago`
+- **[codename x](https://open.spotify.com/track/566bhVqzswsbEzBV56YmTp)** by **blombi19** *(codename x)* - `13 h ago`
 - **[Your Hand in Mine](https://open.spotify.com/track/4mZofk9oND0AA4sJfzTH0R)** by **Explosions In The Sky** *(The Earth Is Not a Cold Dead Place)* - `14 h ago`
 - **[We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k)** by **múm** *(Finally We Are No One)* - `14 h ago`
 - **[Byegone](https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4)** by **Volcano Choir** *(Repave)* - `14 h ago`
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-23 07:25:54 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-23 07:54:39 UTC*
 <!-- SPOTIFY-END -->
