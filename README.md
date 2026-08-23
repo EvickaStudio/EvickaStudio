@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273fd4a18493204ded82b0c7b00" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM">Green Green Grass Of Tunnel</a></strong><br/>
+  <em>by</em> <strong>múm</strong><br/>
+  <em>Album:</em> Finally We Are No One
+</p>
+
+<p align="center"><code>0:12</code> ▓░░░░░░░░░░░░░░░░░░░ <code>4:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[codename x](https://open.spotify.com/track/566bhVqzswsbEzBV56YmTp)** by **blombi19** *(codename x)* - `15 h ago`
-- **[Your Hand in Mine](https://open.spotify.com/track/4mZofk9oND0AA4sJfzTH0R)** by **Explosions In The Sky** *(The Earth Is Not a Cold Dead Place)* - `17 h ago`
-- **[We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k)** by **múm** *(Finally We Are No One)* - `17 h ago`
-- **[Byegone](https://open.spotify.com/track/0Sq3wdy9bjXBAnkc0SO2A4)** by **Volcano Choir** *(Repave)* - `17 h ago`
-- **[Takk...](https://open.spotify.com/track/44SQOW2hynczktADLNPeuH)** by **Sigur Rós** *(Takk...)* - `17 h ago`
+- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `just now`
+- **[Rafstraumur](https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg)** by **Sigur Rós** *(Kveikur)* - `6 min ago`
+- **[Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry)** by **The Jesus and Mary Chain** *(Psychocandy (Expanded Version))* - `14 min ago`
+- **[Run Into Flowers](https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS)** by **M83** *(Dead Cities, Red Seas & Lost Ghosts)* - `17 min ago`
+- **[Rafstraumur](https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg)** by **Sigur Rós** *(Kveikur)* - `21 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-23 10:14:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-23 10:41:36 UTC*
 <!-- SPOTIFY-END -->
