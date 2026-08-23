@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fd4a18493204ded82b0c7b00" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM">Green Green Grass Of Tunnel</a></strong><br/>
-  <em>by</em> <strong>múm</strong><br/>
-  <em>Album:</em> Finally We Are No One
-</p>
-
-<p align="center"><code>3:36</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>4:51</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `3 min ago`
-- **[Rafstraumur](https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg)** by **Sigur Rós** *(Kveikur)* - `9 min ago`
-- **[lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR)** by **Bibio** *(Ambivalence Avenue)* - `14 min ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `6 h ago`
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `7 h ago`
+- **[Green Green Grass Of Tunnel](https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM)** by **múm** *(Finally We Are No One)* - `23 min ago`
+- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `28 min ago`
+- **[Rafstraumur](https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg)** by **Sigur Rós** *(Kveikur)* - `34 min ago`
+- **[lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR)** by **Bibio** *(Ambivalence Avenue)* - `39 min ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-23 21:17:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-23 21:42:45 UTC*
 <!-- SPOTIFY-END -->
