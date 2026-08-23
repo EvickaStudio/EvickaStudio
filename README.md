@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Green Green Grass Of Tunnel](https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM)** by **múm** *(Finally We Are No One)* - `1 h ago`
-- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `1 h ago`
-- **[Rafstraumur](https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg)** by **Sigur Rós** *(Kveikur)* - `1 h ago`
-- **[lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR)** by **Bibio** *(Ambivalence Avenue)* - `1 h ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `8 h ago`
+- **[Green Green Grass Of Tunnel](https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM)** by **múm** *(Finally We Are No One)* - `2 h ago`
+- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `2 h ago`
+- **[Rafstraumur](https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg)** by **Sigur Rós** *(Kveikur)* - `2 h ago`
+- **[lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR)** by **Bibio** *(Ambivalence Avenue)* - `2 h ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `9 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-23 22:59:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-23 23:22:18 UTC*
 <!-- SPOTIFY-END -->
