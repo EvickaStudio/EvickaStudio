@@ -91,7 +91,17 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273adae4e28d1817f9a09d09f96" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6ahyBFv4afQMytgmpFv1G5">Hoppípolla - 2025 Remaster</a></strong><br/>
+  <em>by</em> <strong>Sigur Rós</strong><br/>
+  <em>Album:</em> Takk... (20th Anniversary Deluxe Edition)
+</p>
+
+<p align="center"><code>1:37</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>4:28</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-23 15:23:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-23 15:43:46 UTC*
 <!-- SPOTIFY-END -->
