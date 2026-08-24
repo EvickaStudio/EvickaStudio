@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f5a91812575bc91f05da90e1" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/7ygi2UbXjAiRx3iYNoes5s">boiler room</a></strong><br/>
-  <em>by</em> <strong>cholorofilm</strong><br/>
-  <em>Album:</em> boiler room
-</p>
-
-<p align="center"><code>1:46</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:21</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ouija 2018](https://open.spotify.com/track/3V5fAfOeXYp2QClcpdlxdl)** by **luu** *(ouija 2018)* - `1 min ago`
-- **[Inundauswendig](https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq)** by **makko, The Chainsmokers** *(Inundauswendig)* - `3 min ago`
-- **[Knife Prty](https://open.spotify.com/track/42Kv1RoTAm09FeytxiuZIB)** by **Deftones** *(White Pony)* - `21 min ago`
-- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `34 min ago`
-- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `38 min ago`
+- **[scream so sweet](https://open.spotify.com/track/3oVZASWKU5ZWtjKCRMOv1b)** by **korpsebunny** *(scream so sweet)* - `14 min ago`
+- **[GOIN DUMB!](https://open.spotify.com/track/1H577NqS5aEZoNhBqs4lHf)** by **Clover!** *(GOIN DUMB!)* - `15 min ago`
+- **[wish u](https://open.spotify.com/track/26IfYU72LrRxfi7sxvYNrl)** by **The Twins** *(wish u)* - `20 min ago`
+- **[i'll never recover](https://open.spotify.com/track/7f5F8ySiQn9YKImS9PBMbP)** by **SQUIDGY, dreamloader** *(i'll never recover)* - `22 min ago`
+- **[Anastasia](https://open.spotify.com/track/6Nu85CnU2uYii9Stic075E)** by **SILICONE VALLEY** *(Anastasia)* - `25 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +116,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-24 12:30:19 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-24 13:34:35 UTC*
 <!-- SPOTIFY-END -->
