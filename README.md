@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ddd29279ec01511dca4c441c" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd">Glósóli</a></strong><br/>
+  <em>by</em> <strong>Sigur Rós</strong><br/>
+  <em>Album:</em> Takk...
+</p>
+
+<p align="center"><code>0:56</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>6:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[scream so sweet](https://open.spotify.com/track/3oVZASWKU5ZWtjKCRMOv1b)** by **korpsebunny** *(scream so sweet)* - `14 min ago`
-- **[GOIN DUMB!](https://open.spotify.com/track/1H577NqS5aEZoNhBqs4lHf)** by **Clover!** *(GOIN DUMB!)* - `15 min ago`
-- **[wish u](https://open.spotify.com/track/26IfYU72LrRxfi7sxvYNrl)** by **The Twins** *(wish u)* - `20 min ago`
-- **[i'll never recover](https://open.spotify.com/track/7f5F8ySiQn9YKImS9PBMbP)** by **SQUIDGY, dreamloader** *(i'll never recover)* - `22 min ago`
-- **[Anastasia](https://open.spotify.com/track/6Nu85CnU2uYii9Stic075E)** by **SILICONE VALLEY** *(Anastasia)* - `25 min ago`
+- **[Rafstraumur](https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg)** by **Sigur Rós** *(Kveikur)* - `just now`
+- **[lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR)** by **Bibio** *(Ambivalence Avenue)* - `5 min ago`
+- **[scream so sweet](https://open.spotify.com/track/3oVZASWKU5ZWtjKCRMOv1b)** by **korpsebunny** *(scream so sweet)* - `1 h ago`
+- **[GOIN DUMB!](https://open.spotify.com/track/1H577NqS5aEZoNhBqs4lHf)** by **Clover!** *(GOIN DUMB!)* - `1 h ago`
+- **[wish u](https://open.spotify.com/track/26IfYU72LrRxfi7sxvYNrl)** by **The Twins** *(wish u)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -109,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Tigers Jaw**](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sigur Rós**](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Kkoki**](https://open.spotify.com/artist/2rqcRm0wthlLsTu9Hq10oz)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-24 13:34:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-24 14:23:42 UTC*
 <!-- SPOTIFY-END -->
