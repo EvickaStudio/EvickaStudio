@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739ff16c4c65ed9cca18999c50" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/3Jhl5YNtxcesHnvs8vouwG">Stargazer</a></strong><br/>
-  <em>by</em> <strong>honeydip</strong><br/>
-  <em>Album:</em> Another Sunny Day -Remastered-
+  <strong><a href="https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8">oh yeah?</a></strong><br/>
+  <em>by</em> <strong>Steve Lacy</strong><br/>
+  <em>Album:</em> Oh yeah?
 </p>
 
-<p align="center"><code>8:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ <code>12:29</code></p>
+<p align="center"><code>0:05</code> ▓░░░░░░░░░░░░░░░░░░░ <code>2:50</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `8 min ago`
-- **[Parade](https://open.spotify.com/track/0DYALM07LyrmvGBNpa8Zfw)** by **Parannoul** *(After the Magic)* - `13 min ago`
-- **[Video](https://open.spotify.com/track/5oOK1zl5Rtv8gHBCtl864C)** by **Jane Remover** *(Census Designated)* - `21 min ago`
-- **[born yesterday](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)** by **Quadeca** *(I Didn't Mean To Haunt You)* - `30 min ago`
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `1 h ago`
+- **[Inundauswendig](https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq)** by **makko, The Chainsmokers** *(Inundauswendig)* - `just now`
+- **[Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz)** by **Bibio** *(Ribbons)* - `2 min ago`
+- **[Window](https://open.spotify.com/track/5lLAenT4RjwShN3kJyUq6R)** by **The Album Leaf** *(In A Safe Place)* - `6 min ago`
+- **[Green Green Grass Of Tunnel](https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM)** by **múm** *(Finally We Are No One)* - `9 min ago`
+- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `14 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-24 16:25:48 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-24 17:03:23 UTC*
 <!-- SPOTIFY-END -->
