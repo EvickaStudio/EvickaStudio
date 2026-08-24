@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `52 min ago`
-- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `54 min ago`
-- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `56 min ago`
-- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `59 min ago`
-- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `1 h ago`
+- **[Rafstraumur](https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg)** by **Sigur Rós** *(Kveikur)* - `31 min ago`
+- **[lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR)** by **Bibio** *(Ambivalence Avenue)* - `36 min ago`
+- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `40 min ago`
+- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `1 h ago`
+- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-24 10:01:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-24 10:51:13 UTC*
 <!-- SPOTIFY-END -->
