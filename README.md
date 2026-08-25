@@ -98,9 +98,9 @@
 
 - **[oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8)** by **Steve Lacy** *(Oh yeah?)* - `3 h ago`
 - **[Inundauswendig](https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq)** by **makko, The Chainsmokers** *(Inundauswendig)* - `3 h ago`
-- **[Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz)** by **Bibio** *(Ribbons)* - `3 h ago`
-- **[Window](https://open.spotify.com/track/5lLAenT4RjwShN3kJyUq6R)** by **The Album Leaf** *(In A Safe Place)* - `3 h ago`
-- **[Green Green Grass Of Tunnel](https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM)** by **múm** *(Finally We Are No One)* - `3 h ago`
+- **[Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz)** by **Bibio** *(Ribbons)* - `4 h ago`
+- **[Window](https://open.spotify.com/track/5lLAenT4RjwShN3kJyUq6R)** by **The Album Leaf** *(In A Safe Place)* - `4 h ago`
+- **[Green Green Grass Of Tunnel](https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM)** by **múm** *(Finally We Are No One)* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 10:04:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 10:47:17 UTC*
 <!-- SPOTIFY-END -->
