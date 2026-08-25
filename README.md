@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ddd29279ec01511dca4c441c" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd">Glósóli</a></strong><br/>
+  <em>by</em> <strong>Sigur Rós</strong><br/>
+  <em>Album:</em> Takk...
+</p>
+
+<p align="center"><code>2:04</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>6:15</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[weißes kleid](https://open.spotify.com/track/2tYNImcnyr7afpnLdgUfIK)** by **pink luu, prettydrama** *(weißes kleid)* - `12 min ago`
-- **[#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)** by **luutwo** *(#SCENEJESUS)* - `13 min ago`
-- **[multiply](https://open.spotify.com/track/46p5o3TTAv4DJuBQAY73lN)** by **hateoryx, xofilo** *(multiply)* - `15 min ago`
-- **[fühl mich blau](https://open.spotify.com/track/5RSPXM85udgruX3v9seYd1)** by **luu, 4rde** *(1nternetcore)* - `18 min ago`
-- **[they don't love you more than i love you - slowed](https://open.spotify.com/track/3D0EUiFifNtzqc9S0opLX4)** by **Remika, ovg!** *(they don't love you more than i love you)* - `19 min ago`
+- **[weißes kleid](https://open.spotify.com/track/2tYNImcnyr7afpnLdgUfIK)** by **pink luu, prettydrama** *(weißes kleid)* - `53 min ago`
+- **[#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)** by **luutwo** *(#SCENEJESUS)* - `54 min ago`
+- **[multiply](https://open.spotify.com/track/46p5o3TTAv4DJuBQAY73lN)** by **hateoryx, xofilo** *(multiply)* - `56 min ago`
+- **[fühl mich blau](https://open.spotify.com/track/5RSPXM85udgruX3v9seYd1)** by **luu, 4rde** *(1nternetcore)* - `58 min ago`
+- **[they don't love you more than i love you - slowed](https://open.spotify.com/track/3D0EUiFifNtzqc9S0opLX4)** by **Remika, ovg!** *(they don't love you more than i love you)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 17:45:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 18:26:24 UTC*
 <!-- SPOTIFY-END -->
