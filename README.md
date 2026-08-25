@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a09592781e9c0413d2fdd808" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2734cc092763068080e3aacd254" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz">Into the Endless Night - Live</a></strong><br/>
-  <em>by</em> <strong>Parannoul</strong><br/>
-  <em>Album:</em> After the Night (Live)
+  <strong><a href="https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR">triple trauma</a></strong><br/>
+  <em>by</em> <strong>luu, mehlhaltig, iwannabemissed</strong><br/>
+  <em>Album:</em> triple trauma
 </p>
 
-<p align="center"><code>5:43</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>46:06</code></p>
+<p align="center"><code>0:51</code> ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ <code>1:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `5 min ago`
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `8 min ago`
-- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `11 min ago`
-- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `15 min ago`
-- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `17 min ago`
+- **[ich hasse euch alle](https://open.spotify.com/track/3aVnad4TugiGrlaDU03yDo)** by **luu, mehlhaltig** *(deluulu but mehlodic)* - `just now`
+- **[immenser pflegefall (I)](https://open.spotify.com/track/4wD8OKDGYgU7QcDkiWPA4s)** by **luu** *(immenser pflegefall)* - `1 min ago`
+- **[schnuffel](https://open.spotify.com/track/56AOjg3cAy7oU8mIMDC3rw)** by **luu, iwannabemissed** *(schnuffel)* - `2 min ago`
+- **[arschloch](https://open.spotify.com/track/0PeecE7tjTFoAswdNhzhsQ)** by **luu, cy4ne** *(arschloch)* - `4 min ago`
+- **[Video](https://open.spotify.com/track/5oOK1zl5Rtv8gHBCtl864C)** by **Jane Remover** *(Census Designated)* - `6 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 12:30:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 13:32:27 UTC*
 <!-- SPOTIFY-END -->
