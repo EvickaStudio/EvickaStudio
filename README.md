@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273197643c54a9d245746b7d10f" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273fd2e2fbf105a9a4065f01dff" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/2oiuX6M84uqzMyQXltGRM6">Among the Wildflowers</a></strong><br/>
-  <em>by</em> <strong>The Hotelier</strong><br/>
-  <em>Album:</em> Home, Like Noplace Is There
+  <strong><a href="https://open.spotify.com/track/3wHRTo8eVdrLqcd0NtLrYQ">Navy Blue</a></strong><br/>
+  <em>by</em> <strong>The Story So Far</strong><br/>
+  <em>Album:</em> Songs Of
 </p>
 
-<p align="center"><code>4:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>5:48</code></p>
+<p align="center"><code>0:15</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:51</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Next to You](https://open.spotify.com/track/0YnnewoxWSDeDF4RZJBTNA)** by **Macseal** *(Yeah, No, I Know)* - `4 min ago`
-- **[c u in da ballpit](https://open.spotify.com/track/0I58Ta77P8UF5VJy1ZQ0El)** by **Camping In Alaska** *(please be nice)* - `7 min ago`
-- **[Clairvoyant](https://open.spotify.com/track/5fgnsSQYKIlEn2KTQcGjh2)** by **The Story So Far** *(The Story So Far / Stick To Your Guns Split)* - `12 min ago`
-- **[I Think You Were in My Profile Picture Once](https://open.spotify.com/track/18mGXTNsyfqwE3AZ9WbEy0)** by **Modern Baseball** *(Sports)* - `15 min ago`
-- **[Naruto Themed Sexting](https://open.spotify.com/track/3yoGVIY5OrRIBvNA9PYOS7)** by **Panucci's Pizza** *(All The Toppings)* - `16 min ago`
+- **[Birds of a Feather](https://open.spotify.com/track/1i5c0gcIxUS8hDda3GKeR3)** by **Kind of Like Spitting** *(Nothing Makes Sense Without It)* - `just now`
+- **[Constant Headache](https://open.spotify.com/track/2d7FJ0JIKLQRU4afDvU4f1)** by **Joyce Manor** *(S/T)* - `3 min ago`
+- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `6 min ago`
+- **[Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3)** by **Joyce Manor** *(Never Hungover Again)* - `8 min ago`
+- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 20:43:13 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 21:02:55 UTC*
 <!-- SPOTIFY-END -->
