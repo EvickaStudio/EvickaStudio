@@ -91,34 +91,24 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273fd2e2fbf105a9a4065f01dff" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/3wHRTo8eVdrLqcd0NtLrYQ">Navy Blue</a></strong><br/>
-  <em>by</em> <strong>The Story So Far</strong><br/>
-  <em>Album:</em> Songs Of
-</p>
-
-<p align="center"><code>0:15</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:51</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Birds of a Feather](https://open.spotify.com/track/1i5c0gcIxUS8hDda3GKeR3)** by **Kind of Like Spitting** *(Nothing Makes Sense Without It)* - `just now`
-- **[Constant Headache](https://open.spotify.com/track/2d7FJ0JIKLQRU4afDvU4f1)** by **Joyce Manor** *(S/T)* - `3 min ago`
-- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `6 min ago`
-- **[Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3)** by **Joyce Manor** *(Never Hungover Again)* - `8 min ago`
-- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `10 min ago`
+- **[Birds of a Feather](https://open.spotify.com/track/1i5c0gcIxUS8hDda3GKeR3)** by **Kind of Like Spitting** *(Nothing Makes Sense Without It)* - `38 min ago`
+- **[Constant Headache](https://open.spotify.com/track/2d7FJ0JIKLQRU4afDvU4f1)** by **Joyce Manor** *(S/T)* - `41 min ago`
+- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `44 min ago`
+- **[Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3)** by **Joyce Manor** *(Never Hungover Again)* - `46 min ago`
+- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `48 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Tigers Jaw**](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Sigur Rós**](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sigur Rós**](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 
 
@@ -127,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 21:02:55 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 21:41:12 UTC*
 <!-- SPOTIFY-END -->
