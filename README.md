@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2730cb276c8dbe76c1745335c6a" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a47159b86b8f2de6df96366b" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/4jYBL6nhJdVPwEQwww81ba">i crave u</a></strong><br/>
-  <em>by</em> <strong>Scarly, ghostmasheen</strong><br/>
-  <em>Album:</em> i crave u
+  <strong><a href="https://open.spotify.com/track/5MLaEFBmXuVnyQ2o44BfQG">leiche auf emma</a></strong><br/>
+  <em>by</em> <strong>luu</strong><br/>
+  <em>Album:</em> immenser pflegefall
 </p>
 
-<p align="center"><code>2:22</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:08</code></p>
+<p align="center"><code>1:12</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:20</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[heal!!](https://open.spotify.com/track/6xVDjWZDhKrBSpONp0p978)** by **ilymeow** *(heal!!)* - `2 min ago`
-- **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat** *(zurück)* - `3 min ago`
-- **[ARVA](https://open.spotify.com/track/5yBFhWnWHM5IJQjcSZn0uj)** by **h3artcrush** *(a whole lot of shit vol. 2)* - `5 min ago`
-- **[halluzinieren](https://open.spotify.com/track/741M4JERiBOvLGfK73DKe1)** by **luu** *(1nternetcore)* - `8 min ago`
-- **[10](https://open.spotify.com/track/3XcZiQBFtyZnN8HsNMtZMe)** by **luutwo, kanjiru** *(10)* - `10 min ago`
+- **[dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。](https://open.spotify.com/track/4OyNHYFcDzeYoHV9fedyhS)** by **latex fruit** *(dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。)* - `1 min ago`
+- **[Clear Eyes - nightcore](https://open.spotify.com/track/1xwdW60h7il22lowwgkifa)** by **Aidan Swank, bleachblonde** *(Clear Eyes (edits))* - `2 min ago`
+- **[i need a hug](https://open.spotify.com/track/2MLnobfq0IA5BTBjdOw1ke)** by **m1v** *(highgate cemetery)* - `4 min ago`
+- **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)* - `7 min ago`
+- **[dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)** by **cholorofilm, KidSnorlax** *(dnt fall asleep)* - `9 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 16:36:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 17:14:30 UTC*
 <!-- SPOTIFY-END -->
