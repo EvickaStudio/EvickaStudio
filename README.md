@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a47159b86b8f2de6df96366b" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5MLaEFBmXuVnyQ2o44BfQG">leiche auf emma</a></strong><br/>
-  <em>by</em> <strong>luu</strong><br/>
-  <em>Album:</em> immenser pflegefall
-</p>
-
-<p align="center"><code>1:12</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ <code>1:20</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。](https://open.spotify.com/track/4OyNHYFcDzeYoHV9fedyhS)** by **latex fruit** *(dj play this song。。。 6050ce63e4bce6764cb34cac51fb44d1。。。)* - `1 min ago`
-- **[Clear Eyes - nightcore](https://open.spotify.com/track/1xwdW60h7il22lowwgkifa)** by **Aidan Swank, bleachblonde** *(Clear Eyes (edits))* - `2 min ago`
-- **[i need a hug](https://open.spotify.com/track/2MLnobfq0IA5BTBjdOw1ke)** by **m1v** *(highgate cemetery)* - `4 min ago`
-- **[hackfleisch](https://open.spotify.com/track/2ca9IV1OST5w9yQ3xZbZcB)** by **pink luu, 1antibody** *(hackfleisch)* - `7 min ago`
-- **[dnt fall asleep](https://open.spotify.com/track/7yAHgwNLzbBREZSDgVOByc)** by **cholorofilm, KidSnorlax** *(dnt fall asleep)* - `9 min ago`
+- **[weißes kleid](https://open.spotify.com/track/2tYNImcnyr7afpnLdgUfIK)** by **pink luu, prettydrama** *(weißes kleid)* - `12 min ago`
+- **[#SCENEJESUS](https://open.spotify.com/track/7bKaWkQAIea0Cai116zgp1)** by **luutwo** *(#SCENEJESUS)* - `13 min ago`
+- **[multiply](https://open.spotify.com/track/46p5o3TTAv4DJuBQAY73lN)** by **hateoryx, xofilo** *(multiply)* - `15 min ago`
+- **[fühl mich blau](https://open.spotify.com/track/5RSPXM85udgruX3v9seYd1)** by **luu, 4rde** *(1nternetcore)* - `18 min ago`
+- **[they don't love you more than i love you - slowed](https://open.spotify.com/track/3D0EUiFifNtzqc9S0opLX4)** by **Remika, ovg!** *(they don't love you more than i love you)* - `19 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 17:14:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 17:45:47 UTC*
 <!-- SPOTIFY-END -->
