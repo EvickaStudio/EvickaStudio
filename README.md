@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2739a25181b5d63f71dc0348c0b" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b2730cb276c8dbe76c1745335c6a" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5">oyoyoyoy</a></strong><br/>
-  <em>by</em> <strong>hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy</strong><br/>
-  <em>Album:</em> oyoyoyoy
+  <strong><a href="https://open.spotify.com/track/4jYBL6nhJdVPwEQwww81ba">i crave u</a></strong><br/>
+  <em>by</em> <strong>Scarly, ghostmasheen</strong><br/>
+  <em>Album:</em> i crave u
 </p>
 
-<p align="center"><code>1:41</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:06</code></p>
+<p align="center"><code>2:22</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>3:08</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)* - `1 min ago`
-- **[S0N6F0RMYD34TH](https://open.spotify.com/track/3VxKbyy98i1uGA2lrEti7Q)** by **STAKILLAZ, DISGRACEMODE** *(S0N6F0RMYD34TH)* - `2 min ago`
-- **[#internetcore](https://open.spotify.com/track/7s1XIANbFa1HjQYlEUlaF9)** by **luu** *(1nternetcore)* - `4 min ago`
-- **[geeked](https://open.spotify.com/track/3dyytY5upTOWQesBFaufaz)** by **luutwo, Elijah249** *(geeked)* - `5 min ago`
-- **[they don't love you more than i love you](https://open.spotify.com/track/2xeszewKDVaGiCJMMEXXK1)** by **Remika, ovg!** *(they don't love you more than i love you)* - `7 min ago`
+- **[heal!!](https://open.spotify.com/track/6xVDjWZDhKrBSpONp0p978)** by **ilymeow** *(heal!!)* - `2 min ago`
+- **[zurück](https://open.spotify.com/track/6hWnPFV349odZRWeBjTE5Z)** by **pink luu, offaflat** *(zurück)* - `3 min ago`
+- **[ARVA](https://open.spotify.com/track/5yBFhWnWHM5IJQjcSZn0uj)** by **h3artcrush** *(a whole lot of shit vol. 2)* - `5 min ago`
+- **[halluzinieren](https://open.spotify.com/track/741M4JERiBOvLGfK73DKe1)** by **luu** *(1nternetcore)* - `8 min ago`
+- **[10](https://open.spotify.com/track/3XcZiQBFtyZnN8HsNMtZMe)** by **luutwo, kanjiru** *(10)* - `10 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 15:58:28 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 16:36:34 UTC*
 <!-- SPOTIFY-END -->
