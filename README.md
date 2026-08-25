@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a09592781e9c0413d2fdd808" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273197643c54a9d245746b7d10f" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz">Into the Endless Night - Live</a></strong><br/>
-  <em>by</em> <strong>Parannoul</strong><br/>
-  <em>Album:</em> After the Night (Live)
+  <strong><a href="https://open.spotify.com/track/2oiuX6M84uqzMyQXltGRM6">Among the Wildflowers</a></strong><br/>
+  <em>by</em> <strong>The Hotelier</strong><br/>
+  <em>Album:</em> Home, Like Noplace Is There
 </p>
 
-<p align="center"><code>34:30</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>46:06</code></p>
+<p align="center"><code>4:29</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>5:48</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `34 min ago`
-- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `37 min ago`
-- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `40 min ago`
-- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `43 min ago`
-- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `46 min ago`
+- **[Next to You](https://open.spotify.com/track/0YnnewoxWSDeDF4RZJBTNA)** by **Macseal** *(Yeah, No, I Know)* - `4 min ago`
+- **[c u in da ballpit](https://open.spotify.com/track/0I58Ta77P8UF5VJy1ZQ0El)** by **Camping In Alaska** *(please be nice)* - `7 min ago`
+- **[Clairvoyant](https://open.spotify.com/track/5fgnsSQYKIlEn2KTQcGjh2)** by **The Story So Far** *(The Story So Far / Stick To Your Guns Split)* - `12 min ago`
+- **[I Think You Were in My Profile Picture Once](https://open.spotify.com/track/18mGXTNsyfqwE3AZ9WbEy0)** by **Modern Baseball** *(Sports)* - `15 min ago`
+- **[Naruto Themed Sexting](https://open.spotify.com/track/3yoGVIY5OrRIBvNA9PYOS7)** by **Panucci's Pizza** *(All The Toppings)* - `16 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 20:01:06 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 20:43:13 UTC*
 <!-- SPOTIFY-END -->
