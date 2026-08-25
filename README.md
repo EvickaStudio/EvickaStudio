@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ibfs](https://open.spotify.com/track/4jRuClcFXGQZiguIARrNuO)** by **luu** *(1nternetcore)* - `25 min ago`
-- **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)* - `27 min ago`
-- **[Bimbo Doll X Star - Best Part Looped Slower](https://open.spotify.com/track/4aK8OXIid7OW24g9oIC1pN)** by **Jxrsey** *(Bimbo Doll X Star (Best Part Looped Slower))* - `29 min ago`
-- **[wide eyes](https://open.spotify.com/track/73WkzdNcsW6sDkKbjfseuZ)** by **kmoe, Jane Remover, juno** *(wide eyes)* - `30 min ago`
-- **[Used To See You](https://open.spotify.com/track/0Tv4phs6P5ymbqXc3gopbV)** by **Cuntsniffer** *(Used To See You)* - `33 min ago`
+- **[ibfs](https://open.spotify.com/track/4jRuClcFXGQZiguIARrNuO)** by **luu** *(1nternetcore)* - `1 h ago`
+- **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)* - `1 h ago`
+- **[Bimbo Doll X Star - Best Part Looped Slower](https://open.spotify.com/track/4aK8OXIid7OW24g9oIC1pN)** by **Jxrsey** *(Bimbo Doll X Star (Best Part Looped Slower))* - `1 h ago`
+- **[wide eyes](https://open.spotify.com/track/73WkzdNcsW6sDkKbjfseuZ)** by **kmoe, Jane Remover, juno** *(wide eyes)* - `1 h ago`
+- **[Used To See You](https://open.spotify.com/track/0Tv4phs6P5ymbqXc3gopbV)** by **Cuntsniffer** *(Used To See You)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 14:25:35 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 15:12:01 UTC*
 <!-- SPOTIFY-END -->
