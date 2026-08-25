@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273607b2761ab925c78a25449a2" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a09592781e9c0413d2fdd808" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM">Suddenly</a></strong><br/>
-  <em>by</em> <strong>Kkoki</strong><br/>
-  <em>Album:</em> Suddenly
+  <strong><a href="https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz">Into the Endless Night - Live</a></strong><br/>
+  <em>by</em> <strong>Parannoul</strong><br/>
+  <em>Album:</em> After the Night (Live)
 </p>
 
-<p align="center"><code>2:04</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ <code>2:44</code></p>
+<p align="center"><code>5:43</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>46:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Coming Around](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)** by **Kkoki** *(Coming Around)* - `2 min ago`
-- **[oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8)** by **Steve Lacy** *(Oh yeah?)* - `4 min ago`
-- **[Inundauswendig](https://open.spotify.com/track/1DOVkuzAdnyHgDJXbp92Wq)** by **makko, The Chainsmokers** *(Inundauswendig)* - `7 min ago`
-- **[Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz)** by **Bibio** *(Ribbons)* - `10 min ago`
-- **[Window](https://open.spotify.com/track/5lLAenT4RjwShN3kJyUq6R)** by **The Album Leaf** *(In A Safe Place)* - `13 min ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `5 min ago`
+- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `8 min ago`
+- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `11 min ago`
+- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `15 min ago`
+- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 11:51:36 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 12:30:51 UTC*
 <!-- SPOTIFY-END -->
