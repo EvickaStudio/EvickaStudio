@@ -92,33 +92,33 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273a90cdda7292e2b6aa9530ae4" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273a09592781e9c0413d2fdd808" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx">Safe In Your Skin / Where Am I?</a></strong><br/>
-  <em>by</em> <strong>Tigers Jaw</strong><br/>
-  <em>Album:</em> Studio 4 Acoustic Session
+  <strong><a href="https://open.spotify.com/track/1OMMSNf79ELZPqLA6oPGlz">Into the Endless Night - Live</a></strong><br/>
+  <em>by</em> <strong>Parannoul</strong><br/>
+  <em>Album:</em> After the Night (Live)
 </p>
 
-<p align="center"><code>4:01</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>4:12</code></p>
+<p align="center"><code>16:56</code> ▓▓▓▓▓▓▓░░░░░░░░░░░░░ <code>46:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Robotboy](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)** by **Yung Lean** *(Robotboy)* - `4 min ago`
-- **[THE CROWD](https://open.spotify.com/track/3H7d2D1weFxHQpFN1tzx1I)** by **okay troy** *(THE CROWD)* - `6 min ago`
-- **[The Infinite Shore](https://open.spotify.com/track/43poRcd7S470UHQhgeogak)** by **The Missing Peace** *(The Infinite Shore)* - `9 min ago`
-- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `13 min ago`
-- **[Coming Around](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)** by **Kkoki** *(Coming Around)* - `16 min ago`
+- **[SAS](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)** by **Dylan Thom** *(SAS)* - `16 min ago`
+- **[The American Experiment](https://open.spotify.com/track/36cbbUZQRgcXZEwUS28cDV)** by **MGNA Crrrta** *(New Jersey)* - `19 min ago`
+- **[PQC - Bassvictim Edit](https://open.spotify.com/track/3WXZg9ZEEkiLeCnk5UEp1l)** by **daine, Bassvictim** *(PQC (Bassvictim Edit))* - `22 min ago`
+- **[Safe Place](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)** by **Sezko** *(Safe Place)* - `26 min ago`
+- **[unhappy](https://open.spotify.com/track/5epESKz3rjZcsIn1qxOjpL)** by **s0rrow** *(unhappy)* - `28 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Tigers Jaw**](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sigur Rós**](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Sigur Rós**](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 
 
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 19:07:00 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 19:43:32 UTC*
 <!-- SPOTIFY-END -->
