@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2739a25181b5d63f71dc0348c0b" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0Ibh8ftLKLUgFrnz6O7gA5">oyoyoyoy</a></strong><br/>
+  <em>by</em> <strong>hateoryx, elctrnc/sed:/, Jeski Vaca, Veigayboy</strong><br/>
+  <em>Album:</em> oyoyoyoy
+</p>
+
+<p align="center"><code>1:41</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ <code>2:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[ibfs](https://open.spotify.com/track/4jRuClcFXGQZiguIARrNuO)** by **luu** *(1nternetcore)* - `1 h ago`
-- **[lieblingspferd](https://open.spotify.com/track/1rBtsjy2gju7W0YDHAqyfU)** by **pink luu, Kroka Koka, xtatus** *(lieblingspferd)* - `1 h ago`
-- **[Bimbo Doll X Star - Best Part Looped Slower](https://open.spotify.com/track/4aK8OXIid7OW24g9oIC1pN)** by **Jxrsey** *(Bimbo Doll X Star (Best Part Looped Slower))* - `1 h ago`
-- **[wide eyes](https://open.spotify.com/track/73WkzdNcsW6sDkKbjfseuZ)** by **kmoe, Jane Remover, juno** *(wide eyes)* - `1 h ago`
-- **[Used To See You](https://open.spotify.com/track/0Tv4phs6P5ymbqXc3gopbV)** by **Cuntsniffer** *(Used To See You)* - `1 h ago`
+- **[kmdd](https://open.spotify.com/track/3VYs6NvuEcC5DHC6AMnbQz)** by **pink luu, mehlhaltig** *(kmdd)* - `1 min ago`
+- **[S0N6F0RMYD34TH](https://open.spotify.com/track/3VxKbyy98i1uGA2lrEti7Q)** by **STAKILLAZ, DISGRACEMODE** *(S0N6F0RMYD34TH)* - `2 min ago`
+- **[#internetcore](https://open.spotify.com/track/7s1XIANbFa1HjQYlEUlaF9)** by **luu** *(1nternetcore)* - `4 min ago`
+- **[geeked](https://open.spotify.com/track/3dyytY5upTOWQesBFaufaz)** by **luutwo, Elijah249** *(geeked)* - `5 min ago`
+- **[they don't love you more than i love you](https://open.spotify.com/track/2xeszewKDVaGiCJMMEXXK1)** by **Remika, ovg!** *(they don't love you more than i love you)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 15:12:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-25 15:58:28 UTC*
 <!-- SPOTIFY-END -->
