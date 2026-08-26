@@ -97,10 +97,10 @@
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
 - **[Birds of a Feather](https://open.spotify.com/track/1i5c0gcIxUS8hDda3GKeR3)** by **Kind of Like Spitting** *(Nothing Makes Sense Without It)* - `11 h ago`
-- **[Constant Headache](https://open.spotify.com/track/2d7FJ0JIKLQRU4afDvU4f1)** by **Joyce Manor** *(S/T)* - `11 h ago`
-- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `11 h ago`
-- **[Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3)** by **Joyce Manor** *(Never Hungover Again)* - `11 h ago`
-- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `11 h ago`
+- **[Constant Headache](https://open.spotify.com/track/2d7FJ0JIKLQRU4afDvU4f1)** by **Joyce Manor** *(S/T)* - `12 h ago`
+- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `12 h ago`
+- **[Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3)** by **Joyce Manor** *(Never Hungover Again)* - `12 h ago`
+- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `12 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-26 08:08:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-26 08:59:39 UTC*
 <!-- SPOTIFY-END -->
