@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Birds of a Feather](https://open.spotify.com/track/1i5c0gcIxUS8hDda3GKeR3)** by **Kind of Like Spitting** *(Nothing Makes Sense Without It)* - `3 h ago`
-- **[Constant Headache](https://open.spotify.com/track/2d7FJ0JIKLQRU4afDvU4f1)** by **Joyce Manor** *(S/T)* - `3 h ago`
-- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `3 h ago`
-- **[Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3)** by **Joyce Manor** *(Never Hungover Again)* - `3 h ago`
-- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `3 h ago`
+- **[Birds of a Feather](https://open.spotify.com/track/1i5c0gcIxUS8hDda3GKeR3)** by **Kind of Like Spitting** *(Nothing Makes Sense Without It)* - `5 h ago`
+- **[Constant Headache](https://open.spotify.com/track/2d7FJ0JIKLQRU4afDvU4f1)** by **Joyce Manor** *(S/T)* - `5 h ago`
+- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `5 h ago`
+- **[Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3)** by **Joyce Manor** *(Never Hungover Again)* - `5 h ago`
+- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-26 00:47:57 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-26 02:19:56 UTC*
 <!-- SPOTIFY-END -->
