@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[201 - Höhenangst - Teil 08](https://open.spotify.com/track/07Ic8DgIyTdbWSHukqqxgH)** by **Die drei ???** *(201/Höhenangst)* - `8 h ago`
-- **[201 - Höhenangst - Teil 07](https://open.spotify.com/track/3HrC6R9cUuUM6h7g2FxN8Z)** by **Die drei ???** *(201/Höhenangst)* - `8 h ago`
-- **[201 - Höhenangst - Teil 06](https://open.spotify.com/track/0ZLJY4GyaEHwjKNoDHIYMK)** by **Die drei ???** *(201/Höhenangst)* - `8 h ago`
-- **[201 - Höhenangst - Teil 05](https://open.spotify.com/track/5mulYJc9KkvY9EKDD9C8G7)** by **Die drei ???** *(201/Höhenangst)* - `8 h ago`
-- **[201 - Höhenangst - Teil 04](https://open.spotify.com/track/0qAEu30eiwVQETmDGz1jf6)** by **Die drei ???** *(201/Höhenangst)* - `8 h ago`
+- **[201 - Höhenangst - Teil 08](https://open.spotify.com/track/07Ic8DgIyTdbWSHukqqxgH)** by **Die drei ???** *(201/Höhenangst)* - `14 h ago`
+- **[201 - Höhenangst - Teil 07](https://open.spotify.com/track/3HrC6R9cUuUM6h7g2FxN8Z)** by **Die drei ???** *(201/Höhenangst)* - `14 h ago`
+- **[201 - Höhenangst - Teil 06](https://open.spotify.com/track/0ZLJY4GyaEHwjKNoDHIYMK)** by **Die drei ???** *(201/Höhenangst)* - `14 h ago`
+- **[201 - Höhenangst - Teil 05](https://open.spotify.com/track/5mulYJc9KkvY9EKDD9C8G7)** by **Die drei ???** *(201/Höhenangst)* - `14 h ago`
+- **[201 - Höhenangst - Teil 04](https://open.spotify.com/track/0qAEu30eiwVQETmDGz1jf6)** by **Die drei ???** *(201/Höhenangst)* - `14 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-26 23:53:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-27 06:19:25 UTC*
 <!-- SPOTIFY-END -->
