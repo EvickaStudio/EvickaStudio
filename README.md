@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27323eb1a466879a783317b586e" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/6NgVClmEhHRYmcPXNhYZmw">125 C - Feuermond: Die Nacht der Schatten - Teil 12</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 125/Feuermond
-</p>
-
-<p align="center"><code>0:53</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>1:50</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[125 C - Feuermond: Die Nacht der Schatten - Teil 11](https://open.spotify.com/track/76qfop3ndbgmOuWHsFfAlo)** by **Die drei ???** *(125/Feuermond)* - `just now`
-- **[125 C - Feuermond: Die Nacht der Schatten - Teil 10](https://open.spotify.com/track/6zORqwG4zRO82A1cIvusvY)** by **Die drei ???** *(125/Feuermond)* - `2 min ago`
-- **[125 C - Feuermond: Die Nacht der Schatten - Teil 09](https://open.spotify.com/track/4rQVgYQyBGpBfTylx0ulxj)** by **Die drei ???** *(125/Feuermond)* - `4 min ago`
-- **[125 C - Feuermond: Die Nacht der Schatten - Teil 08](https://open.spotify.com/track/2rYbNuBmtd6pw1KUuvuGAn)** by **Die drei ???** *(125/Feuermond)* - `6 min ago`
-- **[125 C - Feuermond: Die Nacht der Schatten - Teil 07](https://open.spotify.com/track/5qkfDF1OWVyC6PtDxzPhrb)** by **Die drei ???** *(125/Feuermond)* - `7 min ago`
+- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `1 h ago`
+- **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)* - `1 h ago`
+- **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)* - `5 h ago`
+- **[ww3](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)** by **grim noir** *(WW3 RADIO)* - `5 h ago`
+- **[Danny Phantom](https://open.spotify.com/track/64brWbRMRFMbiqDcgpEh9e)** by **Tamino404** *(schlechte luft)* - `5 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-28 01:46:20 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-28 13:36:37 UTC*
 <!-- SPOTIFY-END -->
