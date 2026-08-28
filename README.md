@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `1 h ago`
-- **[FML](https://open.spotify.com/track/3gxsE6rcywEGWKaEtVtghi)** by **Hello Hannes** *(FML)* - `1 h ago`
-- **[azar](https://open.spotify.com/track/2e6cNcS0TpAQC8x6v3yrco)** by **JB 50** *(azar)* - `5 h ago`
-- **[ww3](https://open.spotify.com/track/4xviMHZXwIF2vnKqooQnp1)** by **grim noir** *(WW3 RADIO)* - `5 h ago`
-- **[Danny Phantom](https://open.spotify.com/track/64brWbRMRFMbiqDcgpEh9e)** by **Tamino404** *(schlechte luft)* - `5 h ago`
+- **[hide - midwest emo version](https://open.spotify.com/track/4PMPoQwjsH93zrwApDxnwq)** by **jacal** *(hide (midwest emo version))* - `1 h ago`
+- **[Sure, Ok](https://open.spotify.com/track/7fqfrQxzYG8qLzMuDX3tyJ)** by **First Day Back** *(Forward)* - `1 h ago`
+- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `1 h ago`
+- **[5:45 Am (Not Fun)](https://open.spotify.com/track/5GxSqDvpYUGqs4uPPzzuMk)** by **Macseal** *(Macseal - EP)* - `1 h ago`
+- **[Parked Car](https://open.spotify.com/track/1Gg5pN23cskdkFGksmifIR)** by **Marquette** *(Waxing / Waning)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -116,9 +116,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-28 13:36:37 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-28 23:11:34 UTC*
 <!-- SPOTIFY-END -->
