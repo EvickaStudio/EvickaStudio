@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27323eb1a466879a783317b586e" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/6NgVClmEhHRYmcPXNhYZmw">125 C - Feuermond: Die Nacht der Schatten - Teil 12</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 125/Feuermond
+</p>
+
+<p align="center"><code>0:53</code> ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ <code>1:50</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[076 - Stimmen aus dem Nichts - Teil 09](https://open.spotify.com/track/3LRLq6UUmgRnVExwFhtYwf)** by **Die drei ???** *(076/Stimmen aus dem Nichts)* - `3 h ago`
-- **[076 - Stimmen aus dem Nichts - Teil 08](https://open.spotify.com/track/0I1saI7KvJsK07IOVmcG9e)** by **Die drei ???** *(076/Stimmen aus dem Nichts)* - `3 h ago`
-- **[076 - Stimmen aus dem Nichts - Teil 07](https://open.spotify.com/track/5RtPH3esWmRFC80syQTTKw)** by **Die drei ???** *(076/Stimmen aus dem Nichts)* - `3 h ago`
-- **[076 - Stimmen aus dem Nichts - Teil 06](https://open.spotify.com/track/7dIepWqWiqmzqmrG1MpOJz)** by **Die drei ???** *(076/Stimmen aus dem Nichts)* - `3 h ago`
-- **[076 - Stimmen aus dem Nichts - Teil 05](https://open.spotify.com/track/64WZkuoI0h3rqbMIxDe02A)** by **Die drei ???** *(076/Stimmen aus dem Nichts)* - `3 h ago`
+- **[125 C - Feuermond: Die Nacht der Schatten - Teil 11](https://open.spotify.com/track/76qfop3ndbgmOuWHsFfAlo)** by **Die drei ???** *(125/Feuermond)* - `just now`
+- **[125 C - Feuermond: Die Nacht der Schatten - Teil 10](https://open.spotify.com/track/6zORqwG4zRO82A1cIvusvY)** by **Die drei ???** *(125/Feuermond)* - `2 min ago`
+- **[125 C - Feuermond: Die Nacht der Schatten - Teil 09](https://open.spotify.com/track/4rQVgYQyBGpBfTylx0ulxj)** by **Die drei ???** *(125/Feuermond)* - `4 min ago`
+- **[125 C - Feuermond: Die Nacht der Schatten - Teil 08](https://open.spotify.com/track/2rYbNuBmtd6pw1KUuvuGAn)** by **Die drei ???** *(125/Feuermond)* - `6 min ago`
+- **[125 C - Feuermond: Die Nacht der Schatten - Teil 07](https://open.spotify.com/track/5qkfDF1OWVyC6PtDxzPhrb)** by **Die drei ???** *(125/Feuermond)* - `7 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-27 17:43:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-28 01:46:20 UTC*
 <!-- SPOTIFY-END -->
