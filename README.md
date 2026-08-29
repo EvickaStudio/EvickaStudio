@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273197643c54a9d245746b7d10f" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2oiuX6M84uqzMyQXltGRM6">Among the Wildflowers</a></strong><br/>
-  <em>by</em> <strong>The Hotelier</strong><br/>
-  <em>Album:</em> Home, Like Noplace Is There
-</p>
-
-<p align="center"><code>4:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>5:48</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Next to You](https://open.spotify.com/track/0YnnewoxWSDeDF4RZJBTNA)** by **Macseal** *(Yeah, No, I Know)* - `4 min ago`
-- **[c u in da ballpit](https://open.spotify.com/track/0I58Ta77P8UF5VJy1ZQ0El)** by **Camping In Alaska** *(please be nice)* - `8 min ago`
-- **[Clairvoyant](https://open.spotify.com/track/5fgnsSQYKIlEn2KTQcGjh2)** by **The Story So Far** *(The Story So Far / Stick To Your Guns Split)* - `12 min ago`
-- **[I Think You Were in My Profile Picture Once](https://open.spotify.com/track/18mGXTNsyfqwE3AZ9WbEy0)** by **Modern Baseball** *(Sports)* - `16 min ago`
-- **[Naruto Themed Sexting](https://open.spotify.com/track/3yoGVIY5OrRIBvNA9PYOS7)** by **Panucci's Pizza** *(All The Toppings)* - `17 min ago`
+- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `1 h ago`
+- **[Falling in Love Again](https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3)** by **Joyce Manor** *(Never Hungover Again)* - `1 h ago`
+- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `1 h ago`
+- **[Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ)** by **The Hotelier** *(Home, Like Noplace Is There)* - `1 h ago`
+- **[Among the Wildflowers](https://open.spotify.com/track/2oiuX6M84uqzMyQXltGRM6)** by **The Hotelier** *(Home, Like Noplace Is There)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-29 21:25:27 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-29 23:28:17 UTC*
 <!-- SPOTIFY-END -->
