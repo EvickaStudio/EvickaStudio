@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b27328c6a722f4ad340871c8e7ed" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0Du7miRktUbESKBRXh5kef">Die Bestie von Wangerooge Kapitel 23</a></strong><br/>
+  <em>by</em> <strong>Insel-Krimi</strong><br/>
+  <em>Album:</em> Folge 6: Die Bestie von Wangerooge
+</p>
+
+<p align="center"><code>3:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:03</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[hide - midwest emo version](https://open.spotify.com/track/4PMPoQwjsH93zrwApDxnwq)** by **jacal** *(hide (midwest emo version))* - `1 h ago`
-- **[Sure, Ok](https://open.spotify.com/track/7fqfrQxzYG8qLzMuDX3tyJ)** by **First Day Back** *(Forward)* - `1 h ago`
-- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `1 h ago`
-- **[5:45 Am (Not Fun)](https://open.spotify.com/track/5GxSqDvpYUGqs4uPPzzuMk)** by **Macseal** *(Macseal - EP)* - `1 h ago`
-- **[Parked Car](https://open.spotify.com/track/1Gg5pN23cskdkFGksmifIR)** by **Marquette** *(Waxing / Waning)* - `1 h ago`
+- **[26 - Achtung, Fahrraddiebe! - Teil 06](https://open.spotify.com/track/0SyHwfDee0BZCWTwGCALfA)** by **TKKG Junior** *(Folge 26: Achtung, Fahrraddiebe!)* - `just now`
+- **[18 - Der Fluch der Geisterinsel - Teil 21](https://open.spotify.com/track/7JYTRmwsY67AGzAtb7bIoX)** by **HUI BUH neue Welt** *(18/Der Fluch der Geisterinsel)* - `3 min ago`
+- **[Kapitel 05: und die Spur der Diebe - Folge 172](https://open.spotify.com/track/5VB8aJizRfcgO6sqpTp7mm)** by **Fünf Freunde** *(Folge 172: und die Spur der Diebe)* - `5 min ago`
+- **[Kapitel 17: und das Fantasmofon - Folge 235](https://open.spotify.com/track/1DNrS7bVIt67ooyJJbOk5n)** by **Die drei ???** *(Folge 235: und das Fantasmofon)* - `8 min ago`
+- **[02 - Azuro startet durch - Teil 09](https://open.spotify.com/track/1OGhasUW83qTDtHOeDVVnv)** by **Kati & Azuro** *(02/Azuro startet durch)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-28 23:11:34 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-29 04:09:02 UTC*
 <!-- SPOTIFY-END -->
