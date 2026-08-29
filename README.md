@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273dda22e2590b008b6dac5f4da" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5FaUcP7GWf1lvDodXhBvy0">Steady</a></strong><br/>
-  <em>by</em> <strong>Just Neighbors</strong><br/>
-  <em>Album:</em> Just Neighbors
-</p>
-
-<p align="center"><code>0:52</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:41</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `3 min ago`
-- **[Constant Headache](https://open.spotify.com/track/2d7FJ0JIKLQRU4afDvU4f1)** by **Joyce Manor** *(S/T)* - `5 min ago`
-- **[Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ)** by **The Hotelier** *(Home, Like Noplace Is There)* - `7 min ago`
-- **[Next to You](https://open.spotify.com/track/0YnnewoxWSDeDF4RZJBTNA)** by **Macseal** *(Yeah, No, I Know)* - `9 min ago`
-- **[Let's Tie the Knot (In My Noose)](https://open.spotify.com/track/5N4eO46wrUrNPnfrwJ7Ey4)** by **Second Place** *(Let's Tie the Knot (In My Noose))* - `12 min ago`
+- **[hide - midwest emo version](https://open.spotify.com/track/4PMPoQwjsH93zrwApDxnwq)** by **jacal** *(hide (midwest emo version))* - `4 h ago`
+- **[Sure, Ok](https://open.spotify.com/track/7fqfrQxzYG8qLzMuDX3tyJ)** by **First Day Back** *(Forward)* - `4 h ago`
+- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `4 h ago`
+- **[5:45 Am (Not Fun)](https://open.spotify.com/track/5GxSqDvpYUGqs4uPPzzuMk)** by **Macseal** *(Macseal - EP)* - `4 h ago`
+- **[Parked Car](https://open.spotify.com/track/1Gg5pN23cskdkFGksmifIR)** by **Marquette** *(Waxing / Waning)* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-29 11:02:25 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-29 15:36:47 UTC*
 <!-- SPOTIFY-END -->
