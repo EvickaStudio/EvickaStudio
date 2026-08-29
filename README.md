@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27328c6a722f4ad340871c8e7ed" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273dda22e2590b008b6dac5f4da" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/0Du7miRktUbESKBRXh5kef">Die Bestie von Wangerooge Kapitel 23</a></strong><br/>
-  <em>by</em> <strong>Insel-Krimi</strong><br/>
-  <em>Album:</em> Folge 6: Die Bestie von Wangerooge
+  <strong><a href="https://open.spotify.com/track/5FaUcP7GWf1lvDodXhBvy0">Steady</a></strong><br/>
+  <em>by</em> <strong>Just Neighbors</strong><br/>
+  <em>Album:</em> Just Neighbors
 </p>
 
-<p align="center"><code>3:03</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>3:03</code></p>
+<p align="center"><code>0:52</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:41</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[26 - Achtung, Fahrraddiebe! - Teil 06](https://open.spotify.com/track/0SyHwfDee0BZCWTwGCALfA)** by **TKKG Junior** *(Folge 26: Achtung, Fahrraddiebe!)* - `just now`
-- **[18 - Der Fluch der Geisterinsel - Teil 21](https://open.spotify.com/track/7JYTRmwsY67AGzAtb7bIoX)** by **HUI BUH neue Welt** *(18/Der Fluch der Geisterinsel)* - `3 min ago`
-- **[Kapitel 05: und die Spur der Diebe - Folge 172](https://open.spotify.com/track/5VB8aJizRfcgO6sqpTp7mm)** by **Fünf Freunde** *(Folge 172: und die Spur der Diebe)* - `5 min ago`
-- **[Kapitel 17: und das Fantasmofon - Folge 235](https://open.spotify.com/track/1DNrS7bVIt67ooyJJbOk5n)** by **Die drei ???** *(Folge 235: und das Fantasmofon)* - `8 min ago`
-- **[02 - Azuro startet durch - Teil 09](https://open.spotify.com/track/1OGhasUW83qTDtHOeDVVnv)** by **Kati & Azuro** *(02/Azuro startet durch)* - `11 min ago`
+- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `3 min ago`
+- **[Constant Headache](https://open.spotify.com/track/2d7FJ0JIKLQRU4afDvU4f1)** by **Joyce Manor** *(S/T)* - `5 min ago`
+- **[Your Deep Rest](https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ)** by **The Hotelier** *(Home, Like Noplace Is There)* - `7 min ago`
+- **[Next to You](https://open.spotify.com/track/0YnnewoxWSDeDF4RZJBTNA)** by **Macseal** *(Yeah, No, I Know)* - `9 min ago`
+- **[Let's Tie the Knot (In My Noose)](https://open.spotify.com/track/5N4eO46wrUrNPnfrwJ7Ey4)** by **Second Place** *(Let's Tie the Knot (In My Noose))* - `12 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-29 04:09:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-29 11:02:25 UTC*
 <!-- SPOTIFY-END -->
