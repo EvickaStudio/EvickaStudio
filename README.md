@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273197643c54a9d245746b7d10f" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2oiuX6M84uqzMyQXltGRM6">Among the Wildflowers</a></strong><br/>
+  <em>by</em> <strong>The Hotelier</strong><br/>
+  <em>Album:</em> Home, Like Noplace Is There
+</p>
+
+<p align="center"><code>4:49</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>5:48</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[flowers](https://open.spotify.com/track/7vBhhlK9lCir0KGeF9TSiN)** by **jacal** *(flowers)* - `50 min ago`
-- **[flowers](https://open.spotify.com/track/7vBhhlK9lCir0KGeF9TSiN)** by **jacal** *(flowers)* - `2 h ago`
-- **[Escape Plan](https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy)** by **Tigers Jaw** *(spin)* - `2 h ago`
-- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `2 h ago`
-- **[dragon ball z budokai tenkaichi 4](https://open.spotify.com/track/2n118vtMBvk9dFrieeyPq4)** by **Camping In Alaska** *(please be nice)* - `2 h ago`
+- **[Next to You](https://open.spotify.com/track/0YnnewoxWSDeDF4RZJBTNA)** by **Macseal** *(Yeah, No, I Know)* - `4 min ago`
+- **[c u in da ballpit](https://open.spotify.com/track/0I58Ta77P8UF5VJy1ZQ0El)** by **Camping In Alaska** *(please be nice)* - `8 min ago`
+- **[Clairvoyant](https://open.spotify.com/track/5fgnsSQYKIlEn2KTQcGjh2)** by **The Story So Far** *(The Story So Far / Stick To Your Guns Split)* - `12 min ago`
+- **[I Think You Were in My Profile Picture Once](https://open.spotify.com/track/18mGXTNsyfqwE3AZ9WbEy0)** by **Modern Baseball** *(Sports)* - `16 min ago`
+- **[Naruto Themed Sexting](https://open.spotify.com/track/3yoGVIY5OrRIBvNA9PYOS7)** by **Panucci's Pizza** *(All The Toppings)* - `17 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -109,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Tigers Jaw**](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Parannoul**](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sigur Rós**](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-29 18:50:51 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-29 21:25:27 UTC*
 <!-- SPOTIFY-END -->
