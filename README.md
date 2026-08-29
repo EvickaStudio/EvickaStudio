@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[hide - midwest emo version](https://open.spotify.com/track/4PMPoQwjsH93zrwApDxnwq)** by **jacal** *(hide (midwest emo version))* - `4 h ago`
-- **[Sure, Ok](https://open.spotify.com/track/7fqfrQxzYG8qLzMuDX3tyJ)** by **First Day Back** *(Forward)* - `4 h ago`
-- **[I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg)** by **Tigers Jaw** *(Tigers Jaw)* - `4 h ago`
-- **[5:45 Am (Not Fun)](https://open.spotify.com/track/5GxSqDvpYUGqs4uPPzzuMk)** by **Macseal** *(Macseal - EP)* - `4 h ago`
-- **[Parked Car](https://open.spotify.com/track/1Gg5pN23cskdkFGksmifIR)** by **Marquette** *(Waxing / Waning)* - `4 h ago`
+- **[flowers](https://open.spotify.com/track/7vBhhlK9lCir0KGeF9TSiN)** by **jacal** *(flowers)* - `50 min ago`
+- **[flowers](https://open.spotify.com/track/7vBhhlK9lCir0KGeF9TSiN)** by **jacal** *(flowers)* - `2 h ago`
+- **[Escape Plan](https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy)** by **Tigers Jaw** *(spin)* - `2 h ago`
+- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `2 h ago`
+- **[dragon ball z budokai tenkaichi 4](https://open.spotify.com/track/2n118vtMBvk9dFrieeyPq4)** by **Camping In Alaska** *(please be nice)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -117,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-29 15:36:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-29 18:50:51 UTC*
 <!-- SPOTIFY-END -->
