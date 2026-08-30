@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[...so They Left Me At a Gas Station](https://open.spotify.com/track/6p0JkXOChj3mZEJxeJHVMK)** by **Marietta** *(Summer Death)* - `3 h ago`
-- **[Mind Killer - Kkoki Remix](https://open.spotify.com/track/7u3ec7qmMnQMtQb4xPTZ0S)** by **Tommy Fleece, Kkoki** *(Plus)* - `4 h ago`
-- **[Window](https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV)** by **Tigers Jaw** *(spin)* - `6 h ago`
-- **[Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz)** by **Bibio** *(Ribbons)* - `7 h ago`
-- **[Navy Blue](https://open.spotify.com/track/3wHRTo8eVdrLqcd0NtLrYQ)** by **The Story So Far** *(Songs Of)* - `8 h ago`
+- **[...so They Left Me At a Gas Station](https://open.spotify.com/track/6p0JkXOChj3mZEJxeJHVMK)** by **Marietta** *(Summer Death)* - `6 h ago`
+- **[Mind Killer - Kkoki Remix](https://open.spotify.com/track/7u3ec7qmMnQMtQb4xPTZ0S)** by **Tommy Fleece, Kkoki** *(Plus)* - `6 h ago`
+- **[Window](https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV)** by **Tigers Jaw** *(spin)* - `9 h ago`
+- **[Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz)** by **Bibio** *(Ribbons)* - `10 h ago`
+- **[Navy Blue](https://open.spotify.com/track/3wHRTo8eVdrLqcd0NtLrYQ)** by **The Story So Far** *(Songs Of)* - `11 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-30 19:49:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-30 22:15:33 UTC*
 <!-- SPOTIFY-END -->
