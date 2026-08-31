@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Randy, I Am The Liquor](https://open.spotify.com/track/44JIogXwwkiAoy6YGQOQY2)** by **Free Throw** *(Bear Your Mind)* - `4 h ago`
-- **[Slow Come On](https://open.spotify.com/track/7bUUwOukDCMt89GfNu680C)** by **Tigers Jaw** *(Charmer)* - `4 h ago`
-- **[An Ode To The Nite Ratz Club](https://open.spotify.com/track/2Spx44vppcyAjfwAUIrZLX)** by **The Hotelier** *(It Never Goes Out)* - `4 h ago`
-- **[Monica Lewinskibidi](https://open.spotify.com/track/1iecQAfm1L6eoTnvxLEN61)** by **Hot Mulligan** *(The Sound a Body Makes When It's Still)* - `4 h ago`
-- **[Two Beers In](https://open.spotify.com/track/5oBarQJHCnHLzyezz0XzFx)** by **Free Throw** *(Those Days Are Gone)* - `4 h ago`
+- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `1 h ago`
+- **[Rafstraumur](https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg)** by **Sigur Rós** *(Kveikur)* - `1 h ago`
+- **[lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR)** by **Bibio** *(Ambivalence Avenue)* - `1 h ago`
+- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `2 h ago`
+- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-31 19:41:30 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-31 23:24:10 UTC*
 <!-- SPOTIFY-END -->
