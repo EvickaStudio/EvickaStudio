@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273ac9e879f9e43ae361a422e40" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/7yDeIAirRDjzybaL0qlCK1">Kapitel 10: Verbrechen live im Radio - Folge 242</a></strong><br/>
-  <em>by</em> <strong>TKKG</strong><br/>
-  <em>Album:</em> Folge 242: Verbrechen live im Radio
-</p>
-
-<p align="center"><code>0:42</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:01</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[203 - Tauchgang ins Ungewisse - Teil 13](https://open.spotify.com/track/0Hcd63IWirE7FAV9HfK5C6)** by **Die drei ???** *(203/Tauchgang ins Ungewisse)* - `just now`
-- **[059 - Giftiges Wasser - Teil 40](https://open.spotify.com/track/0IkQ43yaGYpwl8N9AQZpon)** by **Die drei ???** *(059/Giftiges Wasser)* - `2 min ago`
-- **[059 - Giftiges Wasser - Teil 39](https://open.spotify.com/track/0nDcRR4fjXsxZQYXpM7gHs)** by **Die drei ???** *(059/Giftiges Wasser)* - `3 min ago`
-- **[059 - Giftiges Wasser - Teil 38](https://open.spotify.com/track/4WCHR6vKeu7fNSyyckc7Ys)** by **Die drei ???** *(059/Giftiges Wasser)* - `4 min ago`
-- **[059 - Giftiges Wasser - Teil 37](https://open.spotify.com/track/2LMXojLTPVHmWhuazUIECX)** by **Die drei ???** *(059/Giftiges Wasser)* - `5 min ago`
+- **[Folge 13 - Arktis - Abenteuer im Packeis - Track 5.2 & Folge 13 - Arktis - Abenteuer im Packeis - Track 6.1 - LEGO City: Folge 13 - Arktis - Abenteuer im Packeis](https://open.spotify.com/track/0YGF5IrmpPdIQW0F09m9k6)** by **LEGO City** *(LEGO City: Folge 13 - Arktis - Abenteuer im Packeis)* - `1 h ago`
+- **[115 - Auf tödlichem Kurs - Teil 32](https://open.spotify.com/track/6ft2EI87FI8jjuYs0o7wpr)** by **Die drei ???** *(115/Auf tödlichem Kurs)* - `1 h ago`
+- **[11 - Sylphidas Rachegeister - Teil 07](https://open.spotify.com/track/3wW8A2A5xKUe98wWLlrJ4B)** by **Larry Brent** *(11/Sylphidas Rachegeister)* - `1 h ago`
+- **[Die Haie von L.A. Kapitel 21](https://open.spotify.com/track/5v2kEqQtnMg15C09yI13iY)** by **Mord ist ihr Leben** *(Folge 5: Die Haie von L.A.)* - `1 h ago`
+- **[Schreckensnacht auf Oland Kapitel 8](https://open.spotify.com/track/1fReM7w6qU95ulvv8RfEj1)** by **Insel-Krimi** *(Folge 22: Schreckensnacht auf Oland)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -119,7 +109,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Tigers Jaw**](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sigur Rós**](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-31 00:41:26 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-31 06:10:59 UTC*
 <!-- SPOTIFY-END -->
