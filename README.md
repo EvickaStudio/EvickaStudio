@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Folge 13 - Arktis - Abenteuer im Packeis - Track 5.2 & Folge 13 - Arktis - Abenteuer im Packeis - Track 6.1 - LEGO City: Folge 13 - Arktis - Abenteuer im Packeis](https://open.spotify.com/track/0YGF5IrmpPdIQW0F09m9k6)** by **LEGO City** *(LEGO City: Folge 13 - Arktis - Abenteuer im Packeis)* - `1 h ago`
-- **[115 - Auf tödlichem Kurs - Teil 32](https://open.spotify.com/track/6ft2EI87FI8jjuYs0o7wpr)** by **Die drei ???** *(115/Auf tödlichem Kurs)* - `1 h ago`
-- **[11 - Sylphidas Rachegeister - Teil 07](https://open.spotify.com/track/3wW8A2A5xKUe98wWLlrJ4B)** by **Larry Brent** *(11/Sylphidas Rachegeister)* - `1 h ago`
-- **[Die Haie von L.A. Kapitel 21](https://open.spotify.com/track/5v2kEqQtnMg15C09yI13iY)** by **Mord ist ihr Leben** *(Folge 5: Die Haie von L.A.)* - `1 h ago`
-- **[Schreckensnacht auf Oland Kapitel 8](https://open.spotify.com/track/1fReM7w6qU95ulvv8RfEj1)** by **Insel-Krimi** *(Folge 22: Schreckensnacht auf Oland)* - `1 h ago`
+- **[Suddenly](https://open.spotify.com/track/16kzvHFUvEFcSmqP4cicXM)** by **Kkoki** *(Suddenly)* - `3 h ago`
+- **[Coming Around](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)** by **Kkoki** *(Coming Around)* - `3 h ago`
+- **[Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz)** by **Bibio** *(Ribbons)* - `3 h ago`
+- **[Window](https://open.spotify.com/track/5lLAenT4RjwShN3kJyUq6R)** by **The Album Leaf** *(In A Safe Place)* - `3 h ago`
+- **[Green Green Grass Of Tunnel](https://open.spotify.com/track/4cwCN5oe8NtPb1orgeyMWM)** by **múm** *(Finally We Are No One)* - `3 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,7 +118,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-31 06:10:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-31 13:44:15 UTC*
 <!-- SPOTIFY-END -->
