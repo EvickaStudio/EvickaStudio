@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273ac9e879f9e43ae361a422e40" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/7yDeIAirRDjzybaL0qlCK1">Kapitel 10: Verbrechen live im Radio - Folge 242</a></strong><br/>
+  <em>by</em> <strong>TKKG</strong><br/>
+  <em>Album:</em> Folge 242: Verbrechen live im Radio
+</p>
+
+<p align="center"><code>0:42</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>3:01</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[...so They Left Me At a Gas Station](https://open.spotify.com/track/6p0JkXOChj3mZEJxeJHVMK)** by **Marietta** *(Summer Death)* - `6 h ago`
-- **[Mind Killer - Kkoki Remix](https://open.spotify.com/track/7u3ec7qmMnQMtQb4xPTZ0S)** by **Tommy Fleece, Kkoki** *(Plus)* - `6 h ago`
-- **[Window](https://open.spotify.com/track/7eVnrWEXTTedaLxDTOYzuV)** by **Tigers Jaw** *(spin)* - `9 h ago`
-- **[Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz)** by **Bibio** *(Ribbons)* - `10 h ago`
-- **[Navy Blue](https://open.spotify.com/track/3wHRTo8eVdrLqcd0NtLrYQ)** by **The Story So Far** *(Songs Of)* - `11 h ago`
+- **[203 - Tauchgang ins Ungewisse - Teil 13](https://open.spotify.com/track/0Hcd63IWirE7FAV9HfK5C6)** by **Die drei ???** *(203/Tauchgang ins Ungewisse)* - `just now`
+- **[059 - Giftiges Wasser - Teil 40](https://open.spotify.com/track/0IkQ43yaGYpwl8N9AQZpon)** by **Die drei ???** *(059/Giftiges Wasser)* - `2 min ago`
+- **[059 - Giftiges Wasser - Teil 39](https://open.spotify.com/track/0nDcRR4fjXsxZQYXpM7gHs)** by **Die drei ???** *(059/Giftiges Wasser)* - `3 min ago`
+- **[059 - Giftiges Wasser - Teil 38](https://open.spotify.com/track/4WCHR6vKeu7fNSyyckc7Ys)** by **Die drei ???** *(059/Giftiges Wasser)* - `4 min ago`
+- **[059 - Giftiges Wasser - Teil 37](https://open.spotify.com/track/2LMXojLTPVHmWhuazUIECX)** by **Die drei ???** *(059/Giftiges Wasser)* - `5 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-30 22:15:33 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-08-31 00:41:26 UTC*
 <!-- SPOTIFY-END -->
