@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273db8e38addb58131f77b48377" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ">sometimes</a></strong><br/>
-  <em>by</em> <strong>my bloody valentine</strong><br/>
-  <em>Album:</em> loveless
-</p>
-
-<p align="center"><code>0:57</code> ▓▓▓▓░░░░░░░░░░░░░░░░ <code>5:19</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Stargazer](https://open.spotify.com/track/3Jhl5YNtxcesHnvs8vouwG)** by **honeydip** *(Another Sunny Day -Remastered-)* - `just now`
-- **[Digital Love](https://open.spotify.com/track/5bRDSGmwZJsGG7tPN14fDu)** by **Daft Punk** *(Musique, Vol. 1)* - `13 min ago`
-- **[Parade](https://open.spotify.com/track/0DYALM07LyrmvGBNpa8Zfw)** by **Parannoul** *(After the Magic)* - `18 min ago`
-- **[Video](https://open.spotify.com/track/5oOK1zl5Rtv8gHBCtl864C)** by **Jane Remover** *(Census Designated)* - `26 min ago`
-- **[born yesterday](https://open.spotify.com/track/4QGSuTmh4PxESQxz1zbLmx)** by **Quadeca** *(I Didn't Mean To Haunt You)* - `34 min ago`
+- **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)* - `1 h ago`
+- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `1 h ago`
+- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `1 h ago`
+- **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)* - `1 h ago`
+- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -127,8 +117,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**SAS**](https://open.spotify.com/track/2brzuvLzS2VyBLjg95SzhJ)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-02 08:56:11 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-02 13:09:10 UTC*
 <!-- SPOTIFY-END -->
