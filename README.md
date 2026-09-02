@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273f56eff6fdab8f8b8fe4f644e" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/14ybG6psLWCp9Ul4HeVyn9">To Be You</a></strong><br/>
+  <em>by</em> <strong>Train Breaks Down</strong><br/>
+  <em>Album:</em> KXLU Session
+</p>
+
+<p align="center"><code>2:37</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:06</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Lovenote](https://open.spotify.com/track/0Gsv7WTAx0i8nkR9Kpnhqj)** by **Bladee** *(Eversince)* - `1 h ago`
-- **[Som Jag](https://open.spotify.com/track/6BTYix29cWAPED4gr0J5Y7)** by **Dj Billybool, Bladee** *(Som Jag)* - `1 h ago`
-- **[Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv)** by **Crosby, Stills, Nash & Young** *(Deja Vu)* - `1 h ago`
-- **[brauche deine liebe nicht mehr](https://open.spotify.com/track/5uLdsrnhX6YRyLeBVTSMVO)** by **Punk Christ** *(brauche deine liebe nicht mehr)* - `1 h ago`
-- **[high as fuck](https://open.spotify.com/track/1u7LfUiN8qwFJNupJ99Y6K)** by **kets4eki, d3r** *(high as fuck)* - `1 h ago`
+- **[owesome](https://open.spotify.com/track/74aZRl6swrVL7KdcytuwhG)** by **a picture of her** *(a fanatic socialist looked up at the stars...)* - `2 min ago`
+- **[Steady](https://open.spotify.com/track/5FaUcP7GWf1lvDodXhBvy0)** by **Just Neighbors** *(Just Neighbors)* - `4 min ago`
+- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `6 min ago`
+- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `10 min ago`
+- **[Constant Headache](https://open.spotify.com/track/2d7FJ0JIKLQRU4afDvU4f1)** by **Joyce Manor** *(S/T)* - `11 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -109,7 +119,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Tigers Jaw**](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Sigur Rós**](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-02 13:09:10 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-02 17:09:01 UTC*
 <!-- SPOTIFY-END -->
