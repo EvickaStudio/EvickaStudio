@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273c3287304b8fe53bdec44ea28" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/5Yl19h7mtynX0kMLgVmKtc">Boston</a></strong><br/>
-  <em>by</em> <strong>Moose Blood</strong><br/>
-  <em>Album:</em> I'll Keep You in Mind, From Time to Time
-</p>
-
-<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:32</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Bruise Blue](https://open.spotify.com/track/3M96tglgQZRs1A05KfdDCI)** by **Sunday's Best** *(Poised to Break)* - `1 min ago`
-- **[The Sun](https://open.spotify.com/track/5bJt0jOz9spwJ1rJwSQJ1a)** by **Tigers Jaw** *(Tigers Jaw)* - `4 min ago`
-- **[Honestly?](https://open.spotify.com/track/0QNdEegC3Q9AVoAMmd8MEL)** by **American Football** *(American Football)* - `8 min ago`
-- **[I Killed Arbor Day For You](https://open.spotify.com/track/541fifb3wyH9NcnAWA2xEq)** by **Panucci's Pizza** *(All The Toppings)* - `14 min ago`
-- **[Irrevocable, Motherfucker](https://open.spotify.com/track/4QGV6oyUSdTCT8XBGOCPYL)** by **Glocca Morra** *(Just Married)* - `20 min ago`
+- **[The One With The Tambourine](https://open.spotify.com/track/2l6nIkgAhrZ5U5JAVwifNf)** by **American Football** *(American Football EP)* - `42 min ago`
+- **[The Sun](https://open.spotify.com/track/42kXKudrEKCL7GfjfFXeif)** by **Tigers Jaw** *(Belongs to the Dead)* - `46 min ago`
+- **[Dartmouth - 2024 Remaster](https://open.spotify.com/track/2Lq7EVV8tsVD3hnAtkAIsr)** by **Far Apart** *(Hazel (2024 Remaster))* - `48 min ago`
+- **[Girl](https://open.spotify.com/track/1EdaNSDXUl1RoEdUgFy1Zo)** by **Moose Blood** *(Split)* - `52 min ago`
+- **[Pallet Town](https://open.spotify.com/track/2MxG5l4bd3HgVzEuY5EvMt)** by **Free Throw** *(Those Days Are Gone)* - `54 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-02 19:46:47 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-02 22:12:02 UTC*
 <!-- SPOTIFY-END -->
