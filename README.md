@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273f56eff6fdab8f8b8fe4f644e" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273c3287304b8fe53bdec44ea28" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/14ybG6psLWCp9Ul4HeVyn9">To Be You</a></strong><br/>
-  <em>by</em> <strong>Train Breaks Down</strong><br/>
-  <em>Album:</em> KXLU Session
+  <strong><a href="https://open.spotify.com/track/5Yl19h7mtynX0kMLgVmKtc">Boston</a></strong><br/>
+  <em>by</em> <strong>Moose Blood</strong><br/>
+  <em>Album:</em> I'll Keep You in Mind, From Time to Time
 </p>
 
-<p align="center"><code>2:37</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ <code>3:06</code></p>
+<p align="center"><code>1:28</code> ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░ <code>2:32</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[owesome](https://open.spotify.com/track/74aZRl6swrVL7KdcytuwhG)** by **a picture of her** *(a fanatic socialist looked up at the stars...)* - `2 min ago`
-- **[Steady](https://open.spotify.com/track/5FaUcP7GWf1lvDodXhBvy0)** by **Just Neighbors** *(Just Neighbors)* - `4 min ago`
-- **[I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME)** by **Tigers Jaw, Andy Hull** *(I Won't Care How You Remember Me)* - `6 min ago`
-- **[Plane Vs. Tank Vs. Submarine](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)** by **Tigers Jaw** *(Tigers Jaw)* - `10 min ago`
-- **[Constant Headache](https://open.spotify.com/track/2d7FJ0JIKLQRU4afDvU4f1)** by **Joyce Manor** *(S/T)* - `11 min ago`
+- **[Bruise Blue](https://open.spotify.com/track/3M96tglgQZRs1A05KfdDCI)** by **Sunday's Best** *(Poised to Break)* - `1 min ago`
+- **[The Sun](https://open.spotify.com/track/5bJt0jOz9spwJ1rJwSQJ1a)** by **Tigers Jaw** *(Tigers Jaw)* - `4 min ago`
+- **[Honestly?](https://open.spotify.com/track/0QNdEegC3Q9AVoAMmd8MEL)** by **American Football** *(American Football)* - `8 min ago`
+- **[I Killed Arbor Day For You](https://open.spotify.com/track/541fifb3wyH9NcnAWA2xEq)** by **Panucci's Pizza** *(All The Toppings)* - `14 min ago`
+- **[Irrevocable, Motherfucker](https://open.spotify.com/track/4QGV6oyUSdTCT8XBGOCPYL)** by **Glocca Morra** *(Just Married)* - `20 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +126,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-02 17:09:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-02 19:46:47 UTC*
 <!-- SPOTIFY-END -->
