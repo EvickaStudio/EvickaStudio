@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The One With The Tambourine](https://open.spotify.com/track/2l6nIkgAhrZ5U5JAVwifNf)** by **American Football** *(American Football EP)* - `7 h ago`
-- **[The Sun](https://open.spotify.com/track/42kXKudrEKCL7GfjfFXeif)** by **Tigers Jaw** *(Belongs to the Dead)* - `7 h ago`
-- **[Dartmouth - 2024 Remaster](https://open.spotify.com/track/2Lq7EVV8tsVD3hnAtkAIsr)** by **Far Apart** *(Hazel (2024 Remaster))* - `7 h ago`
-- **[Girl](https://open.spotify.com/track/1EdaNSDXUl1RoEdUgFy1Zo)** by **Moose Blood** *(Split)* - `7 h ago`
-- **[Pallet Town](https://open.spotify.com/track/2MxG5l4bd3HgVzEuY5EvMt)** by **Free Throw** *(Those Days Are Gone)* - `7 h ago`
+- **[i just want to kickflip into the sunset and disappear](https://open.spotify.com/track/4qsnmFxe3NjrkCxUJaVPkk)** by **Camping In Alaska** *(please be nice)* - `58 min ago`
+- **[i just want to kickflip into the sunset and disappear](https://open.spotify.com/track/4qsnmFxe3NjrkCxUJaVPkk)** by **Camping In Alaska** *(please be nice)* - `58 min ago`
+- **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)* - `1 h ago`
+- **[Backstage](https://open.spotify.com/track/11pphDiQfUpUsPxzEdA6Y9)** by **Fanny, Sadi, Wings** *(Backstage)* - `1 h ago`
+- **[Südeuropa](https://open.spotify.com/track/0w38d8H3hAAqe4PmKHX3bA)** by **Sadi** *(Südeuropa)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-03 04:35:01 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-03 09:10:59 UTC*
 <!-- SPOTIFY-END -->
