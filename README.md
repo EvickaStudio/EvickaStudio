@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[i just want to kickflip into the sunset and disappear](https://open.spotify.com/track/4qsnmFxe3NjrkCxUJaVPkk)** by **Camping In Alaska** *(please be nice)* - `58 min ago`
-- **[i just want to kickflip into the sunset and disappear](https://open.spotify.com/track/4qsnmFxe3NjrkCxUJaVPkk)** by **Camping In Alaska** *(please be nice)* - `58 min ago`
-- **[Rost](https://open.spotify.com/track/2fmyUhE0qNnoRJz6ToRv3z)** by **JB 50** *(Rost)* - `1 h ago`
-- **[Backstage](https://open.spotify.com/track/11pphDiQfUpUsPxzEdA6Y9)** by **Fanny, Sadi, Wings** *(Backstage)* - `1 h ago`
-- **[Südeuropa](https://open.spotify.com/track/0w38d8H3hAAqe4PmKHX3bA)** by **Sadi** *(Südeuropa)* - `1 h ago`
+- **[California Dreamin' - Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ)** by **The Mamas & The Papas** *(If You Can Believe Your Eyes & Ears)* - `1 h ago`
+- **[Borderline](https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc)** by **Ely Oaks, LAVINIA** *(Borderline)* - `1 h ago`
+- **[I deserve this](https://open.spotify.com/track/0ExUm9JjGLGBrUrcVNOgJT)** by **Rebzyyx, Selfless Homage** *(I deserve this)* - `1 h ago`
+- **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)* - `1 h ago`
+- **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-03 09:10:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-03 13:34:03 UTC*
 <!-- SPOTIFY-END -->
