@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[California Dreamin' - Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ)** by **The Mamas & The Papas** *(If You Can Believe Your Eyes & Ears)* - `1 h ago`
-- **[Borderline](https://open.spotify.com/track/3RJqGQaU5C6olAtsaO7hjc)** by **Ely Oaks, LAVINIA** *(Borderline)* - `1 h ago`
-- **[I deserve this](https://open.spotify.com/track/0ExUm9JjGLGBrUrcVNOgJT)** by **Rebzyyx, Selfless Homage** *(I deserve this)* - `1 h ago`
-- **[It's A Dream](https://open.spotify.com/track/0FU08bwlUwnHLkONUV4aHy)** by **Snow Strippers** *(April Mixtape 2)* - `1 h ago`
-- **[Reality Surf](https://open.spotify.com/track/6HJszgJO19tAKff7X40ggp)** by **Bladee** *(333)* - `1 h ago`
+- **[therapie](https://open.spotify.com/track/7jbWV4TT7Keo5se3YKo42D)** by **luutwo, Elijah249** *(therapie)* - `52 min ago`
+- **[iPod](https://open.spotify.com/track/0rnT0NJhBDET7nQtVKvNFh)** by **hateoryx, KidSnorlax** *(iPod)* - `54 min ago`
+- **[sechzehn lines](https://open.spotify.com/track/6KzuUZpZ7hlJBEsmNwsvIS)** by **luu** *(immenser pflegefall)* - `56 min ago`
+- **[how can i live forever (idk)](https://open.spotify.com/track/0a5sMfqY9dsGzER7kTeSUj)** by **varxy, txtsu** *(how can i live forever (idk))* - `58 min ago`
+- **[mit Herz <3](https://open.spotify.com/track/2VjTIg86pbH1SxD7g99sDH)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(mit Herz <3)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-03 13:34:03 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-03 17:13:02 UTC*
 <!-- SPOTIFY-END -->
