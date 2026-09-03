@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[The One With The Tambourine](https://open.spotify.com/track/2l6nIkgAhrZ5U5JAVwifNf)** by **American Football** *(American Football EP)* - `42 min ago`
-- **[The Sun](https://open.spotify.com/track/42kXKudrEKCL7GfjfFXeif)** by **Tigers Jaw** *(Belongs to the Dead)* - `46 min ago`
-- **[Dartmouth - 2024 Remaster](https://open.spotify.com/track/2Lq7EVV8tsVD3hnAtkAIsr)** by **Far Apart** *(Hazel (2024 Remaster))* - `48 min ago`
-- **[Girl](https://open.spotify.com/track/1EdaNSDXUl1RoEdUgFy1Zo)** by **Moose Blood** *(Split)* - `52 min ago`
-- **[Pallet Town](https://open.spotify.com/track/2MxG5l4bd3HgVzEuY5EvMt)** by **Free Throw** *(Those Days Are Gone)* - `54 min ago`
+- **[The One With The Tambourine](https://open.spotify.com/track/2l6nIkgAhrZ5U5JAVwifNf)** by **American Football** *(American Football EP)* - `2 h ago`
+- **[The Sun](https://open.spotify.com/track/42kXKudrEKCL7GfjfFXeif)** by **Tigers Jaw** *(Belongs to the Dead)* - `2 h ago`
+- **[Dartmouth - 2024 Remaster](https://open.spotify.com/track/2Lq7EVV8tsVD3hnAtkAIsr)** by **Far Apart** *(Hazel (2024 Remaster))* - `2 h ago`
+- **[Girl](https://open.spotify.com/track/1EdaNSDXUl1RoEdUgFy1Zo)** by **Moose Blood** *(Split)* - `2 h ago`
+- **[Pallet Town](https://open.spotify.com/track/2MxG5l4bd3HgVzEuY5EvMt)** by **Free Throw** *(Those Days Are Gone)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-02 22:12:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-03 00:14:27 UTC*
 <!-- SPOTIFY-END -->
