@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b2734cc092763068080e3aacd254" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/2E7luwssyomWlInF7eYqVR">triple trauma</a></strong><br/>
+  <em>by</em> <strong>luu, mehlhaltig, iwannabemissed</strong><br/>
+  <em>Album:</em> triple trauma
+</p>
+
+<p align="center"><code>0:25</code> ▓▓▓▓▓░░░░░░░░░░░░░░░ <code>1:34</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[therapie](https://open.spotify.com/track/7jbWV4TT7Keo5se3YKo42D)** by **luutwo, Elijah249** *(therapie)* - `52 min ago`
-- **[iPod](https://open.spotify.com/track/0rnT0NJhBDET7nQtVKvNFh)** by **hateoryx, KidSnorlax** *(iPod)* - `54 min ago`
-- **[sechzehn lines](https://open.spotify.com/track/6KzuUZpZ7hlJBEsmNwsvIS)** by **luu** *(immenser pflegefall)* - `56 min ago`
-- **[how can i live forever (idk)](https://open.spotify.com/track/0a5sMfqY9dsGzER7kTeSUj)** by **varxy, txtsu** *(how can i live forever (idk))* - `58 min ago`
-- **[mit Herz <3](https://open.spotify.com/track/2VjTIg86pbH1SxD7g99sDH)** by **puls207, TROPFBUBEN, rizzlas ku$h** *(mit Herz <3)* - `1 h ago`
+- **[ich hasse euch alle](https://open.spotify.com/track/3aVnad4TugiGrlaDU03yDo)** by **luu, mehlhaltig** *(deluulu but mehlodic)* - `just now`
+- **[immenser pflegefall (I)](https://open.spotify.com/track/4wD8OKDGYgU7QcDkiWPA4s)** by **luu** *(immenser pflegefall)* - `1 min ago`
+- **[schnuffel](https://open.spotify.com/track/56AOjg3cAy7oU8mIMDC3rw)** by **luu, iwannabemissed** *(schnuffel)* - `2 min ago`
+- **[arschloch](https://open.spotify.com/track/0PeecE7tjTFoAswdNhzhsQ)** by **luu, cy4ne** *(arschloch)* - `3 min ago`
+- **[hurt and alone](https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh)** by **meat computer** *(hurt and alone)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,7 +128,7 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Robotboy**](https://open.spotify.com/track/6PWnQJBllwdvZx1uVXLUr9)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Lovers’ Carvings**](https://open.spotify.com/track/78El3zAkN9I0P0J06kn5PK)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-03 17:13:02 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-03 19:50:13 UTC*
 <!-- SPOTIFY-END -->
