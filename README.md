@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273e23e0527d7b44405794129f9" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0WocIzSIGlQH1PNOySf3s2">fuck around</a></strong><br/>
-  <em>by</em> <strong>kets4eki, asht0nn, misalive</strong><br/>
-  <em>Album:</em> fuck around
-</p>
-
-<p align="center"><code>0:12</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:01</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[stimmen](https://open.spotify.com/track/2R6HLu3I1RPx8rHHTnwGXd)** by **luu** *(1nternetcore)* - `25 min ago`
-- **[You Could Be The One](https://open.spotify.com/track/0rJvdHXHV9xOXAsq8bna7Q)** by **Snow Strippers** *(April Mixtape 2)* - `42 min ago`
-- **[BMW](https://open.spotify.com/track/0a4Gpx6mLKsAjtoQa0lLWR)** by **mxrrow, LeXanax** *(BMW)* - `54 min ago`
-- **[krampfanfall](https://open.spotify.com/track/0tLYB5iaazZ0K2OgAdDuTJ)** by **luutwo** *(verluustanzeige (wo bin ich?))* - `59 min ago`
-- **[bl00d b4th](https://open.spotify.com/track/4OuROTiDbiFhO9vUSqxI9B)** by **03osc** *(bl00d b4th)* - `1 h ago`
+- **[Giving My All 2 U](https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi)** by **WEB** *(Giving My All 2 U)* - `1 h ago`
+- **[Giving My All 2 U](https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi)** by **WEB** *(Giving My All 2 U)* - `1 h ago`
+- **[A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY)** by **Have A Nice Life** *(Deathconsciousness)* - `2 h ago`
+- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `2 h ago`
+- **[The Bad Touch 2k20](https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b)** by **DJ Gollum, Empyre One** *(The Bad Touch 2k20)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -126,9 +116,9 @@
 
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Lovers’ Carvings**](https://open.spotify.com/track/78El3zAkN9I0P0J06kn5PK)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Lovers’ Carvings**](https://open.spotify.com/track/78El3zAkN9I0P0J06kn5PK)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-04 13:07:56 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-04 16:51:00 UTC*
 <!-- SPOTIFY-END -->
