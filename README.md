@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)* - `50 min ago`
-- **[crawl out my skin](https://open.spotify.com/track/6szR9RhRHY644yP1eGUGfl)** by **Scarly, korpsebunny** *(crawl out my skin)* - `52 min ago`
-- **[yola](https://open.spotify.com/track/3ecuOurt6Y48Njb3FgqWYF)** by **3DOKI** *(yola)* - `54 min ago`
-- **[lol & xd](https://open.spotify.com/track/0Lc1ON4NnOwNPx0Sk6bbsa)** by **luu** *(lol & xd)* - `56 min ago`
-- **[2soon](https://open.spotify.com/track/21uWH48OIaXI61JzpKptrN)** by **hateoryx, blackwinterwells, KidSnorlax** *(2soon)* - `57 min ago`
+- **[Enuff](https://open.spotify.com/track/4oTmtULGwPQz4WYVK5uD0P)** by **flywoah** *(Enuff)* - `2 h ago`
+- **[crawl out my skin](https://open.spotify.com/track/6szR9RhRHY644yP1eGUGfl)** by **Scarly, korpsebunny** *(crawl out my skin)* - `2 h ago`
+- **[yola](https://open.spotify.com/track/3ecuOurt6Y48Njb3FgqWYF)** by **3DOKI** *(yola)* - `2 h ago`
+- **[lol & xd](https://open.spotify.com/track/0Lc1ON4NnOwNPx0Sk6bbsa)** by **luu** *(lol & xd)* - `2 h ago`
+- **[2soon](https://open.spotify.com/track/21uWH48OIaXI61JzpKptrN)** by **hateoryx, blackwinterwells, KidSnorlax** *(2soon)* - `2 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Lovers’ Carvings**](https://open.spotify.com/track/78El3zAkN9I0P0J06kn5PK)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-03 22:03:13 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-04 00:03:15 UTC*
 <!-- SPOTIFY-END -->
