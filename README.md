@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Giving My All 2 U](https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi)** by **WEB** *(Giving My All 2 U)* - `4 h ago`
-- **[Giving My All 2 U](https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi)** by **WEB** *(Giving My All 2 U)* - `4 h ago`
-- **[A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY)** by **Have A Nice Life** *(Deathconsciousness)* - `4 h ago`
-- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `4 h ago`
-- **[The Bad Touch 2k20](https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b)** by **DJ Gollum, Empyre One** *(The Bad Touch 2k20)* - `4 h ago`
+- **[Giving My All 2 U](https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi)** by **WEB** *(Giving My All 2 U)* - `6 h ago`
+- **[Giving My All 2 U](https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi)** by **WEB** *(Giving My All 2 U)* - `6 h ago`
+- **[A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY)** by **Have A Nice Life** *(Deathconsciousness)* - `6 h ago`
+- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `6 h ago`
+- **[The Bad Touch 2k20](https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b)** by **DJ Gollum, Empyre One** *(The Bad Touch 2k20)* - `7 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-04 19:13:46 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-04 21:29:34 UTC*
 <!-- SPOTIFY-END -->
