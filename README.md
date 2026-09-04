@@ -92,25 +92,25 @@
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
 <p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b2738f9fc6d866f4544849ac4a5d" alt="" width="120" />
+  <img src="https://i.scdn.co/image/ab67616d0000b273e23e0527d7b44405794129f9" alt="" width="120" />
 </p>
 
 <p align="center">
-  <strong><a href="https://open.spotify.com/track/5uE5yMJaIVgkKBL0iBK2OO">陽だまりの寒さ</a></strong><br/>
-  <em>by</em> <strong>Shizuma Lietova, Rory in early 20s</strong><br/>
-  <em>Album:</em> 陽だまりの寒さ
+  <strong><a href="https://open.spotify.com/track/0WocIzSIGlQH1PNOySf3s2">fuck around</a></strong><br/>
+  <em>by</em> <strong>kets4eki, asht0nn, misalive</strong><br/>
+  <em>Album:</em> fuck around
 </p>
 
-<p align="center"><code>0:41</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>2:25</code></p>
+<p align="center"><code>0:12</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>2:01</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Dummer Junge](https://open.spotify.com/track/7pLGTlZpo06PBf7FN7yQkw)** by **52Blue** *(Dummer Junge)* - `just now`
-- **[I Know](https://open.spotify.com/track/4eMkCkCs4eh2wdd9G0UyMJ)** by **Moritz** *(I Know)* - `3 min ago`
-- **[Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK)** by **Mazzy Star** *(So Tonight That I Might See)* - `6 min ago`
-- **[In Da Party](https://open.spotify.com/track/3kJLxsBFS9f0tzJ3THg9pF)** by **smokedope2016** *(THE PEAK)* - `10 min ago`
-- **[Rauch](https://open.spotify.com/track/0tmgKEuwBOzBtDr3wx6Iai)** by **sparr00w, Wicca Phase Springs Eternal** *(Rauch)* - `13 min ago`
+- **[stimmen](https://open.spotify.com/track/2R6HLu3I1RPx8rHHTnwGXd)** by **luu** *(1nternetcore)* - `25 min ago`
+- **[You Could Be The One](https://open.spotify.com/track/0rJvdHXHV9xOXAsq8bna7Q)** by **Snow Strippers** *(April Mixtape 2)* - `42 min ago`
+- **[BMW](https://open.spotify.com/track/0a4Gpx6mLKsAjtoQa0lLWR)** by **mxrrow, LeXanax** *(BMW)* - `54 min ago`
+- **[krampfanfall](https://open.spotify.com/track/0tLYB5iaazZ0K2OgAdDuTJ)** by **luutwo** *(verluustanzeige (wo bin ich?))* - `59 min ago`
+- **[bl00d b4th](https://open.spotify.com/track/4OuROTiDbiFhO9vUSqxI9B)** by **03osc** *(bl00d b4th)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -130,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Lovers’ Carvings**](https://open.spotify.com/track/78El3zAkN9I0P0J06kn5PK)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-04 08:57:22 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-04 13:07:56 UTC*
 <!-- SPOTIFY-END -->
