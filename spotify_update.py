@@ -183,7 +183,7 @@ def generate_now_playing_block(sp: spotipy.Spotify) -> list[str]:
     show_cover = urlsplit(cover).scheme == "https" and bool(urlsplit(cover).netloc)
     if show_cover:
         block += [
-            f'<img src="{escape(cover, quote=True)}" alt="Album cover: {album}" width="120" align="right" />',
+            f'<img src="{escape(cover, quote=True)}" alt="Album cover: {album}" width="96" align="left" hspace="16" />',
         ]
     block += [
         f"<p><strong>{spotify_link(item)}</strong><br>{artists}<br><sub>{album}</sub></p>",
@@ -194,7 +194,7 @@ def generate_now_playing_block(sp: spotipy.Spotify) -> list[str]:
         + "</p>",
     ]
     if show_cover:
-        block.append('<br clear="right" />')
+        block.append('<br clear="left" />')
     return block + [""]
 
 
@@ -205,6 +205,13 @@ def generate_recently_played_block(sp: spotipy.Spotify) -> list[str]:
     block = ["### Recently played", ""]
     if not items:
         return block + ["No recently played tracks.", ""]
+    block += [
+        "<table>",
+        (
+            '<tr><th align="left">Track / Artist / Album</th>'
+            '<th align="left">Played at (UTC)</th></tr>'
+        ),
+    ]
     for entry in items:
         track = entry.get("track") or {}
         artists = escape(
@@ -217,10 +224,10 @@ def generate_recently_played_block(sp: spotipy.Spotify) -> list[str]:
         except ValueError:
             played = "Unknown time"
         block.append(
-            f"<p><strong>{spotify_link(track)}</strong> · {artists}"
-            f"<br><sub>{album} · {played} UTC</sub></p>"
+            f"<tr><td><strong>{spotify_link(track)}</strong><br>{artists}"
+            f"<br><sub>{album}</sub></td><td><sub>{played}</sub></td></tr>"
         )
-    return block + [""]
+    return block + ["</table>", ""]
 
 
 def generate_top_block(sp: spotipy.Spotify) -> list[str]:
@@ -230,14 +237,26 @@ def generate_top_block(sp: spotipy.Spotify) -> list[str]:
     tracks = sp.current_user_top_tracks(limit=TOP_LIMIT, time_range="short_term").get(
         "items", []
     )
-    block = ["### On repeat", "", "Short-term listening.", ""]
-    for title, items in (("Artists", artists), ("Tracks", tracks)):
-        block += [f"<p><strong>{title}</strong></p>", "<ol>"]
-        block.extend(f"<li>{spotify_link(item)}</li>" for item in items)
-        block.append("</ol>")
-        if not items:
-            block.append(f"<p>No top {title.lower()} data available.</p>")
-    return block + [""]
+    block = [
+        "### On repeat",
+        "",
+        "Short-term listening.",
+        "",
+        "<table>",
+        (
+            '<tr><th scope="col">Rank</th><th align="left" scope="col">Artists</th>'
+            '<th align="left" scope="col">Tracks</th></tr>'
+        ),
+    ]
+    for index in range(max(len(artists), len(tracks))):
+        artist = spotify_link(artists[index]) if index < len(artists) else "—"
+        track = spotify_link(tracks[index]) if index < len(tracks) else "—"
+        block.append(
+            f"<tr><td><samp>{index + 1:02}</samp></td><td>{artist}</td><td>{track}</td></tr>"
+        )
+    if not artists and not tracks:
+        block.append('<tr><td colspan="3">No top listening data available.</td></tr>')
+    return block + ["</table>", ""]
 
 
 def generate_markdown() -> str:

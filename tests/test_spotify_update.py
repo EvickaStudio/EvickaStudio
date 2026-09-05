@@ -119,8 +119,8 @@ def test_snapshot_rendering(monkeypatch):
     assert "Artist &amp; friend" in snippet
     assert "&lt;Album&gt;" in snippet
     assert "05 Sep 2026 · 12:00" in snippet
-    assert "No top artists data available." in snippet
-    assert "<table" not in snippet
+    assert "<td>—</td>" in snippet
+    assert snippet.count("<table>") == 2
     assert "assets/icons" not in snippet
     assert "### Spotify" not in snippet
     assert (
@@ -154,8 +154,8 @@ def test_album_cover(cover):
     if cover.startswith("https:"):
         assert 'src="https://i.scdn.co/image/example?a=1&amp;b=2"' in block
         assert 'alt="Album cover: A &quot;quoted&quot; album"' in block
-        assert 'align="right"' in block
-        assert '<br clear="right" />' in block
+        assert 'align="left"' in block
+        assert '<br clear="left" />' in block
     else:
         assert "<img" not in block
         assert "<table" not in block

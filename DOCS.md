@@ -6,7 +6,9 @@ between `<!-- SPOTIFY-START -->` and `<!-- SPOTIFY-END -->`. Keep exactly one
 pair of those comments, in that order.
 
 The banner, animated logo and poster collage live in `assets/`. The layout uses
-Markdown, plain HTML text and aligned images, without tables or custom CSS. Metrics are inside a collapsible
+Markdown, aligned images and compact data tables, without custom CSS.
+The introduction and current-track artwork are unboxed; technologies and
+listening history use tables to keep their columns aligned. Metrics are inside a collapsible
 section; GitHub totals, contribution history and languages use
 [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards),
 and streaks use [Streak Stats](https://streak-stats.demolab.com/).
