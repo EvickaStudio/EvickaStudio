@@ -96,11 +96,11 @@
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[063 - Fußballgangster - Teil 35](https://open.spotify.com/track/2v7S0VZuhwt0mA4ieB5lIw)** by **Die drei ???** *(063/Fußball-Gangster)* - `7 h ago`
-- **[063 - Fußballgangster - Teil 34](https://open.spotify.com/track/4uxjemagZANZ5gWvrM2o3o)** by **Die drei ???** *(063/Fußball-Gangster)* - `7 h ago`
-- **[063 - Fußballgangster - Teil 33](https://open.spotify.com/track/5QpdvoFwC2lQhMp5zDl3OW)** by **Die drei ???** *(063/Fußball-Gangster)* - `7 h ago`
-- **[063 - Fußballgangster - Teil 32](https://open.spotify.com/track/0zEDctBowQuv6eZOlnI3ck)** by **Die drei ???** *(063/Fußball-Gangster)* - `7 h ago`
-- **[063 - Fußballgangster - Teil 31](https://open.spotify.com/track/7KkWjUtYva2WJez5vyxmV5)** by **Die drei ???** *(063/Fußball-Gangster)* - `8 h ago`
+- **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)* - `9 min ago`
+- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `1 h ago`
+- **[dubstep2010 nightcore](https://open.spotify.com/track/1jtxlSG16EBgVpCvNXGXpQ)** by **blombi19** *(dubstep2010)* - `1 h ago`
+- **[LIGHTS OFF](https://open.spotify.com/track/4Rzm8JMzbiWivVqMMYcdgM)** by **Bandiicam** *(BANDIICAM // 01)* - `1 h ago`
+- **[Auf den Dächern der Stadt](https://open.spotify.com/track/4QgWqv5PfoHFUv7f6wKagp)** by **Lugatti & 9ine** *(MKS 3.0)* - `1 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-05 09:02:53 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-05 12:40:32 UTC*
 <!-- SPOTIFY-END -->
