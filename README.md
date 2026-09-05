@@ -50,17 +50,19 @@
 ## Spotify
 
 <!-- SPOTIFY-START -->
+<a href="https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/now-playing-mobile.svg" />
-<img src="assets/generated/now-playing.svg" alt="Not playing anything right now." width="100%" />
+<img src="assets/generated/now-playing.svg" alt="Hoppípolla — Sigur Rós — Takk..." width="100%" />
 </picture>
+</a>
 
 ### Recently played
 
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/recently-played-mobile.svg" />
-<img src="assets/generated/recently-played.svg" alt="Recently played tracks on Spotify: Softly (as Ever), Ral Grad, im famous, Lake M00g, If everything changed I know that you still feel the same" width="100%" />
+<img src="assets/generated/recently-played.svg" alt="Recently played tracks on Spotify: Hoppípolla, Hoppípolla, Hoppípolla, Hoppípolla, Hoppípolla" width="100%" />
 </picture>
 </a>
 
@@ -71,11 +73,11 @@ Short-term listening.
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/on-repeat-mobile.svg" />
-<img src="assets/generated/on-repeat.svg" alt="Top tracks on repeat on Spotify: Plane Vs. Tank Vs. Submarine, Lovers’ Carvings, Safe In Your Skin / Where Am I?, Coming Around, Robotboy" width="100%" />
+<img src="assets/generated/on-repeat.svg" alt="Top tracks on repeat on Spotify: Plane Vs. Tank Vs. Submarine, Lovers’ Carvings, Safe In Your Skin / Where Am I?, Coming Around, Safe Place" width="100%" />
 </picture>
 </a>
 
-<sub>2026-09-05 19:29 UTC</sub>
+<sub>2026-09-05 21:32 UTC</sub>
 <!-- SPOTIFY-END -->
 
 <a id="metrics"></a>
