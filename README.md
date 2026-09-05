@@ -58,7 +58,7 @@
 <!-- SPOTIFY-START -->
 <img src="https://i.scdn.co/image/ab67616d0000b273ddd29279ec01511dca4c441c" alt="Album cover: Takk..." width="96" align="left" hspace="16" />
 <p><strong><a href="https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd">Glósóli</a></strong><br>Sigur Rós<br><sub>Takk...</sub></p>
-<p><code>1:52</code> ▓▓▓▓▓▓░░░░░░░░░░░░░░ <code>6:15</code></p>
+<p><code>2:48</code> ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░ <code>6:15</code></p>
 <br clear="left" />
 
 ### Recently played
@@ -85,7 +85,7 @@ Short-term listening.
 <tr><td><samp>05</samp></td><td><a href="https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd">Tamino404</a></td><td><a href="https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9">Coming Around</a></td></tr>
 </table>
 
-<sub>2026-09-05 17:48 UTC</sub>
+<sub>2026-09-05 17:49 UTC</sub>
 <!-- SPOTIFY-END -->
 
 <a id="metrics"></a>
