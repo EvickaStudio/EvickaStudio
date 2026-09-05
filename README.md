@@ -50,10 +50,10 @@
 ## Spotify
 
 <!-- SPOTIFY-START -->
-<a href="https://open.spotify.com/track/3jn8P5aRqqs71gzO5tnuh2">
+<a href="https://open.spotify.com/track/1t5MHdoL0jkaF6trqdG8f1">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/now-playing-mobile.svg" />
-<img src="assets/generated/now-playing.svg" alt="Lake M00g — Shed Theory — L/\KEHOUSE (Original Motion Picture Soundtrack)" width="100%" />
+<img src="assets/generated/now-playing.svg" alt="im famous — finn sigil, 3ilish — finnegan" width="100%" />
 </picture>
 </a>
 
@@ -62,7 +62,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/recently-played-mobile.svg" />
-<img src="assets/generated/recently-played.svg" alt="Recently played tracks on Spotify: If everything changed I know that you still feel the same, why do i feel like this ???, still lost, Glósóli, SAS" width="100%" />
+<img src="assets/generated/recently-played.svg" alt="Recently played tracks on Spotify: Lake M00g, If everything changed I know that you still feel the same, why do i feel like this ???, still lost, Glósóli" width="100%" />
 </picture>
 </a>
 
@@ -77,7 +77,7 @@ Short-term listening.
 </picture>
 </a>
 
-<sub>2026-09-05 19:14 UTC</sub>
+<sub>2026-09-05 19:15 UTC</sub>
 <!-- SPOTIFY-END -->
 
 <a id="metrics"></a>
