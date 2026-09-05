@@ -91,26 +91,16 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273d8487e9880060cc95729431b" alt="" width="120" />
-</p>
-
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/0YFUrRD0XHfFTw1y858gL8">063 - Fußballgangster - Teil 28</a></strong><br/>
-  <em>by</em> <strong>Die drei ???</strong><br/>
-  <em>Album:</em> 063/Fußball-Gangster
-</p>
-
-<p align="center"><code>1:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>1:38</code></p>
+> *Not playing anything right now.*
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[063 - Fußballgangster - Teil 27](https://open.spotify.com/track/2MqeyDdrOt8MVn7njhQ0fc)** by **Die drei ???** *(063/Fußball-Gangster)* - `1 min ago`
-- **[063 - Fußballgangster - Teil 26](https://open.spotify.com/track/0smI8DGMXN4ArKyuXaFP5H)** by **Die drei ???** *(063/Fußball-Gangster)* - `3 min ago`
-- **[063 - Fußballgangster - Teil 25](https://open.spotify.com/track/32t6G94JZK9RjcLiFQLuy0)** by **Die drei ???** *(063/Fußball-Gangster)* - `4 min ago`
-- **[063 - Fußballgangster - Teil 24](https://open.spotify.com/track/1aY9j46SdwuvxTs7M4xrsx)** by **Die drei ???** *(063/Fußball-Gangster)* - `6 min ago`
-- **[063 - Fußballgangster - Teil 23](https://open.spotify.com/track/2rXfXuG95FYLC6OfAtSX4z)** by **Die drei ???** *(063/Fußball-Gangster)* - `8 min ago`
+- **[063 - Fußballgangster - Teil 35](https://open.spotify.com/track/2v7S0VZuhwt0mA4ieB5lIw)** by **Die drei ???** *(063/Fußball-Gangster)* - `4 h ago`
+- **[063 - Fußballgangster - Teil 34](https://open.spotify.com/track/4uxjemagZANZ5gWvrM2o3o)** by **Die drei ???** *(063/Fußball-Gangster)* - `4 h ago`
+- **[063 - Fußballgangster - Teil 33](https://open.spotify.com/track/5QpdvoFwC2lQhMp5zDl3OW)** by **Die drei ???** *(063/Fußball-Gangster)* - `4 h ago`
+- **[063 - Fußballgangster - Teil 32](https://open.spotify.com/track/0zEDctBowQuv6eZOlnI3ck)** by **Die drei ???** *(063/Fußball-Gangster)* - `4 h ago`
+- **[063 - Fußballgangster - Teil 31](https://open.spotify.com/track/7KkWjUtYva2WJez5vyxmV5)** by **Die drei ???** *(063/Fußball-Gangster)* - `4 h ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -118,8 +108,8 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Tigers Jaw**](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**meat computer**](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sigur Rós**](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy)
+- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
 
 
 ### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
@@ -130,5 +120,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-05 00:56:18 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-05 05:11:11 UTC*
 <!-- SPOTIFY-END -->
