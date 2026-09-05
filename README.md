@@ -91,16 +91,26 @@
 
 ### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
 
-> *Not playing anything right now.*
+<p align="center">
+  <img src="https://i.scdn.co/image/ab67616d0000b273d8487e9880060cc95729431b" alt="" width="120" />
+</p>
+
+<p align="center">
+  <strong><a href="https://open.spotify.com/track/0YFUrRD0XHfFTw1y858gL8">063 - Fußballgangster - Teil 28</a></strong><br/>
+  <em>by</em> <strong>Die drei ???</strong><br/>
+  <em>Album:</em> 063/Fußball-Gangster
+</p>
+
+<p align="center"><code>1:35</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ <code>1:38</code></p>
 
 
 ### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
 
-- **[Giving My All 2 U](https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi)** by **WEB** *(Giving My All 2 U)* - `8 h ago`
-- **[Giving My All 2 U](https://open.spotify.com/track/29Du5wLRxFKcPaLfUU6RQi)** by **WEB** *(Giving My All 2 U)* - `8 h ago`
-- **[A Quick One Before the Eternal Worm Devours Connecticut](https://open.spotify.com/track/34dkZZNQJzEJRqPkywYmEY)** by **Have A Nice Life** *(Deathconsciousness)* - `8 h ago`
-- **[Glósóli](https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd)** by **Sigur Rós** *(Takk...)* - `8 h ago`
-- **[The Bad Touch 2k20](https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b)** by **DJ Gollum, Empyre One** *(The Bad Touch 2k20)* - `8 h ago`
+- **[063 - Fußballgangster - Teil 27](https://open.spotify.com/track/2MqeyDdrOt8MVn7njhQ0fc)** by **Die drei ???** *(063/Fußball-Gangster)* - `1 min ago`
+- **[063 - Fußballgangster - Teil 26](https://open.spotify.com/track/0smI8DGMXN4ArKyuXaFP5H)** by **Die drei ???** *(063/Fußball-Gangster)* - `3 min ago`
+- **[063 - Fußballgangster - Teil 25](https://open.spotify.com/track/32t6G94JZK9RjcLiFQLuy0)** by **Die drei ???** *(063/Fußball-Gangster)* - `4 min ago`
+- **[063 - Fußballgangster - Teil 24](https://open.spotify.com/track/1aY9j46SdwuvxTs7M4xrsx)** by **Die drei ???** *(063/Fußball-Gangster)* - `6 min ago`
+- **[063 - Fußballgangster - Teil 23](https://open.spotify.com/track/2rXfXuG95FYLC6OfAtSX4z)** by **Die drei ???** *(063/Fußball-Gangster)* - `8 min ago`
 
 
 ### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
@@ -120,5 +130,5 @@
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
 - <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
 
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-04 23:11:59 UTC*
+<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-05 00:56:18 UTC*
 <!-- SPOTIFY-END -->
