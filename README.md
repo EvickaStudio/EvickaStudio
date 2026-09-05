@@ -64,7 +64,7 @@
 <img src="https://i.scdn.co/image/ab67616d0000b273d2388c226e1ab495973435ab" alt="Album cover: Kveikur" width="120" />
 </td><td valign="middle">
 <p><strong><a href="https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg">Rafstraumur</a></strong><br>Sigur Rós<br><sub>Kveikur</sub></p>
-<p><code>0:48</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>4:57</code></p>
+<p><code>2:01</code> ▓▓▓▓▓▓▓▓░░░░░░░░░░░░ <code>4:57</code></p>
 </td></tr></table>
 
 ### Recently played
@@ -91,7 +91,7 @@ Short-term listening.
 <tr><td><samp>05</samp></td><td><a href="https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd">Tamino404</a></td><td><a href="https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9">Coming Around</a></td></tr>
 </table>
 
-<sub>2026-09-05 17:42 UTC</sub>
+<sub>2026-09-05 17:43 UTC</sub>
 <!-- SPOTIFY-END -->
 
 <a id="metrics"></a>
