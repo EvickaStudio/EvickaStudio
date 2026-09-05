@@ -53,18 +53,18 @@
 ## Spotify
 
 <!-- SPOTIFY-START -->
-<img src="https://i.scdn.co/image/ab67616d0000b273d2388c226e1ab495973435ab" alt="Album cover: Kveikur" width="120" align="right" />
-<p><strong><a href="https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg">Rafstraumur</a></strong><br>Sigur Rós<br><sub>Kveikur</sub></p>
-<p><code>4:55</code> ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ <code>4:57</code></p>
+<img src="https://i.scdn.co/image/ab67616d0000b273ddd29279ec01511dca4c441c" alt="Album cover: Takk..." width="120" align="right" />
+<p><strong><a href="https://open.spotify.com/track/1JfyhapKDVF6e6U5HXn3Fd">Glósóli</a></strong><br>Sigur Rós<br><sub>Takk...</sub></p>
+<p><code>0:19</code> ▓░░░░░░░░░░░░░░░░░░░ <code>6:15</code></p>
 <br clear="right" />
 
 ### Recently played
 
+<p><strong><a href="https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg">Rafstraumur</a></strong> · Sigur Rós<br><sub>Kveikur · 05 Sep 2026 · 17:46 UTC</sub></p>
 <p><strong><a href="https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR">lovers’ carvings</a></strong> · Bibio<br><sub>Ambivalence Avenue · 05 Sep 2026 · 17:41 UTC</sub></p>
 <p><strong><a href="https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD">Your Graduation</a></strong> · Modern Baseball<br><sub>You&#x27;re Gonna Miss It All · 05 Sep 2026 · 17:37 UTC</sub></p>
 <p><strong><a href="https://open.spotify.com/track/7u3ec7qmMnQMtQb4xPTZ0S">Mind Killer - Kkoki Remix</a></strong> · Tommy Fleece, Kkoki<br><sub>Plus · 05 Sep 2026 · 17:34 UTC</sub></p>
 <p><strong><a href="https://open.spotify.com/track/4qsnmFxe3NjrkCxUJaVPkk">i just want to kickflip into the sunset and disappear</a></strong> · Camping In Alaska<br><sub>please be nice · 05 Sep 2026 · 17:32 UTC</sub></p>
-<p><strong><a href="https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ">i&#x27;m so thankful i didn&#x27;t end up with what i thought i wanted</a></strong> · User2222<br><sub>i&#x27;m so thankful i didn&#x27;t end up with what i thought i wanted · 05 Sep 2026 · 12:30 UTC</sub></p>
 
 ### On repeat
 
