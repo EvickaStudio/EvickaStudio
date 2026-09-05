@@ -2,6 +2,7 @@
 Update the README Spotify section with current, recent, and top data.
 """
 
+import base64
 import logging
 import os
 import sys
@@ -21,6 +22,14 @@ from spotipy.exceptions import SpotifyException, SpotifyOauthError
 from spotipy.oauth2 import SpotifyOAuth
 from urllib3.util.retry import Retry
 
+from profile_cards import (
+    picture,
+    render_now_playing,
+    render_on_repeat,
+    render_recently_played,
+    render_technologies,
+)
+
 load_dotenv()
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
@@ -33,7 +42,6 @@ REDIRECT_URI = os.getenv(
 )
 RECENTLY_PLAYED_LIMIT = int(os.getenv("SPOTIFY_RECENTLY_PLAYED_LIMIT", "5"))
 TOP_LIMIT = int(os.getenv("SPOTIFY_TOP_LIMIT", "5"))
-PROGRESS_BAR_WIDTH = int(os.getenv("SPOTIFY_PROGRESS_BAR_WIDTH", "20"))
 
 MAX_AUTH_RETRIES = int(os.getenv("SPOTIFY_AUTH_RETRIES", "4"))
 AUTH_RETRY_BASE_DELAY = float(os.getenv("SPOTIFY_AUTH_RETRY_BASE_DELAY", "5"))
@@ -134,140 +142,165 @@ def get_spotify_client() -> spotipy.Spotify:
     return spotipy.Spotify(auth=access_token, requests_session=session)
 
 
-def format_duration(ms: int) -> str:
-    """
-    Convert milliseconds to `M:SS` format.
-    """
-    minutes = ms // 60_000
-    seconds = (ms % 60_000) // 1_000
-    return f"{minutes}:{seconds:02d}"
-
-
-def create_progress_bar(
-    progress_ms: int,
-    duration_ms: int,
-    width: int = PROGRESS_BAR_WIDTH,
+def fetch_image_base64(
+    url: str, session: requests.Session | None = None, timeout: int = 15
 ) -> str:
-    """
-    Create a markdown-safe progress bar for GitHub README rendering.
-    """
-    if width < 1:
-        raise ValueError("Progress bar width must be greater than zero")
+    if not url:
+        return ""
+    parts = urlsplit(url)
+    if parts.scheme != "https" or parts.hostname != "i.scdn.co":
+        return ""
+    try:
+        getter = session.get if session is not None else requests.get
+        response = getter(url, timeout=timeout, allow_redirects=False)
+        response.raise_for_status()
+        mime = response.headers.get("Content-Type", "").split(";")[0]
+        if response.status_code == 200 and mime in ("image/jpeg", "image/png"):
+            return f"data:{mime};base64," + base64.b64encode(response.content).decode(
+                "ascii"
+            )
+    except (requests.RequestException, OSError):
+        return ""
+    return ""
 
-    progress_percent = 0.0
-    if duration_ms > 0 and progress_ms > 0:
-        progress_percent = min(max(progress_ms / duration_ms, 0.0), 1.0)
 
-    filled = round(progress_percent * width)
-    bar = "▓" * filled + "░" * (width - filled)
-    return (
-        f"<code>{format_duration(progress_ms)}</code> "
-        f"{bar} "
-        f"<code>{format_duration(duration_ms)}</code>"
-    )
+def pick_image_url(images: list[dict[str, Any]], target: int = 64) -> str:
+    if not images:
+        return ""
+    chosen = min(images, key=lambda img: abs((img.get("width") or 0) - target))
+    return str(chosen.get("url") or "")
 
 
-def generate_now_playing_block(sp: spotipy.Spotify) -> list[str]:
+def generate_now_playing_block(
+    sp: spotipy.Spotify, session: requests.Session | None = None
+) -> tuple[list[str], dict[str, str]]:
     current = sp.current_user_playing_track()
-    block: list[str] = []
-    if not current or not current.get("is_playing") or not current.get("item"):
-        return block + ["Not playing anything right now.", ""]
-
-    item = current["item"]
-    artists = escape(
-        ", ".join(a.get("name", "Unknown") for a in item.get("artists", []))
-    )
-    album = escape(str((item.get("album") or {}).get("name", "")))
+    item = (current or {}).get("item") or {}
+    playing = bool(current and current.get("is_playing") and item)
     images = (item.get("album") or {}).get("images") or []
-    cover = str(images[0].get("url") or "") if images else ""
-    show_cover = urlsplit(cover).scheme == "https" and bool(urlsplit(cover).netloc)
-    if show_cover:
-        block += [
-            f'<img src="{escape(cover, quote=True)}" alt="Album cover: {album}" width="96" align="left" hspace="16" />',
-        ]
-    block += [
-        f"<p><strong>{spotify_link(item)}</strong><br>{artists}<br><sub>{album}</sub></p>",
-        "<p>"
-        + create_progress_bar(
-            int(current.get("progress_ms") or 0), int(item.get("duration_ms") or 0)
-        )
-        + "</p>",
-    ]
-    if show_cover:
-        block.append('<br clear="left" />')
-    return block + [""]
+    # Use the large cover for the full-width artwork background.
+    image = (
+        min(images, key=lambda image: abs((image.get("width") or 0) - 760))
+        if images and playing
+        else {}
+    )
+    cover_url = str(image.get("url") or "")
+    cover = fetch_image_base64(cover_url, session=session, timeout=15)
+
+    assets = {
+        "now-playing.svg": render_now_playing(current, cover),
+        "now-playing-mobile.svg": render_now_playing(current, cover, compact=True),
+    }
+    if not playing:
+        return [picture("now-playing", "Not playing anything right now."), ""], assets
+    artists = ", ".join(a.get("name", "Unknown") for a in item.get("artists", []))
+    album = str((item.get("album") or {}).get("name", ""))
+    label = f"{item.get('name', 'Unknown')} — {artists} — {album}"
+    card = picture("now-playing", label)
+    url = str((item.get("external_urls") or {}).get("spotify") or "")
+    if urlsplit(url).scheme == "https" and urlsplit(url).netloc == "open.spotify.com":
+        card = f'<a href="{escape(url, quote=True)}">\n{card}\n</a>'
+    return [card, ""], assets
 
 
-def generate_recently_played_block(sp: spotipy.Spotify) -> list[str]:
+def generate_recently_played_block(
+    sp: spotipy.Spotify, session: requests.Session | None = None
+) -> tuple[list[str], dict[str, str]]:
     items = sp.current_user_recently_played(limit=RECENTLY_PLAYED_LIMIT).get(
         "items", []
     )
-    block = ["### Recently played", ""]
-    if not items:
-        return block + ["No recently played tracks.", ""]
-    block += [
-        "<table>",
-        (
-            '<tr><th align="left">Track / Artist / Album</th>'
-            '<th align="left">Played at (UTC)</th></tr>'
-        ),
+    covers = [
+        fetch_image_base64(
+            pick_image_url(
+                ((entry.get("track") or {}).get("album") or {}).get("images") or []
+            ),
+            session=session,
+        )
+        for entry in items
     ]
-    for entry in items:
-        track = entry.get("track") or {}
-        artists = escape(
-            ", ".join(a.get("name", "Unknown") for a in track.get("artists", []))
-        )
-        album = escape(str((track.get("album") or {}).get("name", "")))
-        try:
-            played_at = datetime.fromisoformat(entry.get("played_at", ""))
-            played = played_at.astimezone(UTC).strftime("%d %b %Y · %H:%M")
-        except ValueError:
-            played = "Unknown time"
-        block.append(
-            f"<tr><td><strong>{spotify_link(track)}</strong><br>{artists}"
-            f"<br><sub>{album}</sub></td><td><sub>{played}</sub></td></tr>"
-        )
-    return block + ["</table>", ""]
+    assets = {
+        "recently-played.svg": render_recently_played(items, covers, compact=False),
+        "recently-played-mobile.svg": render_recently_played(
+            items, covers, compact=True
+        ),
+    }
+    alt = "Recently played tracks on Spotify: " + ", ".join(
+        str((e.get("track") or {}).get("name") or "Unknown") for e in items[:5]
+    )
+    card = picture("recently-played", alt)
+    user: dict[str, Any] = {}
+    try:
+        user = sp.current_user() or {}
+    except (SpotifyException, requests.RequestException):
+        pass
+    url = str((user.get("external_urls") or {}).get("spotify") or "")
+    if urlsplit(url).scheme == "https" and urlsplit(url).netloc == "open.spotify.com":
+        card = f'<a href="{escape(url, quote=True)}">\n{card}\n</a>'
+    return ["### Recently played", "", card, ""], assets
 
 
-def generate_top_block(sp: spotipy.Spotify) -> list[str]:
+def generate_top_block(
+    sp: spotipy.Spotify, session: requests.Session | None = None
+) -> tuple[list[str], dict[str, str]]:
     artists = sp.current_user_top_artists(limit=TOP_LIMIT, time_range="short_term").get(
         "items", []
     )
     tracks = sp.current_user_top_tracks(limit=TOP_LIMIT, time_range="short_term").get(
         "items", []
     )
-    block = [
-        "### On repeat",
-        "",
-        "Short-term listening.",
-        "",
-        "<table>",
-        (
-            '<tr><th scope="col">Rank</th><th align="left" scope="col">Artists</th>'
-            '<th align="left" scope="col">Tracks</th></tr>'
-        ),
-    ]
-    for index in range(max(len(artists), len(tracks))):
-        artist = spotify_link(artists[index]) if index < len(artists) else "—"
-        track = spotify_link(tracks[index]) if index < len(tracks) else "—"
-        block.append(
-            f"<tr><td><samp>{index + 1:02}</samp></td><td>{artist}</td><td>{track}</td></tr>"
+    t_covers = [
+        fetch_image_base64(
+            pick_image_url((trk.get("album") or {}).get("images") or []),
+            session=session,
         )
-    if not artists and not tracks:
-        block.append('<tr><td colspan="3">No top listening data available.</td></tr>')
-    return block + ["</table>", ""]
+        for trk in tracks
+    ]
+    a_covers = [
+        fetch_image_base64(
+            pick_image_url(art.get("images") or []),
+            session=session,
+        )
+        for art in artists
+    ]
+    assets = {
+        "on-repeat.svg": render_on_repeat(
+            tracks, artists, t_covers, a_covers, compact=False
+        ),
+        "on-repeat-mobile.svg": render_on_repeat(
+            tracks, artists, t_covers, a_covers, compact=True
+        ),
+    }
+    alt = "Top tracks on repeat on Spotify: " + ", ".join(
+        str(t.get("name") or "Unknown") for t in tracks[:5]
+    )
+    card = picture("on-repeat", alt)
+    user: dict[str, Any] = {}
+    try:
+        user = sp.current_user() or {}
+    except (SpotifyException, requests.RequestException):
+        pass
+    url = str((user.get("external_urls") or {}).get("spotify") or "")
+    if urlsplit(url).scheme == "https" and urlsplit(url).netloc == "open.spotify.com":
+        card = f'<a href="{escape(url, quote=True)}">\n{card}\n</a>'
+    return ["### On repeat", "", "Short-term listening.", "", card, ""], assets
 
 
-def generate_markdown() -> str:
+def generate_snapshot() -> tuple[str, dict[str, str]]:
     """Fetch a complete snapshot; failures leave the previous README untouched."""
     sp = get_spotify_client()
-    parts = generate_now_playing_block(sp)
-    parts.extend(generate_recently_played_block(sp))
-    parts.extend(generate_top_block(sp))
+    session = getattr(sp, "requests_session", None)
+    parts, assets = generate_now_playing_block(sp, session=session)
+    rp_parts, rp_assets = generate_recently_played_block(sp, session=session)
+    top_parts, top_assets = generate_top_block(sp, session=session)
+    parts.extend(rp_parts)
+    assets.update(rp_assets)
+    parts.extend(top_parts)
+    assets.update(top_assets)
     now = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
     parts.append(f"<sub>{now}</sub>")
-    return "\n".join(parts)
+    assets["technologies.svg"] = render_technologies()
+    assets["technologies-mobile.svg"] = render_technologies(compact=True)
+    return "\n".join(parts), assets
 
 
 def update_readme(path: Path = README_PATH) -> None:
@@ -279,9 +312,18 @@ def update_readme(path: Path = README_PATH) -> None:
     if END not in rest:
         raise ValueError("Spotify markers are out of order")
     _, after = rest.split(END)
-    snippet = generate_markdown()
+    snippet, assets = generate_snapshot()
     updated = before + START + "\n" + snippet + "\n" + END + after
-    if updated == content:
+    for name, svg in assets.items():
+        asset_path = path.parent / "assets" / "generated" / name
+        asset_path.parent.mkdir(parents=True, exist_ok=True)
+        write_atomic(asset_path, svg)
+    write_atomic(path, updated)
+    logger.info("README and SVG cards updated successfully")
+
+
+def write_atomic(path: Path, content: str) -> None:
+    if path.exists() and path.read_text(encoding="utf-8") == content:
         return
     temporary = None
     try:
@@ -289,13 +331,12 @@ def update_readme(path: Path = README_PATH) -> None:
             mode="w", encoding="utf-8", dir=path.parent, delete=False
         ) as file:
             temporary = Path(file.name)
-            file.write(updated)
-        temporary.chmod(path.stat().st_mode)
+            file.write(content)
+        temporary.chmod(path.stat().st_mode if path.exists() else 0o644)
         temporary.replace(path)
     finally:
         if temporary is not None:
             temporary.unlink(missing_ok=True)
-    logger.info("README updated successfully")
 
 
 if __name__ == "__main__":
