@@ -1,19 +1,10 @@
-<p align="center">
-  <img src="assets/banner_2.webp" alt="Evicka Studio Banner" />
-</p>
+<!-- Personal copy is handwritten. Regeneration owns only the SPOTIFY markers. -->
+<p><img src="assets/banner_2.webp" alt="Evicka Studio — original banner artwork" width="100%" /></p>
 
-<h2 align="center">EvickaStudio — Welcome to my profile</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EvickaStudio&style=plastic&abbreviated=true&color=ff69b4" alt="Profile views" />
-  <!-- Centering reference: using container alignment per CSS text-align guidance -->
-</p>
-
-<p>
-  <img align="left" src="assets/liquid-logo-500.gif" alt="Evicka EV Logo" width="200" style="margin-right: 16px; margin-bottom: 8px;"/>
-</p>
-
-<h3>Hey, I'm Erik</h3>
+<table>
+<tr>
+<td width="72%" valign="top">
+<h2>Hey, I'm Erik</h2>
 <p>
   I am a <strong>Computer Science & Software Engineering</strong> student from
   Germany. I am currently focusing mainly on learning new programming
@@ -22,6 +13,13 @@
   mostly deal with automating various processes to save time and effort for
   others and myself.
 </p>
+</td>
+<td width="28%" align="center" valign="middle">
+<img src="assets/liquid-logo-500.gif" alt="Animated Evicka EV logo" width="180" />
+</td>
+</tr>
+</table>
+
 <p>
   An example of this is MoodleMate, a Python program that uses a
   self-written Moodle REST API wrapper to retrieve notifications from most
@@ -33,102 +31,101 @@
   containerizing the project into a simple docker container so that the
   program works properly on all instances.
 </p>
+
 <p>
-  I am also very familiar with graphics and some 3D design, so I like to
+  I am also very familiar with <a href="https://me.salted.win/art/">graphics and some 3D design</a>, so I like to
   create new design concepts for my projects, logos, design websites or try
   to get involved creatively in other places.
 </p>
 
-<br clear="left"/>
+<p><img src="assets/evkheadpostersmol.webp" alt="Original 3D poster collage — reflective sculpted heads and abstract forms" width="100%" /></p>
 
-<p align="center">
-  <img src="assets/evkheadpostersmol.webp" alt="Evicka poster collage" />
-</p>
-
----
+<a id="technologies"></a>
 
 ## Technologies
 
-| **Category**          | **Technologies**                                                                                                 |
-|-----------------------|------------------------------------------------------------------------------------------------------------------|
-| **Programming**       | `Python`, `Java`,`Rust`                                                                                           |
-| **Databases**         | `SQL (MySQL, SQLite, MariaDB)`                                                                                   |
-| **IDEs**              | `JetBrains (IntelliJ)`, `VS Code`, `Zed`                                                                         |
-| **Operating Systems** | `Linux (EndeavourOS, CachyOS, Debian, Ubuntu)`, `Windows`                                                        |
-| **Design Tools**      | `Figma`, `Photoshop`, `Illustrator`, `Gimp`                                                                      |
-| **3D Tools**          | `Blender`, `ZBrush`                                                                                              |
-| **Other**             | `Git`, `Docker`, `Kubernetes`                                                                                                 |
-
----
-
-## 📈 Metrics
-
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=EvickaStudio&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent" alt="GitHub stats" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvickaStudio&theme=transparent" alt="GitHub streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvickaStudio&theme=transparent&layout=compact" alt="Top Languages" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=evickastudio&layout=compact&theme=transparent" alt="WakaTime stats" width="100%" />
-    </td>
-  </tr>
+<tr><th align="left" width="50%">Programming</th><th align="left" width="50%">Design Tools</th></tr>
+<tr><td><code>Python</code> · <code>Java</code> · <code>Rust</code></td><td>Figma · Photoshop · Illustrator · Gimp</td></tr>
+<tr><th align="left">Databases</th><th align="left">3D Tools</th></tr>
+<tr><td>SQL (MySQL, SQLite, MariaDB)</td><td>Blender · ZBrush</td></tr>
+<tr><th align="left">IDEs</th><th align="left">Other</th></tr>
+<tr><td>JetBrains (IntelliJ) · VS Code · Zed</td><td>Git · Docker · Kubernetes</td></tr>
+<tr><th colspan="2" align="left">Operating Systems</th></tr>
+<tr><td colspan="2">Linux (EndeavourOS, CachyOS, Debian, Ubuntu) · Windows</td></tr>
 </table>
 
----
+<a id="spotify"></a>
 
-## 🎧 Spotify
+## Spotify
 
 <!-- SPOTIFY-START -->
-### <img src="./assets/icons/music.svg" width="16" alt="Spotify"> Spotify
+<table><tr><td width="120">
+<img src="https://i.scdn.co/image/ab67616d0000b273d2388c226e1ab495973435ab" alt="Album cover: Kveikur" width="120" />
+</td><td valign="middle">
+<p><strong><a href="https://open.spotify.com/track/4kxDzerfD6p2NRpyyg9PRg">Rafstraumur</a></strong><br>Sigur Rós<br><sub>Kveikur</sub></p>
+<p><code>0:48</code> ▓▓▓░░░░░░░░░░░░░░░░░ <code>4:57</code></p>
+</td></tr></table>
 
-### <img src="./assets/icons/play-circle.svg" width="16" alt="Now Playing"> Now Playing
+### Recently played
 
-<p align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b273668d4182a4a0d4d18bac7104" alt="" width="120" />
-</p>
+<table>
+<tr><th align="left">Track / Artist / Album</th><th align="left">Played at (UTC)</th></tr>
+<tr><td><strong><a href="https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR">lovers’ carvings</a></strong><br>Bibio<br><sub>Ambivalence Avenue</sub></td><td><sub>05 Sep 2026 · 17:41</sub></td></tr>
+<tr><td><strong><a href="https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD">Your Graduation</a></strong><br>Modern Baseball<br><sub>You&#x27;re Gonna Miss It All</sub></td><td><sub>05 Sep 2026 · 17:37</sub></td></tr>
+<tr><td><strong><a href="https://open.spotify.com/track/7u3ec7qmMnQMtQb4xPTZ0S">Mind Killer - Kkoki Remix</a></strong><br>Tommy Fleece, Kkoki<br><sub>Plus</sub></td><td><sub>05 Sep 2026 · 17:34</sub></td></tr>
+<tr><td><strong><a href="https://open.spotify.com/track/4qsnmFxe3NjrkCxUJaVPkk">i just want to kickflip into the sunset and disappear</a></strong><br>Camping In Alaska<br><sub>please be nice</sub></td><td><sub>05 Sep 2026 · 17:32</sub></td></tr>
+<tr><td><strong><a href="https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ">i&#x27;m so thankful i didn&#x27;t end up with what i thought i wanted</a></strong><br>User2222<br><sub>i&#x27;m so thankful i didn&#x27;t end up with what i thought i wanted</sub></td><td><sub>05 Sep 2026 · 12:30</sub></td></tr>
+</table>
 
-<p align="center">
-  <strong><a href="https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR">lovers’ carvings</a></strong><br/>
-  <em>by</em> <strong>Bibio</strong><br/>
-  <em>Album:</em> Ambivalence Avenue
-</p>
+### On repeat
 
-<p align="center"><code>0:19</code> ▓▓░░░░░░░░░░░░░░░░░░ <code>3:58</code></p>
+Short-term listening.
 
+<table>
+<tr><th scope="col">Rank</th><th align="left" scope="col">Artists</th><th align="left" scope="col">Tracks</th></tr>
+<tr><td><samp>01</samp></td><td><a href="https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S">Die drei ???</a></td><td><a href="https://open.spotify.com/track/1JxUKhB7QGd082YGskroob">Plane Vs. Tank Vs. Submarine</a></td></tr>
+<tr><td><samp>02</samp></td><td><a href="https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8">Tigers Jaw</a></td><td><a href="https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D">Safe Place</a></td></tr>
+<tr><td><samp>03</samp></td><td><a href="https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu">luu</a></td><td><a href="https://open.spotify.com/track/78El3zAkN9I0P0J06kn5PK">Lovers’ Carvings</a></td></tr>
+<tr><td><samp>04</samp></td><td><a href="https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy">Sigur Rós</a></td><td><a href="https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx">Safe In Your Skin / Where Am I?</a></td></tr>
+<tr><td><samp>05</samp></td><td><a href="https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd">Tamino404</a></td><td><a href="https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9">Coming Around</a></td></tr>
+</table>
 
-### <img src="./assets/icons/history.svg" width="16" alt="Recently Played"> Recently Played
-
-- **[Your Graduation](https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD)** by **Modern Baseball** *(You're Gonna Miss It All)* - `just now`
-- **[Mind Killer - Kkoki Remix](https://open.spotify.com/track/7u3ec7qmMnQMtQb4xPTZ0S)** by **Tommy Fleece, Kkoki** *(Plus)* - `3 min ago`
-- **[i just want to kickflip into the sunset and disappear](https://open.spotify.com/track/4qsnmFxe3NjrkCxUJaVPkk)** by **Camping In Alaska** *(please be nice)* - `5 min ago`
-- **[i'm so thankful i didn't end up with what i thought i wanted](https://open.spotify.com/track/76fyElZIe3i3kt5ZhufSIQ)** by **User2222** *(i'm so thankful i didn't end up with what i thought i wanted)* - `5 h ago`
-- **[Safe In Your Skin / Where Am I?](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)** by **Tigers Jaw** *(Studio 4 Acoustic Session)* - `6 h ago`
-
-
-### <img src="./assets/icons/users.svg" width="16" alt="Top Artists *(Short Term)*"> Top Artists *(Short Term)*
-
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Die drei ???**](https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Tigers Jaw**](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**luu**](https://open.spotify.com/artist/4Xl2TYkCrjqcY8m2p29OGu)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Sigur Rós**](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Tamino404**](https://open.spotify.com/artist/6TVC3BJ3YBqhz5Nny5Awxd)
-
-
-### <img src="./assets/icons/list-music.svg" width="16" alt="Top Tracks *(Short Term)*"> Top Tracks *(Short Term)*
-
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 1"> **#1** [**Plane Vs. Tank Vs. Submarine**](https://open.spotify.com/track/1JxUKhB7QGd082YGskroob)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 2"> **#2** [**Safe Place**](https://open.spotify.com/track/1agCLz4usodxdtEGCkBz6D)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 3"> **#3** [**Lovers’ Carvings**](https://open.spotify.com/track/78El3zAkN9I0P0J06kn5PK)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 4"> **#4** [**Safe In Your Skin / Where Am I?**](https://open.spotify.com/track/09itu2ev1hcIzDBwgC6vjx)
-- <img src="./assets/icons/disc3.svg" width="16" alt="Rank 5"> **#5** [**Coming Around**](https://open.spotify.com/track/0qRcdBmhkjZsuWhQevzKD9)
-
-<img src="./assets/icons/clock3.svg" width="16" alt="Last updated"> *Last updated: 2026-09-05 17:37:59 UTC*
+<sub>2026-09-05 17:42 UTC</sub>
 <!-- SPOTIFY-END -->
+
+<a id="metrics"></a>
+
+## Metrics
+
+<details>
+<summary>Contributions, languages &amp; activity</summary>
+
+<p>
+  <a href="https://github.com/EvickaStudio?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvickaStudio&amp;theme=transparent" alt="GitHub contribution history over the past year" width="100%" />
+  </a>
+</p>
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EvickaStudio&amp;theme=transparent" alt="GitHub totals: stars, commits, pull requests, issues and repositories contributed to" width="100%" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvickaStudio&amp;theme=transparent" alt="Top languages by repository count, not coding time" width="100%" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EvickaStudio&amp;theme=transparent" alt="GitHub contribution streak" width="495" />
+</p>
+
+<p><a href="https://wakatime.com/@evickastudio">WakaTime profile</a></p>
+
+</details>
+
+---
+
+<p><a href="DOCS.md">README regeneration setup</a></p>

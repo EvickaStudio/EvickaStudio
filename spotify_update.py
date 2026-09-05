@@ -4,11 +4,14 @@ Update the README Spotify section with current, recent, and top data.
 
 import logging
 import os
-import re
 import sys
 import time
 from datetime import UTC, datetime
+from html import escape
+from pathlib import Path
+from tempfile import NamedTemporaryFile
 from typing import Any, cast
+from urllib.parse import urlsplit
 
 import requests  # type: ignore
 import spotipy
@@ -36,26 +39,17 @@ MAX_AUTH_RETRIES = int(os.getenv("SPOTIFY_AUTH_RETRIES", "4"))
 AUTH_RETRY_BASE_DELAY = float(os.getenv("SPOTIFY_AUTH_RETRY_BASE_DELAY", "5"))
 
 
-def icon_tag(name: str, alt: str) -> str:
-    """
-    Return single-variant icon HTML using local SVG assets.
-    """
-    return f'<img src="./assets/icons/{name}.svg" width="16" alt="{alt}">'
+README_PATH = Path(__file__).resolve().with_name("README.md")
+START = "<!-- SPOTIFY-START -->"
+END = "<!-- SPOTIFY-END -->"
 
 
-def section_heading(icon_name: str, title: str) -> str:
-    """
-    Build a markdown heading with a dark/light mode icon.
-    """
-    return f"### {icon_tag(icon_name, title)} {title}"
-
-
-def rank_prefix(index: int) -> str:
-    """
-    Build icon-based ranking prefix for top lists.
-    """
-    rank = index + 1
-    return f"{icon_tag('disc3', f'Rank {rank}')} **#{rank}**"
+def spotify_link(item: dict[str, Any]) -> str:
+    name = escape(str(item.get("name") or "Unknown"))
+    url = str((item.get("external_urls") or {}).get("spotify") or "")
+    if urlsplit(url).scheme != "https" or urlsplit(url).netloc != "open.spotify.com":
+        return name
+    return f'<a href="{escape(url, quote=True)}">{name}</a>'
 
 
 def _require_env(name: str) -> str:
@@ -149,32 +143,6 @@ def format_duration(ms: int) -> str:
     return f"{minutes}:{seconds:02d}"
 
 
-def format_relative_time(played_at: str) -> str:
-    """
-    Convert Spotify played_at timestamp into a short relative label.
-    """
-    try:
-        played_dt = datetime.fromisoformat(played_at)
-    except ValueError:
-        return "unknown time"
-
-    delta = datetime.now(UTC) - played_dt.astimezone(UTC)
-    seconds = int(delta.total_seconds())
-    if seconds < 60:
-        return "just now"
-
-    minutes = seconds // 60
-    if minutes < 60:
-        return f"{minutes} min ago"
-
-    hours = minutes // 60
-    if hours < 24:
-        return f"{hours} h ago"
-
-    days = hours // 24
-    return f"{days} d ago"
-
-
 def create_progress_bar(
     progress_ms: int,
     duration_ms: int,
@@ -200,253 +168,135 @@ def create_progress_bar(
 
 
 def generate_now_playing_block(sp: spotipy.Spotify) -> list[str]:
-    """
-    Generate markdown lines for the "Now Playing" section.
-    """
-    block: list[str] = [
-        "",
-        section_heading("play-circle", "Now Playing"),
-        "",
+    current = sp.current_user_playing_track()
+    block: list[str] = []
+    if not current or not current.get("is_playing") or not current.get("item"):
+        return block + ["Not playing anything right now.", ""]
+
+    item = current["item"]
+    artists = escape(
+        ", ".join(a.get("name", "Unknown") for a in item.get("artists", []))
+    )
+    album = escape(str((item.get("album") or {}).get("name", "")))
+    images = (item.get("album") or {}).get("images") or []
+    cover = str(images[0].get("url") or "") if images else ""
+    show_cover = urlsplit(cover).scheme == "https" and bool(urlsplit(cover).netloc)
+    if show_cover:
+        block += [
+            '<table><tr><td width="120">',
+            f'<img src="{escape(cover, quote=True)}" alt="Album cover: {album}" width="120" />',
+            '</td><td valign="middle">',
+        ]
+    block += [
+        f"<p><strong>{spotify_link(item)}</strong><br>{artists}<br><sub>{album}</sub></p>",
+        "<p>"
+        + create_progress_bar(
+            int(current.get("progress_ms") or 0), int(item.get("duration_ms") or 0)
+        )
+        + "</p>",
     ]
-    try:
-        current = cast(dict[str, Any] | None, sp.current_user_playing_track())
-        if not current or not current.get("is_playing"):
-            block.extend(["> *Not playing anything right now.*", ""])
-            return block
-
-        item = cast(dict[str, Any], current.get("item") or {})
-        name = cast(str, item.get("name", "Unknown"))
-        artists = ", ".join(
-            cast(str, artist.get("name", "Unknown"))
-            for artist in cast(list[dict[str, Any]], item.get("artists", []))
-        )
-        external_urls = cast(dict[str, Any], item.get("external_urls", {}))
-        url = cast(str, external_urls.get("spotify", ""))
-        album_data = cast(dict[str, Any], item.get("album", {}))
-        album = cast(str, album_data.get("name", ""))
-        images = cast(
-            list[dict[str, Any]],
-            album_data.get("images", []),
-        )
-        cover = cast(str, images[0].get("url", "")) if images else ""
-        duration_ms = int(item.get("duration_ms", 0))
-        progress_ms = int(current.get("progress_ms", 0))
-
-        if cover:
-            block.extend(
-                [
-                    '<p align="center">',
-                    f'  <img src="{cover}" alt="" width="120" />',
-                    "</p>",
-                    "",
-                ]
-            )
-
-        block.extend(
-            [
-                '<p align="center">',
-                f'  <strong><a href="{url}">{name}</a></strong><br/>',
-                f"  <em>by</em> <strong>{artists}</strong><br/>",
-                f"  <em>Album:</em> {album}",
-                "</p>",
-                "",
-                (
-                    '<p align="center">'
-                    f"{create_progress_bar(progress_ms, duration_ms)}"
-                    "</p>"
-                ),
-                "",
-            ]
-        )
-    except (
-        SpotifyException,
-        requests.RequestException,
-        TypeError,
-        ValueError,
-    ) as exc:
-        logger.exception("Could not fetch now playing block")
-        block.extend([f"> ⚠️ Could not fetch now playing data: `{exc}`", ""])
+    if show_cover:
+        block += ["</td></tr></table>", ""]
     return block
 
 
 def generate_recently_played_block(sp: spotipy.Spotify) -> list[str]:
-    """
-    Generate markdown lines for "Recently Played" section.
-    """
-    block: list[str] = ["", section_heading("history", "Recently Played"), ""]
-    try:
-        results = cast(
-            dict[str, Any],
-            sp.current_user_recently_played(limit=RECENTLY_PLAYED_LIMIT),
-        )
-        items = cast(list[dict[str, Any]], results.get("items", []))
-        if not items:
-            block.extend(["> No recently played tracks.", ""])
-            return block
-
-        for entry in items:
-            track = cast(dict[str, Any], entry.get("track", {}))
-            name = cast(str, track.get("name", "Unknown"))
-            artists_data = cast(list[dict[str, Any]], track.get("artists", []))
-            artists = ", ".join(
-                cast(str, artist.get("name", "Unknown")) for artist in artists_data
-            )
-            external_urls = cast(
-                dict[str, Any],
-                track.get("external_urls", {}),
-            )
-            url = cast(str, external_urls.get("spotify", ""))
-            album_data = cast(dict[str, Any], track.get("album", {}))
-            album = cast(str, album_data.get("name", ""))
-            played_at = cast(str, entry.get("played_at", ""))
-            played_ago = format_relative_time(played_at)
-            block.append(
-                f"- **[{name}]({url})** by **{artists}** *({album})* - `{played_ago}`"
-            )
-
-        block.append("")
-    except (
-        SpotifyException,
-        requests.RequestException,
-        TypeError,
-        ValueError,
-    ) as exc:
-        logger.exception("Could not fetch recently played block")
-        block.extend([f"> ⚠️ Could not fetch recently played data: `{exc}`", ""])
-    return block
-
-
-def generate_top_artists_block(sp: spotipy.Spotify) -> list[str]:
-    """
-    Generate markdown lines for "Top Artists" section.
-    """
-    block: list[str] = [
-        "",
-        section_heading("users", "Top Artists *(Short Term)*"),
-        "",
+    items = sp.current_user_recently_played(limit=RECENTLY_PLAYED_LIMIT).get(
+        "items", []
+    )
+    block = ["### Recently played", ""]
+    if not items:
+        return block + ["No recently played tracks.", ""]
+    block += [
+        "<table>",
+        (
+            '<tr><th align="left">Track / Artist / Album</th>'
+            '<th align="left">Played at (UTC)</th></tr>'
+        ),
     ]
-    try:
-        results = cast(
-            dict[str, Any],
-            sp.current_user_top_artists(
-                limit=TOP_LIMIT,
-                time_range="short_term",
-            ),
+    for entry in items:
+        track = entry.get("track") or {}
+        artists = escape(
+            ", ".join(a.get("name", "Unknown") for a in track.get("artists", []))
         )
-        items = cast(list[dict[str, Any]], results.get("items", []))
-        if not items:
-            block.extend(["> No top artists data available.", ""])
-            return block
-
-        for index, artist in enumerate(items):
-            name = cast(str, artist.get("name", "Unknown"))
-            url = cast(
-                str,
-                cast(dict[str, Any], artist.get("external_urls", {})).get(
-                    "spotify",
-                    "",
-                ),
-            )
-            block.append(f"- {rank_prefix(index)} [**{name}**]({url})")
-
-        block.append("")
-    except (
-        SpotifyException,
-        requests.RequestException,
-        TypeError,
-        ValueError,
-    ) as exc:
-        logger.exception("Could not fetch top artists block")
-        block.extend([f"> ⚠️ Could not fetch top artists: `{exc}`", ""])
-    return block
+        album = escape(str((track.get("album") or {}).get("name", "")))
+        try:
+            played_at = datetime.fromisoformat(entry.get("played_at", ""))
+            played = played_at.astimezone(UTC).strftime("%d %b %Y · %H:%M")
+        except ValueError:
+            played = "Unknown time"
+        block.append(
+            f"<tr><td><strong>{spotify_link(track)}</strong><br>{artists}"
+            f"<br><sub>{album}</sub></td><td><sub>{played}</sub></td></tr>"
+        )
+    return block + ["</table>", ""]
 
 
-def generate_top_tracks_block(sp: spotipy.Spotify) -> list[str]:
-    """
-    Generate markdown lines for "Top Tracks" section.
-    """
-    block: list[str] = [
+def generate_top_block(sp: spotipy.Spotify) -> list[str]:
+    artists = sp.current_user_top_artists(limit=TOP_LIMIT, time_range="short_term").get(
+        "items", []
+    )
+    tracks = sp.current_user_top_tracks(limit=TOP_LIMIT, time_range="short_term").get(
+        "items", []
+    )
+    block = [
+        "### On repeat",
         "",
-        section_heading("list-music", "Top Tracks *(Short Term)*"),
+        "Short-term listening.",
         "",
+        "<table>",
+        (
+            '<tr><th scope="col">Rank</th><th align="left" scope="col">Artists</th>'
+            '<th align="left" scope="col">Tracks</th></tr>'
+        ),
     ]
-    try:
-        results = cast(
-            dict[str, Any],
-            sp.current_user_top_tracks(
-                limit=TOP_LIMIT,
-                time_range="short_term",
-            ),
+    for index in range(max(len(artists), len(tracks))):
+        artist = spotify_link(artists[index]) if index < len(artists) else "—"
+        track = spotify_link(tracks[index]) if index < len(tracks) else "—"
+        block.append(
+            f"<tr><td><samp>{index + 1:02}</samp></td><td>{artist}</td><td>{track}</td></tr>"
         )
-        items = cast(list[dict[str, Any]], results.get("items", []))
-        if not items:
-            block.extend(["> No top tracks data available.", ""])
-            return block
-
-        for index, track in enumerate(items):
-            name = cast(str, track.get("name", "Unknown"))
-            url = cast(
-                str,
-                cast(dict[str, Any], track.get("external_urls", {})).get(
-                    "spotify",
-                    "",
-                ),
-            )
-            block.append(f"- {rank_prefix(index)} [**{name}**]({url})")
-
-        block.append("")
-    except (
-        SpotifyException,
-        requests.RequestException,
-        TypeError,
-        ValueError,
-    ) as exc:
-        logger.exception("Could not fetch top tracks block")
-        block.extend([f"> ⚠️ Could not fetch top tracks: `{exc}`", ""])
-    return block
+    if not artists and not tracks:
+        block.append('<tr><td colspan="3">No top listening data available.</td></tr>')
+    return block + ["</table>", ""]
 
 
 def generate_markdown() -> str:
-    """
-    Generate complete Spotify markdown snippet.
-    """
+    """Fetch a complete snapshot; failures leave the previous README untouched."""
     sp = get_spotify_client()
-    parts: list[str] = [
-        section_heading("music", "Spotify"),
-    ]
-    parts.extend(generate_now_playing_block(sp))
+    parts = generate_now_playing_block(sp)
     parts.extend(generate_recently_played_block(sp))
-    parts.extend(generate_top_artists_block(sp))
-    parts.extend(generate_top_tracks_block(sp))
-    now = datetime.now(UTC).strftime("%Y-%m-%d %H:%M:%S UTC")
-    parts.append(f"{icon_tag('clock3', 'Last updated')} *Last updated: {now}*")
+    parts.extend(generate_top_block(sp))
+    now = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
+    parts.append(f"<sub>{now}</sub>")
     return "\n".join(parts)
 
 
-def update_readme() -> None:
-    """
-    Replace content between Spotify sentinels in README.
-    """
+def update_readme(path: Path = README_PATH) -> None:
+    """Replace only the single marked block, atomically and without regex expansion."""
+    content = path.read_text(encoding="utf-8")
+    if content.count(START) != 1 or content.count(END) != 1:
+        raise ValueError("README must contain exactly one pair of Spotify markers")
+    before, rest = content.split(START)
+    if END not in rest:
+        raise ValueError("Spotify markers are out of order")
+    _, after = rest.split(END)
     snippet = generate_markdown()
-    path = os.path.join(os.getcwd(), "README.md")
-
+    updated = before + START + "\n" + snippet + "\n" + END + after
+    if updated == content:
+        return
+    temporary = None
     try:
-        with open(path, "r", encoding="utf-8") as file:
-            content = file.read()
-    except FileNotFoundError as exc:
-        raise FileNotFoundError(f"README not found at {path}") from exc
-
-    pattern = re.compile(
-        r"(<!-- SPOTIFY-START -->).*?(<!-- SPOTIFY-END -->)",
-        re.DOTALL,
-    )
-    if not pattern.search(content):
-        raise ValueError("Spotify sentinel comments not found in README")
-
-    updated = pattern.sub(rf"\1\n{snippet}\n\2", content)
-    with open(path, "w", encoding="utf-8") as file:
-        file.write(updated)
-
+        with NamedTemporaryFile(
+            mode="w", encoding="utf-8", dir=path.parent, delete=False
+        ) as file:
+            temporary = Path(file.name)
+            file.write(updated)
+        temporary.chmod(path.stat().st_mode)
+        temporary.replace(path)
+    finally:
+        if temporary is not None:
+            temporary.unlink(missing_ok=True)
     logger.info("README updated successfully")
 
 
@@ -456,8 +306,8 @@ if __name__ == "__main__":
     except ValueError:
         logger.exception("Invalid configuration or README format")
         sys.exit(1)
-    except RuntimeError:
-        logger.exception("Spotify update failed")
+    except (RuntimeError, SpotifyException, requests.RequestException):
+        logger.error("Spotify update failed; previous README preserved")
         sys.exit(1)
     except OSError:
         logger.exception("File operation failed")

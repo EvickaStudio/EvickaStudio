@@ -1,19 +1,24 @@
 name: Update README with Spotify Data
 
-permissions:
-  contents: write
-
 on:
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - spotify_update.py
+      - requirements.txt
+      - .github/workflows/update_readme.yml
 
 jobs:
   update-readme:
+    permissions:
+      contents: write
     timeout-minutes: 5
     concurrency:
       group: update-readme
-      cancel-in-progress: true
+      cancel-in-progress: false
     runs-on: ubuntu-latest
 
     steps:
@@ -26,14 +31,7 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-
-      - name: Cache pip
-        uses: actions/cache@v5
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          cache: pip
 
       - name: Install dependencies
         run: pip install -r requirements.txt
