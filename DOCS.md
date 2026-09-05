@@ -59,8 +59,15 @@ simple placeholder when no cover exists. When playback stops, the hero shows
 the last played track; paused playback is labelled separately. The artwork is
 embedded in the SVG, so it needs no external image request when displayed.
 It is a snapshot at the displayed UTC timestamp, not a live player.
-Recently played tracks use absolute UTC times so they stay meaningful between
-refreshes. Artist and track rankings use Spotify's `short_term` range.
+For playing snapshots, the progress bar advances from the saved position at
+normal playback speed when the image loads, then stops at the track's end.
+The elapsed-time label remains the captured position; reloading the image
+restarts the animation from that position. Paused/idle snapshots stay still,
+and the bar only animates when the viewer's
+[reduced-motion preference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion)
+allows motion.
+Recently played tracks show artwork, track, artist, album and duration.
+Artist and track rankings use Spotify's `short_term` range.
 
 ## 03 / GitHub Actions
 

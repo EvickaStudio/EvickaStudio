@@ -179,7 +179,7 @@ def test_svg_layout_and_escaping(compact):
         "artists": [{"name": "A & B"}],
         "album": {"name": "<Album>"},
     }
-    current = {"is_playing": True, "progress_ms": 200000, "item": track}
+    current = {"is_playing": True, "progress_ms": 25000, "item": track}
     recent = [{"track": track, "played_at": "2026-09-05T20:00:00+02:00"}]
     artists = [{"name": "<Top & Artist>", "genres": ["indie rock"]}]
     cover = "data:image/jpeg;base64,Y292ZXI="
@@ -200,12 +200,18 @@ def test_svg_layout_and_escaping(compact):
     title = root.find("s:title", ns).text
     assert track["name"] in title and artists[0]["name"] in title
     hero = root.find(".//s:g[@id='now-playing']", ns)
+    assert hero.find("s:image", ns) is not None
+    assert "equalizer" not in svg and "artwork-drift" not in svg
+    assert "prefers-reduced-motion: no-preference" in svg
+    assert "animation: playback 75s linear forwards;" in svg
+    assert "infinite" not in svg
     title_lines = hero.findall(".//s:text[@class='title']", ns)
     assert len(title_lines) == 2
     assert title_lines[-1].text.endswith("…")
     rail = root.find(".//s:rect[@id='playback-rail']", ns)
     progress = root.find(".//s:rect[@id='playback-progress']", ns)
-    assert float(rail.attrib["width"]) == float(progress.attrib["width"])
+    assert float(progress.attrib["width"]) == float(rail.attrib["width"]) / 4
+    assert f"to {{ width: {rail.attrib['width']}px; }}" in svg
     assert 'opacity=".6"' in svg
     assert 'preserveAspectRatio="xMidYMid slice"' in svg
     assert "<script" not in svg and "foreignObject" not in svg
@@ -214,7 +220,9 @@ def test_svg_layout_and_escaping(compact):
         for node in root.findall(".//s:text", ns)
     )
     assert len(root.findall(".//s:image", ns)) == 4
-    assert "05 Sep · 18:00" in svg
+    recent_section = root.find(".//s:g[@id='recently-played']", ns)
+    assert "UTC" not in "".join(recent_section.itertext())
+    assert "05 Sep · 18:00" not in svg
     assert "Updated 2026-09-05 19:00 UTC" in svg
     assert format_played_at("not-a-date") == ""
 
@@ -231,17 +239,28 @@ def test_svg_layout_and_escaping(compact):
             root.attrib["height"]
         )
 
-    for duration, elapsed in ((0, 200000), (100000, -1)):
+    for duration, elapsed, fraction, remaining in (
+        (0, 200000, 0, 0),
+        (100000, -1, 0, 100),
+        (100000, 200000, 1, 0),
+        (100000, 99999, 0.99999, 0.001),
+    ):
         track["duration_ms"] = duration
         current["progress_ms"] = elapsed
-        root = ET.fromstring(render_spotify(current, [], [], [], compact=compact))
-        assert (
-            float(root.find(".//s:rect[@id='playback-progress']", ns).attrib["width"])
-            == 0
-        )
+        svg = render_spotify(current, [], [], [], compact=compact)
+        root = ET.fromstring(svg)
+        assert float(
+            root.find(".//s:rect[@id='playback-progress']", ns).attrib["width"]
+        ) == pytest.approx(float(rail.attrib["width"]) * fraction, abs=0.005)
+        if remaining:
+            assert f"animation: playback {remaining:g}s linear forwards;" in svg
+        else:
+            assert "animation:" not in svg
 
     current["is_playing"] = False
-    assert "Paused" in render_spotify(current, [], [], [], compact=compact)
+    paused = render_spotify(current, [], [], [], compact=compact)
+    assert "Paused" in paused
+    assert "animation:" not in paused
     idle = render_spotify(None, recent, [], [], cover, compact=compact)
     assert "Last listened" in idle and "<image" in idle
     assert "playback-progress" not in idle

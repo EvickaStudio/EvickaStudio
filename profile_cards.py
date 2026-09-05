@@ -92,7 +92,7 @@ def artwork(x: int, y: int, size: int, cover: str, rounded: bool = False) -> str
     body = (
         f'<defs><clipPath id="{clip}"><rect x="{x}" y="{y}" width="{size}" '
         f'height="{size}" rx="{radius}"/></clipPath></defs>'
-        f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="{radius}" fill="#252a30"/>'
+        f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="{radius}" fill="#1f1f1f"/>'
     )
     if cover:
         body += (
@@ -144,28 +144,27 @@ def render_spotify(
     description = [f"Spotify. {status}: {name} — {performers} — {album}."]
     body = [
         """<style>
-.spotify text { fill: #f4f5f7; }
+.spotify text { fill: #ffffff; }
 .spotify .title { font-weight: 700; }
-.spotify .muted { fill: #b1b5bd; }
-.spotify .quiet { fill: #939ba7; }
+.spotify .muted, .spotify .quiet { fill: #b3b3b3; }
 .spotify .accent { fill: #1ed760; }
 .spotify .end { text-anchor: end; font-variant-numeric: tabular-nums; }
 .spotify .center { text-anchor: middle; }
-.spotify .rule { stroke: #ffffff; stroke-opacity: .09; }
+.spotify .rule { stroke: #292929; }
 </style>""",
         f'<defs><clipPath id="spotify-card"><rect width="{width}" height="{height}" rx="20"/></clipPath>',
         (
             '<linearGradient id="hero-shade" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">'
-            '<stop stop-color="#101317" stop-opacity=".15"/>'
-            '<stop offset=".6" stop-color="#101317" stop-opacity=".35"/>'
-            '<stop offset="1" stop-color="#101317"/></linearGradient>'
+            '<stop stop-color="#121212" stop-opacity=".15"/>'
+            '<stop offset=".6" stop-color="#121212" stop-opacity=".35"/>'
+            '<stop offset="1" stop-color="#121212"/></linearGradient>'
         ),
         (
             '<linearGradient id="text-fade"><stop offset=".88" stop-color="white"/>'
             '<stop offset="1" stop-color="black"/></linearGradient></defs>'
         ),
         '<g class="spotify" clip-path="url(#spotify-card)">',
-        f'<rect width="{width}" height="{height}" fill="#101317"/>',
+        f'<rect width="{width}" height="{height}" fill="#121212"/>',
         '<g id="now-playing">',
     ]
     if cover:
@@ -180,7 +179,7 @@ def render_spotify(
         f'<rect width="{width}" height="{hero_height}" fill="url(#hero-shade)"/>'
     )
     body.append(
-        f'<rect y="{hero_height - 1}" width="{width}" height="2" fill="#101317"/>'
+        f'<rect y="{hero_height - 1}" width="{width}" height="2" fill="#121212"/>'
     )
     # ponytail: hero wrapping assumes ordinary titles; clip wide glyphs and keep full metadata in title/alt.
     lines = wrap(name, width=23 if compact else 38, max_lines=2, placeholder="…")
@@ -229,6 +228,16 @@ def render_spotify(
                 "muted",
             ),
         ]
+        if playing and progress < duration:
+            # ponytail: SVG replays the saved position on load; live sync needs a hosted player.
+            body.append(
+                f"""<style>
+@media (prefers-reduced-motion: no-preference) {{
+  #playback-progress {{ animation: playback {(duration - progress) / 1000:g}s linear forwards; }}
+  @keyframes playback {{ to {{ width: {bar_width}px; }} }}
+}}
+</style>"""
+            )
         if not playing:
             body.append(
                 text(width // 2, hero_height - 25, "Paused", 11, "muted center")
@@ -254,7 +263,7 @@ def render_spotify(
             (
                 "recently-played",
                 "Recently played",
-                "Latest listens · UTC",
+                "Latest listens",
                 recent,
                 recent_covers or [],
             ),
@@ -295,18 +304,11 @@ def render_spotify(
             track_album = str((track.get("album") or {}).get("name") or "")
             ms = max(0, int(track.get("duration_ms") or 0))
             duration_text = f"{ms // 60000}:{ms // 1000 % 60:02d}" if ms else ""
-            played = (
-                format_played_at(str(entry.get("played_at") or ""))
-                if index == 0
-                else ""
-            )
             row_y = y + 78 + rank * 72
             art_x = x + (22 if index else 0)
             tx = art_x + 54
             available = x + col_width - tx
-            full_title = f"{track_name} — {artist} — {track_album}" + (
-                f" · {played} UTC" if played else ""
-            )
+            full_title = f"{track_name} — {artist} — {track_album}"
             description.append(f"{heading} {rank + 1}: {full_title}.")
             body.append(f"<g><title>{escape(full_title)}</title>")
             if index:
@@ -318,15 +320,7 @@ def render_spotify(
                 clipped_text(tx, row_y + 16, track_name, available - 34, 14, "title"),
                 text(x + col_width, row_y + 16, duration_text, 11, "quiet end"),
                 clipped_text(tx, row_y + 34, artist, available, 12, "muted"),
-                clipped_text(
-                    tx,
-                    row_y + 51,
-                    track_album,
-                    available - (88 if played else 0),
-                    10,
-                    "quiet",
-                ),
-                text(x + col_width, row_y + 51, played, 10, "quiet end"),
+                clipped_text(tx, row_y + 51, track_album, available, 10, "quiet"),
                 "</g>",
             ]
         body.append("</g>")
@@ -370,7 +364,7 @@ def render_spotify(
             center = x + cell_width // 2
             body += [
                 artwork(center - 36, artists_y + 59, 72, artist_cover, rounded=True),
-                f'<circle cx="{center + 25}" cy="{artists_y + 123}" r="11" fill="#20292a" stroke="#101317" stroke-width="3"/>',
+                f'<circle cx="{center + 25}" cy="{artists_y + 123}" r="11" fill="#1f1f1f" stroke="#121212" stroke-width="3"/>',
                 text(
                     center + 25,
                     artists_y + 126,
