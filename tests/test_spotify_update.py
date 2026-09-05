@@ -17,14 +17,14 @@ def test_update_readme(tmp_path, monkeypatch) -> None:
     monkeypatch.setenv("SPOTIFY_CLIENT_SECRET", "secret")
     monkeypatch.setenv("SPOTIFY_REFRESH_TOKEN", "token")
     monkeypatch.setattr(
-        su, "generate_snapshot", lambda: ("new", {"now-playing.svg": "<svg/>"})
+        su, "generate_snapshot", lambda: ("new", {"spotify.svg": "<svg/>"})
     )
     su.update_readme(readme)
     updated = readme.read_text(encoding="utf-8")
     assert "<!-- SPOTIFY-START -->\nnew\n<!-- SPOTIFY-END -->" in updated
     assert "prefix" in updated
     assert "suffix" in updated
-    assert (tmp_path / "assets/generated/now-playing.svg").read_text() == "<svg/>"
+    assert (tmp_path / "assets/generated/spotify.svg").read_text() == "<svg/>"
 
 
 def test_update_preserves_copy_and_literal_backslashes(tmp_path, monkeypatch):
@@ -87,14 +87,25 @@ def test_snapshot_rendering(monkeypatch):
     }
     sp.current_user_top_artists.return_value = {"items": []}
     sp.current_user_top_tracks.return_value = {"items": [track]}
+    sp.current_user.return_value = {
+        "external_urls": {"spotify": "https://open.spotify.com/user/example"}
+    }
     monkeypatch.setattr(su, "get_spotify_client", lambda: sp)
     snippet, assets = su.generate_snapshot()
     assert "A &lt; B &amp; C" in snippet
     assert "Artist &amp; friend" in snippet
     assert "&lt;Album&gt;" in snippet
-    assert "now-playing.svg" in assets
-    assert "recently-played.svg" in assets
-    assert "on-repeat.svg" in assets
+    assert set(assets) == {
+        "spotify.svg",
+        "spotify-mobile.svg",
+        "technologies.svg",
+        "technologies-mobile.svg",
+    }
+    assert snippet.count("<picture>") == snippet.count("<img ") == 1
+    assert 'src="assets/generated/spotify.svg"' in snippet
+    assert 'srcset="assets/generated/spotify-mobile.svg"' in snippet
+    assert 'href="https://open.spotify.com/user/example"' in snippet
+    sp.current_user.assert_called_once_with()
     assert "<table>" not in snippet
     assert "assets/icons" not in snippet
     assert "### Spotify" not in snippet
@@ -105,7 +116,13 @@ def test_snapshot_rendering(monkeypatch):
         == "&lt;bad&gt;"
     )
     sp.current_user_playing_track.return_value = None
-    assert "Not playing" in "\n".join(su.generate_now_playing_block(sp)[0])
+    sp.current_user.return_value = {"external_urls": {"spotify": "javascript:alert(1)"}}
+    snippet, assets = su.generate_snapshot()
+    assert "Not playing" in snippet
+    assert 'href="https://open.spotify.com/"' in snippet
+    assert "javascript:" not in snippet
+    assert "Last listened" in assets["spotify.svg"]
+    assert "A &lt; B &amp; C" in assets["spotify.svg"]
 
 
 @pytest.mark.parametrize(
@@ -115,6 +132,7 @@ def test_album_cover(cover, monkeypatch):
     from unittest.mock import Mock
 
     sp = Mock()
+    sp.requests_session = None
     sp.current_user_playing_track.return_value = {
         "is_playing": True,
         "item": {
@@ -125,15 +143,19 @@ def test_album_cover(cover, monkeypatch):
             },
         },
     }
+    sp.current_user_recently_played.return_value = {"items": []}
+    sp.current_user_top_tracks.return_value = {"items": []}
+    sp.current_user_top_artists.return_value = {"items": []}
+    sp.current_user.return_value = {}
+    monkeypatch.setattr(su, "get_spotify_client", lambda: sp)
     response = Mock()
     response.status_code = 200
     response.headers = {"Content-Type": "image/jpeg"}
     response.content = b"cover"
     fetch = Mock(return_value=response)
     monkeypatch.setattr(su.requests, "get", fetch)
-    lines, assets = su.generate_now_playing_block(sp)
-    block = "\n".join(lines)
-    svg = assets["now-playing.svg"]
+    block, assets = su.generate_snapshot()
+    svg = assets["spotify.svg"]
     if cover.startswith("https:"):
         assert "data:image/jpeg;base64,Y292ZXI=" in svg
         fetch.assert_called_once_with(cover, timeout=15, allow_redirects=False)
@@ -145,93 +167,98 @@ def test_album_cover(cover, monkeypatch):
     assert "Track" in block
 
 
-def test_svg_layout_and_escaping():
+@pytest.mark.parametrize("compact", [False, True])
+def test_svg_layout_and_escaping(compact):
     from xml.etree import ElementTree as ET
 
-    from profile_cards import (
-        render_now_playing,
-        render_on_repeat,
-        render_recently_played,
-        render_technologies,
-    )
+    from profile_cards import format_played_at, render_spotify, render_technologies
 
-    current = {
-        "is_playing": True,
-        "progress_ms": 200000,
-        "item": {
-            "name": "<Title> & " + "Long " * 40,
-            "duration_ms": 100000,
-            "artists": [{"name": "A & B"}],
-            "album": {"name": "<Album>"},
-        },
+    track = {
+        "name": "<Title> & " + "Long " * 40,
+        "duration_ms": 100000,
+        "artists": [{"name": "A & B"}],
+        "album": {"name": "<Album>"},
     }
+    current = {"is_playing": True, "progress_ms": 200000, "item": track}
+    recent = [{"track": track, "played_at": "2026-09-05T20:00:00+02:00"}]
+    artists = [{"name": "<Top & Artist>", "genres": ["indie rock"]}]
+    cover = "data:image/jpeg;base64,Y292ZXI="
     ns = {"s": "http://www.w3.org/2000/svg"}
-    for compact in (False, True):
-        svg = render_now_playing(current, compact=compact)
-        root = ET.fromstring(svg)
-        assert "<Title> & Long" in root.find("s:title", ns).text
-        title_lines = root.findall("s:text[@class='title']", ns)
-        assert len(title_lines) == 2
-        assert title_lines[-1].text.endswith("…")
-        rail = root.find("s:rect[@class='rail']", ns)
-        progress = root.find("s:rect[@class='accent']", ns)
-        assert float(rail.attrib["width"]) == float(progress.attrib["width"])
-        assert "prefers-color-scheme: dark" in svg
-        assert "linearGradient" not in svg
-        assert 'opacity=".6"' in render_now_playing(
-            current, "data:image/jpeg;base64,Y292ZXI=", compact
-        )
-        assert 'preserveAspectRatio="xMidYMid slice"' in render_now_playing(
-            current, "data:image/jpeg;base64,Y292ZXI=", compact
-        )
-        assert "<script" not in svg and "foreignObject" not in svg
-        tech = ET.fromstring(render_technologies(compact))
-        assert "Rust" in "".join(tech.itertext())
-        assert "Windows" in "".join(tech.itertext())
-        assert "Not playing" in render_now_playing(None, compact=compact)
+    svg = render_spotify(
+        current,
+        recent,
+        [track],
+        artists,
+        cover,
+        [cover],
+        [cover],
+        [cover],
+        "2026-09-05 19:00 UTC",
+        compact=compact,
+    )
+    root = ET.fromstring(svg)
+    title = root.find("s:title", ns).text
+    assert track["name"] in title and artists[0]["name"] in title
+    hero = root.find(".//s:g[@id='now-playing']", ns)
+    title_lines = hero.findall(".//s:text[@class='title']", ns)
+    assert len(title_lines) == 2
+    assert title_lines[-1].text.endswith("…")
+    rail = root.find(".//s:rect[@id='playback-rail']", ns)
+    progress = root.find(".//s:rect[@id='playback-progress']", ns)
+    assert float(rail.attrib["width"]) == float(progress.attrib["width"])
+    assert 'opacity=".6"' in svg
+    assert 'preserveAspectRatio="xMidYMid slice"' in svg
+    assert "<script" not in svg and "foreignObject" not in svg
+    assert not any(
+        node.text in {"SPOTIFY", "NOW PLAYING"}
+        for node in root.findall(".//s:text", ns)
+    )
+    assert len(root.findall(".//s:image", ns)) == 4
+    assert "05 Sep · 18:00" in svg
+    assert "Updated 2026-09-05 19:00 UTC" in svg
+    assert format_played_at("not-a-date") == ""
 
-        # Test render_recently_played
-        rp_items = [
-            {
-                "track": {
-                    "name": "<Song & Dance>",
-                    "artists": [{"name": "X & Y"}],
-                    "album": {"name": "Album & Co"},
-                },
-                "played_at": "2026-09-05T18:00:00Z",
-            }
-        ]
-        rp_svg = render_recently_played(
-            rp_items, ["data:image/jpeg;base64,Y292ZXI="], compact=compact
+    # Every section shares the same surface, and metadata has bounded viewports.
+    for section in ("now-playing", "recently-played", "on-repeat", "top-artists"):
+        assert root.find(f".//s:g[@id='{section}']", ns) is not None
+    ids = [element.attrib["id"] for element in root.iter() if "id" in element.attrib]
+    assert len(ids) == len(set(ids))
+    for viewport in root.findall(".//s:svg", ns):
+        assert int(viewport.attrib["x"]) + int(viewport.attrib["width"]) <= int(
+            root.attrib["width"]
         )
-        rp_root = ET.fromstring(rp_svg)
-        assert "<Song & Dance>" in rp_root.find("s:title", ns).text
-        assert "<script" not in rp_svg and "foreignObject" not in rp_svg
-        assert "No recently played" in render_recently_played([], compact=compact)
+        assert int(viewport.attrib["y"]) + int(viewport.attrib["height"]) <= int(
+            root.attrib["height"]
+        )
 
-        # Test render_on_repeat
-        top_tracks = [
-            {
-                "name": "<Top & Track>",
-                "artists": [{"name": "A & B"}],
-                "album": {"name": "Top Album"},
-            }
-        ]
-        top_artists = [{"name": "<Top & Artist>", "genres": ["indie rock"]}]
-        or_svg = render_on_repeat(
-            top_tracks,
-            top_artists,
-            ["data:image/jpeg;base64,Y292ZXI="],
-            ["data:image/jpeg;base64,Y292ZXI="],
-            compact=compact,
+    for duration, elapsed in ((0, 200000), (100000, -1)):
+        track["duration_ms"] = duration
+        current["progress_ms"] = elapsed
+        root = ET.fromstring(render_spotify(current, [], [], [], compact=compact))
+        assert (
+            float(root.find(".//s:rect[@id='playback-progress']", ns).attrib["width"])
+            == 0
         )
-        or_root = ET.fromstring(or_svg)
-        assert "<Top & Track>" in or_root.find("s:title", ns).text
-        assert "<script" not in or_svg and "foreignObject" not in or_svg
-        assert "01" in "".join(or_root.itertext())
-    current["item"]["duration_ms"] = 0
-    root = ET.fromstring(render_now_playing(current))
-    assert float(root.find("s:rect[@class='accent']", ns).attrib["width"]) == 0
+
+    current["is_playing"] = False
+    assert "Paused" in render_spotify(current, [], [], [], compact=compact)
+    idle = render_spotify(None, recent, [], [], cover, compact=compact)
+    assert "Last listened" in idle and "<image" in idle
+    assert "playback-progress" not in idle
+    empty = render_spotify(None, [], [], [], compact=compact)
+    ET.fromstring(empty)
+    assert all(
+        label in empty
+        for label in (
+            "Not playing",
+            "No recently played",
+            "No top tracks",
+            "No top artists",
+        )
+    )
+    tech = ET.fromstring(render_technologies(compact))
+    assert "Rust" in "".join(tech.itertext())
+    assert "Windows" in "".join(tech.itertext())
 
 
 def test_late_api_failure_preserves_cards_and_readme(tmp_path, monkeypatch):
@@ -240,7 +267,7 @@ def test_late_api_failure_preserves_cards_and_readme(tmp_path, monkeypatch):
     readme = tmp_path / "README.md"
     content = su.START + "old" + su.END
     readme.write_text(content)
-    asset = tmp_path / "assets" / "generated" / "now-playing.svg"
+    asset = tmp_path / "assets" / "generated" / "spotify.svg"
     asset.parent.mkdir(parents=True)
     asset.write_text("previous card")
     sp = Mock()

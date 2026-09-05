@@ -1,7 +1,8 @@
 """Self-contained SVG panels for the profile; no browser or graphics dependency."""
 
+from datetime import UTC, datetime
 from html import escape
-from textwrap import shorten, wrap
+from textwrap import wrap
 from typing import Any
 
 from spotify_fonts import SPOTIFY_FONT_FACES, SPOTIFY_FONT_STACK
@@ -16,11 +17,6 @@ TECHNOLOGIES = (
     ("Operating Systems", "Linux (EndeavourOS, CachyOS, Debian, Ubuntu) · Windows"),
 )
 
-CLOCK_ICON = (
-    '<path d="M8 1.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8" fill="#b3b3b3"/>'
-    '<path d="M8 3.25a.75.75 0 0 1 .75.75v3.25H11a.75.75 0 0 1 0 1.5H7.25V4A.75.75 0 0 1 8 3.25" fill="#b3b3b3"/>'
-)
-
 
 def text(x: int, y: int, value: str, size: int = 18, css: str = "") -> str:
     return (
@@ -28,36 +24,12 @@ def text(x: int, y: int, value: str, size: int = 18, css: str = "") -> str:
     )
 
 
-def truncate_text(value: str, max_chars: int) -> str:
-    value = value.strip()
-    if len(value) <= max_chars:
-        return value
-    truncated = value[:max_chars].rstrip(". ,;-–—")
-    return truncated + "…"
-
-
-def format_played_at(played_at_str: str, compact: bool = False) -> str:
+def format_played_at(played_at_str: str) -> str:
     if not played_at_str:
         return ""
     try:
-        from datetime import UTC, datetime
-
         dt = datetime.fromisoformat(played_at_str).astimezone(UTC)
-        now = datetime.now(UTC)
-        diff = now - dt
-        seconds = int(diff.total_seconds())
-        if seconds < 60:
-            return "Just now"
-        if seconds < 3600:
-            m = max(1, seconds // 60)
-            return f"{m} min ago" if not compact else f"{m}m ago"
-        if seconds < 86400:
-            h = max(1, seconds // 3600)
-            return f"{h} hr ago" if not compact else f"{h}h ago"
-        if seconds < 86400 * 7:
-            d = max(1, seconds // 86400)
-            return f"{d} day ago" if d == 1 else f"{d} days ago"
-        return dt.strftime("%b %-d, %Y")
+        return dt.strftime("%d %b · %H:%M")
     except (ValueError, TypeError):
         return ""
 
@@ -98,500 +70,337 @@ def render_technologies(compact: bool = False) -> str:
     return panel(width, 654 if compact else 364, "Technologies", "\n".join(body))
 
 
-def render_now_playing(
-    current: dict[str, Any] | None, cover: str = "", compact: bool = False
+def clipped_text(
+    x: int, y: int, value: str, width: int, size: int = 14, css: str = ""
 ) -> str:
-    width = 400 if compact else 760
-    if not current or not current.get("is_playing") or not current.get("item"):
-        return panel(
-            width,
-            120,
-            "Not playing anything right now.",
-            text(24, 67, "Not playing anything right now.", 20, "muted"),
-        )
-    item = current["item"]
-    name = str(item.get("name") or "Unknown")
-    artists = ", ".join(a.get("name", "Unknown") for a in item.get("artists", []))
-    album = str((item.get("album") or {}).get("name", ""))
-    duration = max(0, int(item.get("duration_ms") or 0))
-    progress = max(0, min(int(current.get("progress_ms") or 0), duration))
-    height = 280 if compact else 320
-    body = [
-        (
-            f"<style>{SPOTIFY_FONT_FACES}\n"
-            f"text {{ font-family: {SPOTIFY_FONT_STACK}; fill: #ffffff; }} "
-            ".label { fill: #b3b3b3; font-weight: 700; letter-spacing: 1.5px; } "
-            ".muted { fill: #b3b3b3; font-weight: 400; } "
-            ".title { font-weight: 700; fill: #ffffff; } "
-            ".rail { fill: #ffffff; fill-opacity: .25; } "
-            ".accent { fill: #ffffff; } "
-            ".card-border { stroke: rgba(255, 255, 255, 0.1); stroke-width: 1; fill: none; } "
-            "@media (prefers-color-scheme: light) { .card-border { stroke: rgba(0, 0, 0, 0.15); } }</style>"
-        ),
-        f'<defs><clipPath id="card"><rect width="{width}" height="{height}" rx="16"/></clipPath></defs>',
-        '<g clip-path="url(#card)">',
-        f'<rect width="{width}" height="{height}" fill="#121212"/>',
-    ]
+    """Fade long metadata inside its own viewport, independent of font metrics."""
+    height = size + 8
+    return (
+        f'<svg x="{x}" y="{y - size}" width="{width}" height="{height}" overflow="hidden">'
+        f'<defs><mask id="line-{x}-{y}" maskUnits="userSpaceOnUse" '
+        f'x="0" y="0" width="{width}" height="{height}">'
+        f'<rect width="{width}" height="{height}" fill="url(#text-fade)"/>'
+        f'</mask></defs><g mask="url(#line-{x}-{y})">'
+        + text(0, size, value, size, css)
+        + "</g></svg>"
+    )
+
+
+def artwork(x: int, y: int, size: int, cover: str, rounded: bool = False) -> str:
+    radius = size // 2 if rounded else 6
+    clip = f"art-{x}-{y}"
+    body = (
+        f'<defs><clipPath id="{clip}"><rect x="{x}" y="{y}" width="{size}" '
+        f'height="{size}" rx="{radius}"/></clipPath></defs>'
+        f'<rect x="{x}" y="{y}" width="{size}" height="{size}" rx="{radius}" fill="#252a30"/>'
+    )
     if cover:
-        body.append(
-            f'<image width="{width}" height="{height}" '
-            f'preserveAspectRatio="xMidYMid slice" xlink:href="{escape(cover, quote=True)}"/>'
-        )
-        body.append(
-            f'<rect width="{width}" height="{height}" fill="#000000" opacity=".6"/>'
-        )
-    body.append("</g>")
-    body.append(
-        f'<rect width="{width}" height="{height}" rx="16" class="card-border"/>'
-    )
-    body.append(text(32, 38, "SPOTIFY", 11, "label"))
-    # ponytail: character wrapping assumes ordinary titles; full text remains in alt/title.
-    lines = wrap(name, width=24 if compact else 40, max_lines=2, placeholder="…")
-    title_y = 88 if compact else 111
-    for index, line in enumerate(lines):
-        body.append(
-            text(32, title_y + index * 34, line, 24 if compact else 30, "title")
-        )
-    artist_y = title_y + len(lines) * 34 + 8
-    body.append(
-        text(
-            32,
-            artist_y,
-            shorten(artists, width=30 if compact else 60, placeholder="…"),
-            18 if compact else 21,
-        )
-    )
-    body.append(
-        text(
-            32,
-            artist_y + 28,
-            shorten(album, width=38 if compact else 76, placeholder="…"),
-            14,
-            "muted",
-        )
-    )
-    bar_width = width - 64
-    bar_y = height - 54
-    fraction = progress / duration if duration else 0
-    body += [
-        f'<rect x="32" y="{bar_y}" width="{bar_width}" height="4" rx="2" class="rail"/>',
-        f'<rect x="32" y="{bar_y}" width="{bar_width * fraction:.2f}" height="4" rx="2" class="accent"/>',
-        text(
-            32,
-            height - 26,
-            f"{progress // 60000}:{progress // 1000 % 60:02d}",
-            12,
-            "muted",
-        ),
-        text(
-            width - 62,
-            height - 26,
-            f"{duration // 60000}:{duration // 1000 % 60:02d}",
-            12,
-            "muted",
-        ),
-    ]
-    return panel(width, height, f"{name} — {artists} — {album}", "\n".join(body))
-
-
-def render_recently_played(
-    items: list[dict[str, Any]],
-    covers: list[str] | None = None,
-    compact: bool = False,
-) -> str:
-    width = 400 if compact else 760
-    covers = covers or []
-    item_count = len(items[:5])
-
-    if compact:
-        row_h = 52
-        header_y = 24
-        start_y = 40
-        pad_x = 16
-        height = start_y + max(1, item_count) * row_h + 12
-    else:
-        row_h = 56
-        header_y = 26
-        start_y = 44
-        pad_x = 24
-        height = start_y + max(1, item_count) * row_h + 14
-
-    body = [
-        (
-            f"<style>{SPOTIFY_FONT_FACES}\n"
-            f"text {{ font-family: {SPOTIFY_FONT_STACK}; fill: #ffffff; }} "
-            ".header-col { fill: #b3b3b3; font-size: 13px; font-weight: 400; } "
-            ".muted { fill: #b3b3b3; font-weight: 400; } "
-            ".title { font-weight: 700; fill: #ffffff; } "
-            ".card-bg { fill: #121212; } "
-            ".card-border { stroke: rgba(255, 255, 255, 0.08); stroke-width: 1; fill: none; } "
-            "@media (prefers-color-scheme: light) { .card-border { stroke: rgba(0, 0, 0, 0.12); } } "
-            ".divider { stroke: rgba(255, 255, 255, 0.1); stroke-width: 1; } "
-            ".thumb-bg { fill: #282828; } "
-            ".thumb-border { stroke: rgba(255, 255, 255, 0.07); stroke-width: 1; fill: none; } "
-            "</style>"
-        ),
-        f'<defs><clipPath id="card-rp"><rect width="{width}" height="{height}" rx="12"/></clipPath></defs>',
-        '<g clip-path="url(#card-rp)">',
-        f'<rect width="{width}" height="{height}" class="card-bg"/>',
-        "</g>",
-        f'<rect width="{width}" height="{height}" rx="12" class="card-border"/>',
-    ]
-
-    # Header columns
-    if compact:
-        body.append(f'<text x="{pad_x}" y="{header_y}" class="header-col">#</text>')
-        body.append(f'<text x="80" y="{header_y}" class="header-col">Title</text>')
-        body.append(
-            f'<text x="{width - pad_x}" y="{header_y}" class="header-col" text-anchor="end">Played</text>'
-        )
-        body.append(
-            f'<line x1="{pad_x}" y1="{header_y + 8}" x2="{width - pad_x}" y2="{header_y + 8}" class="divider"/>'
+        body += (
+            f'<image x="{x}" y="{y}" width="{size}" height="{size}" '
+            f'preserveAspectRatio="xMidYMid slice" clip-path="url(#{clip})" '
+            f'xlink:href="{escape(cover, quote=True)}"/>'
         )
     else:
-        body.append(f'<text x="{pad_x}" y="{header_y}" class="header-col">#</text>')
-        body.append(f'<text x="100" y="{header_y}" class="header-col">Title</text>')
-        body.append(f'<text x="400" y="{header_y}" class="header-col">Album</text>')
-        body.append(f'<text x="590" y="{header_y}" class="header-col">Played</text>')
-        body.append(
-            f'<g transform="translate(720, {header_y - 12}) scale(0.85)">{CLOCK_ICON}</g>'
-        )
-        body.append(
-            f'<line x1="{pad_x}" y1="{header_y + 8}" x2="{width - pad_x}" y2="{header_y + 8}" class="divider"/>'
-        )
-
-    if not items:
-        body.append(
-            f'<text x="{pad_x}" y="{start_y + 28}" class="muted" font-size="14">No recently played tracks.</text>'
-        )
-        return panel(width, 110, "Recently Played", "\n".join(body))
-
-    for idx, entry in enumerate(items[:5]):
-        track = entry.get("track") or {}
-        name = str(track.get("name") or "Unknown")
-        artists = ", ".join(a.get("name", "Unknown") for a in track.get("artists", []))
-        album = str((track.get("album") or {}).get("name", ""))
-        duration_ms = int(track.get("duration_ms") or 0)
-        dur_str = (
-            f"{duration_ms // 60000}:{duration_ms // 1000 % 60:02d}"
-            if duration_ms
-            else ""
-        )
-        played_str = format_played_at(str(entry.get("played_at") or ""), compact)
-
-        row_y = start_y + idx * row_h
-        thumb_size = 38 if compact else 40
-        thumb_y = row_y + (row_h - thumb_size) // 2
-        thumb_clip = f"rp-th-{idx}"
-        cover_b64 = covers[idx] if idx < len(covers) else ""
-
-        if compact:
-            body.append(
-                f'<text x="{pad_x}" y="{thumb_y + 24}" class="muted" font-size="13" font-variant-numeric="tabular-nums">{idx + 1}</text>'
-            )
-            thumb_x = pad_x + 18
-            body.append(
-                f'<defs><clipPath id="{thumb_clip}"><rect x="{thumb_x}" y="{thumb_y}" width="{thumb_size}" height="{thumb_size}" rx="4"/></clipPath></defs>'
-            )
-            body.append(
-                f'<rect x="{thumb_x}" y="{thumb_y}" width="{thumb_size}" height="{thumb_size}" rx="4" class="thumb-bg"/>'
-            )
-            if cover_b64:
-                body.append(
-                    f'<image x="{thumb_x}" y="{thumb_y}" width="{thumb_size}" height="{thumb_size}" preserveAspectRatio="xMidYMid slice" clip-path="url(#{thumb_clip})" xlink:href="{escape(cover_b64, quote=True)}"/>'
-                )
-            body.append(
-                f'<rect x="{thumb_x}" y="{thumb_y}" width="{thumb_size}" height="{thumb_size}" rx="4" class="thumb-border"/>'
-            )
-
-            tx = thumb_x + thumb_size + 10
-            body.append(
-                f'<text x="{tx}" y="{thumb_y + 16}" class="title" font-size="13">{escape(truncate_text(name, 28))}</text>'
-            )
-            body.append(
-                f'<text x="{tx}" y="{thumb_y + 32}" class="muted" font-size="11">{escape(truncate_text(artists, 30))}</text>'
-            )
-            if played_str:
-                body.append(
-                    f'<text x="{width - pad_x}" y="{thumb_y + 24}" class="muted" font-size="12" text-anchor="end">{escape(played_str)}</text>'
-                )
-        else:
-            body.append(
-                f'<text x="{pad_x}" y="{thumb_y + 25}" class="muted" font-size="14" font-variant-numeric="tabular-nums">{idx + 1}</text>'
-            )
-            thumb_x = pad_x + 24
-            body.append(
-                f'<defs><clipPath id="{thumb_clip}"><rect x="{thumb_x}" y="{thumb_y}" width="{thumb_size}" height="{thumb_size}" rx="4"/></clipPath></defs>'
-            )
-            body.append(
-                f'<rect x="{thumb_x}" y="{thumb_y}" width="{thumb_size}" height="{thumb_size}" rx="4" class="thumb-bg"/>'
-            )
-            if cover_b64:
-                body.append(
-                    f'<image x="{thumb_x}" y="{thumb_y}" width="{thumb_size}" height="{thumb_size}" preserveAspectRatio="xMidYMid slice" clip-path="url(#{thumb_clip})" xlink:href="{escape(cover_b64, quote=True)}"/>'
-                )
-            body.append(
-                f'<rect x="{thumb_x}" y="{thumb_y}" width="{thumb_size}" height="{thumb_size}" rx="4" class="thumb-border"/>'
-            )
-
-            tx = thumb_x + thumb_size + 12
-            body.append(
-                f'<text x="{tx}" y="{thumb_y + 17}" class="title" font-size="14">{escape(truncate_text(name, 34))}</text>'
-            )
-            body.append(
-                f'<text x="{tx}" y="{thumb_y + 34}" class="muted" font-size="12">{escape(truncate_text(artists, 38))}</text>'
-            )
-            body.append(
-                f'<text x="400" y="{thumb_y + 25}" class="muted" font-size="13">{escape(truncate_text(album, 22))}</text>'
-            )
-            if played_str:
-                body.append(
-                    f'<text x="590" y="{thumb_y + 25}" class="muted" font-size="13">{escape(played_str)}</text>'
-                )
-            if dur_str:
-                body.append(
-                    f'<text x="736" y="{thumb_y + 25}" class="muted" font-size="13" font-variant-numeric="tabular-nums" text-anchor="end">{dur_str}</text>'
-                )
-
-    title_summary = "Recently Played: " + ", ".join(
-        str((e.get("track") or {}).get("name") or "Unknown") for e in items[:5]
-    )
-    return panel(width, height, title_summary, "\n".join(body))
+        body += text(x + size // 2, y + size // 2 + 5, "♪", 18, "muted center")
+    return body
 
 
-def render_on_repeat(
+def render_spotify(
+    current: dict[str, Any] | None,
+    recent: list[dict[str, Any]],
     tracks: list[dict[str, Any]],
     artists: list[dict[str, Any]],
+    cover: str = "",
+    recent_covers: list[str] | None = None,
     track_covers: list[str] | None = None,
     artist_covers: list[str] | None = None,
+    updated_at: str = "",
     compact: bool = False,
 ) -> str:
-    track_covers = track_covers or []
-    artist_covers = artist_covers or []
     width = 400 if compact else 760
-    count = max(len(tracks[:5]), len(artists[:5]))
+    pad = 24 if compact else 32
+    hero_height = 300 if compact else 320
+    recent, tracks, artists = recent[:5], tracks[:5], artists[:5]
+    recent_height = 92 + max(1, len(recent)) * 72
+    repeat_height = 92 + max(1, len(tracks)) * 72
+    lists_height = (
+        recent_height + repeat_height if compact else max(recent_height, repeat_height)
+    )
+    artists_y = hero_height + lists_height
+    artists_height = 72 + len(artists) * 52 if compact else 204
+    if not artists:
+        artists_height = 112
+    footer_y = artists_y + artists_height
+    height = footer_y + 52
+    col_width = width - pad * 2 if compact else (width - pad * 2 - 40) // 2
 
-    if compact:
-        row_h = 50
-        sec_header_h = 24
-        pad_x = 16
-        height = (
-            16
-            + sec_header_h
-            + len(tracks[:5]) * row_h
-            + 14
-            + sec_header_h
-            + len(artists[:5]) * row_h
-            + 14
-        )
-    else:
-        row_h = 54
-        pad_x = 24
-        height = 24 + 20 + max(count, 1) * row_h + 14
-
+    current_item = (current or {}).get("item") or {}
+    playing = bool((current or {}).get("is_playing") and current_item)
+    item = current_item or ((recent[0].get("track") or {}) if recent else {})
+    name = str(item.get("name") or "Nothing playing")
+    performers = ", ".join(a.get("name", "Unknown") for a in item.get("artists", []))
+    album = str((item.get("album") or {}).get("name") or "")
+    status = "Now playing" if playing else "Paused" if current_item else "Last played"
+    description = [f"Spotify. {status}: {name} — {performers} — {album}."]
     body = [
+        """<style>
+.spotify text { fill: #f4f5f7; }
+.spotify .title { font-weight: 700; }
+.spotify .muted { fill: #b1b5bd; }
+.spotify .quiet { fill: #939ba7; }
+.spotify .accent { fill: #1ed760; }
+.spotify .end { text-anchor: end; font-variant-numeric: tabular-nums; }
+.spotify .center { text-anchor: middle; }
+.spotify .rule { stroke: #ffffff; stroke-opacity: .09; }
+</style>""",
+        f'<defs><clipPath id="spotify-card"><rect width="{width}" height="{height}" rx="20"/></clipPath>',
         (
-            f"<style>{SPOTIFY_FONT_FACES}\n"
-            f"text {{ font-family: {SPOTIFY_FONT_STACK}; fill: #ffffff; }} "
-            ".header-col { fill: #b3b3b3; font-size: 12px; font-weight: 700; letter-spacing: 0.5px; } "
-            ".muted { fill: #b3b3b3; font-weight: 400; } "
-            ".title { font-weight: 700; fill: #ffffff; } "
-            ".rank { fill: #1ed760; font-weight: 700; font-variant-numeric: tabular-nums; } "
-            ".card-bg { fill: #121212; } "
-            ".card-border { stroke: rgba(255, 255, 255, 0.08); stroke-width: 1; fill: none; } "
-            "@media (prefers-color-scheme: light) { .card-border { stroke: rgba(0, 0, 0, 0.12); } } "
-            ".divider { stroke: rgba(255, 255, 255, 0.1); stroke-width: 1; } "
-            ".thumb-bg { fill: #282828; } "
-            ".thumb-border { stroke: rgba(255, 255, 255, 0.07); stroke-width: 1; fill: none; } "
-            "</style>"
+            '<linearGradient id="hero-shade" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">'
+            '<stop stop-color="#101317" stop-opacity=".15"/>'
+            '<stop offset=".6" stop-color="#101317" stop-opacity=".35"/>'
+            '<stop offset="1" stop-color="#101317"/></linearGradient>'
         ),
-        f'<defs><clipPath id="card-or"><rect width="{width}" height="{height}" rx="12"/></clipPath></defs>',
-        '<g clip-path="url(#card-or)">',
-        f'<rect width="{width}" height="{height}" class="card-bg"/>',
+        (
+            '<linearGradient id="text-fade"><stop offset=".88" stop-color="white"/>'
+            '<stop offset="1" stop-color="black"/></linearGradient></defs>'
+        ),
+        '<g class="spotify" clip-path="url(#spotify-card)">',
+        f'<rect width="{width}" height="{height}" fill="#101317"/>',
+        '<g id="now-playing">',
+    ]
+    if cover:
+        body += [
+            (
+                f'<image width="{width}" height="{hero_height}" preserveAspectRatio="xMidYMid slice" '
+                f'xlink:href="{escape(cover, quote=True)}"/>'
+            ),
+            f'<rect width="{width}" height="{hero_height}" fill="#000000" opacity=".6"/>',
+        ]
+    body.append(
+        f'<rect width="{width}" height="{hero_height}" fill="url(#hero-shade)"/>'
+    )
+    body.append(
+        f'<rect y="{hero_height - 1}" width="{width}" height="2" fill="#101317"/>'
+    )
+    # ponytail: hero wrapping assumes ordinary titles; clip wide glyphs and keep full metadata in title/alt.
+    lines = wrap(name, width=23 if compact else 38, max_lines=2, placeholder="…")
+    title_y = 105 if compact else 121
+    line_height = 34 if compact else 40
+    for index, line in enumerate(lines):
+        body.append(
+            clipped_text(
+                pad,
+                title_y + index * line_height,
+                line,
+                width - pad * 2,
+                28 if compact else 36,
+                "title",
+            )
+        )
+    artist_y = title_y + (len(lines) - 1) * line_height + 36
+    body += [
+        clipped_text(
+            pad,
+            artist_y,
+            (performers or "Unknown artist")
+            if item
+            else "Not playing anything right now.",
+            width - pad * 2,
+            17 if compact else 20,
+        ),
+        clipped_text(pad, artist_y + 26, album, width - pad * 2, 13, "muted"),
+    ]
+    duration = max(0, int(item.get("duration_ms") or 0))
+    duration_label = (
+        f"{duration // 60000}:{duration // 1000 % 60:02d}" if duration else ""
+    )
+    if current_item:
+        progress = max(0, min(int((current or {}).get("progress_ms") or 0), duration))
+        bar_width = width - pad * 2
+        fraction = progress / duration if duration else 0
+        body += [
+            f'<rect id="playback-rail" x="{pad}" y="{hero_height - 50}" width="{bar_width}" height="3" rx="1.5" fill="#ffffff" fill-opacity=".2"/>',
+            f'<rect id="playback-progress" x="{pad}" y="{hero_height - 50}" width="{bar_width * fraction:.2f}" height="3" rx="1.5" fill="#ffffff"/>',
+            text(
+                pad,
+                hero_height - 25,
+                f"{progress // 60000}:{progress // 1000 % 60:02d}",
+                11,
+                "muted",
+            ),
+        ]
+        if not playing:
+            body.append(
+                text(width // 2, hero_height - 25, "Paused", 11, "muted center")
+            )
+    elif recent:
+        played = format_played_at(str(recent[0].get("played_at") or ""))
+        body.append(
+            text(
+                pad,
+                hero_height - 25,
+                f"Last listened · {played} UTC" if played else "Last listened",
+                11,
+                "muted",
+            )
+        )
+    body += [
+        text(width - pad, hero_height - 25, duration_label, 11, "muted end"),
         "</g>",
-        f'<rect width="{width}" height="{height}" rx="12" class="card-border"/>',
     ]
 
-    if not compact:
-        col1_w = 380
-        col1_x = pad_x
-        div_x = pad_x + col1_w + 12
-        col2_x = div_x + 16
-
-        body.append(f'<text x="{col1_x}" y="26" class="header-col">TOP TRACKS</text>')
-        body.append(f'<text x="{col2_x}" y="26" class="header-col">TOP ARTISTS</text>')
-        body.append(
-            f'<line x1="{col1_x}" y1="36" x2="{col1_x + col1_w}" y2="36" class="divider"/>'
+    for index, (section, heading, subtitle, entries, covers) in enumerate(
+        (
+            (
+                "recently-played",
+                "Recently played",
+                "Latest listens · UTC",
+                recent,
+                recent_covers or [],
+            ),
+            (
+                "on-repeat",
+                "On repeat",
+                "Top tracks · short term",
+                tracks,
+                track_covers or [],
+            ),
         )
-        body.append(
-            f'<line x1="{col2_x}" y1="36" x2="{width - pad_x}" y2="36" class="divider"/>'
-        )
-        body.append(
-            f'<line x1="{div_x}" y1="16" x2="{div_x}" y2="{height - 16}" class="divider"/>'
-        )
-
-        start_y = 44
-        for idx, trk in enumerate(tracks[:5]):
-            t_name = str(trk.get("name") or "Unknown")
-            t_art = ", ".join(a.get("name", "Unknown") for a in trk.get("artists", []))
-            row_y = start_y + idx * row_h
-            t_cover = track_covers[idx] if idx < len(track_covers) else ""
-            thumb_clip = f"trk-th-{idx}"
-
+    ):
+        x = pad if compact else pad + index * (col_width + 40)
+        y = hero_height + (recent_height if compact and index else 0)
+        body += [
+            f'<g id="{section}">',
+            text(x, y + 34, heading, 20, "title"),
+            text(x, y + 55, subtitle, 11, "quiet"),
+        ]
+        if not entries:
             body.append(
-                f'<text x="{col1_x}" y="{row_y + 26}" class="rank" font-size="14">{idx + 1}</text>'
-            )
-            thumb_x = col1_x + 24
-            thumb_y = row_y + 6
-            body.append(
-                f'<defs><clipPath id="{thumb_clip}"><rect x="{thumb_x}" y="{thumb_y}" width="40" height="40" rx="4"/></clipPath></defs>'
-            )
-            body.append(
-                f'<rect x="{thumb_x}" y="{thumb_y}" width="40" height="40" rx="4" class="thumb-bg"/>'
-            )
-            if t_cover:
-                body.append(
-                    f'<image x="{thumb_x}" y="{thumb_y}" width="40" height="40" preserveAspectRatio="xMidYMid slice" clip-path="url(#{thumb_clip})" xlink:href="{escape(t_cover, quote=True)}"/>'
+                text(
+                    x,
+                    y + 105,
+                    "No recently played tracks."
+                    if index == 0
+                    else "No top tracks yet.",
+                    13,
+                    "muted",
                 )
-            body.append(
-                f'<rect x="{thumb_x}" y="{thumb_y}" width="40" height="40" rx="4" class="thumb-border"/>'
             )
+        for rank, entry in enumerate(entries):
+            track = (entry.get("track") or {}) if index == 0 else entry
+            track_name = str(track.get("name") or "Unknown")
+            artist = ", ".join(
+                a.get("name", "Unknown") for a in track.get("artists", [])
+            )
+            track_album = str((track.get("album") or {}).get("name") or "")
+            ms = max(0, int(track.get("duration_ms") or 0))
+            duration_text = f"{ms // 60000}:{ms // 1000 % 60:02d}" if ms else ""
+            played = (
+                format_played_at(str(entry.get("played_at") or ""))
+                if index == 0
+                else ""
+            )
+            row_y = y + 78 + rank * 72
+            art_x = x + (22 if index else 0)
+            tx = art_x + 54
+            available = x + col_width - tx
+            full_title = f"{track_name} — {artist} — {track_album}" + (
+                f" · {played} UTC" if played else ""
+            )
+            description.append(f"{heading} {rank + 1}: {full_title}.")
+            body.append(f"<g><title>{escape(full_title)}</title>")
+            if index:
+                body.append(text(x, row_y + 27, f"{rank + 1:02d}", 10, "quiet"))
+            body += [
+                artwork(
+                    art_x, row_y + 4, 42, covers[rank] if rank < len(covers) else ""
+                ),
+                clipped_text(tx, row_y + 16, track_name, available - 34, 14, "title"),
+                text(x + col_width, row_y + 16, duration_text, 11, "quiet end"),
+                clipped_text(tx, row_y + 34, artist, available, 12, "muted"),
+                clipped_text(
+                    tx,
+                    row_y + 51,
+                    track_album,
+                    available - (88 if played else 0),
+                    10,
+                    "quiet",
+                ),
+                text(x + col_width, row_y + 51, played, 10, "quiet end"),
+                "</g>",
+            ]
+        body.append("</g>")
 
-            tx = thumb_x + 40 + 12
-            body.append(
-                f'<text x="{tx}" y="{row_y + 20}" class="title" font-size="13">{escape(truncate_text(t_name, 36))}</text>'
-            )
-            body.append(
-                f'<text x="{tx}" y="{row_y + 36}" class="muted" font-size="11">{escape(truncate_text(t_art, 40))}</text>'
-            )
-
-        for idx, art in enumerate(artists[:5]):
-            a_name = str(art.get("name") or "Unknown")
-            genres = art.get("genres", [])
-            a_genre = genres[0].title() if genres else "Artist"
-            row_y = start_y + idx * row_h
-            a_cover = artist_covers[idx] if idx < len(artist_covers) else ""
-            thumb_clip = f"art-th-{idx}"
-
-            body.append(
-                f'<text x="{col2_x}" y="{row_y + 26}" class="rank" font-size="14">{idx + 1}</text>'
-            )
-            thumb_x = col2_x + 24
-            thumb_y = row_y + 6
-            body.append(
-                f'<defs><clipPath id="{thumb_clip}"><circle cx="{thumb_x + 20}" cy="{thumb_y + 20}" r="20"/></clipPath></defs>'
-            )
-            body.append(
-                f'<circle cx="{thumb_x + 20}" cy="{thumb_y + 20}" r="20" class="thumb-bg"/>'
-            )
-            if a_cover:
-                body.append(
-                    f'<image x="{thumb_x}" y="{thumb_y}" width="40" height="40" preserveAspectRatio="xMidYMid slice" clip-path="url(#{thumb_clip})" xlink:href="{escape(a_cover, quote=True)}"/>'
-                )
-            body.append(
-                f'<circle cx="{thumb_x + 20}" cy="{thumb_y + 20}" r="20" class="thumb-border"/>'
-            )
-
-            tx = thumb_x + 40 + 12
-            body.append(
-                f'<text x="{tx}" y="{row_y + 20}" class="title" font-size="13">{escape(truncate_text(a_name, 26))}</text>'
-            )
-            body.append(
-                f'<text x="{tx}" y="{row_y + 36}" class="muted" font-size="11">{escape(truncate_text(a_genre, 28))}</text>'
-            )
-    else:
-        start_y = 22
-        body.append(
-            f'<text x="{pad_x}" y="{start_y}" class="header-col" font-size="11" font-weight="700" letter-spacing="0.5px">TOP TRACKS</text>'
+    body += [
+        f'<path d="M{pad} {artists_y}H{width - pad}" class="rule"/>',
+        '<g id="top-artists">',
+        text(pad, artists_y + 35, "Top artists", 20, "title"),
+        text(width - pad, artists_y + 35, "Short term", 11, "quiet end"),
+    ]
+    if not artists:
+        body.append(text(pad, artists_y + 79, "No top artists yet.", 13, "muted"))
+    for index, artist in enumerate(artists):
+        artist_name = str(artist.get("name") or "Unknown")
+        genres = artist.get("genres") or []
+        genre = str(genres[0]).title() if genres else "Artist"
+        description.append(
+            f"Top artist {index + 1}: {artist_name} — {', '.join(genres) or 'Artist'}."
+        )
+        artist_cover = (
+            (artist_covers or [])[index] if index < len(artist_covers or []) else ""
         )
         body.append(
-            f'<line x1="{pad_x}" y1="{start_y + 8}" x2="{width - pad_x}" y2="{start_y + 8}" class="divider"/>'
+            f"<g><title>{escape(artist_name + ' — ' + (', '.join(genres) or 'Artist'))}</title>"
         )
-        track_start = start_y + 14
-        for idx, trk in enumerate(tracks[:5]):
-            t_name = str(trk.get("name") or "Unknown")
-            t_art = ", ".join(a.get("name", "Unknown") for a in trk.get("artists", []))
-            row_y = track_start + idx * row_h
-            t_cover = track_covers[idx] if idx < len(track_covers) else ""
-            thumb_clip = f"m-trk-th-{idx}"
-
-            body.append(
-                f'<text x="{pad_x}" y="{row_y + 24}" class="rank" font-size="12">{idx + 1}</text>'
-            )
-            thumb_x = pad_x + 24
-            thumb_y = row_y + 4
-            body.append(
-                f'<defs><clipPath id="{thumb_clip}"><rect x="{thumb_x}" y="{thumb_y}" width="36" height="36" rx="4"/></clipPath></defs>'
-            )
-            body.append(
-                f'<rect x="{thumb_x}" y="{thumb_y}" width="36" height="36" rx="4" class="thumb-bg"/>'
-            )
-            if t_cover:
-                body.append(
-                    f'<image x="{thumb_x}" y="{thumb_y}" width="36" height="36" preserveAspectRatio="xMidYMid slice" clip-path="url(#{thumb_clip})" xlink:href="{escape(t_cover, quote=True)}"/>'
-                )
-            body.append(
-                f'<rect x="{thumb_x}" y="{thumb_y}" width="36" height="36" rx="4" class="thumb-border"/>'
-            )
-
-            tx = thumb_x + 36 + 10
-            body.append(
-                f'<text x="{tx}" y="{row_y + 18}" class="title" font-size="13">{escape(truncate_text(t_name, 36))}</text>'
-            )
-            body.append(
-                f'<text x="{tx}" y="{row_y + 34}" class="muted" font-size="11">{escape(truncate_text(t_art, 40))}</text>'
-            )
-
-        art_header_y = track_start + len(tracks[:5]) * row_h + 12
-        body.append(
-            f'<line x1="{pad_x}" y1="{art_header_y}" x2="{width - pad_x}" y2="{art_header_y}" class="divider"/>'
-        )
-        body.append(
-            f'<text x="{pad_x}" y="{art_header_y + 16}" class="header-col" font-size="11" font-weight="700" letter-spacing="0.5px">TOP ARTISTS</text>'
-        )
-        body.append(
-            f'<line x1="{pad_x}" y1="{art_header_y + 24}" x2="{width - pad_x}" y2="{art_header_y + 24}" class="divider"/>'
-        )
-        art_start = art_header_y + 30
-        for idx, art in enumerate(artists[:5]):
-            a_name = str(art.get("name") or "Unknown")
-            genres = art.get("genres", [])
-            a_genre = genres[0].title() if genres else "Artist"
-            row_y = art_start + idx * row_h
-            a_cover = artist_covers[idx] if idx < len(artist_covers) else ""
-            thumb_clip = f"m-art-th-{idx}"
-
-            body.append(
-                f'<text x="{pad_x}" y="{row_y + 24}" class="rank" font-size="12">{idx + 1}</text>'
-            )
-            thumb_x = pad_x + 24
-            thumb_y = row_y + 4
-            body.append(
-                f'<defs><clipPath id="{thumb_clip}"><circle cx="{thumb_x + 18}" cy="{thumb_y + 18}" r="18"/></clipPath></defs>'
-            )
-            body.append(
-                f'<circle cx="{thumb_x + 18}" cy="{thumb_y + 18}" r="18" class="thumb-bg"/>'
-            )
-            if a_cover:
-                body.append(
-                    f'<image x="{thumb_x}" y="{thumb_y}" width="36" height="36" preserveAspectRatio="xMidYMid slice" clip-path="url(#{thumb_clip})" xlink:href="{escape(a_cover, quote=True)}"/>'
-                )
-            body.append(
-                f'<circle cx="{thumb_x + 18}" cy="{thumb_y + 18}" r="18" class="thumb-border"/>'
-            )
-
-            tx = thumb_x + 36 + 10
-            body.append(
-                f'<text x="{tx}" y="{row_y + 18}" class="title" font-size="13">{escape(truncate_text(a_name, 36))}</text>'
-            )
-            body.append(
-                f'<text x="{tx}" y="{row_y + 34}" class="muted" font-size="11">{escape(truncate_text(a_genre, 40))}</text>'
-            )
-
-    title_summary = "On Repeat: " + ", ".join(
-        str(t.get("name") or "Unknown") for t in tracks[:5]
-    )
-    return panel(width, height, title_summary, "\n".join(body))
+        if compact:
+            row_y = artists_y + 58 + index * 52
+            body += [
+                text(pad, row_y + 24, f"{index + 1:02d}", 11, "quiet"),
+                artwork(pad + 28, row_y, 38, artist_cover, rounded=True),
+                clipped_text(
+                    pad + 80, row_y + 15, artist_name, width - pad * 2 - 80, 14, "title"
+                ),
+                clipped_text(
+                    pad + 80, row_y + 33, genre, width - pad * 2 - 80, 11, "muted"
+                ),
+            ]
+        else:
+            cell_width = (width - pad * 2) // 5
+            x = pad + index * cell_width
+            center = x + cell_width // 2
+            body += [
+                artwork(center - 36, artists_y + 59, 72, artist_cover, rounded=True),
+                f'<circle cx="{center + 25}" cy="{artists_y + 123}" r="11" fill="#20292a" stroke="#101317" stroke-width="3"/>',
+                text(
+                    center + 25,
+                    artists_y + 126,
+                    f"{index + 1:02d}",
+                    9,
+                    "accent center title",
+                ),
+                clipped_text(
+                    x + 8, artists_y + 155, artist_name, cell_width - 16, 13, "title"
+                ),
+                clipped_text(
+                    x + 8, artists_y + 175, genre, cell_width - 16, 11, "muted"
+                ),
+            ]
+        body.append("</g>")
+    body += [
+        "</g>",
+        f'<path d="M{pad} {footer_y}H{width - pad}" class="rule"/>',
+        text(
+            pad,
+            footer_y + 30,
+            f"Updated {updated_at}" if updated_at else "Spotify listening snapshot",
+            10,
+            "quiet",
+        ),
+        text(width - pad, footer_y + 30, "Open Spotify ↗", 10, "muted end"),
+        "</g>",
+        f'<rect x=".5" y=".5" width="{width - 1}" height="{height - 1}" rx="20" fill="none" stroke="#ffffff" stroke-opacity=".1"/>',
+    ]
+    return panel(width, height, " ".join(description), "\n".join(body))
 
 
 def picture(name: str, alt: str) -> str:

@@ -22,13 +22,7 @@ from spotipy.exceptions import SpotifyException, SpotifyOauthError
 from spotipy.oauth2 import SpotifyOAuth
 from urllib3.util.retry import Retry
 
-from profile_cards import (
-    picture,
-    render_now_playing,
-    render_on_repeat,
-    render_recently_played,
-    render_technologies,
-)
+from profile_cards import picture, render_spotify, render_technologies
 
 load_dotenv()
 
@@ -171,136 +165,96 @@ def pick_image_url(images: list[dict[str, Any]], target: int = 64) -> str:
     return str(chosen.get("url") or "")
 
 
-def generate_now_playing_block(
-    sp: spotipy.Spotify, session: requests.Session | None = None
-) -> tuple[list[str], dict[str, str]]:
+def generate_snapshot() -> tuple[str, dict[str, str]]:
+    """Fetch a complete snapshot; failures leave the previous README untouched."""
+    sp = get_spotify_client()
+    session = getattr(sp, "requests_session", None)
     current = sp.current_user_playing_track()
-    item = (current or {}).get("item") or {}
-    playing = bool(current and current.get("is_playing") and item)
-    images = (item.get("album") or {}).get("images") or []
-    # Use the large cover for the full-width artwork background.
-    image = (
-        min(images, key=lambda image: abs((image.get("width") or 0) - 760))
-        if images and playing
-        else {}
-    )
-    cover_url = str(image.get("url") or "")
-    cover = fetch_image_base64(cover_url, session=session, timeout=15)
-
-    assets = {
-        "now-playing.svg": render_now_playing(current, cover),
-        "now-playing-mobile.svg": render_now_playing(current, cover, compact=True),
-    }
-    if not playing:
-        return [picture("now-playing", "Not playing anything right now."), ""], assets
-    artists = ", ".join(a.get("name", "Unknown") for a in item.get("artists", []))
-    album = str((item.get("album") or {}).get("name", ""))
-    label = f"{item.get('name', 'Unknown')} — {artists} — {album}"
-    card = picture("now-playing", label)
-    url = str((item.get("external_urls") or {}).get("spotify") or "")
-    if urlsplit(url).scheme == "https" and urlsplit(url).netloc == "open.spotify.com":
-        card = f'<a href="{escape(url, quote=True)}">\n{card}\n</a>'
-    return [card, ""], assets
-
-
-def generate_recently_played_block(
-    sp: spotipy.Spotify, session: requests.Session | None = None
-) -> tuple[list[str], dict[str, str]]:
-    items = sp.current_user_recently_played(limit=RECENTLY_PLAYED_LIMIT).get(
+    recent = sp.current_user_recently_played(limit=RECENTLY_PLAYED_LIMIT).get(
         "items", []
+    )[:5]
+    tracks = sp.current_user_top_tracks(limit=TOP_LIMIT, time_range="short_term").get(
+        "items", []
+    )[:5]
+    artists = sp.current_user_top_artists(limit=TOP_LIMIT, time_range="short_term").get(
+        "items", []
+    )[:5]
+    item = (current or {}).get("item") or (
+        (recent[0].get("track") or {}) if recent else {}
     )
-    covers = [
+    cover = fetch_image_base64(
+        pick_image_url((item.get("album") or {}).get("images") or [], target=760),
+        session=session,
+    )
+    recent_covers = [
         fetch_image_base64(
             pick_image_url(
                 ((entry.get("track") or {}).get("album") or {}).get("images") or []
             ),
             session=session,
         )
-        for entry in items
+        for entry in recent
     ]
+    track_covers = [
+        fetch_image_base64(
+            pick_image_url((track.get("album") or {}).get("images") or []),
+            session=session,
+        )
+        for track in tracks
+    ]
+    artist_covers = [
+        fetch_image_base64(
+            pick_image_url(artist.get("images") or [], target=160), session=session
+        )
+        for artist in artists
+    ]
+    updated_at = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
     assets = {
-        "recently-played.svg": render_recently_played(items, covers, compact=False),
-        "recently-played-mobile.svg": render_recently_played(
-            items, covers, compact=True
-        ),
+        "spotify" + ("-mobile" if compact else "") + ".svg": render_spotify(
+            current,
+            recent,
+            tracks,
+            artists,
+            cover,
+            recent_covers,
+            track_covers,
+            artist_covers,
+            updated_at,
+            compact=compact,
+        )
+        for compact in (False, True)
     }
-    alt = "Recently played tracks on Spotify: " + ", ".join(
-        str((e.get("track") or {}).get("name") or "Unknown") for e in items[:5]
+    performers = ", ".join(a.get("name", "Unknown") for a in item.get("artists", []))
+    album = str((item.get("album") or {}).get("name") or "")
+    status = (
+        "Now playing"
+        if (current or {}).get("is_playing")
+        else "Not playing right now. Last played"
     )
-    card = picture("recently-played", alt)
+    alt = (
+        f"Spotify. {status}: {item.get('name') or 'No track'} — {performers} — {album}. "
+        + "Recently played: "
+        + ", ".join(
+            str((e.get("track") or {}).get("name") or "Unknown") for e in recent
+        )
+        + ". On repeat: "
+        + ", ".join(str(t.get("name") or "Unknown") for t in tracks)
+        + ". Top artists: "
+        + ", ".join(str(a.get("name") or "Unknown") for a in artists)
+        + f". Updated {updated_at}."
+    )
     user: dict[str, Any] = {}
     try:
         user = sp.current_user() or {}
     except (SpotifyException, requests.RequestException):
         pass
     url = str((user.get("external_urls") or {}).get("spotify") or "")
-    if urlsplit(url).scheme == "https" and urlsplit(url).netloc == "open.spotify.com":
-        card = f'<a href="{escape(url, quote=True)}">\n{card}\n</a>'
-    return ["### Recently played", "", card, ""], assets
-
-
-def generate_top_block(
-    sp: spotipy.Spotify, session: requests.Session | None = None
-) -> tuple[list[str], dict[str, str]]:
-    artists = sp.current_user_top_artists(limit=TOP_LIMIT, time_range="short_term").get(
-        "items", []
-    )
-    tracks = sp.current_user_top_tracks(limit=TOP_LIMIT, time_range="short_term").get(
-        "items", []
-    )
-    t_covers = [
-        fetch_image_base64(
-            pick_image_url((trk.get("album") or {}).get("images") or []),
-            session=session,
-        )
-        for trk in tracks
-    ]
-    a_covers = [
-        fetch_image_base64(
-            pick_image_url(art.get("images") or []),
-            session=session,
-        )
-        for art in artists
-    ]
-    assets = {
-        "on-repeat.svg": render_on_repeat(
-            tracks, artists, t_covers, a_covers, compact=False
-        ),
-        "on-repeat-mobile.svg": render_on_repeat(
-            tracks, artists, t_covers, a_covers, compact=True
-        ),
-    }
-    alt = "Top tracks on repeat on Spotify: " + ", ".join(
-        str(t.get("name") or "Unknown") for t in tracks[:5]
-    )
-    card = picture("on-repeat", alt)
-    user: dict[str, Any] = {}
-    try:
-        user = sp.current_user() or {}
-    except (SpotifyException, requests.RequestException):
-        pass
-    url = str((user.get("external_urls") or {}).get("spotify") or "")
-    if urlsplit(url).scheme == "https" and urlsplit(url).netloc == "open.spotify.com":
-        card = f'<a href="{escape(url, quote=True)}">\n{card}\n</a>'
-    return ["### On repeat", "", "Short-term listening.", "", card, ""], assets
-
-
-def generate_snapshot() -> tuple[str, dict[str, str]]:
-    """Fetch a complete snapshot; failures leave the previous README untouched."""
-    sp = get_spotify_client()
-    session = getattr(sp, "requests_session", None)
-    parts, assets = generate_now_playing_block(sp, session=session)
-    rp_parts, rp_assets = generate_recently_played_block(sp, session=session)
-    top_parts, top_assets = generate_top_block(sp, session=session)
-    parts.extend(rp_parts)
-    assets.update(rp_assets)
-    parts.extend(top_parts)
-    assets.update(top_assets)
-    now = datetime.now(UTC).strftime("%Y-%m-%d %H:%M UTC")
-    parts.append(f"<sub>{now}</sub>")
+    if urlsplit(url).scheme != "https" or urlsplit(url).netloc != "open.spotify.com":
+        url = "https://open.spotify.com/"
+    snippet = f'<a href="{escape(url, quote=True)}">\n{picture("spotify", alt)}\n</a>'
     assets["technologies.svg"] = render_technologies()
     assets["technologies-mobile.svg"] = render_technologies(compact=True)
-    return "\n".join(parts), assets
+    return snippet, assets
 
 
 def update_readme(path: Path = README_PATH) -> None:

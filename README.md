@@ -50,34 +50,12 @@
 ## Spotify
 
 <!-- SPOTIFY-START -->
-<a href="https://open.spotify.com/track/6eTGxxQxiTFE6LfZHC33Wm">
-<picture>
-<source media="(max-width: 600px)" srcset="assets/generated/now-playing-mobile.svg" />
-<img src="assets/generated/now-playing.svg" alt="Hoppípolla — Sigur Rós — Takk..." width="100%" />
-</picture>
-</a>
-
-### Recently played
-
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
-<source media="(max-width: 600px)" srcset="assets/generated/recently-played-mobile.svg" />
-<img src="assets/generated/recently-played.svg" alt="Recently played tracks on Spotify: Hoppípolla, Hoppípolla, Hoppípolla, Hoppípolla, Hoppípolla" width="100%" />
+<source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Hoppípolla — Sigur Rós — Takk.... Recently played: Hoppípolla, Hoppípolla, Hoppípolla, Hoppípolla, Hoppípolla. On repeat: Plane Vs. Tank Vs. Submarine, Lovers’ Carvings, Safe In Your Skin / Where Am I?, Coming Around, Safe Place. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-05 21:44 UTC." width="100%" />
 </picture>
 </a>
-
-### On repeat
-
-Short-term listening.
-
-<a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
-<picture>
-<source media="(max-width: 600px)" srcset="assets/generated/on-repeat-mobile.svg" />
-<img src="assets/generated/on-repeat.svg" alt="Top tracks on repeat on Spotify: Plane Vs. Tank Vs. Submarine, Lovers’ Carvings, Safe In Your Skin / Where Am I?, Coming Around, Safe Place" width="100%" />
-</picture>
-</a>
-
-<sub>2026-09-05 21:32 UTC</sub>
 <!-- SPOTIFY-END -->
 
 <a id="metrics"></a>
