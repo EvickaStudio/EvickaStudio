@@ -50,8 +50,8 @@ text { font-family: SpotifyMixUI, CircularSp-Arab, CircularSp-Hebr, CircularSp-C
 <svg x="32" y="137" width="696" height="28" overflow="hidden"><defs><mask id="line-32-157" maskUnits="userSpaceOnUse" x="0" y="0" width="696" height="28"><rect width="696" height="28" fill="url(#text-fade)"/></mask></defs><g mask="url(#line-32-157)"><text x="0" y="20" font-size="20" class="">Sigur Rós</text></g></svg>
 <svg x="32" y="170" width="696" height="21" overflow="hidden"><defs><mask id="line-32-183" maskUnits="userSpaceOnUse" x="0" y="0" width="696" height="21"><rect width="696" height="21" fill="url(#text-fade)"/></mask></defs><g mask="url(#line-32-183)"><text x="0" y="13" font-size="13" class="muted">Takk...</text></g></svg>
 <rect id="playback-rail" x="32" y="270" width="696" height="3" rx="1.5" fill="#ffffff" fill-opacity=".2"/>
-<rect id="playback-progress" x="32" y="270" width="340.40" height="3" rx="1.5" fill="#ffffff"/>
-<text x="32" y="295" font-size="11" class="muted">2:11</text>
+<rect id="playback-progress" x="32" y="270" width="491.68" height="3" rx="1.5" fill="#ffffff"/>
+<text x="32" y="295" font-size="11" class="muted">3:09</text>
 <text x="728" y="295" font-size="11" class="muted end">4:28</text>
 </g>
 <g id="recently-played">
@@ -188,7 +188,7 @@ text { font-family: SpotifyMixUI, CircularSp-Arab, CircularSp-Hebr, CircularSp-C
 </g>
 </g>
 <path d="M32 976H728" class="rule"/>
-<text x="32" y="1006" font-size="10" class="quiet">Updated 2026-09-05 21:44 UTC</text>
+<text x="32" y="1006" font-size="10" class="quiet">Updated 2026-09-05 21:45 UTC</text>
 <text x="728" y="1006" font-size="10" class="muted end">Open Spotify ↗</text>
 </g>
 <rect x=".5" y=".5" width="759" height="1027" rx="20" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
