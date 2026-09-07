@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Hoppípolla — Sigur Rós — Takk.... Recently played: Hoppípolla, Gone, Song for Zula, Sæglópur, Strawberry Swing. On repeat: Plane Vs. Tank Vs. Submarine, Lovers’ Carvings, Safe In Your Skin / Where Am I?, Coming Around, Safe Place. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-07 09:43 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: unreal (II) — luu — 1nternetcore. Recently played: unreal (II), unknown feelings, melancholie, back to friends, Our House. On repeat: Plane Vs. Tank Vs. Submarine, Lovers’ Carvings, Safe In Your Skin / Where Am I?, Coming Around, Robotboy. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-07 15:16 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
