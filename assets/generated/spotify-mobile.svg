@@ -170,7 +170,7 @@ text { font-family: SpotifyMixUI, CircularSp-Arab, CircularSp-Hebr, CircularSp-C
 </g>
 </g>
 <path d="M24 1536H376" class="rule"/>
-<text x="24" y="1566" font-size="10" class="quiet">Updated 2026-09-07 00:07 UTC</text>
+<text x="24" y="1566" font-size="10" class="quiet">Updated 2026-09-07 04:34 UTC</text>
 <text x="376" y="1566" font-size="10" class="muted end">Open Spotify ↗</text>
 </g>
 <rect x=".5" y=".5" width="399" height="1587" rx="20" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
