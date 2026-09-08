@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: holding on — memorie — holding on. Recently played: holding on, mental:^L0b0TomY, zara, zara, holding on. On repeat: Lovers’ Carvings, Safe In Your Skin / Where Am I?, Coming Around, Robotboy, Plane Vs. Tank Vs. Submarine. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-08 13:44 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: holding on — memorie — holding on. Recently played: holding on, mental:^L0b0TomY, zara, zara, holding on. On repeat: Lovers’ Carvings, Safe In Your Skin / Where Am I?, Coming Around, Robotboy, Plane Vs. Tank Vs. Submarine. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-08 17:31 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
