@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: I. The Worst Guys — Childish Gambino, Chance the Rapper — Because the Internet. Recently played: I. The Worst Guys, 4EVER, Birds Dont Sing, Hello?, Chanel. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Safe In Your Skin / Where Am I?, Rafstraumur. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-08 22:49 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: I. The Worst Guys — Childish Gambino, Chance the Rapper — Because the Internet. Recently played: I. The Worst Guys, 4EVER, Birds Dont Sing, Hello?, Chanel. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Safe In Your Skin / Where Am I?, Rafstraumur. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-09 00:54 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
