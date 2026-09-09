@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Crime Pays — Freddie Gibbs, Madlib — Bandana. Recently played: FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), Space Jam - An Odyssey, Jump the Turnstile, 327 (feat. Tyler, The Creator &amp; Billie Essco), Free The Frail. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Safe In Your Skin / Where Am I?, Rafstraumur. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-09 10:06 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: SMP, dmt?? TRUST IN ME — jequya — SMP, dmt?? TRUST IN ME. Recently played: Intro, Einfach Sein - Demo, Long Sardine x Mr. Brightside, zombie, Things Happen. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Safe In Your Skin / Where Am I?, Rafstraumur. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-09 14:33 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
