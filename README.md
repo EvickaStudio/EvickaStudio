@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Tränen stillen keinen Durst — Kalte Liebe — Tränen stillen keinen Durst. Recently played: Tränen stillen keinen Durst, Gon Be Okay, Time to Pretend, video, bei dir. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Safe In Your Skin / Where Am I?, Rafstraumur. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-10 17:30 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: immenser pflegefall (I) — luu — immenser pflegefall. Recently played: immenser pflegefall (I), shadow, Eislaufen 2k24, Tränen stillen keinen Durst, Gon Be Okay. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Safe In Your Skin / Where Am I?, Rafstraumur. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-10 19:58 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
