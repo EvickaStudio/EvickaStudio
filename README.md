@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: r u kissin any1? — Joey Cash — r u kissin any1?. Recently played: r u kissin any1?, I Won&#x27;t Care How You Remember Me, Dummer Junge, Exceler, Hollywood Smile. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Safe In Your Skin / Where Am I?, Rafstraumur. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-11 19:43 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: r u kissin any1? — Joey Cash — r u kissin any1?. Recently played: r u kissin any1?, I Won&#x27;t Care How You Remember Me, Dummer Junge, Exceler, Hollywood Smile. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Safe In Your Skin / Where Am I?, Rafstraumur. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-11 21:56 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
