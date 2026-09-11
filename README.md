@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Teufelskreis — Pocky Red, Hadesthegrim — Teufelskreis. Recently played: Teufelskreis, All We Got Is Tonight, i need help, einschlafen, Hard Resonance. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Safe In Your Skin / Where Am I?, Rafstraumur. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-11 09:18 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: im so happy — EKKSTACY — misery. Recently played: im so happy, Eiskalt, wish I didnt kno her ##biblemusic, remedy, Delinquent. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Safe In Your Skin / Where Am I?, Rafstraumur. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-11 13:41 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
