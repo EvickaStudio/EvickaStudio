@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: IMpossible — Figurine — The Heartfelt. Recently played: Confluence, Pigs Fly, You Never Knew, Back Of My Hand, 4wheelpharmacy. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Rafstraumur, Your Graduation. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-12 17:19 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Stuck In The Middle — Kkoki — Stuck In The Middle. Recently played: Wenn alle Stricke reissen, made by your time, Passerine, Hopeless, Flounder. On repeat: Lovers’ Carvings, Coming Around, Robotboy, Rafstraumur, Your Graduation. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-12 19:31 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
