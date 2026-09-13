@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Unfinished — Mineral — EndSerenading. Recently played: Me Vs. You, The Scars to Prove It, The Scars to Prove It, The Scars to Prove It, The Scars to Prove It. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Robotboy, Your Graduation. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-13 11:51 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Schließ bitte ab wenn ich geh — Traumatin — Schließ bitte ab wenn ich geh. Recently played: vielleicht besser, Augenblick, sterne, Dein Geist, Ego Aus Gold. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Robotboy, Your Graduation. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-13 15:22 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
