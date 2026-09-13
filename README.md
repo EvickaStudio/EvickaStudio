@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Raus in die Welt — NILS KEPPEL, Lilli Belle — Super Sonic Youth. Recently played: Raus in die Welt, Raus in die Welt, Raus in die Welt, Raus in die Welt, Raus in die Welt. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Your Graduation, Glósóli. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-13 20:59 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Raus in die Welt — NILS KEPPEL, Lilli Belle — Super Sonic Youth. Recently played: Raus in die Welt, Raus in die Welt, Raus in die Welt, Raus in die Welt, Raus in die Welt. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Your Graduation, Glósóli. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-13 22:58 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
