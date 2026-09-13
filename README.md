@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: drei Kreuze gemacht — nand — drei Kreuze gemacht. Recently played: drei Kreuze gemacht, Nimm meine Hand, ICE 579, Platzangst, mitleerenhänden. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Robotboy, Your Graduation. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-12 23:21 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: drei Kreuze gemacht — nand — drei Kreuze gemacht. Recently played: drei Kreuze gemacht, Nimm meine Hand, ICE 579, Platzangst, mitleerenhänden. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Robotboy, Your Graduation. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-13 01:15 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
