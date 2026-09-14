@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Hoppípolla — Sigur Rós — Takk.... Recently played: Hoppípolla, Chamber Of Reflection, Raus in die Welt, Raus in die Welt, Raus in die Welt. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Your Graduation, Glósóli. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Tamino404. Updated 2026-09-14 05:35 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: tiefer schmerz... o_0 — luu — tiefer schmerz... o_0. Recently played: do you even hear me?, air, EMO GIRL&lt;3, lucked out, Winter. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Your Graduation, Glósóli. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Bladee. Updated 2026-09-14 10:58 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
