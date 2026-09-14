@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: sur la piste — ama???!!!!, kemoxoo — © 2007. Recently played: silberstern, Dog in My Dreams, Hate The Other Side (with Marshmello &amp; The Kid Laroi), Invisible, Sommer vorbei. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Your Graduation, Glósóli. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Bladee. Updated 2026-09-14 16:47 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: kontostand — stixz — kontostand. Recently played: doppelsuizid, wake up x_x - slowed, gestalten in der nacht, i need a hug - super slowed, i crave u. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Your Graduation, Glósóli. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Bladee. Updated 2026-09-14 20:41 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
