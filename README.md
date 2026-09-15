@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Lil Maria — Bassvictim — Forever. Recently played: Home, Makes you wonder, Gajówka, As Long As, Dutty. On repeat: Lovers’ Carvings, Rafstraumur, Coming Around, Your Graduation, Glósóli. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-15 12:10 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: choke enough — Oklou — choke enough. Recently played: Coming Around, null city, iPhone 6, arcturian templars #ängel (hotelgodlin), cnt live without u :c &lt;/3. On repeat: Lovers’ Carvings, Rafstraumur, Your Graduation, Coming Around, Glósóli. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-15 16:55 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
