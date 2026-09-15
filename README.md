@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: bunnybunnybunny — Mietze Conte — bunnybunnybunny. Recently played: bunnybunnybunny, Vanilla Sky, Reckless - Gareth Emery &amp; Luke Bond Remix, Sundress, Rainbow. On repeat: Lovers’ Carvings, Rafstraumur, Your Graduation, Coming Around, Glósóli. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-15 19:56 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Knockin&#x27; On Heaven&#x27;s Door — Bob Dylan — Pat Garrett &amp; Billy The Kid (Soundtrack From The Motion Picture). Recently played: Knockin&#x27; On Heaven&#x27;s Door, Please, Please, Please, Let Me Get What I Want - 2011 Remaster, Wicked Game, The Winner Takes It All, I&#x27;m On My Own. On repeat: Lovers’ Carvings, Rafstraumur, Your Graduation, Glósóli, arschloch. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-15 22:39 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
