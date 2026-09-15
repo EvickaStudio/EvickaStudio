@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: doppelsuizid — mehlhaltig, luutwo — doppelsuizid. Recently played: doppelsuizid, wake up x_x - slowed, gestalten in der nacht, i need a hug - super slowed, i crave u. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Your Graduation, Glósóli. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Bladee. Updated 2026-09-15 01:44 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: sechzehn lines — luu — immenser pflegefall. Recently played: Live It, 3DS, void of love, glitzeraugen, hackfleisch. On repeat: Lovers’ Carvings, Coming Around, Rafstraumur, Your Graduation, Glósóli. Top artists: Die drei ???, Tigers Jaw, luu, Sigur Rós, Bladee. Updated 2026-09-15 06:44 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
