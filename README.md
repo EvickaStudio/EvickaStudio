@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: choke enough — Oklou — choke enough. Recently played: Coming Around, null city, iPhone 6, arcturian templars #ängel (hotelgodlin), cnt live without u :c &lt;/3. On repeat: Lovers’ Carvings, Rafstraumur, Your Graduation, Coming Around, Glósóli. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-15 16:55 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: bunnybunnybunny — Mietze Conte — bunnybunnybunny. Recently played: bunnybunnybunny, Vanilla Sky, Reckless - Gareth Emery &amp; Luke Bond Remix, Sundress, Rainbow. On repeat: Lovers’ Carvings, Rafstraumur, Your Graduation, Coming Around, Glósóli. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-15 19:56 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
