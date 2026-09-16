@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: World&#x27;s Hardest Game — DJ_Dave — World&#x27;s Hardest Game. Recently played: Time Polish, whereis oooo, r u kissin any1?, howl, Snoopy. On repeat: Lovers’ Carvings, Rafstraumur, Your Graduation, Glósóli, arschloch. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-16 15:05 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: H2D - (Eurohead x Varg²™ Remix) — Varg²™, Eurohead, Bladee, Ecco2k — H2D (Eurohead x Varg²™ Remix). Recently played: Pollen, Enzyme, Waste Walker - Snow Strippers Remix, Wooden girl, time. On repeat: Lovers’ Carvings, Rafstraumur, Your Graduation, Glósóli, arschloch. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-16 18:52 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
