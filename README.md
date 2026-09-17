@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Music Baby — Jane Remover — ♡. Recently played: Music Baby, swallow, Genocide, The American Experiment, meant2be. On repeat: Lovers’ Carvings, Rafstraumur, Your Graduation, Glósóli, arschloch. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-17 03:59 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Bird on a Wire — User2222 — Blame Games. Recently played: Bird on a Wire, u, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). On repeat: Lovers’ Carvings, Rafstraumur, Your Graduation, Glósóli, arschloch. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-17 09:18 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
