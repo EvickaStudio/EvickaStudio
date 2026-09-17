@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Fantasy 2021 — Rebzyyx — Fantasy 2021. Recently played: CUTE - Slowed, Lipgloss, dissoziieren, #voyuitwaaien - SUPER slowed + reverb, byebye (prod. by aoshi). On repeat: Lovers’ Carvings, Rafstraumur, Your Graduation, Glósóli, arschloch. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-17 14:21 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: На грани болевого порога (narukenki Remix) — Планка, narukenki — На грани болевого порога (narukenki Remix). Recently played: Ur ghost is so pretty X_x, model, Fr3sh, truth yandere^^ - super slowed, Vlone - Hardcore Remix. On repeat: Lovers’ Carvings, Rafstraumur, arschloch, Your Graduation, Glósóli. Top artists: Die drei ???, luu, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-17 18:23 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
