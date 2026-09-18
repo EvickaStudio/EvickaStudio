@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: attachment issues — dollreal, 9surgery — attachment issues. Recently played: attachment issues, sorry i killed her., TEENAGE POPSTAR, BETTER OFF A BASS SLXT - SPED UP, my iphone (best pt only). On repeat: Lovers’ Carvings, arschloch, Rafstraumur, Your Graduation, Glósóli. Top artists: luu, Die drei ???, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-18 06:22 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Money Loves Me — Der Witz — Affirmations. Recently played: Money Loves Me, kein zufall, SHE&#x27;S A GIRL IN A BLACK DRESS, ARVA, ✞︎Bloodycorpsemassacre✞︎. On repeat: Lovers’ Carvings, arschloch, Rafstraumur, Your Graduation, Glósóli. Top artists: luu, Die drei ???, Tigers Jaw, Sigur Rós, Bladee. Updated 2026-09-18 11:33 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
