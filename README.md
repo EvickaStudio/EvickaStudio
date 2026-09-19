@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: I&#x27;m a stalker - super slowed — akkiemi — I&#x27;m a stalker. Recently played: mistakezzz, so bitter - daycore, achterbahn, 2016, boyfriend. On repeat: Lovers’ Carvings, arschloch, Rafstraumur, Your Graduation, Glósóli. Top artists: luu, Die drei ???, Tigers Jaw, Bladee, Sigur Rós. Updated 2026-09-19 10:53 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: shut up and sleep with me — iamsodead, elctrnc/sed:/, LooveX — shut up and sleep with me. Recently played: arschloch, Don&#x27;t You Feel, L-ON-D-ON, Verpasst, Bauchgefühl. On repeat: Lovers’ Carvings, arschloch, Rafstraumur, Your Graduation, Glósóli. Top artists: luu, Die drei ???, Tigers Jaw, Bladee, Sigur Rós. Updated 2026-09-19 14:03 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
