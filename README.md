@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Loud (feat. Longus Mongus) — BHZ, Monk, Longus Mongus — Hellwach. Recently played: Loud (feat. Longus Mongus), All Of The Lights, Who Is She ?, SaveOST, I DONT WANNA GO. On repeat: arschloch, Lovers’ Carvings, Your Graduation, Rafstraumur, Mind Killer - Kkoki Remix. Top artists: luu, Die drei ???, Tigers Jaw, Bladee, Bassvictim. Updated 2026-09-21 01:05 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Loud (feat. Longus Mongus) — BHZ, Monk, Longus Mongus — Hellwach. Recently played: Loud (feat. Longus Mongus), All Of The Lights, Who Is She ?, SaveOST, I DONT WANNA GO. On repeat: arschloch, Lovers’ Carvings, Your Graduation, Rafstraumur, Mind Killer - Kkoki Remix. Top artists: luu, Die drei ???, Tigers Jaw, Bladee, Bassvictim. Updated 2026-09-21 06:18 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
