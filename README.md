@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Deer God — Sematary, Ghost Mountain — Hundred Acre Wrist. Recently played: Deer God, Sacrifyce, I HATE MYSELF, Scarecraw, Truey Jeans. On repeat: arschloch, Your Graduation, ARVA, Mind Killer - Kkoki Remix, Lovers’ Carvings. Top artists: luu, Die drei ???, Tigers Jaw, Bladee, Bassvictim. Updated 2026-09-22 05:40 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Angels All Around — Cashier — Angels All Around. Recently played: Dream Date, Pennies, Safety, Untitled (Cont.), 跑个步3000. On repeat: arschloch, Your Graduation, ARVA, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear. Top artists: luu, Die drei ???, Tigers Jaw, Bladee, Bassvictim. Updated 2026-09-22 10:19 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
