@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Angels All Around — Cashier — Angels All Around. Recently played: Dream Date, Pennies, Safety, Untitled (Cont.), 跑个步3000. On repeat: arschloch, Your Graduation, ARVA, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear. Top artists: luu, Die drei ???, Tigers Jaw, Bladee, Bassvictim. Updated 2026-09-22 10:19 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Curse is Lifted - Club rmx — Bassvictim — Curse is Lifted (Club rmx). Recently played: Curse is Lifted - Club rmx, With you, Gajówka, Life so far, Forever salty. On repeat: arschloch, Your Graduation, ARVA, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear. Top artists: luu, Die drei ???, Tigers Jaw, Bladee, Bassvictim. Updated 2026-09-22 15:04 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
