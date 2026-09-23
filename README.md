@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: KLUg — agelast222, gard — SOLAR TACTICS. Recently played: KLUg, ARVA, Joker, generation x, mole. On repeat: ARVA, arschloch, Your Graduation, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear. Top artists: luu, Die drei ???, Bassvictim, Bladee, Tigers Jaw. Updated 2026-09-23 13:21 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Your Graduation — Modern Baseball — You&#x27;re Gonna Miss It All. Recently played: Your Graduation, arschloch, Green Green Grass Of Tunnel, Rafstraumur, stressed out. On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, Your Graduation. Top artists: luu, Die drei ???, Bassvictim, Bladee, Tigers Jaw. Updated 2026-09-23 17:53 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
