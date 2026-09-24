@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: MISA &amp; LIGHT — NXFEIT, Sillyelly, Hen848 — CASSA DRITTISSIMA !!. Recently played: MISA &amp; LIGHT, bunnybunnybunny, Innerbloom, 9mm, Under Your Spell. On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Die drei ???, Bassvictim, Bladee, Tigers Jaw. Updated 2026-09-24 20:30 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: MISA &amp; LIGHT — NXFEIT, Sillyelly, Hen848 — CASSA DRITTISSIMA !!. Recently played: MISA &amp; LIGHT, bunnybunnybunny, Innerbloom, 9mm, Under Your Spell. On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Die drei ???, Bassvictim, Bladee, Tigers Jaw. Updated 2026-09-24 23:19 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
