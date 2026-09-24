@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Wenn es passiert — Wir sind Helden — Von hier an blind. Recently played: Wenn es passiert, Don&#x27;t Call, sur la piste, jvoulais die dans tes bras, tu m&#x27;écœures. On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Die drei ???, Bassvictim, Bladee, Tigers Jaw. Updated 2026-09-24 12:14 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Rest — Putrid — Ulvetanna (Ульветанна). Recently played: reject, NYUTH, Cities n&#x27; Dust, The One, Bruises. On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Die drei ???, Bassvictim, Bladee, Tigers Jaw. Updated 2026-09-24 17:12 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
