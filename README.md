@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Tate mcrae flip — Lorem Ipsum, Field intercom — 2014. Recently played: Life so far, Numbers, Hold On, Ne Plus Ultra, i know. On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Die drei ???, Bassvictim, Bladee, Tigers Jaw. Updated 2026-09-25 17:10 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: LDN NYC — Palmistry — T2. Recently played: LDN NYC, dog, The Cyclone, weird and chill, In It, Not of It. On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Die drei ???, Bassvictim, Bladee, Tigers Jaw. Updated 2026-09-25 20:28 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
