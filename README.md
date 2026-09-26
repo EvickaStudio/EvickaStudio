@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Nier Automata Freestyle — uusymon — Arcadia. Recently played: Nier Automata Freestyle, Nier Automata Freestyle, makeit, hidden track (pxe), fuckk. On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, triple trauma. Top artists: luu, Bassvictim, Bladee, Tigers Jaw, Die drei ???. Updated 2026-09-26 15:58 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis) — Tyler, The Creator, Roy Ayers, Syd, Kali Uchis — Cherry Bomb. Recently played: FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), Sound Like Sunday, Pistazieneis, The Word 2, Dreadful Everyday. On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Bassvictim, Bladee, Tigers Jaw, Die drei ???. Updated 2026-09-26 19:04 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
