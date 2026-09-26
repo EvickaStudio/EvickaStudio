@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Raus in die Welt — NILS KEPPEL, Lilli Belle — Super Sonic Youth. Recently played: Raus in die Welt, Raus in die Welt, Welcome, LDN NYC, dog. On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Bassvictim, Bladee, Tigers Jaw, Die drei ???. Updated 2026-09-26 06:54 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: She&#x27;s A Director — Mechatok, Isabella Lovestory — Wide Awake. Recently played: Legends, Take Me Home, Back to the Old House - 2011 Remaster, Nur ein Wort, Spinning Fury (Part 2). On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Bassvictim, Bladee, Tigers Jaw, Die drei ???. Updated 2026-09-26 11:58 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
