@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: i just want to kickflip into the sunset and disappear — Camping In Alaska — please be nice. Recently played: i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), Sound Like Sunday, Pistazieneis, The Word 2. On repeat: ARVA, arschloch, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Bassvictim, Bladee, Tigers Jaw, Die drei ???. Updated 2026-09-27 00:09 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: i just want to kickflip into the sunset and disappear — Camping In Alaska — please be nice. Recently played: i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), Sound Like Sunday, Pistazieneis, The Word 2. On repeat: ARVA, arschloch, i just want to kickflip into the sunset and disappear, Mind Killer - Kkoki Remix, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Bassvictim, Bladee, Tigers Jaw, Die drei ???. Updated 2026-09-27 05:14 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
