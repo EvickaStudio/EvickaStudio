@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Ne Plus Ultra — ear — Rumspringa. Recently played: Mass Anasthesia, Mirage, Know My Name, Frutiger Aero 4, Miss You. On repeat: ARVA, arschloch, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), triple trauma. Top artists: luu, Bassvictim, Bladee, Tigers Jaw, Mietze Conte. Updated 2026-09-28 12:28 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Frou-frou Foxes in Midsummer Fires — Cocteau Twins — Heaven or Las Vegas. Recently played: Valley Love, Rinsed, Passionate Highs, Courtship Dating, Kicking Cars. On repeat: ARVA, arschloch, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), triple trauma. Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-09-28 19:47 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
