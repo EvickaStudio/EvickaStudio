@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Chrome Country — Oneohtrix Point Never — R Plus Seven. Recently played: Pulsewidth, Ptolemy, Parisian Goldfish, Chocolate Matter, soon. On repeat: ARVA, arschloch, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), triple trauma. Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-09-29 11:34 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: MONSTER — Shoto — MONSTER. Recently played: BACKSTAGE LIFE, i gotta feeling &gt;_&lt;, schäm mich so, knife 2 school, Extrovertiert. On repeat: ARVA, arschloch, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), Ne Plus Ultra. Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-09-29 17:00 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
