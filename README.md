@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: 40 Days — Slowdive — Souvlaki. Recently played: 40 Days, Leach, Make It Forever, Milk - 2021 Remaster, D&gt;E&gt;A&gt;T&gt;H&gt;M&gt;E&gt;T&gt;A&gt;L. On repeat: ARVA, arschloch, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), triple trauma. Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-09-29 05:39 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Chrome Country — Oneohtrix Point Never — R Plus Seven. Recently played: Pulsewidth, Ptolemy, Parisian Goldfish, Chocolate Matter, soon. On repeat: ARVA, arschloch, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), triple trauma. Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-09-29 11:34 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
