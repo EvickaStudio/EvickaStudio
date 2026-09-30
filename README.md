@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Ne Plus Ultra — ear — Rumspringa. Recently played: Ne Plus Ultra, lol &amp; xd, rip urr h3art, blackout, bLuTbAd. On repeat: ARVA, arschloch, i just want to kickflip into the sunset and disappear, Ne Plus Ultra, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-09-30 00:37 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Ne Plus Ultra — ear — Rumspringa. Recently played: Ne Plus Ultra, lol &amp; xd, rip urr h3art, blackout, bLuTbAd. On repeat: ARVA, arschloch, i just want to kickflip into the sunset and disappear, Ne Plus Ultra, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-09-30 05:57 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
