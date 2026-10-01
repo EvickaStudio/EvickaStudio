@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Early Stars — Jejune — Wait A Lifetime. Recently played: Early Stars, The Phone Works Both Ways, Paper Airplanes, Paper Hearts, Fess Up, Numbers. On repeat: ARVA, arschloch, Ne Plus Ultra, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-10-01 00:49 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: I Crash, U Crash — Vénia — I Crash, U Crash. Recently played: White Flag, Hoppípolla, Early Stars, The Phone Works Both Ways, Paper Airplanes, Paper Hearts. On repeat: ARVA, arschloch, Ne Plus Ultra, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-10-01 06:42 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
