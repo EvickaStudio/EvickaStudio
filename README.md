@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Strays — Brothel in Belize — Machine Machine. Recently played: UrNewImTrue, the world is mine, ELECTRIC, Lastminute, Ike piano. On repeat: ARVA, arschloch, Ne Plus Ultra, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), triple trauma. Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-10-01 13:54 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: DND — 1LDK — 1LDK. Recently played: Ms California, DND, 3. gB00000 : Euronet ATM Credit Card Riddim, bow&amp;curtsy, Through Your Eyes. On repeat: ARVA, arschloch, Ne Plus Ultra, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), Hoppípolla. Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-10-01 19:10 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
