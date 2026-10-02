@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Wanted you — Pearlblade, Nomark, whyhaze — Wanted you. Recently played: Wanted you, gimme ur attention, shawty sagt ich, morning, metaknight. On repeat: ARVA, arschloch, Ne Plus Ultra, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), Hoppípolla. Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-10-02 08:30 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: broken heart - freestyle — puls207, TROPFBUBEN — broken heart freestyle. Recently played: ISSO, broken heart - freestyle, cappy von bazar, Alle meine Freunde hassen Raves, lol &amp; xd. On repeat: ARVA, Ne Plus Ultra, arschloch, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), lol &amp; xd. Top artists: luu, Bassvictim, Bladee, Mietze Conte, Sematary. Updated 2026-10-02 14:59 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
