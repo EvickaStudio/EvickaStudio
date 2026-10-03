@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: u — xo — whitenoise. Recently played: u, ARVA, Kiss, NYUTH, Raus in die Welt. On repeat: ARVA, Ne Plus Ultra, lol &amp; xd, Weltuntergang, Pt. 2, arschloch. Top artists: luu, Bassvictim, Bladee, blombi19, Mietze Conte. Updated 2026-10-03 17:28 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Secret — Mietze Conte — Mietzee. Recently played: Secret, Me Gustas Tu, Poser, 2000 km/h, KLUg. On repeat: ARVA, Ne Plus Ultra, Weltuntergang, Pt. 2, lol &amp; xd, arschloch. Top artists: luu, Bassvictim, Bladee, Mietze Conte, blombi19. Updated 2026-10-03 20:05 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
