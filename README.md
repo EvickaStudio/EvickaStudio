@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: But us — Forma Norte, Valeria Litvakov — Coda. Recently played: But us, Meant To Be, angel candles, severed, Bird on a Wire. On repeat: ARVA, Ne Plus Ultra, arschloch, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), lol &amp; xd. Top artists: luu, Bassvictim, Bladee, blombi19, Mietze Conte. Updated 2026-10-03 08:05 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Kratom — uusymon, Trashmann — Kratom. Recently played: Curse is Lifted - Club rmx, Weltuntergang, Pt. 2, obsessixn, Premier Inn, EUPHORIA. On repeat: ARVA, Ne Plus Ultra, lol &amp; xd, arschloch, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). Top artists: luu, Bassvictim, Bladee, blombi19, Mietze Conte. Updated 2026-10-03 13:20 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
