@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Gymnopédie No. 3 — Erik Satie, Philippe Entremont — Erik Satie &amp; Friends. Recently played: night mood, just let go, Are We There Yet, Hamsin, An alternate timeline. On repeat: ARVA, Weltuntergang, Pt. 2, Ne Plus Ultra, lol &amp; xd, arschloch. Top artists: luu, Bassvictim, Bladee, Mietze Conte, blombi19. Updated 2026-10-04 14:21 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Grow Up!!! — Bassvictim — Forever. Recently played: Grow Up!!!, I Like It, Lil Maria, Curse is Lifted - Club rmx, Dog Tag freestyle. On repeat: ARVA, Weltuntergang, Pt. 2, Ne Plus Ultra, lol &amp; xd, arschloch. Top artists: luu, Bassvictim, Bladee, Mietze Conte, blombi19. Updated 2026-10-04 18:15 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
