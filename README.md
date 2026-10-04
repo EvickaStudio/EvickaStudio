@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Secret — Mietze Conte — Mietzee. Recently played: Secret, Me Gustas Tu, Poser, 2000 km/h, KLUg. On repeat: ARVA, Ne Plus Ultra, Weltuntergang, Pt. 2, lol &amp; xd, arschloch. Top artists: luu, Bassvictim, Bladee, Mietze Conte, blombi19. Updated 2026-10-04 02:27 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: severed — shallowprayer — severed. Recently played: severed, Bird on a Wire, u, ARVA, Kiss. On repeat: ARVA, Weltuntergang, Pt. 2, Ne Plus Ultra, lol &amp; xd, arschloch. Top artists: luu, Bassvictim, Bladee, Mietze Conte, blombi19. Updated 2026-10-04 08:39 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
