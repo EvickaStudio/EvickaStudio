@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Let Your Soul Illuminate with the Passion of a Thousand Suns — desert sand feels warm at night — New World Disciples. Recently played: Let Your Soul Illuminate with the Passion of a Thousand Suns, Someone Close, Heavy Water/I&#x27;d Rather Be Sleeping, Myth, Everything In Its Right Place. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, lol &amp; xd, Ne Plus Ultra. Top artists: luu, Bassvictim, Bladee, Mietze Conte, blombi19. Updated 2026-10-11 18:42 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: MY OWN WAY — tenflower — MY OWN WAY. Recently played: MY OWN WAY, Liebe, Life = OVER, Spin Me to Sleep, NEVER SPILL YOURSELF. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, lol &amp; xd, Ne Plus Ultra. Top artists: luu, Bassvictim, Bladee, Mietze Conte, blombi19. Updated 2026-10-11 22:28 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
