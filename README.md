@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Where No One Goes — Jon Thor Birgisson, John Powell, Jónsi — How to Train Your Dragon 2 (Music from the Motion Picture). Recently played: resonance - midwest emo version, LVL, Scherben, Die Sterne, NOTHINGG. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, lol &amp; xd, Ne Plus Ultra. Top artists: luu, Bassvictim, Bladee, Mietze Conte, blombi19. Updated 2026-10-12 07:57 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Ship — Aspartame — Inevitably...Hesitation. Recently played: Don&#x27;t Throw Up In My Car, Pillbug, A Picture (1996), Cats, The Sun. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, lol &amp; xd, broken heart - freestyle. Top artists: luu, Bassvictim, Mietze Conte, blombi19, Sematary. Updated 2026-10-12 17:24 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
