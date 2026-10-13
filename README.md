@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: catalogue — julie — my anti-aircraft friend. Recently played: catalogue, eine nase, ZEHN NACH DREI, Was It Weird I Listened to Im God by Clams Casino,s When I Lost My Virginity, non zen darkness manuever. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, lol &amp; xd, broken heart - freestyle. Top artists: luu, Bassvictim, Mietze Conte, Sematary, Bladee. Updated 2026-10-13 11:18 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: It&#x27;s a Dream - Infused mix — DJ Panda — It&#x27;s a Dream. Recently played: Für Immer, YAKIMOTO BLISS, Psychological Warfare, i just want ur love, Megablast. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, lol &amp; xd, broken heart - freestyle. Top artists: luu, Bassvictim, Mietze Conte, blombi19, Sematary. Updated 2026-10-13 18:24 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
