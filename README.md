@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: L.O.S.S. — Mechatok — Gulf Area EP. Recently played: L.O.S.S., Skies of Tomorrow, Discovery, Toke, U.D.G.. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd. Top artists: luu, Bassvictim, Levi Ryan, Sematary, Bladee. Updated 2026-10-14 20:50 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: L.O.S.S. — Mechatok — Gulf Area EP. Recently played: L.O.S.S., Skies of Tomorrow, Discovery, Toke, U.D.G.. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd. Top artists: luu, Bassvictim, Levi Ryan, Sematary, Bladee. Updated 2026-10-14 23:33 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
