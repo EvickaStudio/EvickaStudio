@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Letzten Winter — kevin — Letzten Winter. Recently played: Letzten Winter, Mind Killer - Kkoki Remix, Heaven, sig sauer, Iris. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, lol &amp; xd, broken heart - freestyle. Top artists: luu, Bassvictim, Mietze Conte, Sematary, blombi19. Updated 2026-10-14 06:41 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Television / So Far So Good — Rex Orange County — Apricot Princess. Recently played: Television / So Far So Good, Verliebt, was du für mich bist, Endlos_demo, GENESIS. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, lol &amp; xd, broken heart - freestyle. Top artists: luu, Bassvictim, Sematary, Snow Strippers, puls207. Updated 2026-10-14 12:22 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
