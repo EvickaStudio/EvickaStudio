@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Television / So Far So Good — Rex Orange County — Apricot Princess. Recently played: Television / So Far So Good, Verliebt, was du für mich bist, Endlos_demo, GENESIS. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, lol &amp; xd, broken heart - freestyle. Top artists: luu, Bassvictim, Sematary, Snow Strippers, puls207. Updated 2026-10-14 12:22 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: downer — Whitearmor — downer. Recently played: Cherry Sundae, Feel to Safe, Shiny kindness, ill wake for you.) 2023, regiment 588. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd. Top artists: luu, Bassvictim, Sematary, Levi Ryan, Snow Strippers. Updated 2026-10-14 17:24 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
