@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Jagódki (Blueberries) — Bassvictim — Jagódki (Blueberries). Recently played: Live too fast, As Long As, Jagódki (Blueberries), Don&#x27;t Stop Me Now, Alice. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd. Top artists: Bassvictim, luu, Levi Ryan, Sematary, Bladee. Updated 2026-10-15 17:13 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Where Is My Mind? — Pixies — Death to the Pixies. Recently played: tränen statt wut, Kalt in der Hood, Das Herz ist mir bedrückt, my heart :(, König Der Welt. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd. Top artists: Bassvictim, luu, Levi Ryan, Sematary, Bladee. Updated 2026-10-15 20:20 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
