@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Crossed Up - Sacred holes Remix — Eera, Sacred holes — Crossed Up (Sacred holes Remix). Recently played: Crossed Up - Sacred holes Remix, _on_call_, Circles, BP Oil Spill 2010 (feat. Weiland), riding it + DJmegan23 flip. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd. Top artists: luu, Bassvictim, Levi Ryan, Sematary, Bladee. Updated 2026-10-15 12:20 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Jagódki (Blueberries) — Bassvictim — Jagódki (Blueberries). Recently played: Live too fast, As Long As, Jagódki (Blueberries), Don&#x27;t Stop Me Now, Alice. On repeat: Weltuntergang, Pt. 2, ARVA, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd. Top artists: Bassvictim, luu, Levi Ryan, Sematary, Bladee. Updated 2026-10-15 17:13 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
