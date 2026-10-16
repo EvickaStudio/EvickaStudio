@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Under my Bed — Mietze Conte — Under my Bed. Recently played: Things I Only Imagined, nanana, lomomoto#, Secret, bunnybunnybunny. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, ARVA, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, luu, Levi Ryan, Sematary. Updated 2026-10-16 18:52 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Me and the Birds — Duster — Contemporary Movement. Recently played: Me and the Birds, 9mm, cannot get over you, tongue tied, Right Next 2 U. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, ARVA, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, luu, Levi Ryan, Sematary. Updated 2026-10-16 21:50 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
