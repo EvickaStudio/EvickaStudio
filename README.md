@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: one night — horses_horses_horses — one night. Recently played: Verdient, Me and the Birds, 9mm, cannot get over you, tongue tied. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, ARVA, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, luu, Levi Ryan, Sematary. Updated 2026-10-17 08:41 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: MONEYFESTIEREN — agelast222 — SOLARCORP. Recently played: rave, Nur ein Wort, Crystalize, DING DONG (feat. Mietze Conte), they should have found me by now. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, ARVA, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, luu, Levi Ryan, Sematary. Updated 2026-10-17 12:24 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
