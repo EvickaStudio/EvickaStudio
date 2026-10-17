@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: June — Tigers Jaw — spin. Recently played: Handsome, Beautiful, Expression On Your Face - Robyn Remix, riding it + DJmegan23 flip, Yxguden, 15000000 easy. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Ne Plus Ultra. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, Sematary. Updated 2026-10-17 20:32 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: White Flag — Sacred holes — Genuine Uppers Life. Recently played: White Flag, broken heart - freestyle, Weltuntergang, Pt. 2, Handsome, Beautiful, Expression On Your Face - Robyn Remix. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Ne Plus Ultra. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, Sematary. Updated 2026-10-17 22:39 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
