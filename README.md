@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Wooden girl — Bassvictim — Basspunk 2. Recently played: everything, i know, Reality Surf, Cortt, Tragic Surprise. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Ne Plus Ultra. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, Sematary. Updated 2026-10-18 18:56 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Backstage — Fanny, Sadi, Wings — Backstage. Recently played: economics of war, Shiny kindness, Hot Fun, 1x, Bildschirm. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Ne Plus Ultra. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, Sematary. Updated 2026-10-18 21:12 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
