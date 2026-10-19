@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: painting on a monument — Mietze Conte — painting on a monument. Recently played: painting on a monument, Backstage, Red &amp; Double, economics of war, Shiny kindness. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Ne Plus Ultra. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, Sematary. Updated 2026-10-18 23:11 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: painting on a monument — Mietze Conte — painting on a monument. Recently played: painting on a monument, Backstage, Red &amp; Double, economics of war, Shiny kindness. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Ne Plus Ultra. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, Sematary. Updated 2026-10-19 01:14 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
