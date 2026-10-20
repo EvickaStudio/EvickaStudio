@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: the now now and never — what is your name? — the now now and never. Recently played: the now now and never, Moondive, Analog Sentimentalism, Wolves Howling, Sisters. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Ne Plus Ultra. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-20 01:36 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Hoppípolla — Sigur Rós — Takk.... Recently played: Hoppípolla, the now now and never, Moondive, Analog Sentimentalism, Wolves Howling. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Ne Plus Ultra. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-20 06:35 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
