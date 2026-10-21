@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: As Long As — Bassvictim — Basspunk. Recently played: Gajówka, Jagódki (Blueberries), Sometimes I believe in God (Sometimes I believe in Me), L-ON-D-ON, Alice. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Ne Plus Ultra. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-21 06:50 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Expression On Your Face - Robyn Remix — Mechatok, Robyn, Ecco2k, Bladee — Expression On Your Face / Fembot. Recently played: Expression On Your Face - Robyn Remix, riding it + DJmegan23 flip, June, ill be there for u, Softpack. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Bleed. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-21 12:36 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
