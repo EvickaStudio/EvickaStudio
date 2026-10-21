@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Bright — 東京酒吐座(Tokyo Shoegazer) — crystallize (remastered). Recently played: Bright, Sound Inside Me, Waves Inside You, gestalten in der nacht, doppelsuizid, PARACETAMOL✧+-. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Ne Plus Ultra. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-21 01:46 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: As Long As — Bassvictim — Basspunk. Recently played: Gajówka, Jagódki (Blueberries), Sometimes I believe in God (Sometimes I believe in Me), L-ON-D-ON, Alice. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Ne Plus Ultra. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-21 06:50 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
