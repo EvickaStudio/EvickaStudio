@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Moonlight — velvette blue — Moonlight. Recently played: r u kissin any1?, Ssx, Forever salty, Day Crawler, Náire. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Bleed. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-22 13:23 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Hey Now Hey Now — Mainstream Moguls — Mainstream Moguls. Recently played: Hey Now Hey Now, take me by the hand, ich wach auf und denk an dich, Vanilla Sky, Velociraptor. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Bleed. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-22 18:04 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
