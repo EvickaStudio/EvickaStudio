@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Staffel 2, Folge 3: Die drei @@@ und der gestohlene Gaul — Die drei @@@ (Die drei Klammeraffen), Nikolaus Hartmann, Sascha Gutzeit, Britta Lemon, Andreas von der Meden, Franz-Josef Steffens, Reinhilt Schneider — Staffel 2, Folge 3: Die drei @@@ und der gestohlene Gaul. Recently played: Staffel 2, Folge 2: Die drei @@@ und die Beton-Statuen, Staffel 2, Folge 1: Die drei @@@ und das silberne Taco, Teil 2 - Staffel 1, Folge 10: Die drei @@@ und der gelbe Geist bzw Alien, Teil 1 - Staffel 1, Folge 10: Die drei @@@ und der gelbe Geist bzw Alien, Staffel 1, Folge 9: Die drei @@@ und das rätselhafte Rätsel. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Bleed. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-22 02:39 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Walk Hard - G string edit — Bassvictim, Gud, Woesum — Walk Hard (G string edit). Recently played: Walk Hard - G string edit, Don&#x27;t Stop Me Now, PQC - Bassvictim Edit, Curse is Lifted - Club rmx, Forever salty. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Bleed. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-22 07:56 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
