@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Walk Hard - G string edit — Bassvictim, Gud, Woesum — Walk Hard (G string edit). Recently played: Walk Hard - G string edit, Don&#x27;t Stop Me Now, PQC - Bassvictim Edit, Curse is Lifted - Club rmx, Forever salty. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Bleed. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-22 07:56 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Moonlight — velvette blue — Moonlight. Recently played: r u kissin any1?, Ssx, Forever salty, Day Crawler, Náire. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, lol &amp; xd, Bleed. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-22 13:23 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
