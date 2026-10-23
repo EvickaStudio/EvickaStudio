@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: frag nicht mehr nach — Pink Katana — Den Mutigen gehört die Welt. Recently played: Geheim, Siehst du wie die Stadt Weint?, Die letzten in der Bar, the day i met astagel, roter knopf. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, Bleed, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-23 14:26 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: ill be there for u — amil raja — ephemera. Recently played: ill be there for u, Softpack, mit Herz &lt;3, Bleed, Shiver. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, Bleed, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-23 18:34 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
