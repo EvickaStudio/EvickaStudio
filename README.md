@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: GLOOMROOM — Sematary, Ghost Mountain — GLOOMROOM. Recently played: GLOOMROOM, Bunny Suit, RAGING WOLF (SLOWED), RAGING WOLF, schnuffel (II). On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, Bleed, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-24 00:00 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: GLOOMROOM — Sematary, Ghost Mountain — GLOOMROOM. Recently played: GLOOMROOM, Bunny Suit, RAGING WOLF (SLOWED), RAGING WOLF, schnuffel (II). On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, Bleed, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-24 04:02 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
