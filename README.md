@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: The Infinite Shore — The Missing Peace — The Infinite Shore. Recently played: Suddenly, Coming Around, Curls, Window, Green Green Grass Of Tunnel. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-24 18:59 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Suddenly — Kkoki — Suddenly. Recently played: Suddenly, Coming Around, Curls, Window, Green Green Grass Of Tunnel. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, lol &amp; xd. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-24 21:26 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
