@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Shiver — Flawed Mangoes — Shiver. Recently played: NOTHINGG, Handsome, Beautiful, Expression On Your Face - Robyn Remix, riding it + DJmegan23 flip, Yxguden. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, Bleed, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-24 13:00 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Handsome, Beautiful — Everyone Asked About You — Paper Airplanes, Paper Hearts. Recently played: Expression On Your Face - Robyn Remix, riding it + DJmegan23 flip, Yxguden, 15000000 easy, Nice To Know Ya. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, broken heart - freestyle, Bleed, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-24 16:33 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
