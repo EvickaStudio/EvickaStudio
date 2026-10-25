@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Symbiosis — Contact Sports — Contact Sports. Recently played: I&#x27;m Going Back to Lebanon, eye 2 eye, loveforthestreets, Cold Wind Blowing, 9_21. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, lol &amp; xd. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-25 21:13 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: CD-R — The Nightclubs — CD-R. Recently played: CD-R, Katie Vaughn - Remix, Grey Mullet (Flip), Infamy, Since the Day. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, lol &amp; xd. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-25 23:16 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
