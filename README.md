@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: 009 - und die rätselhaften Bilder - Teil 03 — Die drei ??? — 009/und die rätselhaften Bilder. Recently played: Jagódki (Blueberries), 009 - und die rätselhaften Bilder - Teil 01, Midwest City, Jemma, White Flag. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, lol &amp; xd. Top artists: Sigur Rós, Bassvictim, Levi Ryan, Bladee, luu. Updated 2026-10-26 13:33 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Half a Person - 2011 Remaster — The Smiths — Louder Than Bombs. Recently played: Cemetry Gates - 2011 Remaster, I Don&#x27;t Owe You Anything - 2011 Remaster, Panic - 2011 Remaster, Well I Wonder - 2011 Remaster, There Is a Light That Never Goes Out - Take 1. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-26 19:33 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
