@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Half a Person - 2011 Remaster — The Smiths — Louder Than Bombs. Recently played: Cemetry Gates - 2011 Remaster, I Don&#x27;t Owe You Anything - 2011 Remaster, Panic - 2011 Remaster, Well I Wonder - 2011 Remaster, There Is a Light That Never Goes Out - Take 1. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-26 19:33 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Jackie Down The Line — Fontaines D.C. — Skinty Fia. Recently played: Jackie Down The Line, Mary, Barbarism Begins at Home - 2011 Remaster, Love Will Tear Us Apart - 2020 Remaster, Leave Me Alone - 2015 Remaster. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, lol &amp; xd. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-26 23:20 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
