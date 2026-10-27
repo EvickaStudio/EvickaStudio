@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Crazy — alleycat, dxsh — Crazy. Recently played: bodyguard, Parisienne, (SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ, Stuck, DIPTYQUE. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-27 19:07 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: not the one to blame — mint, dy.wsh — not the one to blame. Recently played: not the one to blame, nodding off, remedy, Super-Loud, Schau dir zu. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-27 22:56 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
