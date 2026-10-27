@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Living In The Past — Unnatural Funk Band — Strange Happenings b/w Living In The Past. Recently played: Unfold, Jagódki (Blueberries), hope, fireproof, Hi Fever. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, luu. Updated 2026-10-27 13:48 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Crazy — alleycat, dxsh — Crazy. Recently played: bodyguard, Parisienne, (SOLARCORP) BRANDNEUE WELT .... ARMORSPIIEL PRINZ, Stuck, DIPTYQUE. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-27 19:07 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
