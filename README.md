@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: In It, Not of It — Ayegy — In It, Not of It. Recently played: d(-_-)b dreaming of your latte art d(-_-)b, trance like non ordinary state, drunk on arrival, economics of war, i rly hate it here... On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-28 14:45 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Shadow — The Hellp — LL. Recently played: Feel The Light, Tough, Almost A Threat, Cities n&#x27; Dust, House. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-28 19:59 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
