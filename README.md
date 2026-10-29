@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: he&#x27;s so easy — Patch + — White Paper. Recently played: he&#x27;s so easy, Something To Do, Day Crawler, Welcome, You Make Me. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-29 03:55 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Expression On Your Face - Robyn Remix — Mechatok, Robyn, Ecco2k, Bladee — Expression On Your Face / Fembot. Recently played: Expression On Your Face - Robyn Remix, riding it + DJmegan23 flip, Yxguden, 15000000 easy, Nice To Know Ya. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-29 10:37 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
