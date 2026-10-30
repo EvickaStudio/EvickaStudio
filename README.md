@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: White Flag — Bassvictim — White Flag. Recently played: Reunion, Midwest City, Jemma, Jagódki (Blueberries), d(-_-)b dreaming of your latte art d(-_-)b. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, broken heart - freestyle, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-30 14:30 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: ARVA — h3artcrush — a whole lot of shit vol. 2. Recently played: Kiss, NYUTH, Raus in die Welt, makeit, Ne Plus Ultra. On repeat: mit Herz &lt;3, Weltuntergang, Pt. 2, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-30 19:41 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
