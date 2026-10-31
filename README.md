@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Jagódki (Blueberries) — Bassvictim — Jagódki (Blueberries). Recently played: d(-_-)b dreaming of your latte art d(-_-)b, LA, lovers’ carvings, Your Graduation, Mind Killer - Kkoki Remix. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-31 08:36 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Rewe 2 Go — Cloud, Viertel 105 — Rewe 2 Go. Recently played: HOLLISTER (feat. EN6O), Baby Blizzard, Staub, sometimes, Stargazer. On repeat: mit Herz &lt;3, Bleed, Weltuntergang, Pt. 2, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-31 14:44 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
