@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Your Graduation — Modern Baseball — You&#x27;re Gonna Miss It All. Recently played: Your Graduation, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis), Sound Like Sunday. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-31 02:22 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Jagódki (Blueberries) — Bassvictim — Jagódki (Blueberries). Recently played: d(-_-)b dreaming of your latte art d(-_-)b, LA, lovers’ carvings, Your Graduation, Mind Killer - Kkoki Remix. On repeat: Weltuntergang, Pt. 2, mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-31 08:36 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
