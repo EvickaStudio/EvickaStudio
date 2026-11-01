@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Private Angels — Snow Strippers — April Mixtape. Recently played: Private Angels, This Can&#x27;t Be Real, Uncrushworthy, Canal Street, Sisters. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, ill be there for u. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-10-31 22:04 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Private Angels — Snow Strippers — April Mixtape. Recently played: Private Angels, This Can&#x27;t Be Real, Uncrushworthy, Canal Street, Sisters. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, ill be there for u. Top artists: Bassvictim, Sigur Rós, Levi Ryan, Bladee, The Smiths. Updated 2026-11-01 01:06 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
