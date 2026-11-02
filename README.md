@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Neon Memories — death&#x27;s dynamic shroud — Darklife. Recently played: Neon Memories, Stargazer, Parade, Sunset Strike, Chrome Country. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, ill be there for u. Top artists: Bassvictim, Sigur Rós, Bladee, Levi Ryan, Tigers Jaw. Updated 2026-11-01 22:46 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Neon Memories — death&#x27;s dynamic shroud — Darklife. Recently played: Neon Memories, Stargazer, Parade, Sunset Strike, Chrome Country. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, ill be there for u. Top artists: Bassvictim, Sigur Rós, Bladee, Levi Ryan, Tigers Jaw. Updated 2026-11-02 01:59 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
