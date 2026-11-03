@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Maybe Selena — Clyde Crooks — Maybe Selena. Recently played: Daft, As Long As, Hum it to google, PQC - Bassvictim Edit, Canary Wharf freestyle. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, ill be there for u. Top artists: Bassvictim, Sigur Rós, Bladee, Levi Ryan, The Smiths. Updated 2026-11-03 08:33 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: 1 plus 1 — Eilish Constance — 1 plus 1. Recently played: Valley Serpent, AI Love, i want ya, End of Forever, MEANT TO BE. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, ill be there for u. Top artists: Bassvictim, Bladee, Levi Ryan, The Smiths, Tamino404. Updated 2026-11-03 16:30 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
