@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Rauche Schmerz — Maliq — Kunst für Künstler 2. Recently played: From The Chrysalis, Pflaster, Blicke Töten, one2three4, too abstract online persona. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, ill be there for u. Top artists: Bassvictim, Sigur Rós, Bladee, Levi Ryan, The Smiths. Updated 2026-11-02 19:18 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: PQC - Bassvictim Edit — daine, Bassvictim — PQC (Bassvictim Edit). Recently played: PQC - Bassvictim Edit, Canary Wharf freestyle, Sometimes I believe in God (Sometimes I believe in Me), Flop, Dog Tag freestyle. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, ill be there for u. Top artists: Bassvictim, Sigur Rós, Bladee, Levi Ryan, The Smiths. Updated 2026-11-03 01:41 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
