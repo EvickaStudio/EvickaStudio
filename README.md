@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Chrome Country — Oneohtrix Point Never — R Plus Seven. Recently played: Chrome Country, Wait for You, Fanfare, Moth, sober. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, Shiver. Top artists: Bassvictim, Bladee, Levi Ryan, The Smiths, Tamino404. Updated 2026-11-04 08:40 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Softpack — Fanny — Softpack. Recently played: mit Herz &lt;3, Bleed, Shiver, NOTHINGG, Handsome, Beautiful. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, Shiver. Top artists: Bassvictim, Bladee, Levi Ryan, The Smiths, Tamino404. Updated 2026-11-04 16:33 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
