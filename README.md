@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Real Life — ear — The Most Dear and The Future. Recently played: Rotting, So, Bureau de change, Mouthful of Diamonds, Don&#x27;t Let Anything Go. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, ill be there for u. Top artists: Bassvictim, Bladee, Levi Ryan, The Smiths, Tamino404. Updated 2026-11-03 21:59 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Wish it (bite it) — Touching Ice — I Just Remembered Everything Always Works Out for Me. Recently played: Wish it (bite it), Electronic Eyes - HORNET Re:mix, Long Sardine, Real Life, Rotting. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, ill be there for u. Top artists: Bassvictim, Bladee, Levi Ryan, The Smiths, Tamino404. Updated 2026-11-04 01:58 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
