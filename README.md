@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: d(-_-)b dreaming of your latte art d(-_-)b — Mietze Conte, 1tbsp — d(-_-)b dreaming of your latte art d(-_-)b. Recently played: d(-_-)b dreaming of your latte art d(-_-)b, LA, Chrome Country, Wait for You, Fanfare. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, Shiver. Top artists: Bassvictim, Bladee, Levi Ryan, The Smiths, Tamino404. Updated 2026-11-04 22:11 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Glósóli — Sigur Rós — Takk.... Recently played: Rafstraumur, lovers’ carvings, Your Graduation, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear. On repeat: mit Herz &lt;3, Bleed, riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, Shiver. Top artists: Bassvictim, Bladee, Levi Ryan, The Smiths, Tamino404. Updated 2026-11-05 02:24 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
