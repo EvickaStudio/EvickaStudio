@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: The Science of Giving In (Part II) — User2222 — Blame Games. Recently played: Good For You, Notice Me, Star people, economics of war, Girlfriend. On repeat: riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, White Flag, 15000000 easy, Jagódki (Blueberries). Top artists: Bassvictim, Bladee, Levi Ryan, Sigur Rós, The Smiths. Updated 2026-11-08 14:30 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Fullmoon — Dj Billybool — My Fantasy World. Recently played: FÖR FORT, 1s, raincheck rmx, Nervous, Flash in the Pan. On repeat: riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, White Flag, 15000000 easy, Jagódki (Blueberries). Top artists: Bassvictim, Bladee, Levi Ryan, Sigur Rós, The Smiths. Updated 2026-11-08 19:07 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
