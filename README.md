@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Fullmoon — Dj Billybool — My Fantasy World. Recently played: FÖR FORT, 1s, raincheck rmx, Nervous, Flash in the Pan. On repeat: riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, White Flag, 15000000 easy, Jagódki (Blueberries). Top artists: Bassvictim, Bladee, Levi Ryan, Sigur Rós, The Smiths. Updated 2026-11-08 19:07 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Bleu Mood — Mara Lakour — Various, Vol. 2. Recently played: Bleu Mood, Chikyu-u 002, Hope - Ric Niels Remix, Better Friend, Stateside + Bladee. On repeat: riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, White Flag, 15000000 easy, Jagódki (Blueberries). Top artists: Bassvictim, Bladee, Levi Ryan, Sigur Rós, The Smiths. Updated 2026-11-08 22:51 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
