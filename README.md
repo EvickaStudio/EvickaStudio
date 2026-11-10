@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: december (forever) — your favorite problem, grimheart — december (forever). Recently played: december (forever), THIS GAME, Curls, Materialism as a Means to an End, Ghosst(s). On repeat: riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, White Flag, 15000000 easy, Jagódki (Blueberries). Top artists: Bassvictim, Bladee, Levi Ryan, Sigur Rós, The Smiths. Updated 2026-11-10 02:49 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Gorgeous — Kanye West, Kid Cudi, Raekwon — My Beautiful Dark Twisted Fantasy. Recently played: Gorgeous, Special Place, Changes, Zwing mich zu meinem Glück, Candlelights. On repeat: riding it + DJmegan23 flip, White Flag, Expression On Your Face - Robyn Remix, 15000000 easy, Jagódki (Blueberries). Top artists: Bassvictim, Bladee, Levi Ryan, Sigur Rós, The Smiths. Updated 2026-11-10 10:38 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
