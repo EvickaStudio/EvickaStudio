@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Harm — Buffalobang — Losing Streak. Recently played: Harm, LA to BCN, Bad Vibes (feat. Bladee &amp; Isabella Lovestory), Paris, failures .-.. On repeat: riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, White Flag, 15000000 easy, Jagódki (Blueberries). Top artists: Bassvictim, Bladee, Levi Ryan, Sigur Rós, The Smiths. Updated 2026-11-09 20:18 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: december (forever) — your favorite problem, grimheart — december (forever). Recently played: december (forever), THIS GAME, Curls, Materialism as a Means to an End, Ghosst(s). On repeat: riding it + DJmegan23 flip, Expression On Your Face - Robyn Remix, White Flag, 15000000 easy, Jagódki (Blueberries). Top artists: Bassvictim, Bladee, Levi Ryan, Sigur Rós, The Smiths. Updated 2026-11-10 02:49 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
