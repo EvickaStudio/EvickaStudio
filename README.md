@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: lifeless — Casual Affairs — lifeless. Recently played: lifeless, healing spiritual echo, Will, Wolves Howling, new low. On repeat: White Flag, riding it + DJmegan23 flip, 15000000 easy, Jagódki (Blueberries), Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Bladee, Sigur Rós, Levi Ryan, The Smiths. Updated 2026-11-10 23:23 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: lifeless — Casual Affairs — lifeless. Recently played: lifeless, healing spiritual echo, Will, Wolves Howling, new low. On repeat: White Flag, riding it + DJmegan23 flip, 15000000 easy, Jagódki (Blueberries), Expression On Your Face - Robyn Remix. Top artists: Bassvictim, Bladee, Sigur Rós, Levi Ryan, The Smiths. Updated 2026-11-11 02:53 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
