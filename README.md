@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Live It — flywoah — Live It. Recently played: Live It, The Boys Of Summer - Remastered 2024, Water Gun, Christmas Kids, Midwest City. On repeat: White Flag, riding it + DJmegan23 flip, 15000000 easy, Jagódki (Blueberries), Jemma. Top artists: Bassvictim, Bladee, Sigur Rós, The Smiths, Snow Strippers. Updated 2026-11-12 05:04 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: tell me where we are — 5v, Crescent — tell me where we are. Recently played: Cortez the Killer - 2016 Remaster, John Dee, Snowmen (feat. Bladee &amp; Ecco2k), Duel of the Fates, bei dir. On repeat: White Flag, riding it + DJmegan23 flip, 15000000 easy, Jagódki (Blueberries), Jemma. Top artists: Bassvictim, Bladee, Sigur Rós, The Smiths, Snow Strippers. Updated 2026-11-12 13:43 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
