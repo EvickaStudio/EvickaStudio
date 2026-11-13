@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Blind — Kidd Kazama — Hundert.tausend Briefe. Recently played: Blind, FALL FROM THE SKY - Sped up, Maxi King, avatar, ich wach auf und denk an dich. On repeat: White Flag, riding it + DJmegan23 flip, 15000000 easy, Jagódki (Blueberries), Jemma. Top artists: Bassvictim, Bladee, Sigur Rós, Snow Strippers, The Smiths. Updated 2026-11-13 01:47 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Tag 01 - Ein spezialgelagertes Wochenende - Teil 03 — Die drei ??? — Adventskalender - O Geisterbaum. Recently played: Tag 01 - Ein spezialgelagertes Wochenende - Teil 03, Tag 01 - Ein spezialgelagertes Wochenende - Teil 02, Tag 01 - Ein spezialgelagertes Wochenende - Teil 01, O Geisterbaum - Titelmusik, O Geisterbaum - Inhaltsangabe. On repeat: White Flag, riding it + DJmegan23 flip, 15000000 easy, Jagódki (Blueberries), Jemma. Top artists: Bassvictim, Bladee, Sigur Rós, Snow Strippers, The Smiths. Updated 2026-11-13 08:55 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
