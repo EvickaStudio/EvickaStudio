@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Tag 05 - Spezialausrüstung - Teil 02 — Die drei ??? — Adventskalender - O Geisterbaum. Recently played: Tag 05 - Spezialausrüstung - Teil 02, Tag 05 - Spezialausrüstung - Teil 01, Tag 04 - Offizieller Auftrag, Tag 03 - Der Baum erwacht - Teil 04, Tag 03 - Der Baum erwacht - Teil 03. On repeat: White Flag, 15000000 easy, Jagódki (Blueberries), riding it + DJmegan23 flip, Jemma. Top artists: Bassvictim, Bladee, The Smiths, Die drei ???, Snow Strippers. Updated 2026-11-14 02:32 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Tag 05 - Spezialausrüstung - Teil 02 — Die drei ??? — Adventskalender - O Geisterbaum. Recently played: Tag 05 - Spezialausrüstung - Teil 02, Tag 05 - Spezialausrüstung - Teil 01, Tag 04 - Offizieller Auftrag, Tag 03 - Der Baum erwacht - Teil 04, Tag 03 - Der Baum erwacht - Teil 03. On repeat: White Flag, 15000000 easy, Jagódki (Blueberries), riding it + DJmegan23 flip, Jemma. Top artists: Bassvictim, Bladee, The Smiths, Die drei ???, Snow Strippers. Updated 2026-11-14 09:24 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
