@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Tag 15 - Wilde Wichteljagd - Teil 02 — Die drei ??? — Adventskalender - O Geisterbaum. Recently played: Tag 15 - Wilde Wichteljagd - Teil 01, Tag 15 - Wilde Wichteljagd - Teil 01, Tag 14 - Plötzliche Zweifel - Teil 03, Tag 14 - Plötzliche Zweifel - Teil 02, Tag 14 - Plötzliche Zweifel - Teil 01. On repeat: White Flag, 15000000 easy, Jagódki (Blueberries), riding it + DJmegan23 flip, Jemma. Top artists: Bassvictim, Bladee, Die drei ???, The Smiths, Snow Strippers. Updated 2026-11-14 15:54 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Tag 24 - Vier Zwei Vier - Teil 04 — Die drei ??? — Adventskalender - O Geisterbaum. Recently played: Tag 24 - Vier Zwei Vier - Teil 04, Tag 24 - Vier Zwei Vier - Teil 03, Tag 24 - Vier Zwei Vier - Teil 02, Tag 24 - Vier Zwei Vier - Teil 01, Tag 23 - Emily und der kleine Ebenezer - Teil 03. On repeat: White Flag, Jagódki (Blueberries), 15000000 easy, Jemma, riding it + DJmegan23 flip. Top artists: Bassvictim, Die drei ???, Bladee, The Smiths, Tigers Jaw. Updated 2026-11-14 20:15 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
