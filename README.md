@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Z0RNIG [2O24] — Ski Aggu — Z0RNIG [2O24]. Recently played: Luv ₊˚ෆ, Soul Shield, Black Static, Nicht Mehr Da, RIDE OR DIE. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, The Smiths, Ecco2k. Updated 2026-11-15 12:57 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: the day i met astagel — humanangst, agelast222 — the day i met astagel. Recently played: the day i met astagel, 1:1, money machine, Grass is Greener, Baby I&#x27;m-a Want You. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Bladee, Die drei ???, The Smiths, Snow Strippers. Updated 2026-11-15 19:14 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
