@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Blizzard Warning — Somewhere Special — Blizzard Warning. Recently played: Blizzard Warning, 111 Seconds in Heaven, Across the Sea, Memory Reboot - Slowed, sur la piste. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Bladee, Die drei ???, The Smiths, Snow Strippers. Updated 2026-11-16 10:25 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Happysad — Bassvictim — PEACE + WAR. Recently played: Digital Love, Parade, Video, born yesterday, Into the Endless Night - Live. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, The Smiths, Snow Strippers. Updated 2026-11-16 20:36 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
