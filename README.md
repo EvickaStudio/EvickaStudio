@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Strawberyy casket 2 — Peachole, Jackie Dream Phlegm Angel — Strawberyy casket 2. Recently played: Strawberyy casket 2, take my soul, IG Live, Pink truck, lose control. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, The Smiths, Ecco2k. Updated 2026-11-18 02:23 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Old Moon Meet New — Kind of Like Spitting — Old Moon In The Arms Of The New. Recently played: i used to check my driveway hoping one day i might see you there, Among the Wildflowers, Palisade, Follows, BCKYRD. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, The Smiths, Ecco2k. Updated 2026-11-18 10:26 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
