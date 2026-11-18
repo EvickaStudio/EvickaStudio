@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Verschwommen x Von hier an blind — Ski Aggu, Wir sind Helden, Ericson, Philemon — Verschwommen x Von hier an blind. Recently played: Verschwommen x Von hier an blind, Verschwommen x Von hier an blind, everything is scary, Glósóli, Rafstraumur. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, The Smiths, Ecco2k. Updated 2026-11-17 20:01 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Strawberyy casket 2 — Peachole, Jackie Dream Phlegm Angel — Strawberyy casket 2. Recently played: Strawberyy casket 2, take my soul, IG Live, Pink truck, lose control. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, The Smiths, Ecco2k. Updated 2026-11-18 02:23 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
