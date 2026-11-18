@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Old Moon Meet New — Kind of Like Spitting — Old Moon In The Arms Of The New. Recently played: i used to check my driveway hoping one day i might see you there, Among the Wildflowers, Palisade, Follows, BCKYRD. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, The Smiths, Ecco2k. Updated 2026-11-18 10:26 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Rafstraumur — Sigur Rós — Kveikur. Recently played: lovers’ carvings, Your Graduation, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, The Smiths. Updated 2026-11-18 18:56 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
