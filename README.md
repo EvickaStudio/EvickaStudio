@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Tag 06 - Die Sekretärin und der Engel - Teil 01 — Die drei ??? — Adventskalender - O Geisterbaum. Recently played: Tag 06 - Die Sekretärin und der Engel - Teil 01, Across the Sea, Loveless Animal, Lawless Criminal, Verschwommen x Von hier an blind, everything is scary. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, The Smiths. Updated 2026-11-19 08:16 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: 5:45 Am (Not Fun) — Macseal — Macseal - EP. Recently played: Parked Car, Mistake, Winter, Outro, To Be You. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, The Smiths. Updated 2026-11-19 17:29 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
