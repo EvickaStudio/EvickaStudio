@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Rafstraumur — Sigur Rós — Kveikur. Recently played: lovers’ carvings, Your Graduation, Mind Killer - Kkoki Remix, i just want to kickflip into the sunset and disappear, FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett &amp; Kali Uchis). On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, The Smiths. Updated 2026-11-18 18:56 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Touch (feat. Paul Williams) — Daft Punk, Paul Williams — Random Access Memories. Recently played: Touch (feat. Paul Williams), choke enough, Easter Pink, Unfold, Neon Memories. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, The Smiths. Updated 2026-11-19 00:56 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
