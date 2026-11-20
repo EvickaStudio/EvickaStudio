@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: wish I didnt kno her ##biblemusic — KidSnorlax, d3r — wish I didnt kno her ##biblemusic. Recently played: wish I didnt kno her ##biblemusic, pretty lil psycho, Higher, dancing while the world burns, bleed. On repeat: White Flag, Jagódki (Blueberries), Jemma, Morning Light, Moth. Top artists: Bassvictim, Die drei ???, Tigers Jaw, Bladee, Ecco2k. Updated 2026-11-20 13:20 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Alice — Bassvictim — Basspunk 2. Recently played: Alice, Lines, Why I Like The Robins, 7, Headliner. On repeat: White Flag, Jagódki (Blueberries), Morning Light, Jemma, Moth. Top artists: Bassvictim, Die drei ???, Tigers Jaw, Bladee, Ecco2k. Updated 2026-11-20 21:23 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
