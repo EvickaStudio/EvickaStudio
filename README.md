@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Alice — Bassvictim — Basspunk 2. Recently played: Alice, Lines, Why I Like The Robins, 7, Headliner. On repeat: White Flag, Jagódki (Blueberries), Morning Light, Jemma, Moth. Top artists: Bassvictim, Die drei ???, Tigers Jaw, Bladee, Ecco2k. Updated 2026-11-21 02:38 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Happysad — Bassvictim — PEACE + WAR. Recently played: Mummy Daddy, White Flag, Sky Burial, Morning Light, THE WAY HOME. On repeat: White Flag, Jagódki (Blueberries), Morning Light, Jemma, Moth. Top artists: Bassvictim, Die drei ???, Tigers Jaw, Bladee, Ecco2k. Updated 2026-11-21 10:12 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
