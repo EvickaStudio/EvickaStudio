@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Still Goin — Crim3s — Still Goin. Recently played: Still Goin, Maybach, i feel better in the night time, reason (feat. Noahh and Rosesleeves), Eiskalt. On repeat: Jagódki (Blueberries), White Flag, Morning Light, Jemma, Moth. Top artists: Bassvictim, Die drei ???, Tigers Jaw, Bladee, Ecco2k. Updated 2026-11-21 22:17 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Still Goin — Crim3s — Still Goin. Recently played: Still Goin, Maybach, i feel better in the night time, reason (feat. Noahh and Rosesleeves), Eiskalt. On repeat: Jagódki (Blueberries), White Flag, Morning Light, Jemma, Moth. Top artists: Bassvictim, Die drei ???, Tigers Jaw, Bladee, Ecco2k. Updated 2026-11-22 02:25 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
