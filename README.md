@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Another High — Snow Strippers — Night Killaz Vol. 1. Recently played: Another High, everything is scary, too abstract online persona, L-ON-D-ON, zyzz. On repeat: Jagódki (Blueberries), Morning Light, White Flag, Moth, LA. Top artists: Bassvictim, Die drei ???, Tigers Jaw, Bladee, Snow Strippers. Updated 2026-11-22 17:47 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: John Dee — Ghostemane — John Dee. Recently played: John Dee, Good Morning, Level 99, all my life, In deinen Augen ist ein Meer. On repeat: Jagódki (Blueberries), Morning Light, White Flag, Moth, LA. Top artists: Bassvictim, Die drei ???, Tigers Jaw, Bladee, Snow Strippers. Updated 2026-11-22 23:00 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
