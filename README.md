@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: NYUTH — The Truth — NYUTH. Recently played: NYUTH, Jedesmal, cute, Wenn die Sonne scheint, Ms. Jackson. On repeat: Jagódki (Blueberries), Morning Light, Moth, White Flag, LA. Top artists: Bassvictim, Die drei ???, Tigers Jaw, Bladee, Snow Strippers. Updated 2026-11-23 13:39 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Nite Walker — Sickboyrari — City Of Crows. Recently played: Nite Walker, Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard &amp; The Lizard Wizard), engel&gt;_&lt;, Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard &amp; The Lizard Wizard), Forever United / ICE-POP. On repeat: Morning Light, Jagódki (Blueberries), Moth, LA, White Flag. Top artists: Bassvictim, Die drei ???, Tigers Jaw, Bladee, Snow Strippers. Updated 2026-11-24 01:11 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
