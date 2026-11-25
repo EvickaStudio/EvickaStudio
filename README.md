@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: Ceremony — Skrillex, Yung Lean, Bladee — Don’t Get Too Close. Recently played: Ceremony, Doorman, I Think..., Amygdala, Spellbound. On repeat: Morning Light, White Flag, Moth, LA, everything is scary. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, Ecco2k. Updated 2026-11-25 03:55 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Suddenly — Kkoki — Suddenly. Recently played: Coming Around, Curls, Window, Green Green Grass Of Tunnel, Glósóli. On repeat: Morning Light, White Flag, Moth, LA, everything is scary. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, Ecco2k. Updated 2026-11-25 13:45 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
