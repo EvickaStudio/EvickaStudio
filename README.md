@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Yxguden — Evian Christ, Bladee — Revanchist. Recently played: Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard &amp; The Lizard Wizard), Pierrot, Kiss Me At Camp Crystal Lake, LA, Chrome Country. On repeat: Morning Light, White Flag, Moth, everything is scary, LA. Top artists: Bassvictim, Die drei ???, Tigers Jaw, Bladee, Ecco2k. Updated 2026-11-26 14:27 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: One In A Million — Bladee — Ste The Beautiful Martyr 1st Attempt. Recently played: One In A Million, Velociraptor, I AM SLOWLY BUT SURELY LOSING HOPE, Obedient, Magic Misery. On repeat: Morning Light, Moth, White Flag, everything is scary, Chrome Country. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, Ecco2k. Updated 2026-11-26 23:09 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
