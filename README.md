@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Suffocation — Crystal Castles — Crystal Castles (II). Recently played: Goth, Pueblo, SPIT IN MY FACE!, Take Me Home, Highway. On repeat: Morning Light, Moth, White Flag, everything is scary, Chrome Country. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, Ecco2k. Updated 2026-11-27 14:48 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: 175 B - Schattenwelt: Angriff in der Nacht - Teil 31 — Die drei ??? — 175/Schattenwelt. Recently played: 175 B - Schattenwelt: Angriff in der Nacht - Teil 31, 175 B - Schattenwelt: Angriff in der Nacht - Teil 30, 175 B - Schattenwelt: Angriff in der Nacht - Teil 29, 175 B - Schattenwelt: Angriff in der Nacht - Teil 28, 175 B - Schattenwelt: Angriff in der Nacht - Teil 27. On repeat: Morning Light, Moth, everything is scary, White Flag, Chrome Country. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, Ecco2k. Updated 2026-11-27 23:04 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
