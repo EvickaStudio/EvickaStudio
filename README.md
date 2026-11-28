@@ -53,7 +53,7 @@
 <a href="https://open.spotify.com/user/31xkpymn33fztnbr3qpmns7j3gaq">
 <picture>
 <source media="(max-width: 600px)" srcset="assets/generated/spotify-mobile.svg" />
-<img src="assets/generated/spotify.svg" alt="Spotify. Not playing right now. Last played: 175 B - Schattenwelt: Angriff in der Nacht - Teil 31 — Die drei ??? — 175/Schattenwelt. Recently played: 175 B - Schattenwelt: Angriff in der Nacht - Teil 31, 175 B - Schattenwelt: Angriff in der Nacht - Teil 30, 175 B - Schattenwelt: Angriff in der Nacht - Teil 29, 175 B - Schattenwelt: Angriff in der Nacht - Teil 28, 175 B - Schattenwelt: Angriff in der Nacht - Teil 27. On repeat: Morning Light, Moth, everything is scary, White Flag, Chrome Country. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, Ecco2k. Updated 2026-11-28 04:43 UTC." width="100%" />
+<img src="assets/generated/spotify.svg" alt="Spotify. Now playing: Experience — Ludovico Einaudi, Daniel Hope, I Virtuosi Italiani — In A Time Lapse. Recently played: Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard &amp; The Lizard Wizard), 175 B - Schattenwelt: Angriff in der Nacht - Teil 31, 175 B - Schattenwelt: Angriff in der Nacht - Teil 30, 175 B - Schattenwelt: Angriff in der Nacht - Teil 29, 175 B - Schattenwelt: Angriff in der Nacht - Teil 28. On repeat: Morning Light, Moth, everything is scary, White Flag, Chrome Country. Top artists: Bassvictim, Die drei ???, Bladee, Tigers Jaw, Ecco2k. Updated 2026-11-28 13:38 UTC." width="100%" />
 </picture>
 </a>
 <!-- SPOTIFY-END -->
